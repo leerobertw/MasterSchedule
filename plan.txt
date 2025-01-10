@@ -12,6 +12,7 @@ Fully process the Master Schedule into:
 - Name
 - Teacher(s)
 - Periods offered
+- Classification (CTE, English, etc.)
 
 4. Objects for each teacher
 - Name
