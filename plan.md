@@ -2,7 +2,8 @@ A planning document for stuff...
 
 1. Download the Master Schedule from the school website, upload here.
 
-Fully process the Master Schedule into:
+Fully process the Master Schedule into:                  
+                
 2. Objects for each class period.
 - Name
 - Teacher
