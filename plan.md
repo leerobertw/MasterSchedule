@@ -8,12 +8,15 @@ Fully process the Master Schedule into:
 - Name
 - Teacher
 - Period (1, 2, 3, 4, 5, 6, 7, 8 and anything else)
+- Classification (CTE, English, etc.)
+- Higher classification (AP, CE, Honors, None)
 
 3. Objects for each course.
 - Name
 - Teacher(s)
 - Periods offered
 - Classification (CTE, English, etc.)
+- Higher classification (AP, CE, Honors, None)
 
 4. Objects for each teacher
 - Name
