@@ -3,3 +3,5 @@ class Teacher:
         self.name = name
         self.courses = courses
         self.periods = periods
+    def __str__(self):
+        return f"{self.name} | {self.courses} | {self.periods}"
