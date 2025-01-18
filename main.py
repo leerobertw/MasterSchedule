@@ -22,6 +22,7 @@ If item 2 is the first period then the period for each item is its list position
 
 for row in rows:
     tempperiods = []
+    tempcourses = []
     for i in range(2, len(row)):
         period = Period(row[i], row[0], i-1, row[1], "classification", "hclass")
         tempperiods.append(period)
