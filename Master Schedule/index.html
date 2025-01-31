@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Master Schedule</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<header>
+    <h1>Master Schedule</h1>
+</header>
+<body>
+<main>
+    <p>Ever wondered which classes you can take next year? Want to know which classes you can take and which ones you can't?
+        Well, look no further! This website can help you figure out which classes you can take next year. To start,
+        please enter in classes you wish to take for the upcoming school year. Please note that this is not to schedule your classes,
+    but rather a tool to help you figure out your classes for next year. </p>
+    <div class="form">
+    <form>
+        <fieldset>
+            <label>Please enter the classes you wish to take next year.</label><br>
+            <label>A1: <input type="text" id="A1"></label><br>
+            <label>A2: <input type="text" id="A2"></label><br>
+            <label>A3: <input type="text" id="A3"></label><br>
+            <label>A4: <input type="text" id="A4"></label><br>
+            <label>B5: <input type="text" id="B5"></label><br>
+            <label>B6: <input type="text" id="B6"></label><br>
+            <label>B7: <input type="text" id="B7"></label><br>
+            <label>B8: <input type="text" id="B8"></label><br>
+            <label>Other: <input type="text" id="other"></label><br>
+            <button>Submit</button>
+        </fieldset>
+        </form>
+    </div>
+    <!--This section will be hidden until the user inputs the classes they want to take. I'll update this later when I get the
+    javascript/css up and running for the website. Also, the class information will be changed as needed, depending on what API the user
+    enters. Below are just placeholders for now.-->
+    <div id="schedule">
+        <h4 id="class_name">Name:</h4>
+        <h4 id="teachers">Teacher(s):</h4>
+        <h4 id="class_periods">Class Period(s):</h4>
+        <h4 id="categories">Category:</h4>
+        <h4 id="prerequisites">Prerequisites:</h4>
+        <h4>Ideal schedule for next year:</h4>
+        <ul>
+            <li id="first">A1</li>
+            <li id="second">A2</li>
+            <li id="third">A3</li>
+            <li id="fourth">A4</li>
+            <li id="fifth">B5</li>
+            <li id="sixth">B6</li>
+            <li id="seventh">B7</li>
+            <li id="eighth">B8</li>
+            <li id="other_classes">Other</li>
+        </ul>
+    </div>
+    <!--I'll try to add javascript to this later so this can stay up to date. All placeholders for now.-->
+    <h2>Arena scheduling for 2025-2026 Seniors opens on April 9, 2025 at 2:45 P.M.</h2>
+    <h2>Arena scheduling for 2025-2026 Juniors opens on April 16, 2025 at 2:45 P.M.</h2>
+    <h2>Arena scheduling for 2025-2026 Sophomores opens on April 23, 2025 at 2:45 P.M.</h2>
+    <p>If you have any questions, please talk to your counselor down in the counseling center. They're happy to help =)</p>
+</main>
+<script src="scripts.js" type="module"></script>
+<footer>
+    <p>To visit the official school website, click <a href='https://lphs.alpineschools.org/'>here</a></p>
+</footer>
+</body>
+</html>
