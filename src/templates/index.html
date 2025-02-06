@@ -1,1 +1,27 @@
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Master Scheduler Main Page</title>
+    <!--Files are connected with url_for in Flask. Other than that, I don't think there's many differences between normal HTML and this.-->
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+    <h1>Master Scheduler Home</h1>
+    <!--Copilot generated this portion, I will not delete it since it is a useful example.-->
+    <!--
+    <form action="{{ url_for('submit') }}" method="POST">
+        <label for="name">Name:</label>
+        <input type="text" id="name" name="name" required>
+        <br>
+        <label for="email">Email:</label>
+        <input type="text" id="email" name="email" required>
+        <br>
+        <button type="submit">Submit</button>
+    </form>
+    -->
+    <!--Again, files are connected with url_for in Flask. Other than that, I don't think there's many differences between normal HTML and this.-->
+    <script src="{{ url_for('static', filename='scripts.js') }}"></script>
+</body>
+</html>
