@@ -19,22 +19,19 @@
     <form>
         <fieldset>
             <label>Please enter the classes you wish to take next year.</label><br>
-            <label>A1: <input type="text" id="A1"></label><br>
-            <label>A2: <input type="text" id="A2"></label><br>
-            <label>A3: <input type="text" id="A3"></label><br>
-            <label>A4: <input type="text" id="A4"></label><br>
-            <label>B5: <input type="text" id="B5"></label><br>
-            <label>B6: <input type="text" id="B6"></label><br>
-            <label>B7: <input type="text" id="B7"></label><br>
-            <label>B8: <input type="text" id="B8"></label><br>
+            <label>A1: <input type="text" id="A1" required></label><br>
+            <label>A2: <input type="text" id="A2" required></label><br>
+            <label>A3: <input type="text" id="A3" required></label><br>
+            <label>A4: <input type="text" id="A4" required></label><br>
+            <label>B5: <input type="text" id="B5" required></label><br>
+            <label>B6: <input type="text" id="B6" required></label><br>
+            <label>B7: <input type="text" id="B7" required></label><br>
+            <label>B8: <input type="text" id="B8" required></label><br>
             <label>Other: <input type="text" id="other"></label><br>
             <button>Submit</button>
         </fieldset>
         </form>
     </div>
-    <!--This section will be hidden until the user inputs the classes they want to take. I'll update this later when I get the
-    javascript/css up and running for the website. Also, the class information will be changed as needed, depending on what classes the user
-    enters. Below are just placeholders for now.-->
     <div id="schedule">
         <h4 id="class_name">Name:</h4>
         <h4 id="teachers">Teacher(s):</h4>
@@ -58,9 +55,9 @@
     <h2>Arena scheduling for 2025-2026 Seniors opens on April 9, 2025 at 2:45 P.M.</h2>
     <h2>Arena scheduling for 2025-2026 Juniors opens on April 16, 2025 at 2:45 P.M.</h2>
     <h2>Arena scheduling for 2025-2026 Sophomores opens on April 23, 2025 at 2:45 P.M.</h2>
-    <p>If you have any questions, please talk to your counselor down in the counseling center. They're happy to help =)</p>
+    <p>If you have any questions, please talk to your counselor down in the counseling center. They're happy to help.</p>
 </main>
-<script src="{{ url_for('static', filename='scripts.css') }}" type="module"></script>
+<script src="{{ url_for('static', filename='scripts.js') }}" type="module"></script>
 <footer>
     <p>To visit the official school website, click <a href='https://lphs.alpineschools.org/'>here</a></p>
 </footer>

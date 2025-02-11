@@ -1,3 +1,5 @@
+//import {classes} from "../schedule.js". This is for whenever the JSON file is ready to go.
+
 //getting the information from the form
 let form = document.querySelector('#form');
 let A1 = document.querySelector('#A1');
