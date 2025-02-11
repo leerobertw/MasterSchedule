@@ -1,7 +1,6 @@
 from ortools.sat.python import cp_model
 import os
 
-
 def main():
     model = cp_model.CpModel()
     classes = ['science', 'math', 'english', 'astronomy']
