@@ -3,14 +3,15 @@ import os
 
 def main():
     model = cp_model.CpModel()
-    classes = ['science', 'math', 'english', 'astronomy']
-    teachers = ['x', 'y', 'z']
+    classes = ['science', 'math', 'english', 'astronomy', 'game development']
+    teachers = ['x', 'y', 'z', 'a']
     periods = 3
     cps = {
         'science': ('x', 2),
         'math': ('y', 2),
         'english': ('z', 1),
-        'astronomy': ('z', 1)
+        'astronomy': ('z', 1),
+        'game development': ('a', 2)
     }
 
     ppp = len(teachers) / periods
