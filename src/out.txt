@@ -1,1 +1,16 @@
-
+Solution suboptimality: 1.3333333333333333
+science is scheduled in period 0 taught by X
+science is scheduled in period 1 taught by X
+prep is scheduled in period 2 for X
+prep is scheduled in period 0 for Y
+math is scheduled in period 1 taught by Y
+math is scheduled in period 2 taught by Y
+english is scheduled in period 0 taught by Z
+prep is scheduled in period 1 for Z
+astronomy is scheduled in period 2 taught by Z
+english is scheduled in period 0 taught by Z
+prep is scheduled in period 1 for Z
+astronomy is scheduled in period 2 taught by Z
+game development is scheduled in period 0 taught by A
+game development is scheduled in period 1 taught by A
+prep is scheduled in period 2 for A

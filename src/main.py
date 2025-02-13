@@ -1,23 +1,16 @@
 from ortools.sat.python import cp_model
-import os
+import os, json
 
 def main():
     model = cp_model.CpModel()
-    classes = ['science', 'math', 'english', 'astronomy', 'game development']
-    teachers = ['x', 'y', 'z', 'a']
     periods = 3
-    cps = {
-        'science': ('x', 2),
-        'math': ('y', 2),
-        'english': ('z', 1),
-        'astronomy': ('z', 1),
-        'game development': ('a', 2)
-    }
+    cps = json.load(open("./src/data/classes.json", "r")) if os.path.isfile("./src/data/classes.json") else json.load(open("./data/classes.json", "r"))
+    teachers = [cps[cp][0] for cp in cps]
 
     ppp = len(teachers) / periods
     schedule = {}
 
-    for cls in classes:
+    for cls in cps:
         for p in range(periods):
             schedule[(cls, p)] = model.NewBoolVar(f'schedule_{cls}_{p}')
 
@@ -48,7 +41,7 @@ def main():
     solver = cp_model.CpSolver()
     status = solver.Solve(model)
 
-    out = "out.txt"
+    out = "./out.txt" if os.path.isfile("./out.txt") else "./src/out.txt"
     output = []
     unformatted = []
 
@@ -67,13 +60,11 @@ def main():
     td = sum(abs(solver.Value(prep_count[p]) - ppp) for p in range(periods))
 
     with open(out, 'w') as file:
-        file.write(f"Solution suboptimality: {td}\n")
-        file.write("\n".join(output))
-
-    for line in output:
-        print(line)
-    print(f"Solution suboptimality: {td}")
-
+        file.write(f"Solution suboptimality: {td}")
+        print(f"Solution suboptimality: {td}")
+        for line in output:
+            print(line)
+            file.write(f"\n{line}")
 
 if __name__ == '__main__':
     main()
