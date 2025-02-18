@@ -1,2 +1,0 @@
-Solution suboptimality: 1.3333333333333333
-science is scheduled in period 0 taught by Xscience is scheduled in period 1 taught by Xprep is scheduled in period 2 for Xprep is scheduled in period 0 for Ymath is scheduled in period 1 taught by Ymath is scheduled in period 2 taught by Yenglish is scheduled in period 0 taught by Zprep is scheduled in period 1 for Zastronomy is scheduled in period 2 taught by Zgame development is scheduled in period 0 taught by Agame development is scheduled in period 1 taught by Aprep is scheduled in period 2 for A

@@ -5,7 +5,7 @@ def main():
     model = cp_model.CpModel()
     periods = 3
     cps = json.load(open("./src/data/classes.json", "r")) if os.path.isfile("./src/data/classes.json") else json.load(open("./data/classes.json", "r"))
-    teachers = [cps[cp][0] for cp in cps]
+    teachers = list(set(cps[cp][0] for cp in cps))
 
     ppp = len(teachers) / periods
     schedule = {}
