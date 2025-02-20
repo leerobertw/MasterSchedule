@@ -1,31 +1,32 @@
 from ortools.sat.python import cp_model
-import os, json
+import os, json, ast
 
 def main():
     model = cp_model.CpModel()
     periods = 3
-    cps = json.load(open("./src/data/classes.json", "r")) if os.path.isfile("./src/data/classes.json") else json.load(open("./data/classes.json", "r"))
-    teachers = list(set(cps[cp][0] for cp in cps))
+    cps = json.load(open("./src/data/classesin.json", "r")) if os.path.isfile("./src/data/classesin.json") else json.load(open("./data/classesin.json", "r"))
+    cps = {ast.literal_eval(k): v for k, v in cps.items()}
+    teachers = list(set(teacher for _, teacher in cps))
 
     ppp = len(teachers) / periods
     schedule = {}
 
-    for cls in cps:
+    for (cls, teacher) in cps:
         for p in range(periods):
-            schedule[(cls, p)] = model.NewBoolVar(f'schedule_{cls}_{p}')
+            schedule[(cls, teacher, p)] = model.NewBoolVar(f'schedule_{cls}_{teacher}_{p}')
 
-    for cls in cps:
-        model.Add(sum(schedule[(cls, p)] for p in range(periods)) == cps[cls][1])
+    for (cls, teacher) in cps:
+        model.Add(sum(schedule[(cls, teacher, p)] for p in range(periods)) == cps[(cls, teacher)][1])
 
     for teacher in teachers:
         for p in range(periods):
-            model.Add(sum(schedule[(cls, p)] for cls in cps if cps[cls][0] == teacher) <= 1)
+            model.Add(sum(schedule[(cls, teacher, p)] for (cls, t) in cps if t == teacher) <= 1)
 
     prep = {}
     for teacher in teachers:
         for p in range(periods):
             prep[(teacher, p)] = model.NewBoolVar(f'prep_{teacher}_{p}')
-            model.Add(prep[(teacher, p)] == 1 - sum(schedule[(cls, p)] for cls in cps if cps[cls][0] == teacher))
+            model.Add(prep[(teacher, p)] == 1 - sum(schedule[(cls, teacher, p)] for (cls, t) in cps if t == teacher))
 
     prep_count = [model.NewIntVar(0, len(teachers), f'prep_count_{p}') for p in range(periods)]
     for p in range(periods):
@@ -37,7 +38,6 @@ def main():
         model.Add(deviation[p] >= int(ppp) - prep_count[p])
 
     model.Minimize(sum(deviation))
-
     solver = cp_model.CpSolver()
     status = solver.Solve(model)
 
@@ -46,9 +46,10 @@ def main():
     unformatted = []
 
     if status == cp_model.OPTIMAL or status == cp_model.FEASIBLE:
+        print(2)
         for teacher in teachers:
             for p in range(periods):
-                assigned_classes = [cls for cls in cps if cps[cls][0] == teacher and solver.Value(schedule[(cls, p)]) == 1]
+                assigned_classes = [cls for (cls, t) in cps if t == teacher and solver.Value(schedule[(cls, teacher, p)]) == 1]
                 if assigned_classes:
                     for cls in assigned_classes:
                         output.append(f'{cls} is scheduled in period {p} taught by {teacher.upper()}')
