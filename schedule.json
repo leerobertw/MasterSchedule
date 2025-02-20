@@ -236,5 +236,460 @@
     "room": "140",
     "periods": "A4, B6",
     "semesters": "1, 2"
+  },
+  {
+    "class_name": "Game Development Fundamentals 2",
+    "teacher" : "Lee",
+    "room": "140",
+    "periods": "B6",
+    "semesters": "2"
+  },
+  {
+    "class_name": "Advanced Computer Programming CE",
+    "teacher": "Lee",
+    "room": "140",
+    "periods": "B7",
+    "semesters": "Full year"
+  },
+  {
+    "class_name": "Algorithms & Data Structures CE",
+    "teacher": "Lee",
+    "room": "140",
+    "periods": "B8",
+    "semesters": "Full year"
+  },
+  {
+    "class_name": "Remote Info. Tech Classes",
+    "teacher": "Depends on the class",
+    "room": "140",
+    "periods": "B8",
+    "semesters": "1, 2, or full year"
+  },
+  {
+    "class_name": "Medical Forensics CE",
+    "teacher": "Mitchell",
+    "room": "224",
+    "periods": "A1, A2",
+    "semesters": "Full year"
+  },
+  {
+    "class_name": "Business Office Specialist CE",
+    "teacher": "Molen",
+    "room": "800",
+    "periods": "A1, A4",
+    "semesters": "1, 2"
+  },
+  {
+    "class_name": "Graphic Design/Digital Media",
+    "teacher": "Molen",
+    "room": "800",
+    "periods": "A1, A4, B8",
+    "semesters": "1, 2"
+  },
+  {
+    "class_name": "Digital Technology CE",
+    "teacher": "Molen",
+    "room": "800",
+    "periods": "A2, B6",
+    "semesters": "1, 2"
+  },
+  {
+    "class_name": "Business Management CE",
+    "teacher": "Molen",
+    "room": "800",
+    "periods": "A2, B8",
+    "semesters": "1, 2"
+  },
+  {
+    "class_name": "Web Development 2 CE",
+    "teacher": "Molen",
+    "room": "800",
+    "periods": "B5, B6",
+    "semesters": "1, 2"
+  },
+  {
+    "class_name": "Medical Anatomy & Physiology",
+    "teacher": "Paskett",
+    "room": "704",
+    "periods": "A1, A2",
+    "semesters": "Full year"
+  },
+  {
+    "class_name": "Emergency Medical Responder CE",
+    "teacher": "Paskett",
+    "room": "704",
+    "periods": "B6",
+    "semesters": "1"
+  },
+  {
+    "class_name": "Medical Case Studies CE",
+    "teacher": "Paskett",
+    "room": "704",
+    "periods": "B6",
+    "semesters": "2"
+  },
+  {
+    "class_name": "Engineering Principles 1",
+    "teacher": "Smith, Wesley",
+    "room": "238",
+    "periods": "A1, A3, A4",
+    "semesters": "1, 2"
+  },
+  {
+    "class_name": "Engineering Principles 2",
+    "teacher": "Smith, Wesley",
+    "room": "238",
+    "periods": "A3",
+    "semesters": "2"
+  },
+  {
+    "class_name": "Robotics 1",
+    "teacher": "Smith, Wesley",
+    "room": "238",
+    "periods": "A4, B6, B7. B8",
+    "semesters": "1, 2"
+  },
+  {
+    "class_name": "Robotics 2",
+    "teacher": "Smith, Wesley",
+    "room": "238",
+    "periods": "B6",
+    "semesters": "2"
+  },
+  {
+    "class_name": "Animal Science 1",
+    "teacher": "Spencer",
+    "room": "141",
+    "periods": "A1, A2, A3",
+    "semesters": "Full year"
+  },
+  {
+    "class_name": "Animal Science 2",
+    "teacher": "Spencer",
+    "room": "141",
+    "periods": "A4",
+    "semesters": "Full year"
+  },
+  {
+    "class_name": "Child Development",
+    "teacher": "Springer",
+    "room": "504",
+    "periods": "A1, B8",
+    "semesters": "1, 2"
+  },
+  {
+    "class_name": "Preschool (Early Childhood Education 1 & 3)",
+    "teacher": "Springer",
+    "room": "504",
+    "periods": "A2, A3, B6, B7",
+    "semesters": "1, 2"
+  },
+  {
+    "class_name": "Teaching K-12 Fall CE",
+    "teacher": "Springer",
+    "room": "504",
+    "periods": "B5",
+    "semesters": "1"
+  },
+  {
+    "class_name": "Teaching K-12 Spring CE",
+    "teacher": "Springer",
+    "room": "504",
+    "periods": "B5",
+    "semesters": "2"
+  },
+  {
+    "class_name": "Video Production 1",
+    "teacher": "Topham",
+    "room": "808",
+    "periods": "A1, B8",
+    "semesters": "1, 2"
+  },
+  {
+    "class_name": "Uknighted",
+    "teacher": "Topham",
+    "room": "808",
+    "periods": "A2",
+    "semesters": "Full year"
+  },
+  {
+    "class_name": "Video Capstone",
+    "teacher": "Topham",
+    "room": "808",
+    "periods": "A4",
+    "semesters": "Full year"
+  },
+  {
+    "class_name": "Lone Peak Live CE & Audio Productions 2",
+    "teacher": "Topham",
+    "room": "808",
+    "periods": "B7",
+    "semesters": "1, 2"
+  },
+  {
+    "class_name": "Audio Production 1",
+    "teacher": "Topham",
+    "room": "808",
+    "periods": "B8",
+    "semesters": "1"
+  },
+  {
+    "class_name": "Medical Anatomy & Physiology",
+    "teacher": "Van Woerkom",
+    "room": "704/802/603",
+    "periods": "A3, A4",
+    "semesters": "Full year"
+  },
+  {
+    "class_name": "Medical Terminology CE",
+    "teacher": "Van Woerkom",
+    "room": "704/802/603",
+    "periods": "B7, B8",
+    "semesters": "1"
+  },
+  {
+    "class_name": "Medical Case Studies",
+    "teacher": "Van Woerkom",
+    "room": "704/802/603",
+    "periods": "B7, B8",
+    "semesters": "2"
+  },
+  {
+    "class_name": "Internship",
+    "teacher": "Whatcott",
+    "room": "506",
+    "periods": "A1, A2, A3, A4, B5, B6, B7, B8",
+    "semesters": "1, 2"
+  },
+  {
+    "class_name": "English 10",
+    "teacher": "Carpenter",
+    "room": "614",
+    "periods": "A1, A4, B5, B7, B8",
+    "semesters": "Full year"
+  },
+  {
+    "class_name": "Accelerated Reading",
+    "teacher": "Carpenter",
+    "room": "614",
+    "periods": "A3",
+    "semesters": "1, 2"
+  },
+  {
+    "class_name": "Script Writing",
+    "teacher": "Cox, C.",
+    "room": "106/Auditorium",
+    "periods": "A2",
+    "semesters": "1, 2"
+  },
+  {
+    "class_name": "English 10",
+    "teacher": "Craft",
+    "room": "212",
+    "periods": "A2, A3, B6",
+    "semesters": "Full year"
+  },
+  {
+    "class_name": "Humanities",
+    "teacher": "Craft",
+    "room": "212",
+    "periods": "B7",
+    "semesters": "1, 2"
+  },
+  {
+    "class_name": "English 1010 CE",
+    "teacher": "Dulong",
+    "room": "223",
+    "periods": "A1, A3, B5, B8",
+    "semesters": "1"
+  },
+  {
+    "class_name": "English 2010 CE",
+    "teacher": "Dulong",
+    "room": "223",
+    "periods": "A1, A3, B5, B8",
+    "semesters": "2"
+  },
+  {
+    "class_name": "English 10 Honors",
+    "teacher": "Dulong",
+    "room": "223",
+    "periods": "B6, B7",
+    "semesters": "Full year"
+  },
+  {
+    "class_name": "Sci Fi/Fantasy",
+    "teacher": "Dulong",
+    "room": "223",
+    "periods": "A4",
+    "semesters": "1, 2"
+  },
+  {
+    "class_name": "English 11",
+    "teacher": "Haynie",
+    "room": "613",
+    "periods": "A1, A2, A3, A4",
+    "semesters": "Full year"
+  },
+  {
+    "class_name": "AP English Literature",
+    "teacher": "Haynie",
+    "room": "613",
+    "periods": "B5, B6, B7",
+    "semesters": "Full year"
+  },
+  {
+    "class_name": "English 10 Honors",
+    "teacher": "Jarvie",
+    "room": "609",
+    "periods": "A1, A2, A4",
+    "semesters": "Full year"
+  },
+  {
+    "class_name": "English 11",
+    "teacher": "Jarvie",
+    "room": "609",
+    "periods": "B5, B7, B8",
+    "semesters": "Full year"
+  },
+  {
+    "class_name": "Film Literature",
+    "teacher": "Jaynes",
+    "room": "214",
+    "periods": "A1, A2",
+    "semesters": "1, 2"
+  },
+  {
+    "class_name": "Popular Literature",
+    "teacher": "Jaynes",
+    "room": "214",
+    "periods": "A3",
+    "semesters": "1, 2"
+  },
+  {
+    "class_name": "English 11",
+    "teacher": "Jaynes",
+    "room": "214",
+    "periods": "B6, B7",
+    "semesters": "Full year"
+  },
+  {
+    "class_name": "English 11",
+    "teacher": "McPherson",
+    "room": "610",
+    "periods": "A1",
+    "semesters": "Full year"
+  },
+  {
+    "class_name": "English Essentials",
+    "teacher": "McPherson",
+    "room": "610",
+    "periods": "A2, A3",
+    "semesters": "1, 2"
+  },
+  {
+    "class_name": "Ancient Mythology",
+    "teacher": "McPherson",
+    "room": "610",
+    "periods": "B6, B7",
+    "semesters": "1"
+  },
+  {
+    "class_name": "Modern Mythology",
+    "teacher": "McPherson",
+    "room": "610",
+    "periods": "B6. B7",
+    "semesters": "2"
+  },
+  {
+    "class_name": "English 12",
+    "teacher": "Nelson",
+    "room": "221",
+    "periods": "A1, A2, A3, A4",
+    "semesters": "Full year"
+  },
+  {
+    "class_name": "Creative Writing 1",
+    "teacher": "Nelson",
+    "room": "221",
+    "periods": "B6, B7, B8",
+    "semesters": "1"
+  },
+  {
+    "class_name": "Creative Writing 2",
+    "teacher": "Nelson",
+    "room": "221",
+    "periods": "B6, B7, B8",
+    "semesters": "2"
+  },
+  {
+    "class_name": "English 10",
+    "teacher": "Nielson",
+    "room": "612",
+    "periods": "A1, A2, A3, A4",
+    "semesters": "Full year"
+  },
+  {
+    "class_name": "American Studies",
+    "teacher": "Omer, R.",
+    "room": "133/212",
+    "periods": "A2/B6, A3/B7",
+    "semesters": "Full year"
+  },
+  {
+    "class_name": "English 11 Honors",
+    "teacher": "Omer, R.",
+    "room": "133/212",
+    "periods": "A4, B5",
+    "semesters": "Full year"
+  },
+  {
+    "class_name": "AP English Language",
+    "teacher": "Rees",
+    "room": "611",
+    "periods": "A1, A2, A3, A4",
+    "semesters": "Full year"
+  },
+  {
+    "class_name": "English 11 Honors",
+    "teacher": "Rees",
+    "room": "611",
+    "periods": "B5, B6",
+    "semesters": "Full year"
+  },
+  {
+    "class_name": "English 11",
+    "teacher": "Smith, Cassidy",
+    "room": "215",
+    "periods": "A2, A3, A4",
+    "semesters": "Full year"
+  },
+  {
+    "class_name": "English 10",
+    "teacher": "Smith, Cassidy",
+    "room": "215",
+    "periods": "B6, B7, B8",
+    "semesters": "Full year"
+  },
+  {
+    "class_name": "English 11",
+    "teacher": "Walker, M.",
+    "room": "608",
+    "periods": "A1, A2, B5, B6, B7",
+    "semesters": "Full year"
+  },
+  {
+    "class_name": "Debate",
+    "teacher": "Walker, M.",
+    "room": "608",
+    "periods": "A3, A4",
+    "semesters": "Full year"
+  },
+  {
+    "class_name": "English 10",
+    "teacher": "Wily",
+    "room": "612",
+    "periods": "B5, B7, B8",
+    "semesters": "Full year"
   }
 ]
