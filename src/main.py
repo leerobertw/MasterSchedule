@@ -3,11 +3,10 @@ import os, json, ast
 
 def main():
     model = cp_model.CpModel()
-    periods = 3
+    periods = 8
     cps = json.load(open("./src/data/classesin.json", "r")) if os.path.isfile("./src/data/classesin.json") else json.load(open("./data/classesin.json", "r"))
     cps = {ast.literal_eval(k): v for k, v in cps.items()}
     teachers = list(set(teacher for _, teacher in cps))
-
     ppp = len(teachers) / periods
     schedule = {}
 
@@ -46,7 +45,6 @@ def main():
     unformatted = []
 
     if status == cp_model.OPTIMAL or status == cp_model.FEASIBLE:
-        print(2)
         for teacher in teachers:
             for p in range(periods):
                 assigned_classes = [cls for (cls, t) in cps if t == teacher and solver.Value(schedule[(cls, teacher, p)]) == 1]
