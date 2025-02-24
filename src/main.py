@@ -40,9 +40,10 @@ def main():
     solver = cp_model.CpSolver()
     status = solver.Solve(model)
 
-    out = "./out.txt" if os.path.isfile("./out.txt") else "./src/out.txt"
+    out = "./data/out.txt" if os.path.isfile("./data/out.txt") else "./src/data/out.txt"
+    outjson = "./data/classesout.json" if os.path.isfile("./data/classesout.json") else "./src/data/classesout.json"
     output = []
-    unformatted = []
+    outputjson = {"classes":[]}
 
     if status == cp_model.OPTIMAL or status == cp_model.FEASIBLE:
         for teacher in teachers:
@@ -51,19 +52,20 @@ def main():
                 if assigned_classes:
                     for cls in assigned_classes:
                         output.append(f'{cls} is scheduled in period {p} taught by {teacher.upper()}')
-                        unformatted.append((cls, p, teacher.upper()))
+                        outputjson["classes"].append([cls, p, teacher.upper()])
                 else:
                     output.append(f'prep is scheduled in period {p} for {teacher.upper()}')
-                    unformatted.append(('prep', p, teacher.upper()))
+                    outputjson["classes"].append(["Prep", p, teacher.upper()])
 
     td = sum(abs(solver.Value(prep_count[p]) - ppp) for p in range(periods))
 
     with open(out, 'w') as file:
         file.write(f"Solution suboptimality: {td}")
-        print(f"Solution suboptimality: {td}")
         for line in output:
-            print(line)
             file.write(f"\n{line}")
+
+    with open(outjson, 'w') as file:
+        json.dump(outputjson, file, indent=4)
 
 if __name__ == '__main__':
     main()
