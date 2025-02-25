@@ -1,0 +1,1010 @@
+[
+  {
+    "class_name": "Interior Design 1",
+    "teacher(s)": "Broadbent",
+    "room": "213",
+    "periods": "B5, B7",
+    "semesters": "1, 2"
+  },
+  {
+    "class_name": "Interior Design 2",
+    "teacher(s)": "Broadbent",
+    "room": "213",
+    "periods": "B7",
+    "semesters": "2"
+  },
+  {
+    "class_name": "Interior Design 3",
+    "teacher(s)": "Broadbent",
+    "room": "213",
+    "periods": "B8",
+    "semesters": "1"
+  },
+  {
+    "class_name": "Sports Medicine CE",
+    "teacher(s)": "Bryan",
+    "room": "116",
+    "periods": "A2, A3, B5",
+    "semesters": "Full year"
+  },
+  {
+    "class_name": "Athletic Training Practicum",
+    "teacher(s)": "Bryan",
+    "room": "116",
+    "periods": "A4, B8",
+    "semesters": "Full year"
+  },
+  {
+    "class_name": "Intro to Physical Therapy",
+    "teacher(s)": "Bryan",
+    "room": "116",
+    "periods": "B7",
+    "semesters": "Full year"
+  },
+  {
+    "class_name": "Building Construction CE",
+    "teacher(s)": "Burdett",
+    "room": "Off campus",
+    "periods": "A1, A2, A3, A4, B5, B6, B7, B8",
+    "semesters": "Full year"
+  },
+  {
+    "class_name": "Foundations of Nutrition CE",
+    "teacher(s)": "Burnett",
+    "room": "117",
+    "periods": "A1, B5",
+    "semesters": "1, 2"
+  },
+  {
+    "class_name": "Emergency Medical Responder CE",
+    "teacher(s)": "Burnett",
+    "room": "117",
+    "periods": "B7, B8",
+    "semesters": "1, 2"
+  },
+  {
+    "class_name": "Culinary Basics",
+    "teacher(s)": "B. Cox",
+    "room": "507",
+    "periods": "A1, A2, A4",
+    "semesters": "1, 2"
+  },
+  {
+    "class_name": "Baking & Pastry",
+    "teacher(s)": "B. Cox",
+    "room": "507",
+    "periods": "B5",
+    "semesters": "1, 2"
+  },
+  {
+    "class_name": "Advanced Culinary CE",
+    "teacher(s)": "B. Cox",
+    "room": "507",
+    "periods": "B6, B7",
+    "semesters": "Full year"
+  },
+  {
+    "class_name": "Accounting 1",
+    "teacher(s)": "Day",
+    "room": "802",
+    "periods": "A2, A3",
+    "semesters": "1, 2"
+  },
+  {
+    "class_name": "Accounting 2",
+    "teacher(s)": "Day",
+    "room": "802",
+    "periods": "A2",
+    "semesters": "2"
+  },
+  {
+    "class_name": "Entrepreneurship",
+    "teacher(s)": "Day",
+    "room": "802",
+    "periods": "A4",
+    "semesters": "1, 2"
+  },
+  {
+    "class_name": "Video Editing",
+    "teacher(s)": "Durrant",
+    "room": "234",
+    "periods": "A1, A3",
+    "semesters": "1, 2"
+  },
+  {
+    "class_name": "Broadcasting 1",
+    "teacher(s)": "Durrant",
+    "room": "234",
+    "periods": "A2, A4",
+    "semesters": "1, 2"
+  },
+  {
+    "class_name": "Video Cinematography",
+    "teacher(s)": "Durrant",
+    "room": "234",
+    "periods": "B5",
+    "semesters": "1, 2"
+  },
+  {
+    "class_name": "Commercial Photo 1",
+    "teacher(s)": "Gibby",
+    "room": "308",
+    "periods": "B5, B7, B8",
+    "semesters": "1, 2"
+  },
+  {
+    "class_name": "Commercial Photo 2",
+    "teacher(s)": "Gibby",
+    "room": "308",
+    "periods": "B5",
+    "semesters": "2"
+  },
+  {
+    "class_name": "Yearbook",
+    "teacher(s)": "Gibby",
+    "room": "308",
+    "periods": "B6",
+    "semesters": "Full year"
+  },
+  {
+    "class_name": "Design Sewing 1 & 2",
+    "teacher(s)": "Harlow",
+    "room": "713", 
+    "periods": "A1",
+    "semesters": "1"
+  },
+  {
+    "class_name": "Sports & Outdoor Design 1",
+    "teacher(s)": "Harlow",
+    "room": "713",
+    "periods": "A1, A3, A4",
+    "semesters": "2"
+  },
+  {
+    "class_name": "Law Enforcement",
+    "teacher(s)": "Hunt",
+    "room": "213",
+    "periods": "A2, A3",
+    "semesters": "1, 2"
+  },
+  {
+    "class_name": "Adv. Floral Design",
+    "teacher(s)": "Jensen",
+    "room": "806",
+    "periods": "A1, B8",
+    "semesters": "1, 2"
+  },
+  {
+    "class_name": "Floral Design 1",
+    "teacher(s)": "Davenport, Jensen",
+    "room": "806",
+    "periods": "Davenport: B7. Jensen: A3, A4, B5.",
+    "semesters": "1, 2"
+  },
+  {
+    "class_name": "Landscape Management",
+    "teacher(s)": "Jensen",
+    "room": "806",
+    "periods": "A3",
+    "semesters": "2"
+  },
+  {
+    "class_name": "Greenhouse Management",
+    "teacher(s)": "Jensen",
+    "room": "806",
+    "periods": "A1, A4",
+    "semesters": "2"
+  },
+  {
+    "class_name": "Plant & Soil Science 1",
+    "teacher(s)": "Jensen",
+    "room": "806",
+    "periods": "B6",
+    "semesters": "Full year"
+  },
+  {
+    "class_name": "Computer Programming 1 & 2 CE",
+    "teacher(s)": "Lee",
+    "room": "140",
+    "periods": "A1, A3, B5",
+    "semesters": "Full year"
+  },
+  {
+    "class_name": "Game Development Fundamentals 1",
+    "teacher(s)": "Lee",
+    "room": "140",
+    "periods": "A4, B6",
+    "semesters": "1, 2"
+  },
+  {
+    "class_name": "Game Development Fundamentals 2",
+    "teacher(s)" : "Lee",
+    "room": "140",
+    "periods": "B6",
+    "semesters": "2"
+  },
+  {
+    "class_name": "Advanced Computer Programming CE",
+    "teacher(s)": "Lee",
+    "room": "140",
+    "periods": "B7",
+    "semesters": "Full year"
+  },
+  {
+    "class_name": "Algorithms & Data Structures CE",
+    "teacher(s)": "Lee",
+    "room": "140",
+    "periods": "B8",
+    "semesters": "Full year"
+  },
+  {
+    "class_name": "Remote Info. Tech Classes",
+    "teacher(s)": "Depends on the class",
+    "room": "140",
+    "periods": "B8",
+    "semesters": "1, 2, or full year"
+  },
+  {
+    "class_name": "Medical Forensics CE",
+    "teacher(s)": "Mitchell",
+    "room": "224",
+    "periods": "A1, A2",
+    "semesters": "Full year"
+  },
+  {
+    "class_name": "Business Office Specialist CE",
+    "teacher(s)": "Molen",
+    "room": "800",
+    "periods": "A1, A4",
+    "semesters": "1, 2"
+  },
+  {
+    "class_name": "Graphic Design/Digital Media",
+    "teacher(s)": "Molen",
+    "room": "800",
+    "periods": "A1, A4, B8",
+    "semesters": "1, 2"
+  },
+  {
+    "class_name": "Digital Technology CE",
+    "teacher(s)": "Molen",
+    "room": "800",
+    "periods": "A2, B6",
+    "semesters": "1, 2"
+  },
+  {
+    "class_name": "Business Management CE",
+    "teacher(s)": "Molen",
+    "room": "800",
+    "periods": "A2, B8",
+    "semesters": "1, 2"
+  },
+  {
+    "class_name": "Web Development 2 CE",
+    "teacher(s)": "Molen",
+    "room": "800",
+    "periods": "B5, B6",
+    "semesters": "1, 2"
+  },
+  {
+    "class_name": "Medical Anatomy & Physiology",
+    "teacher(s)": "Paskett, Van Woerkom",
+    "room": "Paskett: 704. Van Woerkcom: 704/802/603.",
+    "periods": "Paskett: A1, A2. Van Woerkom: A3, A4.",
+    "semesters": "Full year"
+  },
+  {
+    "class_name": "Emergency Medical Responder CE",
+    "teacher(s)": "Paskett",
+    "room": "704",
+    "periods": "B6",
+    "semesters": "1"
+  },
+  {
+    "class_name": "Engineering Principles 1",
+    "teacher(s)": "Smith, Wesley",
+    "room": "238",
+    "periods": "A1, A3, A4",
+    "semesters": "1, 2"
+  },
+  {
+    "class_name": "Engineering Principles 2",
+    "teacher(s)": "Smith, Wesley",
+    "room": "238",
+    "periods": "A3",
+    "semesters": "2"
+  },
+  {
+    "class_name": "Robotics 1",
+    "teacher(s)": "Smith, Wesley",
+    "room": "238",
+    "periods": "A4, B6, B7. B8",
+    "semesters": "1, 2"
+  },
+  {
+    "class_name": "Robotics 2",
+    "teacher(s)": "Smith, Wesley",
+    "room": "238",
+    "periods": "B6",
+    "semesters": "2"
+  },
+  {
+    "class_name": "Animal Science 1",
+    "teacher(s)": "Spencer",
+    "room": "141",
+    "periods": "A1, A2, A3",
+    "semesters": "Full year"
+  },
+  {
+    "class_name": "Animal Science 2",
+    "teacher(s)": "Spencer",
+    "room": "141",
+    "periods": "A4",
+    "semesters": "Full year"
+  },
+  {
+    "class_name": "Child Development",
+    "teacher(s)": "Springer",
+    "room": "504",
+    "periods": "A1, B8",
+    "semesters": "1, 2"
+  },
+  {
+    "class_name": "Preschool (Early Childhood Education 1 & 3)",
+    "teacher(s)": "Springer",
+    "room": "504",
+    "periods": "A2, A3, B6, B7",
+    "semesters": "1, 2"
+  },
+  {
+    "class_name": "Teaching K-12 Fall CE",
+    "teacher(s)": "Springer",
+    "room": "504",
+    "periods": "B5",
+    "semesters": "1"
+  },
+  {
+    "class_name": "Teaching K-12 Spring CE",
+    "teacher(s)": "Springer",
+    "room": "504",
+    "periods": "B5",
+    "semesters": "2"
+  },
+  {
+    "class_name": "Video Production 1",
+    "teacher(s)": "Topham",
+    "room": "808",
+    "periods": "A1, B8",
+    "semesters": "1, 2"
+  },
+  {
+    "class_name": "Uknighted",
+    "teacher(s)": "Durrant, Topham",
+    "room": "Durrant: 234. Topham: 808.",
+    "periods": "Durrant: B6. Topham: A2.",
+    "semesters": "Full year"
+  },
+  {
+    "class_name": "Video Capstone",
+    "teacher(s)": "Topham",
+    "room": "808",
+    "periods": "A4",
+    "semesters": "Full year"
+  },
+  {
+    "class_name": "Lone Peak Live CE & Audio Productions 2",
+    "teacher(s)": "Durrant, Topham",
+    "room": "Durrant: 234. Topham: 808.",
+    "periods": "B7",
+    "semesters": "1, 2"
+  },
+  {
+    "class_name": "Audio Production 1",
+    "teacher(s)": "Topham",
+    "room": "808",
+    "periods": "B8",
+    "semesters": "1"
+  },
+  {
+    "class_name": "Medical Terminology CE",
+    "teacher(s)": "Paskett, Van Woerkom",
+    "room": "Paskett: 704. Van Woerkom: 704/802/603",
+    "periods": "Paskett: B6. Van Woerkom: B7, B8.",
+    "semesters": "1, 2"
+  },
+  {
+    "class_name": "Medical Case Studies",
+    "teacher(s)": "Van Woerkom",
+    "room": "704/802/603",
+    "periods": "B7, B8",
+    "semesters": "2"
+  },
+  {
+    "class_name": "Internship",
+    "teacher(s)": "Whatcott",
+    "room": "506",
+    "periods": "A1, A2, A3, A4, B5, B6, B7, B8",
+    "semesters": "1, 2"
+  },
+  {
+    "class_name": "English 10",
+    "teacher(s)": "Carpenter, Craft, Nielson, Smith, Wily",
+    "room": "Carpenter: 614. Craft: 212. Nielson: 612. Smith: 215. Wily: 612.",
+    "periods": "Carpenter: A1, A4, B5, B7. Craft: A2, A3, B6. Nielson: A1, A2, A3, A4. Smith: B6, B7, B8. Wily: B5, B7, B8.",
+    "semesters": "Full year"
+  },
+  {
+    "class_name": "Accelerated Reading",
+    "teacher(s)": "Carpenter",
+    "room": "614",
+    "periods": "A3",
+    "semesters": "1, 2"
+  },
+  {
+    "class_name": "Script Writing",
+    "teacher(s)": "Cox, C.",
+    "room": "106/Auditorium",
+    "periods": "A2",
+    "semesters": "1, 2"
+  },
+  {
+    "class_name": "Humanities",
+    "teacher(s)": "Craft",
+    "room": "212",
+    "periods": "B7",
+    "semesters": "1, 2"
+  },
+  {
+    "class_name": "English 1010 CE",
+    "teacher(s)": "Dulong",
+    "room": "223",
+    "periods": "A1, A3, B5, B8",
+    "semesters": "1"
+  },
+  {
+    "class_name": "English 2010 CE",
+    "teacher(s)": "Dulong",
+    "room": "223",
+    "periods": "A1, A3, B5, B8",
+    "semesters": "2"
+  },
+  {
+    "class_name": "English 10 Honors",
+    "teacher(s)": "Dulong, Jarvie",
+    "room": "Dulong: 223. Jarvie: 609",
+    "periods": "Dulong: B6, B7. Jarvie: A1, A2, A4.",
+    "semesters": "Full year"
+  },
+  {
+    "class_name": "Sci Fi/Fantasy",
+    "teacher(s)": "Dulong",
+    "room": "223",
+    "periods": "A4",
+    "semesters": "1, 2"
+  },
+  {
+    "class_name": "English 11",
+    "teacher(s)": "Haynie, Jarvie, Jaynes, Mcpherson, Smith (Cassidy), Walker",
+    "room": "Haynie: 613. Jarvie: 609. Jaynes: 214. McPherson: 610. Smith (Cassidy): 215. Walker: 608.",
+    "periods": "Haynie: A1, A2, A3, A4. Jarvie: B5, B7, B8. Jaynes: B6, B7. McPherson: A1. Smith: A2, A3, A4. Walker: A1, A2, B5, B6, B7.",
+    "semesters": "Full year"
+  },
+  {
+    "class_name": "AP English Literature",
+    "teacher(s)": "Haynie, Rees",
+    "room": "Haynie: 613. Rees: 611.",
+    "periods": "Haynie: B5, B6, B7. Rees: A1, A2, A3, A4.",
+    "semesters": "Full year"
+  },
+  {
+    "class_name": "Film Literature",
+    "teacher(s)": "Jaynes",
+    "room": "214",
+    "periods": "A1, A2",
+    "semesters": "1, 2"
+  },
+  {
+    "class_name": "Popular Literature",
+    "teacher(s)": "Jaynes",
+    "room": "214",
+    "periods": "A3",
+    "semesters": "1, 2"
+  },
+  {
+    "class_name": "English Essentials",
+    "teacher(s)": "McPherson",
+    "room": "610",
+    "periods": "A2, A3",
+    "semesters": "1, 2"
+  },
+  {
+    "class_name": "Ancient Mythology",
+    "teacher(s)": "McPherson",
+    "room": "610",
+    "periods": "B6, B7",
+    "semesters": "1"
+  },
+  {
+    "class_name": "Modern Mythology",
+    "teacher(s)": "McPherson",
+    "room": "610",
+    "periods": "B6. B7",
+    "semesters": "2"
+  },
+  {
+    "class_name": "English 12",
+    "teacher(s)": "Nelson",
+    "room": "221",
+    "periods": "A1, A2, A3, A4",
+    "semesters": "Full year"
+  },
+  {
+    "class_name": "Creative Writing 1",
+    "teacher(s)": "Nelson",
+    "room": "221",
+    "periods": "B6, B7, B8",
+    "semesters": "1"
+  },
+  {
+    "class_name": "Creative Writing 2",
+    "teacher(s)": "Nelson",
+    "room": "221",
+    "periods": "B6, B7, B8",
+    "semesters": "2"
+  },
+  {
+    "class_name": "American Studies",
+    "teacher(s)": "Omer, R.",
+    "room": "133/212",
+    "periods": "A2/B6, A3/B7",
+    "semesters": "Full year"
+  },
+  {
+    "class_name": "English 11 Honors",
+    "teacher(s)": "Omer, R., Rees.",
+    "room": "Omer, R.: 133/212. Rees: 611.",
+    "periods": "Omer, R.: A4, B5. Rees: B5, B6.",
+    "semesters": "Full year"
+  },
+  {
+    "class_name": "Debate",
+    "teacher(s)": "Walker, M.",
+    "room": "608",
+    "periods": "A3, A4",
+    "semesters": "Full year"
+  },
+  {
+    "class_name": "Study Hall",
+    "teacher(s)": "Berry",
+    "room": "603",
+    "periods": "A1, B5, B6, B7, B8",
+    "semesters": "1, 2"
+  },
+  {
+    "class_name": "Digital Curriculum",
+    "teacher(s)": "Brinkerhoff, L.",
+    "room": "217",
+    "periods": "A1, A2, A3, A4, B5, B6, B7, B8",
+    "semesters": "1, 2"
+  },
+  {
+    "class_name": "Student Government",
+    "teacher(s)": "Burnett, Cox, B., Hurtt, Topham, Wawro",
+    "room": "Burnett: 117. Cox, B.: 507. Hurtt: 118. Topham: 808. Wawro: 602.",
+    "periods": "All teachers: A3",
+    "semesters": "Full year"
+  },
+  {
+    "class_name": "Cheer Team",
+    "teacher(s)": "Burnett",
+    "room": "117",
+    "periods": "A4",
+    "semesters": "Full year"
+  },
+  {
+    "class_name": "Stage Crew",
+    "teacher(s)": "Cox, C.",
+    "room": "106/Auditorium",
+    "periods": "B7",
+    "semesters": "Full year"
+  },
+  {
+    "class_name": "Social Dance/Ballroom",
+    "teacher(s)": "Dilello",
+    "room": "109",
+    "periods": "B7",
+    "semesters": "2"
+  },
+  {
+    "class_name": "Financial Literacy CE",
+    "teacher(s)": "Flood, Voorheis",
+    "room": "Flood: 909. Voorheis: 703.",
+    "periods": "Flood: A1, A3, A4, B5, B6, B7, B8. Voorheis: A1, A2, A4.",
+    "semesters": "1, 2"
+  },
+  {
+    "class_name": "Color Guard (sem 1), Winter Guard (sem 2)",
+    "teacher(s)": "Grass",
+    "room": "Black Gym",
+    "periods": "0 per. A days",
+    "semesters": "1, 2"
+  },
+  {
+    "class_name": "People of the Pacific",
+    "teacher(s)": "Ika",
+    "room": "122",
+    "periods": "B6",
+    "semesters": "1, 2"
+  },
+  {
+    "class_name": "Chevaliers-Drill Team",
+    "teacher(s)": "Murphy, Nilson",
+    "room": "Maroon Gym",
+    "periods": "A1",
+    "semesters": "Full year"
+  },
+  {
+    "class_name": "Study Hall",
+    "teacher(s)": "Nilson, Van Woerkom",
+    "room": "Nilson: Maroon Gym. Van Woerkom: 704/802/603",
+    "periods": "Nilson: A3. Van Woerkom: A2, B6",
+    "semesters": "1, 2"
+  },
+  {
+    "class_name": "College/AP Study Hall",
+    "teacher(s)": "Paxton",
+    "room": "912",
+    "periods": "A1",
+    "semesters": "1, 2"
+  },
+  {
+    "class_name": "English Language Development",
+    "teacher(s)": "Smith (Calvin)",
+    "room": "705/Off Campus",
+    "periods": "A1",
+    "semesters": "1, 2"
+  },
+  {
+    "class_name": "UVU Live Interactive",
+    "teacher(s)": "Winn",
+    "room": "710/712",
+    "periods": "A1, A2, A3, A4, B5, B6, B7, B8",
+    "semesters": "1, 2"
+  },
+  {
+    "class_name": "Peer Tutor",
+    "teacher(s)": "Various Teachers",
+    "room": "Depends on the teacher",
+    "periods": "A1, A2, A3, A4, B5, B6, B7, B8",
+    "semesters": "1, 2"
+  },
+  {
+    "class_name": "Teacher Aide",
+    "teacher(s)": "Various Teachers",
+    "room": "Depends on the teacher",
+    "periods": "A1, A2, A3, A4, B5, B6, B7, B8",
+    "semesters": "1, 2"
+  },
+  {
+    "class_name": "Seminary",
+    "teacher(s)": "Seminary Faculty",
+    "room": "Seminary Building",
+    "periods": "0 per. A & B days, A1, A2, A3, A4, B5, B6, B7, B8",
+    "semesters": "1, 2"
+  },
+  {
+    "class_name": "History of Rock & Roll CE",
+    "teacher(s)": "Banks, Hope",
+    "room": "Banks: 919. Hope: 100/104/106.",
+    "periods": "Banks: A2, A4. Hope: B5, B6.",
+    "semesters": "1, 2"
+  },
+  {
+    "class_name": "Painting 1",
+    "teacher(s)": "Braun, Field",
+    "room": "Braun: 306. Field: 716.",
+    "periods": "Braun: A2, A4. Field: A1, A3, A4",
+    "semesters": "1, 2"
+  },
+  {
+    "class_name": "Painting 2",
+    "teacher(s)": "Braun, Omer, M.",
+    "room": "Braun: 306. Omer, M.: 715",
+    "periods": "Braun: A3. Omer, M.: A1",
+    "semesters": "1, 2"
+  },
+  {
+    "class_name": "Illustration",
+    "teacher(s)": "Braun",
+    "room": "306",
+    "periods": "B5",
+    "semesters": "1, 2"
+  },
+  {
+    "class_name": "Drawing 1",
+    "teacher(s)": "Braun, Omer, M., Pack",
+    "room": "Braun: 306. Omer, M.: 715. Pack: 236/715",
+    "periods": "Braun: B6, B8. Omer, M.: B5, B6. Pack: A3, B7, B8",
+    "semesters": "1, 2"
+  },
+  {
+    "class_name": "Art Honors",
+    "teacher(s)": "Braun",
+    "room": "306",
+    "periods": "B7",
+    "semesters": "Full year"
+  },
+  {
+    "class_name": "Motion Picture",
+    "teacher(s)": "Cox, C.",
+    "room": "106/Auditorium",
+    "periods": "A1, B5",
+    "semesters": "1, 2"
+  },
+  {
+    "class_name": "Musical Theater",
+    "teacher(s)": "Cox, C., Powell",
+    "room": "Cox, C.: 106/Auditorium. Powell: 102.",
+    "periods": "A4",
+    "semesters": "1"
+  },
+  {
+    "class_name": "Production Acting",
+    "teacher(s)": "Cox, C.",
+    "room": "106/Auditorium",
+    "periods": "A4",
+    "semesters": "2"
+  },
+  {
+    "class_name": "Theater Foundations CE",
+    "teacher(s)": "Cox, C.",
+    "room": "106/Auditorium",
+    "periods": "B5",
+    "semesters": "2"
+  },
+  {
+    "class_name": "Theater Productions",
+    "teacher(s)": "Cox, C., Powell",
+    "room": "Cox, C.: 106/Auditorium. Powell: 102",
+    "periods": "B8",
+    "semesters": "Full year"
+  },
+  {
+    "class_name": "Dance 3 CE - Synergy",
+    "teacher(s)": "Dilello",
+    "room": "109",
+    "periods": "A2",
+    "semesters": "Full year"
+  },
+  {
+    "class_name": "Urban Dance/Hip-hop",
+    "teacher(s)": "Dilello",
+    "room": "109",
+    "periods": "B7",
+    "semesters": "1"
+  },
+  {
+    "class_name": "Sculpture 1",
+    "teacher(s)": "Field",
+    "room": "716",
+    "periods": "B6, B7, B8",
+    "semesters": "1, 2"
+  },
+  {
+    "class_name": "Sculpture 2",
+    "teacher(s)": "Field",
+    "room": "716",
+    "periods": "B5",
+    "semesters": "1, 2"
+  },
+  {
+    "class_name": "Guitar 1",
+    "teacher(s)": "Gummow",
+    "room": "100",
+    "periods": "A3, A4",
+    "semesters": "1, 2"
+  },
+  {
+    "class_name": "Guitar 2",
+    "teacher(s)": "Gummow",
+    "room": "100",
+    "periods": "A4",
+    "semesters": "2"
+  },
+  {
+    "class_name": "Percussion Adv.",
+    "teacher(s)": "Hope",
+    "room": "100/104/106",
+    "periods": "A1",
+    "semesters": "Full year"
+  },
+  {
+    "class_name": "Percussion Beginning & Int.",
+    "teacher(s)": "Hope",
+    "room": "100/104/106",
+    "periods": "A2",
+    "semesters": "Full year"
+  },
+  {
+    "class_name": "Drum Set 1",
+    "teacher(s)": "Hope",
+    "room": "100/104/106",
+    "periods": "A3",
+    "semesters": "1, 2"
+  },
+  {
+    "class_name": "Steel Drums",
+    "teacher(s)": "Hope",
+    "room": "100/104/106",
+    "periods": "B8",
+    "semesters": "1, 2"
+  },
+  {
+    "class_name": "Wind Ensemble Advanced",
+    "teacher(s)": "Kim, J.",
+    "room": "104",
+    "periods": "A1",
+    "semesters": "Full year"
+  },
+  {
+    "class_name": "Wind Symphony",
+    "teacher(s)": "Kim, J.",
+    "room": "104",
+    "periods": "A2",
+    "semesters": "Full year"
+  },
+  {
+    "class_name": "Ukulele",
+    "teacher(s)": "Kim, J.",
+    "room": "104",
+    "periods": "A4",
+    "semesters": "1, 2"
+  },
+  {
+    "class_name": "Jazz Band 2",
+    "teacher(s)": "Kim, J.",
+    "room": "104",
+    "periods": "B5",
+    "semesters": "Full year"
+  },
+  {
+    "class_name": "Jazz Band 1",
+    "teacher(s)": "Kim, J.",
+    "room": "104",
+    "periods": "B6",
+    "semesters": "Full year"
+  },
+  {
+    "class_name": "Pop/Rock Ensemble",
+    "teacher(s)": "Kim, J.",
+    "room": "104",
+    "periods": "B7",
+    "semesters": "Full year"
+  },
+  {
+    "class_name": "Marching Band",
+    "teacher(s)": "Kim, J.",
+    "room": "104",
+    "periods": "0 sem. A days",
+    "semesters": "1"
+  },
+  {
+    "class_name": "Dance Company",
+    "teacher(s)": "Knight",
+    "room": "109",
+    "periods": "B5",
+    "semesters": "Full year"
+  },
+  {
+    "class_name": "AP Art-2D Portfolio or AP Art Drawing",
+    "teacher(s)": "Pack",
+    "room": "236/715",
+    "periods": "A4",
+    "semesters": "Full year"
+  },
+  {
+    "class_name": "AP Art History",
+    "teacher(s)": "Pack",
+    "room": "236/715",
+    "periods": "B5",
+    "semesters": "Full year"
+  },
+  {
+    "class_name": "Advanced Women's Ensemble",
+    "teacher(s)": "Powell",
+    "room": "102",
+    "periods": "A1",
+    "semesters": "Full year"
+  },
+  {
+    "class_name": "Acapella Choir",
+    "teacher(s)": "Powell",
+    "room": "102",
+    "periods": "A2",
+    "semesters": "Full year"
+  },
+  {
+    "class_name": "AP Music Theory",
+    "teacher(s)": "Powell",
+    "room": "102",
+    "periods": "A3",
+    "semesters": "Full year"
+  },
+  {
+    "class_name": "General Choir",
+    "teacher(s)": "Powell",
+    "room": "102",
+    "periods": "A4",
+    "semesters": "2"
+  },
+  {
+    "class_name": "Advanced Men's Ensemble",
+    "teacher(s)": "Powell",
+    "room": "102",
+    "periods": "B5",
+    "semesters": "Full year"
+  },
+  {
+    "class_name": "Chamber Choir - Madrigal",
+    "teacher(s)": "Powell",
+    "room": "102",
+    "periods": "B6",
+    "semesters": "Full year"
+  },
+  {
+    "class_name": "Ceramics 1",
+    "teacher(s)": "Seely",
+    "room": "305",
+    "periods": "A1, A2, A3, A4, B5",
+    "semesters": "1, 2"
+  },
+  {
+    "class_name": "Ceramics 2",
+    "teacher(s)": "Seely",
+    "room": "305",
+    "periods": "B5, B7",
+    "semesters": "1, 2"
+  },
+  {
+    "class_name": "AP Art 3D-Sculpture Portfolio",
+    "teacher(s)": "Seely",
+    "room": "305",
+    "periods": "B8",
+    "semesters": "Full year"
+  },
+  {
+    "class_name": "Concert Orchestra",
+    "teacher(s)": "Vernon",
+    "room": "100",
+    "periods": "B5",
+    "semesters": "Full year"
+  },
+  {
+    "class_name": "Symphonic Orchestra",
+    "teacher(s)": "Vernon",
+    "room": "100",
+    "periods": "B6",
+    "semesters": "Full year"
+  },
+  {
+    "class_name": "Chamber Orchestra",
+    "teacher(s)": "Vernon",
+    "room": "100",
+    "periods": "B7",
+    "semesters": "Full year"
+  },
+  {
+    "class_name": "Music Appreciation CE",
+    "teacher(s)": "Vernon",
+    "room": "100",
+    "periods": "B8",
+    "semesters": "1, 2"
+  },
+  {
+    "class_name": "Math Decision Making",
+    "teacher(s)": "Brinkerhoff",
+    "room": "137",
+    "periods": "A1, A2, A3",
+    "semesters": "Full year"
+  }
+]
