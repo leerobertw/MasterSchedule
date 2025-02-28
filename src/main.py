@@ -1,37 +1,31 @@
 from ortools.sat.python import cp_model
-import os
+import os, json, ast
 
 def main():
     model = cp_model.CpModel()
-    classes = ['science', 'math', 'english', 'astronomy']
-    teachers = ['x', 'y', 'z']
-    periods = 3
-    cps = {
-        'science': ('x', 2),
-        'math': ('y', 2),
-        'english': ('z', 1),
-        'astronomy': ('z', 1)
-    }
-
+    periods = 8
+    cps = json.load(open("./src/data/classesin.json", "r")) if os.path.isfile("./src/data/classesin.json") else json.load(open("./data/classesin.json", "r"))
+    cps = {ast.literal_eval(k): v for k, v in cps.items()}
+    teachers = list(set(teacher for _, teacher in cps))
     ppp = len(teachers) / periods
     schedule = {}
 
-    for cls in classes:
+    for (cls, teacher) in cps:
         for p in range(periods):
-            schedule[(cls, p)] = model.NewBoolVar(f'schedule_{cls}_{p}')
+            schedule[(cls, teacher, p)] = model.NewBoolVar(f'schedule_{cls}_{teacher}_{p}')
 
-    for cls in cps:
-        model.Add(sum(schedule[(cls, p)] for p in range(periods)) == cps[cls][1])
+    for (cls, teacher) in cps:
+        model.Add(sum(schedule[(cls, teacher, p)] for p in range(periods)) == cps[(cls, teacher)][1])
 
     for teacher in teachers:
         for p in range(periods):
-            model.Add(sum(schedule[(cls, p)] for cls in cps if cps[cls][0] == teacher) <= 1)
+            model.Add(sum(schedule[(cls, teacher, p)] for (cls, t) in cps if t == teacher) <= 1)
 
     prep = {}
     for teacher in teachers:
         for p in range(periods):
             prep[(teacher, p)] = model.NewBoolVar(f'prep_{teacher}_{p}')
-            model.Add(prep[(teacher, p)] == 1 - sum(schedule[(cls, p)] for cls in cps if cps[cls][0] == teacher))
+            model.Add(prep[(teacher, p)] == 1 - sum(schedule[(cls, teacher, p)] for (cls, t) in cps if t == teacher))
 
     prep_count = [model.NewIntVar(0, len(teachers), f'prep_count_{p}') for p in range(periods)]
     for p in range(periods):
@@ -43,36 +37,35 @@ def main():
         model.Add(deviation[p] >= int(ppp) - prep_count[p])
 
     model.Minimize(sum(deviation))
-
     solver = cp_model.CpSolver()
     status = solver.Solve(model)
 
-    out = "out.txt"
+    out = "./data/out.txt" if os.path.isfile("./data/out.txt") else "./src/data/out.txt"
+    outjson = "./data/classesout.json" if os.path.isfile("./data/classesout.json") else "./src/data/classesout.json"
     output = []
-    unformatted = []
+    outputjson = {"classes":[]}
 
     if status == cp_model.OPTIMAL or status == cp_model.FEASIBLE:
         for teacher in teachers:
             for p in range(periods):
-                assigned_classes = [cls for cls in cps if cps[cls][0] == teacher and solver.Value(schedule[(cls, p)]) == 1]
+                assigned_classes = [cls for (cls, t) in cps if t == teacher and solver.Value(schedule[(cls, teacher, p)]) == 1]
                 if assigned_classes:
                     for cls in assigned_classes:
-                        output.append(f'{cls} is scheduled in period {p} taught by {teacher.upper()}')
-                        unformatted.append((cls, p, teacher.upper()))
+                        output.append(f'{cls} is scheduled in period {p+1} taught by {teacher.upper()}')
+                        outputjson["classes"].append([cls, p+1, teacher.upper()])
                 else:
                     output.append(f'prep is scheduled in period {p} for {teacher.upper()}')
-                    unformatted.append(('prep', p, teacher.upper()))
+                    outputjson["classes"].append(["Prep", p+1, teacher.upper()])
 
     td = sum(abs(solver.Value(prep_count[p]) - ppp) for p in range(periods))
 
     with open(out, 'w') as file:
-        file.write(f"Solution suboptimality: {td}\n")
-        file.write("\n".join(output))
+        file.write(f"Solution suboptimality: {td}")
+        for line in output:
+            file.write(f"\n{line}")
 
-    for line in output:
-        print(line)
-    print(f"Solution suboptimality: {td}")
-
+    with open(outjson, 'w') as file:
+        json.dump(outputjson, file, indent=4)
 
 if __name__ == '__main__':
     main()
