@@ -51,11 +51,11 @@ def main():
                 assigned_classes = [cls for (cls, t) in cps if t == teacher and solver.Value(schedule[(cls, teacher, p)]) == 1]
                 if assigned_classes:
                     for cls in assigned_classes:
-                        output.append(f'{cls} is scheduled in period {p} taught by {teacher.upper()}')
-                        outputjson["classes"].append([cls, p, teacher.upper()])
+                        output.append(f'{cls} is scheduled in period {p+1} taught by {teacher.upper()}')
+                        outputjson["classes"].append([cls, p+1, teacher.upper()])
                 else:
                     output.append(f'prep is scheduled in period {p} for {teacher.upper()}')
-                    outputjson["classes"].append(["Prep", p, teacher.upper()])
+                    outputjson["classes"].append(["Prep", p+1, teacher.upper()])
 
     td = sum(abs(solver.Value(prep_count[p]) - ppp) for p in range(periods))
 
