@@ -149,7 +149,7 @@
   {
     "class_name": "Design Sewing 1 & 2",
     "teacher(s)": "Harlow",
-    "room": "713", 
+    "room": "713",
     "periods": "A1",
     "semesters": "1"
   },
@@ -218,7 +218,7 @@
   },
   {
     "class_name": "Game Development Fundamentals 2",
-    "teacher(s)" : "Lee",
+    "teacher(s)": "Lee",
     "room": "140",
     "periods": "B6",
     "semesters": "2"
@@ -1006,5 +1006,285 @@
     "room": "137",
     "periods": "A1, A2, A3",
     "semesters": "Full year"
+  },
+  {
+    "class_name": "Secondary Math 2",
+    "teacher(s)": "Brinkerhoff, Coatney, Ruchti, Tracy, Wallace",
+    "room": "Brinkerhoff: 137. Coatney: 903. Ruchti: 803. Tracy: 139. Wallace: 905.",
+    "periods": "Brinkerhoff: B5, B6, B7, B8. Coatney: A1, A2, A3, A4. Ruchti: A2, A3, B5, B6. Tracy: A4, B5, B6, B8. Wallace: A1, A2, A3",
+    "semesters": "Full year"
+  },
+  {
+    "class_name": "Secondary Math 3",
+    "teacher(s)": "Coatney, Murray, Pearson, Saunders",
+    "room": "Coatney: 903. Murray: 902. Pearson: 138. Saunders: 904.",
+    "periods": "Coatney: B6, B7, B8. Murray: A4, B5. Pearson: B5, B6, B7. Saunders: A1, A2, A3, A4, B8.",
+    "semesters": "Full year"
+  },
+  {
+    "class_name": "AP Calculus BC",
+    "teacher(s)": "Lyons",
+    "room": "136",
+    "periods": "A2, A3",
+    "semesters": "Full year"
+  },
+  {
+    "class_name": "Adv. Math Lab",
+    "teacher(s)": "Lyons",
+    "room": "136",
+    "periods": "A4",
+    "semesters": "1, 2"
+  },
+  {
+    "class_name": "Secondary Math 3 Extended",
+    "teacher(s)": "Lyons, Murray, Ruchti, Summers",
+    "room": "Lyons: 136. Murray: 902. Ruchti: 803. Summers: 906.",
+    "periods": "Lyons: B5, B8. Murray: A1, A2, B6. Ruchti: B7, B8. Summers: A3, A4.",
+    "semesters": "Full year"
+  },
+  {
+    "class_name": "AP Statistics",
+    "teacher(s)": "Lyons",
+    "room": "136",
+    "periods": "B6, B7",
+    "semesters": "Full year"
+  },
+  {
+    "class_name": "Math 1010 CE",
+    "teacher(s)": "Murray, Ruchti, Summers",
+    "room": "Murray: 902. Ruchti: 803. Summers: 906.",
+    "periods": "Murray: A3, B7. Ruchti: A1. Summers: A2, B6.",
+    "semesters": "1"
+  },
+  {
+    "class_name": "Math Essentials",
+    "teacher(s)": "Murray, Tracy",
+    "room": "Murray: 902. Tracy: 139.",
+    "periods": "Murray: A3. Tracy: A2.",
+    "semesters": "1, 2"
+  },
+  {
+    "class_name": "Math 1050 CE",
+    "teacher(s)": "Murray, Ruchti, Summers",
+    "room": "Murray: 902. Ruchti: 803. Summers: 906.",
+    "periods": "Murray: B7. Ruchti: A1. Summers: A2",
+    "semesters": "2"
+  },
+  {
+    "class_name": "Precalculus",
+    "teacher(s)": "Saunders",
+    "room": "904",
+    "periods": "B6, B7",
+    "semesters": "Full year"
+  },
+  {
+    "class_name": "AP Calculus AB",
+    "teacher(s)": "Smith (Craig)",
+    "room": "805",
+    "periods": "A1, A2, A4, B5, B6, B8",
+    "semesters": "Full year"
+  },
+  {
+    "class_name": "Calculus AB Lab",
+    "teacher(s)": "Summers",
+    "room": "906",
+    "periods": "A1, B5, B8",
+    "semesters": "1, 2"
+  },
+  {
+    "class_name": "Math 1030 CE",
+    "teacher(s)": "Summers",
+    "room": "906",
+    "periods": "B6",
+    "semesters": "2"
+  },
+  {
+    "class_name": "Secondary Math 1",
+    "teacher(s)": "Tracy",
+    "room": "139",
+    "periods": "A1, A3",
+    "semesters": "Full year"
+  },
+  {
+    "class_name": "Secondary Math 2 Extended",
+    "teacher(s)": "Pearson, Wallace",
+    "room": "Pearson: 138. Wallace: 905.",
+    "periods": "Pearson: A1, A2, A3, A4. Wallace: B5, B6, B7, B8",
+    "semesters": "Full year"
+  },
+  {
+    "class_name": "High Fit/Zumba",
+    "teacher(s)": "Asay",
+    "room": "Main Gym/109",
+    "periods": "A1",
+    "semesters": "1"
+  },
+  {
+    "class_name": "Lifetime Activity",
+    "teacher(s)": "Asay, Warner",
+    "room": "Asay: Main Gym/109. Warner: N/A",
+    "periods": "Asay: A2, A3, B6, B7. Warner: A2, A3, B6, B7",
+    "semesters": "1, 2"
+  },
+  {
+    "class_name": "PE Fitness",
+    "teacher(s)": "Bezzant, Schoonover",
+    "room": "Bezzant: Main Gym/Weight/201. Schoonover: Main Gym/201.",
+    "periods": "Bezzant: A1, A3, B5. Schoonover: A1, A2, B6, B7",
+    "semesters": "1, 2"
+  },
+  {
+    "class_name": "Weights",
+    "teacher(s)": "Bezzant, Schoonover",
+    "room": "Bezzant: Main Gym/Weight/201. Schoonover: Main Gym/201.",
+    "periods": "Bezzant: A3, B6, B7. Schoonover: A3.",
+    "semesters": "1, 2"
+  },
+  {
+    "class_name": "Baseball Team",
+    "teacher(s)": "Bezzant",
+    "room": "Main Gym/Weight/201",
+    "periods": "B8",
+    "semesters": "1, 2"
+  },
+  {
+    "class_name": "Softball Team",
+    "teacher(s)": "Briggs (Dickson)",
+    "room": "236",
+    "periods": "A4",
+    "semesters": "1"
+  },
+  {
+    "class_name": "Athletic Training Practicum",
+    "teacher(s)": "Bryan",
+    "room": "116",
+    "periods": "A4, B8",
+    "semesters": "Full year"
+  },
+  {
+    "class_name": "Cross Country Team",
+    "teacher(s)": "Bybee",
+    "room": "N/A",
+    "periods": "0 per. A days",
+    "semesters": "1"
+  },
+  {
+    "class_name": "Unified PE",
+    "teacher(s)": "Dilello",
+    "room": "109",
+    "periods": "A3",
+    "semesters": "1, 2"
+  },
+  {
+    "class_name": "Yoga 1",
+    "teacher(s)": "Dilello",
+    "room": "109",
+    "periods": "A4, B8",
+    "semesters": "1, 2"
+  },
+  {
+    "class_name": "Yoga 2",
+    "teacher(s)": "Dilello",
+    "room": "109",
+    "periods": "A4",
+    "semesters": "2"
+  },
+  {
+    "class_name": "Boys Golf Team",
+    "teacher(s)": "Farr",
+    "room": "910",
+    "periods": "B8",
+    "semesters": "1"
+  },
+  {
+    "class_name": "Girls Golf Team",
+    "teacher(s)": "Farr",
+    "room": "910",
+    "periods": "B8",
+    "semesters": "2"
+  },
+  {
+    "class_name": "Health",
+    "teacher(s)": "Ferran, Montrose",
+    "room": "Ferran: 801. Montrose: 230.",
+    "periods": "Ferran: A1, A2, A3, A4, B5, B6, B8. Montrose: B5, B6, B7, B8.",
+    "semesters": "1, 2"
+  },
+  {
+    "class_name": "Girls Basketball Team",
+    "teacher(s)": "Ika, Warner",
+    "room": "Ika: 122. Warner: N/A,",
+    "periods": "A4",
+    "semesters": "1, 2"
+  },
+  {
+    "class_name": "Girls Soccer Team",
+    "teacher(s)": "Jolley",
+    "room": "132",
+    "periods": "A4",
+    "semesters": "1"
+  },
+  {
+    "class_name": "Girls Lacrosse Team",
+    "teacher(s)": "Lundell",
+    "room": "N/A",
+    "periods": "0 per. B days",
+    "semesters": "2"
+  },
+  {
+    "class_name": "Track Team",
+    "teacher(s)": "Meldrum",
+    "room": "Maroon Gym",
+    "periods": "B8",
+    "semesters": "1"
+  },
+  {
+    "class_name": "Girls Volleyball Team",
+    "teacher(s)": "Moea'i (Dickson)",
+    "room": "N/A",
+    "periods": "A4",
+    "semesters": "1"
+  },
+  {
+    "class_name": "Boys Soccer Team",
+    "teacher(s)": "Nilson",
+    "room": "N/A",
+    "periods": "A4",
+    "semesters": "1"
+  },
+  {
+    "class_name": "Boys Volleyball Team",
+    "teacher(s)": "Read",
+    "room": "N/A",
+    "periods": "A4",
+    "semesters": "1"
+  },
+  {
+    "class_name": "Boys Basketball Team",
+    "teacher(s)": "Ross",
+    "room": "N/A",
+    "periods": "B8",
+    "semesters": "1, 2"
+  },
+  {
+    "class_name": "Advanced Weights",
+    "teacher(s)": "Schoonover",
+    "room": "Main Gym/201",
+    "periods": "A4, B8",
+    "semesters": "1, 2"
+  },
+  {
+    "class_name": "Swim Team",
+    "teacher(s)": "Smith (Calvin), Tiffany",
+    "room": "Smith (Calvin): 705/Off Campus. Tiffany: Off Campus",
+    "periods": "B8",
+    "semesters": "1"
+  },
+  {
+    "class_name": "Intro to Basketball",
+    "teacher(s)": "Warner",
+    "room": "N/A",
+    "periods": "B5",
+    "semesters": "1, 2"
   }
 ]
