@@ -16,6 +16,12 @@ def main():
             teachings[key] = val
     teachers = list(set(teacher for _, teacher in teachings))
     schedule = {}
+    for teacher in set(t for _, t in teachings):
+        required_teaching = sum(teachings[(cls, t)][1] for (cls, t) in teachings if t == teacher)
+        reserved_periods = len(teacher_unavail.get(teacher, []))
+        available_periods = periods - reserved_periods
+        if required_teaching > available_periods:
+            print(f"Infeasible: {teacher} needs {required_teaching} periods to teach, but only has {available_periods} free periods.")
     for (cls, teacher) in teachings:
         for p in range(periods):
             if teacher in teacher_unavail and p in teacher_unavail[teacher]:
