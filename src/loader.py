@@ -28,12 +28,14 @@ def load_schedule(csv_file):
             continue
         teacher = row[0].strip()
         classes = [cls.strip() for cls in row[2:] if cls.strip() and cls.strip().lower() != "prep"]
+        reserveds = [i+1 for i, cls in enumerate(row[2:]) if not cls.strip()]
         for cls in classes:
             if f"{(cls, teacher)}" not in schedule:
                 schedule[f"{(cls, teacher)}"] = [teacher, 1, csv_file.split("/")[-1].split(".csv")[0]]
             else:
                 schedule[f"{(cls, teacher)}"][1] += 1
+        if reserveds:
+            schedule[f"{('RESERVED', teacher)}"] = [teacher, 1, reserveds]
     return schedule
-
 with open("./src/data/classesin.json", "w") as jsonfile:
     json.dump(load_schedules(), jsonfile)
