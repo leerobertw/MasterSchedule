@@ -1,809 +1,857 @@
-Solution suboptimality: 115.0
-prep is scheduled in period 0 for CRAFT
-ENGLISH 10* is scheduled in period 2 taught by CRAFT
+Solution suboptimality: 1
+STUDY HALL is scheduled in period 1 taught by VAN WOERKOM^
+MEDICAL ANATOMY & PHYSIOLOGY* is scheduled in period 2 taught by VAN WOERKOM^
+prep is scheduled in period 3 for VAN WOERKOM^
+prep is scheduled in period 4 for VAN WOERKOM^
+MEDICAL ANATOMY & PHYSIOLOGY* is scheduled in period 5 taught by VAN WOERKOM^
+STUDY HALL is scheduled in period 6 taught by VAN WOERKOM^
+MEDICAL TERMINOLOGY - Concurrent Enrollment is scheduled in period 7 taught by VAN WOERKOM^
+MEDICAL TERMINOLOGY - Concurrent Enrollment is scheduled in period 8 taught by VAN WOERKOM^
+WILY is not available in period 1
+WILY is not available in period 2
+WILY is not available in period 3
+WILY is not available in period 4
+prep is scheduled in period 5 for WILY
+ENGLISH 10* is scheduled in period 6 taught by WILY
+ENGLISH 10* is scheduled in period 7 taught by WILY
+ENGLISH 10* is scheduled in period 8 taught by WILY
+LIFETIME ACTIVITY is scheduled in period 1 taught by ASAY
+LIFETIME ACTIVITY is scheduled in period 2 taught by ASAY
+LIFETIME ACTIVITY is scheduled in period 3 taught by ASAY
+ASAY is not available in period 4
+ASAY is not available in period 5
+LIFETIME ACTIVITY is scheduled in period 6 taught by ASAY
+HIGH FIT/ZUMBA is scheduled in period 7 taught by ASAY
+ASAY is not available in period 8
+TIFFANY is not available in period 1
+TIFFANY is not available in period 2
+TIFFANY is not available in period 3
+TIFFANY is not available in period 4
+TIFFANY is not available in period 5
+TIFFANY is not available in period 6
+TIFFANY is not available in period 7
+SWIM TEAM is scheduled in period 8 taught by TIFFANY
+BUSINESS MANAGEMENT - Concurrent Enrollment is scheduled in period 1 taught by MOLEN^
+GRAPHIC DESIGN / DIGITAL MEDIA is scheduled in period 2 taught by MOLEN^
+prep is scheduled in period 3 for MOLEN^
+DIGITAL TECHNOLOGY - Concurrent Enrollment is scheduled in period 4 taught by MOLEN^
+WEB DEVELOPMENT 2 - Concurrent Enrollment is scheduled in period 5 taught by MOLEN^
+prep is scheduled in period 6 for MOLEN^
+GRAPHIC DESIGN / DIGITAL MEDIA is scheduled in period 7 taught by MOLEN^
+BUSINESS OFFICE SPECIALIST - Concurrent Enrollment is scheduled in period 8 taught by MOLEN^
+READING SKILLS is scheduled in period 1 taught by WAHLIN
+READING SKILLS is scheduled in period 2 taught by WAHLIN
+prep is scheduled in period 3 for WAHLIN
+prep is scheduled in period 4 for WAHLIN
+ACCELERATED READING is scheduled in period 5 taught by WAHLIN
+ENGLISH 11* is scheduled in period 6 taught by WAHLIN
+ENGLISH 11* is scheduled in period 7 taught by WAHLIN
+ENGLISH 12* is scheduled in period 8 taught by WAHLIN
+CHEMISTRY* is scheduled in period 1 taught by WENTZ
+prep is scheduled in period 2 for WENTZ
+CHEMISTRY* is scheduled in period 3 taught by WENTZ
+CHEMISTRY* is scheduled in period 4 taught by WENTZ
+CHEMISTRY* is scheduled in period 5 taught by WENTZ
+CHEMISTRY* is scheduled in period 6 taught by WENTZ
+CHEMISTRY* is scheduled in period 7 taught by WENTZ
+CHEMISTRY* is scheduled in period 8 taught by WENTZ
+SOCIOLOGY is scheduled in period 1 taught by WAWRO^
+AP HUMAN GEOGRAPHY* is scheduled in period 2 taught by WAWRO^
+AP HUMAN GEOGRAPHY* is scheduled in period 3 taught by WAWRO^
+prep is scheduled in period 4 for WAWRO^
+STUDENT GOVERNMENT* is scheduled in period 5 taught by WAWRO^
+SOCIOLOGY is scheduled in period 6 taught by WAWRO^
+SOCIOLOGY is scheduled in period 7 taught by WAWRO^
+SOCIOLOGY is scheduled in period 8 taught by WAWRO^
+AP STATISTICS* is scheduled in period 1 taught by LYONS
+SECONDARY MATH 3 EXTENDED* is scheduled in period 2 taught by LYONS
+AP CALCULUS BC* is scheduled in period 3 taught by LYONS
+ADV MATH LAB is scheduled in period 4 taught by LYONS
+prep is scheduled in period 5 for LYONS
+SECONDARY MATH 3 EXTENDED* is scheduled in period 6 taught by LYONS
+AP STATISTICS* is scheduled in period 7 taught by LYONS
+AP CALCULUS BC* is scheduled in period 8 taught by LYONS
+SECONDARY MATH 2* is scheduled in period 1 taught by COATNEY
+SECONDARY MATH 2* is scheduled in period 2 taught by COATNEY
+prep is scheduled in period 3 for COATNEY
+SECONDARY MATH 2* is scheduled in period 4 taught by COATNEY
+SECONDARY MATH 2* is scheduled in period 5 taught by COATNEY
+SECONDARY MATH 3* is scheduled in period 6 taught by COATNEY
+SECONDARY MATH 3* is scheduled in period 7 taught by COATNEY
+SECONDARY MATH 3* is scheduled in period 8 taught by COATNEY
+AP US HISTORY - Concurrent Enrollment* is scheduled in period 1 taught by BIRRELL
+AMERICAN STUDIES* is scheduled in period 2 taught by BIRRELL
+AMERICAN STUDIES* is scheduled in period 3 taught by BIRRELL
+BIRRELL is not available in period 4
+AP GOV & POLITICS-Concurrent Enrollment* is scheduled in period 5 taught by BIRRELL
+prep is scheduled in period 6 for BIRRELL
+AMERICAN STUDIES* is scheduled in period 7 taught by BIRRELL
+AMERICAN STUDIES* is scheduled in period 8 taught by BIRRELL
+ASTRONOMY - Concurrent Enrollment is scheduled in period 1 taught by EREKSON
+AP PHYSICS C* is scheduled in period 2 taught by EREKSON
+PHYSICS* is scheduled in period 3 taught by EREKSON
+PHYSICS* is scheduled in period 4 taught by EREKSON
+prep is scheduled in period 5 for EREKSON
+ASTRONOMY - Concurrent Enrollment is scheduled in period 6 taught by EREKSON
+ASTRONOMY - Concurrent Enrollment is scheduled in period 7 taught by EREKSON
+ASTRONOMY - Concurrent Enrollment is scheduled in period 8 taught by EREKSON
+GUMMOW is not available in period 1
+GUMMOW is not available in period 2
+GUITAR 1 is scheduled in period 3 taught by GUMMOW
+GUITAR 1 is scheduled in period 4 taught by GUMMOW
+GUMMOW is not available in period 5
+GUMMOW is not available in period 6
+GUMMOW is not available in period 7
+GUMMOW is not available in period 8
+INTERNSHIP is scheduled in period 1 taught by WHATCOTT
+INTERNSHIP is scheduled in period 2 taught by WHATCOTT
+INTERNSHIP is scheduled in period 3 taught by WHATCOTT
+INTERNSHIP is scheduled in period 4 taught by WHATCOTT
+INTERNSHIP is scheduled in period 5 taught by WHATCOTT
+INTERNSHIP is scheduled in period 6 taught by WHATCOTT
+INTERNSHIP is scheduled in period 7 taught by WHATCOTT
+INTERNSHIP is scheduled in period 8 taught by WHATCOTT
+SCIENCE ESSENTIALS is scheduled in period 1 taught by PASSEY
+EARTH SCIENCE* is scheduled in period 2 taught by PASSEY
+EARTH SCIENCE* is scheduled in period 3 taught by PASSEY
+EARTH SCIENCE* is scheduled in period 4 taught by PASSEY
+PHYSICS* is scheduled in period 5 taught by PASSEY
+EARTH SCIENCE* is scheduled in period 6 taught by PASSEY
+prep is scheduled in period 7 for PASSEY
+PHYSICS* is scheduled in period 8 taught by PASSEY
+prep is scheduled in period 1 for POWELL
+CHAMBER CHOIR - MADRIGAL* is scheduled in period 2 taught by POWELL
+ADVANCED MEN'S ENSEMBLE* is scheduled in period 3 taught by POWELL
+AP MUSIC THEORY* is scheduled in period 4 taught by POWELL
+ADVANCED WOMEN'S ENSEMBLE* is scheduled in period 5 taught by POWELL
+ACAPELLA CHOIR* is scheduled in period 6 taught by POWELL
+MUSICAL THEATER is scheduled in period 7 taught by POWELL
+THEATER PRODUCTIONS* is scheduled in period 8 taught by POWELL
+SPANISH 2* is scheduled in period 1 taught by MONTROSE^
+SPANISH 2* is scheduled in period 2 taught by MONTROSE^
+HEALTH is scheduled in period 3 taught by MONTROSE^
+HEALTH is scheduled in period 4 taught by MONTROSE^
+HEALTH is scheduled in period 5 taught by MONTROSE^
+HEALTH is scheduled in period 6 taught by MONTROSE^
+prep is scheduled in period 7 for MONTROSE^
+SPANISH 2* is scheduled in period 8 taught by MONTROSE^
+prep is scheduled in period 1 for COX, C.^^
+MUSICAL THEATER is scheduled in period 2 taught by COX, C.^^
+COX, C.^^ is not available in period 3
+MOTION PICTURE is scheduled in period 4 taught by COX, C.^^
+SCRIPT WRITING is scheduled in period 5 taught by COX, C.^^
+MOTION PICTURE is scheduled in period 6 taught by COX, C.^^
+THEATER PRODUCTIONS* is scheduled in period 7 taught by COX, C.^^
+STAGE CREW* is scheduled in period 8 taught by COX, C.^^
+prep is scheduled in period 1 for CARPENTER
+prep is scheduled in period 2 for CARPENTER
+ACCELERATED READING is scheduled in period 3 taught by CARPENTER
+ENGLISH 10* is scheduled in period 4 taught by CARPENTER
+ENGLISH 10* is scheduled in period 5 taught by CARPENTER
+JOURNALISM* is scheduled in period 6 taught by CARPENTER
+ENGLISH 10* is scheduled in period 7 taught by CARPENTER
+ENGLISH 10* is scheduled in period 8 taught by CARPENTER
+THE U.S. & WW II is scheduled in period 1 taught by TURNER
+AP WORLD HISTORY* is scheduled in period 2 taught by TURNER
+AP WORLD HISTORY* is scheduled in period 3 taught by TURNER
+prep is scheduled in period 4 for TURNER
+US HISTORY* is scheduled in period 5 taught by TURNER
+TURNER is not available in period 6
+US HISTORY* is scheduled in period 7 taught by TURNER
+US HISTORY* is scheduled in period 8 taught by TURNER
+prep is scheduled in period 1 for BANKS^
+HISTORY OF ROCK AND ROLL - Concurrent Enrollment is scheduled in period 2 taught by BANKS^
+GERMAN 3* - Concurrent Enrollment is scheduled in period 3 taught by BANKS^
+HISTORY OF ROCK AND ROLL - Concurrent Enrollment is scheduled in period 4 taught by BANKS^
+prep is scheduled in period 5 for BANKS^
+GERMAN 2* is scheduled in period 6 taught by BANKS^
+GERMAN 4/AP* - Concurrent Enrollment is scheduled in period 7 taught by BANKS^
+GERMAN 1* is scheduled in period 8 taught by BANKS^
+WEIGHTS Female is scheduled in period 1 taught by WARNER
+GIRLS BASKETBALL TEAM is scheduled in period 2 taught by WARNER
+LIFETIME ACTIVITY is scheduled in period 3 taught by WARNER
+prep is scheduled in period 4 for WARNER
+LIFETIME ACTIVITY is scheduled in period 5 taught by WARNER
+LIFETIME ACTIVITY is scheduled in period 6 taught by WARNER
+INTRO TO BASKETBALL is scheduled in period 7 taught by WARNER
+LIFETIME ACTIVITY is scheduled in period 8 taught by WARNER
+EMERGENCY MEDICAL RESPONDER - Concurrent Enrollment is scheduled in period 1 taught by BURNETT^^
+CHEER TEAM* is scheduled in period 2 taught by BURNETT^^
+EMERGENCY MEDICAL RESPONDER - Concurrent Enrollment is scheduled in period 3 taught by BURNETT^^
+prep is scheduled in period 4 for BURNETT^^
+STUDENT GOVERNMENT* is scheduled in period 5 taught by BURNETT^^
+FOUNDATIONS OF NUTRITION-Concurrent Enrollment is scheduled in period 6 taught by BURNETT^^
+FOUNDATIONS OF NUTRITION-Concurrent Enrollment is scheduled in period 7 taught by BURNETT^^
+prep is scheduled in period 8 for BURNETT^^
+CHEVALIERS-DRILL TEAM* is scheduled in period 1 taught by MURPHY^
+MURPHY^ is not available in period 2
+MURPHY^ is not available in period 3
+MURPHY^ is not available in period 4
+MURPHY^ is not available in period 5
+MURPHY^ is not available in period 6
+MURPHY^ is not available in period 7
+MURPHY^ is not available in period 8
+CRAFT is not available in period 1
+HUMANITIES is scheduled in period 2 taught by CRAFT
 ENGLISH 10* is scheduled in period 3 taught by CRAFT
-prep is scheduled in period 3 for CRAFT
-prep is scheduled in period 4 for CRAFT
-HUMANITIES is scheduled in period 6 taught by CRAFT
-prep is scheduled in period 6 for CRAFT
-ENGLISH 10* is scheduled in period 8 taught by CRAFT
-FLORAL DESIGN 1 is scheduled in period 1 taught by JENSEN^
-PLANT AND SOIL SCIENCE 1* is scheduled in period 2 taught by JENSEN^
-FLORAL DESIGN ADV is scheduled in period 3 taught by JENSEN^
-prep is scheduled in period 3 for JENSEN^
-FLORAL DESIGN 1 is scheduled in period 5 taught by JENSEN^
-FLORAL DESIGN 1 is scheduled in period 6 taught by JENSEN^
-prep is scheduled in period 6 for JENSEN^
-FLORAL DESIGN 1 is scheduled in period 8 taught by JENSEN^
+CRAFT is not available in period 4
+CRAFT is not available in period 5
+ENGLISH 10* is scheduled in period 6 taught by CRAFT
+ENGLISH 10* is scheduled in period 7 taught by CRAFT
+CRAFT is not available in period 8
+ATHLETIC TRAINING PRACTICUM* is scheduled in period 1 taught by BRYAN^
+INTRO TO PHYSICAL THERAPY* is scheduled in period 2 taught by BRYAN^
+ATHLETIC TRAINING PRACTICUM* is scheduled in period 3 taught by BRYAN^
+SPORTS MEDICINE* - Concurrent Enrollment is scheduled in period 4 taught by BRYAN^
+SPORTS MEDICINE* - Concurrent Enrollment is scheduled in period 5 taught by BRYAN^
+SPORTS MEDICINE* - Concurrent Enrollment is scheduled in period 6 taught by BRYAN^
+prep is scheduled in period 7 for BRYAN^
+prep is scheduled in period 8 for BRYAN^
+MYTHOLOGY ANCIENT is scheduled in period 1 taught by MCPHERSON
+MYTHOLOGY ANCIENT is scheduled in period 2 taught by MCPHERSON
+ENGLISH 11* is scheduled in period 3 taught by MCPHERSON
+MCPHERSON is not available in period 4
+MCPHERSON is not available in period 5
+ENGLISH ESSENTIALS is scheduled in period 6 taught by MCPHERSON
+ENGLISH ESSENTIALS is scheduled in period 7 taught by MCPHERSON
+MCPHERSON is not available in period 8
+AP BIOLOGY - Concurrent Enrollment BIO 1610* is scheduled in period 1 taught by BERRETT
+AP BIOLOGY - Concurrent Enrollment BIO 1610* is scheduled in period 2 taught by BERRETT
+GENETICS is scheduled in period 3 taught by BERRETT
+BIOLOGY 1010 - Concurrent Enrollment* is scheduled in period 4 taught by BERRETT
+AP BIOLOGY - Concurrent Enrollment BIO 1610* is scheduled in period 5 taught by BERRETT
+BIOLOGY 1010 - Concurrent Enrollment* is scheduled in period 6 taught by BERRETT
+prep is scheduled in period 7 for BERRETT
+BIOLOGY 1010 - Concurrent Enrollment* is scheduled in period 8 taught by BERRETT
+LS MATH* is scheduled in period 1 taught by HURTT^
+STUDENT GOVERNMENT* is scheduled in period 2 taught by HURTT^
+LS WRITING* is scheduled in period 3 taught by HURTT^
+LS MATH* is scheduled in period 4 taught by HURTT^
+LS READING* is scheduled in period 5 taught by HURTT^
+LS READING* is scheduled in period 6 taught by HURTT^
+LIFE SKILLS* is scheduled in period 7 taught by HURTT^
+prep is scheduled in period 8 for HURTT^
 PHYSICS* is scheduled in period 1 taught by NAIR
 PHYSICS* is scheduled in period 2 taught by NAIR
 PHYSICS* is scheduled in period 3 taught by NAIR
 PHYSICS* is scheduled in period 4 taught by NAIR
 PHYSICS* is scheduled in period 5 taught by NAIR
 PHYSICS* is scheduled in period 6 taught by NAIR
-prep is scheduled in period 6 for NAIR
-PHYSICS* is scheduled in period 8 taught by NAIR
-FINANCIAL LITERACY is scheduled in period 1 taught by VOORHEIS^
-prep is scheduled in period 1 for VOORHEIS^
-FINANCIAL LITERACY is scheduled in period 3 taught by VOORHEIS^
-FINANCIAL LITERACY is scheduled in period 4 taught by VOORHEIS^
-US HISTORY* is scheduled in period 5 taught by VOORHEIS^
-US HISTORY* is scheduled in period 6 taught by VOORHEIS^
-US HISTORY* is scheduled in period 7 taught by VOORHEIS^
-SOCIAL STUDIES ESSENTIALS is scheduled in period 8 taught by VOORHEIS^
-AP CALCULUS AB* is scheduled in period 1 taught by SMITH, CRAIG
-prep is scheduled in period 1 for SMITH, CRAIG
-AP CALCULUS AB* is scheduled in period 3 taught by SMITH, CRAIG
-AP CALCULUS AB* is scheduled in period 4 taught by SMITH, CRAIG
-AP CALCULUS AB* is scheduled in period 5 taught by SMITH, CRAIG
-prep is scheduled in period 5 for SMITH, CRAIG
-AP CALCULUS AB* is scheduled in period 7 taught by SMITH, CRAIG
-AP CALCULUS AB* is scheduled in period 8 taught by SMITH, CRAIG
-prep is scheduled in period 0 for ASAY
-LIFETIME ACTIVITY is scheduled in period 2 taught by ASAY
-HIGH FIT/ZUMBA is scheduled in period 3 taught by ASAY
-LIFETIME ACTIVITY is scheduled in period 4 taught by ASAY
-prep is scheduled in period 4 for ASAY
-LIFETIME ACTIVITY is scheduled in period 6 taught by ASAY
-LIFETIME ACTIVITY is scheduled in period 7 taught by ASAY
-prep is scheduled in period 7 for ASAY
-GRAPHIC DESIGN / DIGITAL MEDIA is scheduled in period 1 taught by MOLEN^
-DIGITAL TECHNOLOGY - Concurrent Enrollment is scheduled in period 2 taught by MOLEN^
-GRAPHIC DESIGN / DIGITAL MEDIA is scheduled in period 3 taught by MOLEN^
-BUSINESS OFFICE SPECIALIST - Concurrent Enrollment is scheduled in period 4 taught by MOLEN^
-prep is scheduled in period 4 for MOLEN^
-prep is scheduled in period 5 for MOLEN^
-BUSINESS MANAGEMENT - Concurrent Enrollment is scheduled in period 7 taught by MOLEN^
-WEB DEVELOPMENT 2 - Concurrent Enrollment is scheduled in period 8 taught by MOLEN^
-HEALTH is scheduled in period 1 taught by MONTROSE^
-SPANISH 2* is scheduled in period 2 taught by MONTROSE^
-SPANISH 2* is scheduled in period 3 taught by MONTROSE^
-HEALTH is scheduled in period 4 taught by MONTROSE^
-prep is scheduled in period 4 for MONTROSE^
-SPANISH 2* is scheduled in period 6 taught by MONTROSE^
-HEALTH is scheduled in period 7 taught by MONTROSE^
-HEALTH is scheduled in period 8 taught by MONTROSE^
-prep is scheduled in period 0 for HUNT
-prep is scheduled in period 1 for HUNT
-LAW ENFORCEMENT is scheduled in period 3 taught by HUNT
-prep is scheduled in period 3 for HUNT
-prep is scheduled in period 4 for HUNT
-prep is scheduled in period 5 for HUNT
-LAW ENFORCEMENT is scheduled in period 7 taught by HUNT
-prep is scheduled in period 7 for HUNT
-ENGLISH 11 HONORS* is scheduled in period 1 taught by OMER, R.
-prep is scheduled in period 1 for OMER, R.
-AMERICAN STUDIES* is scheduled in period 3 taught by OMER, R.
-AMERICAN STUDIES* is scheduled in period 4 taught by OMER, R.
-AMERICAN STUDIES* is scheduled in period 5 taught by OMER, R.
-prep is scheduled in period 5 for OMER, R.
-AMERICAN STUDIES* is scheduled in period 7 taught by OMER, R.
-ENGLISH 11 HONORS* is scheduled in period 8 taught by OMER, R.
-SECONDARY MATH 3* is scheduled in period 1 taught by SAUNDERS
-SECONDARY MATH 3* is scheduled in period 2 taught by SAUNDERS
-SECONDARY MATH 3* is scheduled in period 3 taught by SAUNDERS
-PRECALCULUS* is scheduled in period 4 taught by SAUNDERS
-prep is scheduled in period 4 for SAUNDERS
-PRECALCULUS* is scheduled in period 6 taught by SAUNDERS
+PHYSICS* is scheduled in period 7 taught by NAIR
+prep is scheduled in period 8 for NAIR
+prep is scheduled in period 1 for SAUNDERS
+PRECALCULUS* is scheduled in period 2 taught by SAUNDERS
+PRECALCULUS* is scheduled in period 3 taught by SAUNDERS
+SECONDARY MATH 3* is scheduled in period 4 taught by SAUNDERS
+SECONDARY MATH 3* is scheduled in period 5 taught by SAUNDERS
+SECONDARY MATH 3* is scheduled in period 6 taught by SAUNDERS
 SECONDARY MATH 3* is scheduled in period 7 taught by SAUNDERS
 SECONDARY MATH 3* is scheduled in period 8 taught by SAUNDERS
-FRENCH 1* is scheduled in period 1 taught by PAXTON^^
-FRENCH 3* - Concurrent Enrollment is scheduled in period 2 taught by PAXTON^^
-FRENCH 3* is scheduled in period 3 taught by PAXTON^^
-FRENCH 4/AP* is scheduled in period 4 taught by PAXTON^^
-CURRENT ISSUES is scheduled in period 5 taught by PAXTON^^
-COLLEGE/AP STUDY HALL is scheduled in period 6 taught by PAXTON^^
-FRENCH 4/AP* - Concurrent Enrollment is scheduled in period 7 taught by PAXTON^^
-FRENCH 2* is scheduled in period 8 taught by PAXTON^^
-SECONDARY MATH 3* is scheduled in period 1 taught by RIDGWAY
-SECONDARY MATH 3 LAB is scheduled in period 2 taught by RIDGWAY
-SECONDARY MATH 2 LAB is scheduled in period 3 taught by RIDGWAY
-SECONDARY MATH 2* is scheduled in period 4 taught by RIDGWAY
-prep is scheduled in period 4 for RIDGWAY
-SECONDARY MATH 2 LAB is scheduled in period 6 taught by RIDGWAY
-SECONDARY MATH 2 LAB is scheduled in period 7 taught by RIDGWAY
-SECONDARY MATH 2* is scheduled in period 8 taught by RIDGWAY
-BOYS BASKETBALL TEAM is scheduled in period 1 taught by ROSS
-prep is scheduled in period 1 for ROSS
-prep is scheduled in period 2 for ROSS
-prep is scheduled in period 3 for ROSS
-prep is scheduled in period 4 for ROSS
-prep is scheduled in period 5 for ROSS
-prep is scheduled in period 6 for ROSS
-prep is scheduled in period 7 for ROSS
-AP ENVIRONMENTAL SCIENCE-Concurrent Enrollment* is scheduled in period 1 taught by PERKES
-AP ENVIRONMENTAL SCIENCE-Concurrent Enrollment* is scheduled in period 2 taught by PERKES
-WEATHER/CLIMATE - Concurrent Enrollment is scheduled in period 3 taught by PERKES
-WEATHER/CLIMATE - Concurrent Enrollment is scheduled in period 4 taught by PERKES
-WEATHER/CLIMATE - Concurrent Enrollment is scheduled in period 5 taught by PERKES
-WEATHER/CLIMATE - Concurrent Enrollment is scheduled in period 6 taught by PERKES
-prep is scheduled in period 6 for PERKES
-ENVIRONMENTAL SCIENCE is scheduled in period 8 taught by PERKES
-PAINTING 1 is scheduled in period 1 taught by FIELD
-prep is scheduled in period 1 for FIELD
-SCULPTURE 1 is scheduled in period 3 taught by FIELD
-PAINTING 1 is scheduled in period 4 taught by FIELD
-PAINTING 1 is scheduled in period 5 taught by FIELD
-SCULPTURE 1 is scheduled in period 6 taught by FIELD
-SCULPTURE 1 is scheduled in period 7 taught by FIELD
-SCULPTURE 2 is scheduled in period 8 taught by FIELD
+prep is scheduled in period 1 for SCHETTLER
+BIOLOGY* is scheduled in period 2 taught by SCHETTLER
+BIOLOGY* is scheduled in period 3 taught by SCHETTLER
+BIOLOGY* is scheduled in period 4 taught by SCHETTLER
+prep is scheduled in period 5 for SCHETTLER
+BIOLOGY* is scheduled in period 6 taught by SCHETTLER
+BIOLOGY* is scheduled in period 7 taught by SCHETTLER
+BIOLOGY* is scheduled in period 8 taught by SCHETTLER
+WEIGHTS is scheduled in period 1 taught by SCHOONOVER
+ADVANCED WEIGHTS is scheduled in period 2 taught by SCHOONOVER
+prep is scheduled in period 3 for SCHOONOVER
+ADVANCED WEIGHTS is scheduled in period 4 taught by SCHOONOVER
+PE FITNESS is scheduled in period 5 taught by SCHOONOVER
+PE FITNESS is scheduled in period 6 taught by SCHOONOVER
+PE FITNESS is scheduled in period 7 taught by SCHOONOVER
+PE FITNESS is scheduled in period 8 taught by SCHOONOVER
+SPANISH 4* - Concurrent Enrollment is scheduled in period 1 taught by PEAY
+prep is scheduled in period 2 for PEAY
+SPANISH 3* - Concurrent Enrollment is scheduled in period 3 taught by PEAY
+prep is scheduled in period 4 for PEAY
+SPANISH 3* - Concurrent Enrollment is scheduled in period 5 taught by PEAY
+AP SPANISH LANGUAGE* is scheduled in period 6 taught by PEAY
+SPANISH 4* - Concurrent Enrollment is scheduled in period 7 taught by PEAY
+SPANISH 3* - Concurrent Enrollment is scheduled in period 8 taught by PEAY
+CULINARY BASICS is scheduled in period 1 taught by COX, B.^
+ADVANCED CULINARY* - Concurrent Enrollment is scheduled in period 2 taught by COX, B.^
+CULINARY BASICS is scheduled in period 3 taught by COX, B.^
+STUDENT GOVERNMENT* is scheduled in period 4 taught by COX, B.^
+BAKING & PASTRY is scheduled in period 5 taught by COX, B.^
+CULINARY BASICS is scheduled in period 6 taught by COX, B.^
+ADVANCED CULINARY* - Concurrent Enrollment is scheduled in period 7 taught by COX, B.^
+COX, B.^ is not available in period 8
+AP PSYCHOLOGY* is scheduled in period 1 taught by KIM, H.
+AP PSYCHOLOGY* is scheduled in period 2 taught by KIM, H.
+PSYCHOLOGY is scheduled in period 3 taught by KIM, H.
+AP PSYCHOLOGY* is scheduled in period 4 taught by KIM, H.
+prep is scheduled in period 5 for KIM, H.
+prep is scheduled in period 6 for KIM, H.
+AP PSYCHOLOGY* is scheduled in period 7 taught by KIM, H.
+PSYCHOLOGY is scheduled in period 8 taught by KIM, H.
+DAVENPORT (BRANCH) is not available in period 1
+DAVENPORT (BRANCH) is not available in period 2
+DAVENPORT (BRANCH) is not available in period 3
+DAVENPORT (BRANCH) is not available in period 4
+DAVENPORT (BRANCH) is not available in period 5
+DAVENPORT (BRANCH) is not available in period 6
+FLORAL DESIGN 1 is scheduled in period 7 taught by DAVENPORT (BRANCH)
+DAVENPORT (BRANCH) is not available in period 8
+ASL 2* is scheduled in period 1 taught by TERRY
+ASL3* & ASL 4* - Concurrent Enrollment is scheduled in period 2 taught by TERRY
+ASL 2* is scheduled in period 3 taught by TERRY
+prep is scheduled in period 4 for TERRY
+ASL 1* is scheduled in period 5 taught by TERRY
+ASL 3* - Concurrent Enrollment is scheduled in period 6 taught by TERRY
+ASL 1* is scheduled in period 7 taught by TERRY
+ASL 1* is scheduled in period 8 taught by TERRY
+MOEA'I (DICKSON) is not available in period 1
+MOEA'I (DICKSON) is not available in period 2
+MOEA'I (DICKSON) is not available in period 3
+GIRLS VOLLEYBALL TEAM is scheduled in period 4 taught by MOEA'I (DICKSON)
+MOEA'I (DICKSON) is not available in period 5
+MOEA'I (DICKSON) is not available in period 6
+MOEA'I (DICKSON) is not available in period 7
+MOEA'I (DICKSON) is not available in period 8
+AP ENGLISH LANGUAGE* is scheduled in period 1 taught by REES
+prep is scheduled in period 2 for REES
+AP ENGLISH LANGUAGE* is scheduled in period 3 taught by REES
+AP ENGLISH LANGUAGE* is scheduled in period 4 taught by REES
+AP ENGLISH LANGUAGE* is scheduled in period 5 taught by REES
+ENGLISH 11 HONORS* is scheduled in period 6 taught by REES
+REES is not available in period 7
+ENGLISH 11 HONORS* is scheduled in period 8 taught by REES
+ENGLISH 10* is scheduled in period 1 taught by NIELSON
+ENGLISH 10* is scheduled in period 2 taught by NIELSON
+ENGLISH 10* is scheduled in period 3 taught by NIELSON
+ENGLISH 10* is scheduled in period 4 taught by NIELSON
+NIELSON is not available in period 5
+NIELSON is not available in period 6
+NIELSON is not available in period 7
+NIELSON is not available in period 8
+FINANCIAL LITERACY is scheduled in period 1 taught by VOORHEIS^
+US HISTORY* is scheduled in period 2 taught by VOORHEIS^
+prep is scheduled in period 3 for VOORHEIS^
+FINANCIAL LITERACY is scheduled in period 4 taught by VOORHEIS^
+US HISTORY* is scheduled in period 5 taught by VOORHEIS^
+SOCIAL STUDIES ESSENTIALS is scheduled in period 6 taught by VOORHEIS^
+FINANCIAL LITERACY is scheduled in period 7 taught by VOORHEIS^
+US HISTORY* is scheduled in period 8 taught by VOORHEIS^
+SECONDARY MATH 3* is scheduled in period 1 taught by MURRAY
+prep is scheduled in period 2 for MURRAY
+SECONDARY MATH 3* is scheduled in period 3 taught by MURRAY
+SECONDARY MATH 3 EXTENDED* is scheduled in period 4 taught by MURRAY
+MATH 1010-Concurrent Enrollment is scheduled in period 5 taught by MURRAY
+SECONDARY MATH 3 EXTENDED* is scheduled in period 6 taught by MURRAY
+SECONDARY MATH 3 EXTENDED* is scheduled in period 7 taught by MURRAY
+MATH 1010-Concurrent Enrollment is scheduled in period 8 taught by MURRAY
 HEALTH is scheduled in period 1 taught by FERRAN
 HEALTH is scheduled in period 2 taught by FERRAN
 HEALTH is scheduled in period 3 taught by FERRAN
 HEALTH is scheduled in period 4 taught by FERRAN
-prep is scheduled in period 4 for FERRAN
+HEALTH is scheduled in period 5 taught by FERRAN
 HEALTH is scheduled in period 6 taught by FERRAN
-HEALTH is scheduled in period 7 taught by FERRAN
+prep is scheduled in period 7 for FERRAN
 HEALTH is scheduled in period 8 taught by FERRAN
-VIDEO EDITING is scheduled in period 1 taught by DURRANT
-prep is scheduled in period 1 for DURRANT
-VIDEO EDITING is scheduled in period 3 taught by DURRANT
-BROADCASTING 1 is scheduled in period 4 taught by DURRANT
-UKNIGHTED* is scheduled in period 5 taught by DURRANT
-BROADCASTING 1 is scheduled in period 6 taught by DURRANT
-VIDEO CINEMATOGRAPHY is scheduled in period 7 taught by DURRANT
-LONE PEAK LIVE - Concurrent Enrollment is scheduled in period 8 taught by DURRANT
-prep is scheduled in period 0 for SCHOONOVER
-ADVANCED WEIGHTS is scheduled in period 2 taught by SCHOONOVER
-ADVANCED WEIGHTS is scheduled in period 3 taught by SCHOONOVER
-PE FITNESS is scheduled in period 4 taught by SCHOONOVER
-PE FITNESS is scheduled in period 5 taught by SCHOONOVER
-PE FITNESS is scheduled in period 6 taught by SCHOONOVER
-WEIGHTS is scheduled in period 7 taught by SCHOONOVER
-PE FITNESS is scheduled in period 8 taught by SCHOONOVER
-prep is scheduled in period 0 for BIRRELL
-AMERICAN STUDIES* is scheduled in period 2 taught by BIRRELL
-AMERICAN STUDIES* is scheduled in period 3 taught by BIRRELL
-prep is scheduled in period 3 for BIRRELL
-AP US HISTORY - Concurrent Enrollment* is scheduled in period 5 taught by BIRRELL
-AMERICAN STUDIES* is scheduled in period 6 taught by BIRRELL
-AMERICAN STUDIES* is scheduled in period 7 taught by BIRRELL
-AP GOV & POLITICS-Concurrent Enrollment* is scheduled in period 8 taught by BIRRELL
-POP/ROCK ENSEMBLE* is scheduled in period 1 taught by KIM, J.
-UKULELE is scheduled in period 2 taught by KIM, J.
-JAZZ BAND 1* is scheduled in period 3 taught by KIM, J.
-JAZZ BAND 2* is scheduled in period 4 taught by KIM, J.
-WIND ENSEMBLE ADVANCED* is scheduled in period 5 taught by KIM, J.
-prep is scheduled in period 5 for KIM, J.
-prep is scheduled in period 6 for KIM, J.
-WIND SYMPHONY* is scheduled in period 8 taught by KIM, J.
-STUDY HALL is scheduled in period 1 taught by PASKETT^^
-MEDICAL TERMINOLOGY - Concurrent Enrollment is scheduled in period 2 taught by PASKETT^^
-MEDICAL ANATOMY & PHYSIOLOGY* is scheduled in period 3 taught by PASKETT^^
-EMERGENCY MEDICAL RESPONDER - Concurrent Enrollment is scheduled in period 4 taught by PASKETT^^
-MEDICAL ANATOMY & PHYSIOLOGY* is scheduled in period 5 taught by PASKETT^^
-MEDICAL ANATOMY & PHYSIOLOGY* is scheduled in period 6 taught by PASKETT^^
-MEDICAL TERMINOLOGY - Concurrent Enrollment is scheduled in period 7 taught by PASKETT^^
-MEDICAL ANATOMY & PHYSIOLOGY* is scheduled in period 8 taught by PASKETT^^
-DRAWING 1 is scheduled in period 1 taught by PACK^^
-prep is scheduled in period 1 for PACK^^
-ITALIAN 2* is scheduled in period 3 taught by PACK^^
-DRAWING 2 is scheduled in period 4 taught by PACK^^
-AP ART-2D PORTFOLIO or AP ART DRAWING* is scheduled in period 5 taught by PACK^^
-AP ART HISTORY* is scheduled in period 6 taught by PACK^^
-DRAWING 1 is scheduled in period 7 taught by PACK^^
-ITALIAN 1* is scheduled in period 8 taught by PACK^^
-prep is scheduled in period 0 for HEATH
-prep is scheduled in period 1 for HEATH
-AP CHINESE* is scheduled in period 3 taught by HEATH
-CHINESE BRIDGE 3118* is scheduled in period 4 taught by HEATH
-prep is scheduled in period 4 for HEATH
-prep is scheduled in period 5 for HEATH
-CHINESE BRIDGE 3118* is scheduled in period 7 taught by HEATH
-prep is scheduled in period 7 for HEATH
-ENGLISH 11* is scheduled in period 1 taught by SMITH, CASSIDY
-prep is scheduled in period 1 for SMITH, CASSIDY
-ENGLISH 11* is scheduled in period 3 taught by SMITH, CASSIDY
-ENGLISH 10* is scheduled in period 4 taught by SMITH, CASSIDY
-prep is scheduled in period 4 for SMITH, CASSIDY
-ENGLISH 10* is scheduled in period 6 taught by SMITH, CASSIDY
-ENGLISH 10* is scheduled in period 7 taught by SMITH, CASSIDY
-ENGLISH 11* is scheduled in period 8 taught by SMITH, CASSIDY
-HISTORY OF ROCK AND ROLL - Concurrent Enrollment is scheduled in period 1 taught by HOPE
-prep is scheduled in period 1 for HOPE
-PERCUSSION ADV.* is scheduled in period 3 taught by HOPE
-DRUM SET 1 is scheduled in period 4 taught by HOPE
-prep is scheduled in period 4 for HOPE
-PERCUSSION BEGINNING & INT.* is scheduled in period 6 taught by HOPE
-HISTORY OF ROCK AND ROLL - Concurrent Enrollment is scheduled in period 7 taught by HOPE
-STEEL DRUMS is scheduled in period 8 taught by HOPE
-CERAMICS 2 is scheduled in period 1 taught by SEELY
-CERAMICS 1 is scheduled in period 2 taught by SEELY
-prep is scheduled in period 2 for SEELY
-CERAMICS 1 is scheduled in period 4 taught by SEELY
-CERAMICS 1 is scheduled in period 5 taught by SEELY
-CERAMICS 1 is scheduled in period 6 taught by SEELY
-CERAMICS 1 is scheduled in period 7 taught by SEELY
-AP ART-3D SCULPTURE PORTFOLIO* is scheduled in period 8 taught by SEELY
-PHYSICS* is scheduled in period 1 taught by EREKSON
-prep is scheduled in period 1 for EREKSON
-ASTRONOMY - Concurrent Enrollment is scheduled in period 3 taught by EREKSON
-AP PHYSICS C* is scheduled in period 4 taught by EREKSON
-PHYSICS* is scheduled in period 5 taught by EREKSON
-ASTRONOMY - Concurrent Enrollment is scheduled in period 6 taught by EREKSON
-ASTRONOMY - Concurrent Enrollment is scheduled in period 7 taught by EREKSON
-ASTRONOMY - Concurrent Enrollment is scheduled in period 8 taught by EREKSON
-ENGLISH 10* is scheduled in period 1 taught by NIELSON
-ENGLISH 10* is scheduled in period 2 taught by NIELSON
-ENGLISH 10* is scheduled in period 3 taught by NIELSON
-prep is scheduled in period 3 for NIELSON
-prep is scheduled in period 4 for NIELSON
-prep is scheduled in period 5 for NIELSON
-ENGLISH 10* is scheduled in period 7 taught by NIELSON
-prep is scheduled in period 7 for NIELSON
-CREATIVE WRITING 1 is scheduled in period 1 taught by NELSON
-ENGLISH 12* is scheduled in period 2 taught by NELSON
-ENGLISH 12* is scheduled in period 3 taught by NELSON
-ENGLISH 12* is scheduled in period 4 taught by NELSON
-CREATIVE WRITING 1 is scheduled in period 5 taught by NELSON
-ENGLISH 12* is scheduled in period 6 taught by NELSON
-prep is scheduled in period 6 for NELSON
-CREATIVE WRITING 1 is scheduled in period 8 taught by NELSON
-prep is scheduled in period 0 for TOPHAM^
-AUDIO PROD 1 is scheduled in period 2 taught by TOPHAM^
-VIDEO CAPSTONE* is scheduled in period 3 taught by TOPHAM^
-UKNIGHTED* is scheduled in period 4 taught by TOPHAM^
-LONE PEAK LIVE - Concurrent Enrollment is scheduled in period 5 taught by TOPHAM^
-LONE PEAK LIVE is scheduled in period 6 taught by TOPHAM^
-VIDEO PROD 1 is scheduled in period 7 taught by TOPHAM^
-STUDENT GOVERNMENT* is scheduled in period 8 taught by TOPHAM^
-EARTH SCIENCE* is scheduled in period 1 taught by PASSEY
-EARTH SCIENCE* is scheduled in period 2 taught by PASSEY
-EARTH SCIENCE* is scheduled in period 3 taught by PASSEY
-SCIENCE ESSENTIALS is scheduled in period 4 taught by PASSEY
-PHYSICS* is scheduled in period 5 taught by PASSEY
-EARTH SCIENCE* is scheduled in period 6 taught by PASSEY
-PHYSICS* is scheduled in period 7 taught by PASSEY
-prep is scheduled in period 7 for PASSEY
-SECONDARY MATH 3 EXTENDED* is scheduled in period 1 taught by SUMMERS
-MATH 1010-Concurrent Enrollment is scheduled in period 2 taught by SUMMERS
-CALCULUS AB LAB is scheduled in period 3 taught by SUMMERS
-SECONDARY MATH 3 EXTENDED* is scheduled in period 4 taught by SUMMERS
-MATH 1010-Concurrent Enrollment is scheduled in period 5 taught by SUMMERS
-CALCULUS AB LAB is scheduled in period 6 taught by SUMMERS
-CALCULUS AB LAB is scheduled in period 7 taught by SUMMERS
-prep is scheduled in period 7 for SUMMERS
-ACCOUNTING 1 is scheduled in period 1 taught by DAY^
-ACCOUNTING 1 is scheduled in period 2 taught by DAY^
-prep is scheduled in period 2 for DAY^
-prep is scheduled in period 3 for DAY^
-ENTREPRENEURSHIP is scheduled in period 5 taught by DAY^
-prep is scheduled in period 5 for DAY^
-prep is scheduled in period 6 for DAY^
-prep is scheduled in period 7 for DAY^
-SCRIPT WRITING is scheduled in period 1 taught by COX, C.^^
-prep is scheduled in period 1 for COX, C.^^
-MOTION PICTURE is scheduled in period 3 taught by COX, C.^^
-THEATER PRODUCTIONS* is scheduled in period 4 taught by COX, C.^^
-MUSICAL THEATER is scheduled in period 5 taught by COX, C.^^
-MOTION PICTURE is scheduled in period 6 taught by COX, C.^^
-prep is scheduled in period 6 for COX, C.^^
-STAGE CREW* is scheduled in period 8 taught by COX, C.^^
-SECONDARY MATH 2* is scheduled in period 1 taught by TRACY
-SECONDARY MATH 2* is scheduled in period 2 taught by TRACY
-SECONDARY MATH 2* is scheduled in period 3 taught by TRACY
-prep is scheduled in period 3 for TRACY
-SECONDARY MATH 1* is scheduled in period 5 taught by TRACY
-MATH ESSENTIALS is scheduled in period 6 taught by TRACY
-SECONDARY MATH 1* is scheduled in period 7 taught by TRACY
-SECONDARY MATH 2* is scheduled in period 8 taught by TRACY
-SECONDARY MATH 2* is scheduled in period 1 taught by MOLENI
-prep is scheduled in period 1 for MOLENI
-prep is scheduled in period 2 for MOLENI
-SECONDARY MATH 1* is scheduled in period 4 taught by MOLENI
-SECONDARY MATH 2* is scheduled in period 5 taught by MOLENI
-MATH DECISION MAKING* is scheduled in period 6 taught by MOLENI
-SECONDARY MATH 1 LAB is scheduled in period 7 taught by MOLENI
-MATH DECISION MAKING* is scheduled in period 8 taught by MOLENI
-DEBATE* is scheduled in period 1 taught by WALKER, M.
+ENGLISH 11* is scheduled in period 1 taught by WALKER, M.
 ENGLISH 11* is scheduled in period 2 taught by WALKER, M.
-ENGLISH 11* is scheduled in period 3 taught by WALKER, M.
-ENGLISH 11* is scheduled in period 4 taught by WALKER, M.
+prep is scheduled in period 3 for WALKER, M.
+DEBATE* is scheduled in period 4 taught by WALKER, M.
 DEBATE* is scheduled in period 5 taught by WALKER, M.
 ENGLISH 11* is scheduled in period 6 taught by WALKER, M.
-prep is scheduled in period 6 for WALKER, M.
+ENGLISH 11* is scheduled in period 7 taught by WALKER, M.
 ENGLISH 11* is scheduled in period 8 taught by WALKER, M.
-MOTION PICTURE is scheduled in period 1 taught by COX, C.^
+DRUM SET 1 is scheduled in period 1 taught by HOPE
+prep is scheduled in period 2 for HOPE
+PERCUSSION ADV.* is scheduled in period 3 taught by HOPE
+PERCUSSION BEGINNING & INT.* is scheduled in period 4 taught by HOPE
+STEEL DRUMS is scheduled in period 5 taught by HOPE
+prep is scheduled in period 6 for HOPE
+HISTORY OF ROCK AND ROLL - Concurrent Enrollment is scheduled in period 7 taught by HOPE
+HISTORY OF ROCK AND ROLL - Concurrent Enrollment is scheduled in period 8 taught by HOPE
+GAME DEVELOPMENT FUNDAMENTALS 1 is scheduled in period 1 taught by LEE^
+COMPUTER PROGRAMMING 1&2* - Concurrent Enrollment is scheduled in period 2 taught by LEE^
+ADVANCED COMPUTER PROGRAMMING* - Concurrent Enrollment is scheduled in period 3 taught by LEE^
+GAME DEVELOPMENT FUNDAMENTALS 1 is scheduled in period 4 taught by LEE^
+COMPUTER PROGRAMMING 1&2* - Concurrent Enrollment is scheduled in period 5 taught by LEE^
+ALGORITHMS & DATA STRUCTURES* - Concurrent Enrollment is scheduled in period 6 taught by LEE^
+prep is scheduled in period 7 for LEE^
+COMPUTER PROGRAMMING 1&2* - Concurrent Enrollment is scheduled in period 8 taught by LEE^
+SCRIPT WRITING is scheduled in period 1 taught by COX, C.^
 MOTION PICTURE is scheduled in period 2 taught by COX, C.^
-STAGE CREW* is scheduled in period 3 taught by COX, C.^
-prep is scheduled in period 3 for COX, C.^
-SCRIPT WRITING is scheduled in period 5 taught by COX, C.^
-prep is scheduled in period 5 for COX, C.^
-MUSICAL THEATER is scheduled in period 7 taught by COX, C.^
-THEATER PRODUCTIONS* is scheduled in period 8 taught by COX, C.^
-INTERIOR DESIGN 3* is scheduled in period 1 taught by BROADBENT
-prep is scheduled in period 1 for BROADBENT
-INTERIOR DESIGN 1 is scheduled in period 3 taught by BROADBENT
-prep is scheduled in period 3 for BROADBENT
-prep is scheduled in period 4 for BROADBENT
-prep is scheduled in period 5 for BROADBENT
-INTERIOR DESIGN 1 is scheduled in period 7 taught by BROADBENT
-prep is scheduled in period 7 for BROADBENT
-PAINTING 1 is scheduled in period 1 taught by BRAUN
-prep is scheduled in period 1 for BRAUN
-ART HONORS* is scheduled in period 3 taught by BRAUN
-PAINTING 2 is scheduled in period 4 taught by BRAUN
-DRAWING 1 is scheduled in period 5 taught by BRAUN
-ILLUSTRATION is scheduled in period 6 taught by BRAUN
-PAINTING 1 is scheduled in period 7 taught by BRAUN
-DRAWING 1 is scheduled in period 8 taught by BRAUN
-prep is scheduled in period 0 for GUMMOW
-prep is scheduled in period 1 for GUMMOW
-GUITAR 1 is scheduled in period 3 taught by GUMMOW
-prep is scheduled in period 3 for GUMMOW
-prep is scheduled in period 4 for GUMMOW
-prep is scheduled in period 5 for GUMMOW
-prep is scheduled in period 6 for GUMMOW
-GUITAR 1 is scheduled in period 8 taught by GUMMOW
-FINANCIAL LITERACY - Concurrent Enrollment is scheduled in period 1 taught by FLOOD
-FINANCIAL LITERACY - Concurrent Enrollment is scheduled in period 2 taught by FLOOD
-FINANCIAL LITERACY - Concurrent Enrollment is scheduled in period 3 taught by FLOOD
-FINANCIAL LITERACY - Concurrent Enrollment is scheduled in period 4 taught by FLOOD
-prep is scheduled in period 4 for FLOOD
-FINANCIAL LITERACY - Concurrent Enrollment is scheduled in period 6 taught by FLOOD
-FINANCIAL LITERACY - Concurrent Enrollment is scheduled in period 7 taught by FLOOD
-FINANCIAL LITERACY - Concurrent Enrollment is scheduled in period 8 taught by FLOOD
-LIFETIME ACTIVITY is scheduled in period 1 taught by WARNER
-LIFETIME ACTIVITY is scheduled in period 2 taught by WARNER
-WEIGHTS Female is scheduled in period 3 taught by WARNER
-prep is scheduled in period 3 for WARNER
-LIFETIME ACTIVITY is scheduled in period 5 taught by WARNER
-INTRO TO BASKETBALL is scheduled in period 6 taught by WARNER
-LIFETIME ACTIVITY is scheduled in period 7 taught by WARNER
-GIRLS BASKETBALL TEAM is scheduled in period 8 taught by WARNER
-prep is scheduled in period 0 for GUNNARSON
-prep is scheduled in period 1 for GUNNARSON
-ANCIENT WORLD HISTORY is scheduled in period 3 taught by GUNNARSON
-US HISTORY* is scheduled in period 4 taught by GUNNARSON
-US HISTORY* is scheduled in period 5 taught by GUNNARSON
-US HISTORY* is scheduled in period 6 taught by GUNNARSON
-ANCIENT WORLD HISTORY is scheduled in period 7 taught by GUNNARSON
-US HISTORY* is scheduled in period 8 taught by GUNNARSON
-FOUNDATIONS OF NUTRITION-Concurrent Enrollment is scheduled in period 1 taught by BURNETT^^
-FOUNDATIONS OF NUTRITION-Concurrent Enrollment is scheduled in period 2 taught by BURNETT^^
-prep is scheduled in period 2 for BURNETT^^
-STUDENT GOVERNMENT* is scheduled in period 4 taught by BURNETT^^
-prep is scheduled in period 4 for BURNETT^^
-EMERGENCY MEDICAL RESPONDER - Concurrent Enrollment is scheduled in period 6 taught by BURNETT^^
-EMERGENCY MEDICAL RESPONDER - Concurrent Enrollment is scheduled in period 7 taught by BURNETT^^
-CHEER TEAM* is scheduled in period 8 taught by BURNETT^^
-prep is scheduled in period 0 for GIBBY^
-prep is scheduled in period 1 for GIBBY^
-prep is scheduled in period 2 for GIBBY^
-COMMERCIAL PHOTO 1 is scheduled in period 4 taught by GIBBY^
-COMMERCIAL PHOTO 1 is scheduled in period 5 taught by GIBBY^
-COMMERCIAL PHOTO 1 is scheduled in period 6 taught by GIBBY^
-YEARBOOK* is scheduled in period 7 taught by GIBBY^
-prep is scheduled in period 7 for GIBBY^
-prep is scheduled in period 0 for BANKS^
-GERMAN 2* is scheduled in period 2 taught by BANKS^
-HISTORY OF ROCK AND ROLL - Concurrent Enrollment is scheduled in period 3 taught by BANKS^
-GERMAN 3* - Concurrent Enrollment is scheduled in period 4 taught by BANKS^
-prep is scheduled in period 4 for BANKS^
-GERMAN 1* is scheduled in period 6 taught by BANKS^
-HISTORY OF ROCK AND ROLL - Concurrent Enrollment is scheduled in period 7 taught by BANKS^
-GERMAN 4/AP* - Concurrent Enrollment is scheduled in period 8 taught by BANKS^
-SPANISH 4* - Concurrent Enrollment is scheduled in period 1 taught by PEAY
-AP SPANISH LANGUAGE* is scheduled in period 2 taught by PEAY
-SPANISH 3* - Concurrent Enrollment is scheduled in period 3 taught by PEAY
-SPANISH 3* - Concurrent Enrollment is scheduled in period 4 taught by PEAY
-prep is scheduled in period 4 for PEAY
-prep is scheduled in period 5 for PEAY
-SPANISH 3* - Concurrent Enrollment is scheduled in period 7 taught by PEAY
-SPANISH 4* - Concurrent Enrollment is scheduled in period 8 taught by PEAY
-prep is scheduled in period 0 for KIM, H.
-AP PSYCHOLOGY* is scheduled in period 2 taught by KIM, H.
-prep is scheduled in period 2 for KIM, H.
-AP PSYCHOLOGY* is scheduled in period 4 taught by KIM, H.
-AP PSYCHOLOGY* is scheduled in period 5 taught by KIM, H.
-PSYCHOLOGY is scheduled in period 6 taught by KIM, H.
-PSYCHOLOGY is scheduled in period 7 taught by KIM, H.
-AP PSYCHOLOGY* is scheduled in period 8 taught by KIM, H.
-SECONDARY MATH 2* is scheduled in period 1 taught by RUCHTI
-MATH 1010-Concurrent Enrollment is scheduled in period 2 taught by RUCHTI
-SECONDARY MATH 3 EXTENDED* is scheduled in period 3 taught by RUCHTI
-SECONDARY MATH 2* is scheduled in period 4 taught by RUCHTI
-prep is scheduled in period 4 for RUCHTI
-SECONDARY MATH 2* is scheduled in period 6 taught by RUCHTI
-SECONDARY MATH 3 EXTENDED* is scheduled in period 7 taught by RUCHTI
-SECONDARY MATH 2* is scheduled in period 8 taught by RUCHTI
-AP HUMAN GEOGRAPHY* is scheduled in period 1 taught by WAWRO^
-SOCIOLOGY is scheduled in period 2 taught by WAWRO^
-SOCIOLOGY is scheduled in period 3 taught by WAWRO^
-SOCIOLOGY is scheduled in period 4 taught by WAWRO^
-STUDENT GOVERNMENT* is scheduled in period 5 taught by WAWRO^
-AP HUMAN GEOGRAPHY* is scheduled in period 6 taught by WAWRO^
-SOCIOLOGY is scheduled in period 7 taught by WAWRO^
-prep is scheduled in period 7 for WAWRO^
-MUSIC APPRECIATION - Concurrent Enrollment is scheduled in period 1 taught by VERNON
-CONCERT ORCHESTRA* is scheduled in period 2 taught by VERNON
-SYMPHONIC ORCHESTRA* is scheduled in period 3 taught by VERNON
-prep is scheduled in period 3 for VERNON
-CHAMBER ORCHESTRA* is scheduled in period 5 taught by VERNON
-prep is scheduled in period 5 for VERNON
-prep is scheduled in period 6 for VERNON
-prep is scheduled in period 7 for VERNON
+COX, C.^ is not available in period 3
+prep is scheduled in period 4 for COX, C.^
+MOTION PICTURE is scheduled in period 5 taught by COX, C.^
+STAGE CREW* is scheduled in period 6 taught by COX, C.^
+THEATER PRODUCTIONS* is scheduled in period 7 taught by COX, C.^
+MUSICAL THEATER is scheduled in period 8 taught by COX, C.^
+ANIMAL SCIENCE 2* is scheduled in period 1 taught by SPENCER^
+ANIMAL SCIENCE 1* is scheduled in period 2 taught by SPENCER^
+ANIMAL SCIENCE 1* is scheduled in period 3 taught by SPENCER^
+ANIMAL SCIENCE 1* is scheduled in period 4 taught by SPENCER^
+SPENCER^ is not available in period 5
+SPENCER^ is not available in period 6
+SPENCER^ is not available in period 7
+SPENCER^ is not available in period 8
+DRAWING 1 is scheduled in period 1 taught by OMER, M.
+ART HONORS* is scheduled in period 2 taught by OMER, M.
+OMER, M. is not available in period 3
+OMER, M. is not available in period 4
+PAINTING 2 is scheduled in period 5 taught by OMER, M.
+DRAWING 1 is scheduled in period 6 taught by OMER, M.
+OMER, M. is not available in period 7
+OMER, M. is not available in period 8
+PHYSICS 1010 -Concurrent Enrollment* is scheduled in period 1 taught by TALBERT
+PHYSICS 1010 -Concurrent Enrollment* is scheduled in period 2 taught by TALBERT
+PHYSICS* is scheduled in period 3 taught by TALBERT
+PHYSICS 1010 -Concurrent Enrollment* is scheduled in period 4 taught by TALBERT
+PHYSICS* is scheduled in period 5 taught by TALBERT
+PHYSICS* is scheduled in period 6 taught by TALBERT
+prep is scheduled in period 7 for TALBERT
+PHYSICS* is scheduled in period 8 taught by TALBERT
+DESIGN SEWING 1 & 2 is scheduled in period 1 taught by HARLOW
+prep is scheduled in period 2 for HARLOW
+FASHION DESIGN STUDIO is scheduled in period 3 taught by HARLOW
+FASHION DESIGN STUDIO is scheduled in period 4 taught by HARLOW
+HARLOW is not available in period 5
+HARLOW is not available in period 6
+HARLOW is not available in period 7
+HARLOW is not available in period 8
 US HISTORY* is scheduled in period 1 taught by JOLLEY^
-US HISTORY* is scheduled in period 2 taught by JOLLEY^
+prep is scheduled in period 2 for JOLLEY^
 US HISTORY* is scheduled in period 3 taught by JOLLEY^
 US HISTORY* is scheduled in period 4 taught by JOLLEY^
 US HISTORY* is scheduled in period 5 taught by JOLLEY^
 US HISTORY* is scheduled in period 6 taught by JOLLEY^
-prep is scheduled in period 6 for JOLLEY^
-GIRLS SOCCER TEAM is scheduled in period 8 taught by JOLLEY^
-AP BIOLOGY - Concurrent Enrollment BIO 1610* is scheduled in period 1 taught by BERRETT
-BIOLOGY 1010 - Concurrent Enrollment* is scheduled in period 2 taught by BERRETT
-prep is scheduled in period 2 for BERRETT
-BIOLOGY 1010 - Concurrent Enrollment* is scheduled in period 4 taught by BERRETT
-GENETICS is scheduled in period 5 taught by BERRETT
-AP BIOLOGY - Concurrent Enrollment BIO 1610* is scheduled in period 6 taught by BERRETT
-AP BIOLOGY - Concurrent Enrollment BIO 1610* is scheduled in period 7 taught by BERRETT
-BIOLOGY 1010 - Concurrent Enrollment* is scheduled in period 8 taught by BERRETT
-SECONDARY MATH 3* is scheduled in period 1 taught by MURRAY
-MATH 1010-Concurrent Enrollment is scheduled in period 2 taught by MURRAY
-MATH 1010-Concurrent Enrollment is scheduled in period 3 taught by MURRAY
-SECONDARY MATH 3* is scheduled in period 4 taught by MURRAY
-SECONDARY MATH 3 EXTENDED* is scheduled in period 5 taught by MURRAY
-SECONDARY MATH 3 EXTENDED* is scheduled in period 6 taught by MURRAY
-prep is scheduled in period 6 for MURRAY
-SECONDARY MATH 3 EXTENDED* is scheduled in period 8 taught by MURRAY
-ASL 1* is scheduled in period 1 taught by TERRY
-ASL3* & ASL 4* - Concurrent Enrollment is scheduled in period 2 taught by TERRY
-prep is scheduled in period 2 for TERRY
-ASL 2* is scheduled in period 4 taught by TERRY
-ASL 1* is scheduled in period 5 taught by TERRY
-ASL 1* is scheduled in period 6 taught by TERRY
-ASL 2* is scheduled in period 7 taught by TERRY
-ASL 3* - Concurrent Enrollment is scheduled in period 8 taught by TERRY
-GOV & CIT is scheduled in period 1 taught by FARR^
-GOV & CIT is scheduled in period 2 taught by FARR^
-GOV & CIT is scheduled in period 3 taught by FARR^
-BOYS GOLF TEAM is scheduled in period 4 taught by FARR^
-GOV & CIT is scheduled in period 5 taught by FARR^
-GOV & CIT is scheduled in period 6 taught by FARR^
-GOV & CIT is scheduled in period 7 taught by FARR^
-prep is scheduled in period 7 for FARR^
-AP STATISTICS* is scheduled in period 1 taught by LYONS
-SECONDARY MATH 3 EXTENDED* is scheduled in period 2 taught by LYONS
-ADV MATH LAB is scheduled in period 3 taught by LYONS
-AP CALCULUS BC* is scheduled in period 4 taught by LYONS
-prep is scheduled in period 4 for LYONS
-AP STATISTICS* is scheduled in period 6 taught by LYONS
-SECONDARY MATH 3 EXTENDED* is scheduled in period 7 taught by LYONS
-AP CALCULUS BC* is scheduled in period 8 taught by LYONS
-POSITIVE PSYCHOLOGY is scheduled in period 1 taught by ELMER
-SPORTS PSYCHOLOGY is scheduled in period 2 taught by ELMER
-PSYCHOLOGY is scheduled in period 3 taught by ELMER
-PSYCHOLOGY is scheduled in period 4 taught by ELMER
-prep is scheduled in period 4 for ELMER
-POSITIVE PSYCHOLOGY is scheduled in period 6 taught by ELMER
-PSYCHOLOGY is scheduled in period 7 taught by ELMER
-POSITIVE PSYCHOLOGY is scheduled in period 8 taught by ELMER
-SECONDARY MATH 2 EXTENDED* is scheduled in period 1 taught by PEARSON
-SECONDARY MATH 3* is scheduled in period 2 taught by PEARSON
-SECONDARY MATH 2 EXTENDED* is scheduled in period 3 taught by PEARSON
+GIRLS SOCCER TEAM is scheduled in period 7 taught by JOLLEY^
+US HISTORY* is scheduled in period 8 taught by JOLLEY^
+prep is scheduled in period 1 for IKA^^
+RESOURCE ENGLISH* is scheduled in period 2 taught by IKA^^
+PEOPLE OF THE PACIFIC is scheduled in period 3 taught by IKA^^
+ENGLISH 11* is scheduled in period 4 taught by IKA^^
+prep is scheduled in period 5 for IKA^^
+ENGLISH 10* is scheduled in period 6 taught by IKA^^
+ENGLISH 10* is scheduled in period 7 taught by IKA^^
+ENGLISH 10* is scheduled in period 8 taught by IKA^^
+SECONDARY MATH 3* is scheduled in period 1 taught by PEARSON
+SECONDARY MATH 2 EXTENDED* is scheduled in period 2 taught by PEARSON
+prep is scheduled in period 3 for PEARSON
 SECONDARY MATH 3* is scheduled in period 4 taught by PEARSON
 SECONDARY MATH 3* is scheduled in period 5 taught by PEARSON
 SECONDARY MATH 2 EXTENDED* is scheduled in period 6 taught by PEARSON
 SECONDARY MATH 2 EXTENDED* is scheduled in period 7 taught by PEARSON
-prep is scheduled in period 7 for PEARSON
-prep is scheduled in period 0 for HARLOW
-prep is scheduled in period 1 for HARLOW
-DESIGN SEWING 1 & 2 is scheduled in period 3 taught by HARLOW
-prep is scheduled in period 3 for HARLOW
-prep is scheduled in period 4 for HARLOW
-FASHION DESIGN STUDIO is scheduled in period 6 taught by HARLOW
-FASHION DESIGN STUDIO is scheduled in period 7 taught by HARLOW
-prep is scheduled in period 7 for HARLOW
-MYTHOLOGY ANCIENT is scheduled in period 1 taught by MCPHERSON
-ENGLISH ESSENTIALS is scheduled in period 2 taught by MCPHERSON
-ENGLISH 11* is scheduled in period 3 taught by MCPHERSON
-prep is scheduled in period 3 for MCPHERSON
-prep is scheduled in period 4 for MCPHERSON
-MYTHOLOGY ANCIENT is scheduled in period 6 taught by MCPHERSON
-prep is scheduled in period 6 for MCPHERSON
-ENGLISH ESSENTIALS is scheduled in period 8 taught by MCPHERSON
-PE FITNESS is scheduled in period 1 taught by BEZZANT
-WEIGHTS is scheduled in period 2 taught by BEZZANT
-WEIGHTS is scheduled in period 3 taught by BEZZANT
-PE FITNESS is scheduled in period 4 taught by BEZZANT
-WEIGHTS is scheduled in period 5 taught by BEZZANT
-PE FITNESS is scheduled in period 6 taught by BEZZANT
-prep is scheduled in period 6 for BEZZANT
-BASEBALL TEAM is scheduled in period 8 taught by BEZZANT
-ENGLISH 11* is scheduled in period 1 taught by HAYNIE
-ENGLISH 11* is scheduled in period 2 taught by HAYNIE
-AP ENGLISH LITERATURE* is scheduled in period 3 taught by HAYNIE
-prep is scheduled in period 3 for HAYNIE
-ENGLISH 11* is scheduled in period 5 taught by HAYNIE
-AP ENGLISH LITERATURE* is scheduled in period 6 taught by HAYNIE
-ENGLISH 11* is scheduled in period 7 taught by HAYNIE
-AP ENGLISH LITERATURE* is scheduled in period 8 taught by HAYNIE
-CHEMISTRY 1010 - Concurrent Enrollment* is scheduled in period 1 taught by MITCHELL^
-WILDLIFE BIOLOGY is scheduled in period 2 taught by MITCHELL^
-MEDICAL FORENSICS* - Concurrent Enrollment is scheduled in period 3 taught by MITCHELL^
-WILDLIFE BIOLOGY is scheduled in period 4 taught by MITCHELL^
-MEDICAL FORENSICS* - Concurrent Enrollment is scheduled in period 5 taught by MITCHELL^
-prep is scheduled in period 5 for MITCHELL^
-AP CHEMISTRY* is scheduled in period 7 taught by MITCHELL^
-CHEMISTRY 1010 - Concurrent Enrollment* is scheduled in period 8 taught by MITCHELL^
-prep is scheduled in period 0 for WILY
-prep is scheduled in period 1 for WILY
-ENGLISH 10* is scheduled in period 3 taught by WILY
-ENGLISH 10* is scheduled in period 4 taught by WILY
-prep is scheduled in period 4 for WILY
-prep is scheduled in period 5 for WILY
-ENGLISH 10* is scheduled in period 7 taught by WILY
-prep is scheduled in period 7 for WILY
-PRESCHOOL(EARLY CHILDHOOD EDUCATION 1&3) is scheduled in period 1 taught by SPRINGER
-PRESCHOOL(EARLY CHILDHOOD EDUCATION 1&3) is scheduled in period 2 taught by SPRINGER
-PRESCHOOL(EARLY CHILDHOOD EDUCATION 1&3) is scheduled in period 3 taught by SPRINGER
-CHILD DEVELOPMENT is scheduled in period 4 taught by SPRINGER
-PRESCHOOL(EARLY CHILDHOOD EDUCATION 1&3) is scheduled in period 5 taught by SPRINGER
+SECONDARY MATH 2 EXTENDED* is scheduled in period 8 taught by PEARSON
+KNIGHT^ is not available in period 1
+KNIGHT^ is not available in period 2
+KNIGHT^ is not available in period 3
+KNIGHT^ is not available in period 4
+DANCE COMPANY* is scheduled in period 5 taught by KNIGHT^
+KNIGHT^ is not available in period 6
+KNIGHT^ is not available in period 7
+KNIGHT^ is not available in period 8
+SECONDARY MATH 2* is scheduled in period 1 taught by RUCHTI
+SECONDARY MATH 3 EXTENDED* is scheduled in period 2 taught by RUCHTI
+SECONDARY MATH 3 EXTENDED* is scheduled in period 3 taught by RUCHTI
+SECONDARY MATH 2* is scheduled in period 4 taught by RUCHTI
+prep is scheduled in period 5 for RUCHTI
+SECONDARY MATH 2* is scheduled in period 6 taught by RUCHTI
+MATH 1010-Concurrent Enrollment is scheduled in period 7 taught by RUCHTI
+SECONDARY MATH 2* is scheduled in period 8 taught by RUCHTI
+SPANISH 2 HONORS* is scheduled in period 1 taught by SWARTZ
+SPANISH 1* is scheduled in period 2 taught by SWARTZ
+prep is scheduled in period 3 for SWARTZ
+SPANISH 2 HONORS* is scheduled in period 4 taught by SWARTZ
+SPANISH 1* is scheduled in period 5 taught by SWARTZ
+SPANISH 1* is scheduled in period 6 taught by SWARTZ
+SPANISH 1* is scheduled in period 7 taught by SWARTZ
+SPANISH 3 HONORS* - Concurrent Enrollment is scheduled in period 8 taught by SWARTZ
+ENGLISH 1010 - Concurrent Enrollment is scheduled in period 1 taught by DULONG
+SCI FI / FANTASY is scheduled in period 2 taught by DULONG
+ENGLISH 1010 - Concurrent Enrollment is scheduled in period 3 taught by DULONG
+prep is scheduled in period 4 for DULONG
+ENGLISH 1010 - Concurrent Enrollment is scheduled in period 5 taught by DULONG
+ENGLISH 10 HONORS* is scheduled in period 6 taught by DULONG
+ENGLISH 10 HONORS* is scheduled in period 7 taught by DULONG
+ENGLISH 1010 - Concurrent Enrollment is scheduled in period 8 taught by DULONG
+POP CULTURE is scheduled in period 1 taught by SMITH, CALVIN^^
+AP GOV & POLITICS* is scheduled in period 2 taught by SMITH, CALVIN^^
+AP GOV & POLITICS* is scheduled in period 3 taught by SMITH, CALVIN^^
+GOV & CIT is scheduled in period 4 taught by SMITH, CALVIN^^
+POP CULTURE IN US - TAYLOR SWIFT is scheduled in period 5 taught by SMITH, CALVIN^^
+AP GOV & POLITICS* is scheduled in period 6 taught by SMITH, CALVIN^^
+ENGLISH LANGUAGE DEVELOPMENT is scheduled in period 7 taught by SMITH, CALVIN^^
+SWIM TEAM is scheduled in period 8 taught by SMITH, CALVIN^^
+CREATIVE WRITING 1 is scheduled in period 1 taught by NELSON
+CREATIVE WRITING 1 is scheduled in period 2 taught by NELSON
+CREATIVE WRITING 1 is scheduled in period 3 taught by NELSON
+prep is scheduled in period 4 for NELSON
+ENGLISH 12* is scheduled in period 5 taught by NELSON
+ENGLISH 12* is scheduled in period 6 taught by NELSON
+ENGLISH 12* is scheduled in period 7 taught by NELSON
+ENGLISH 12* is scheduled in period 8 taught by NELSON
+AP CALCULUS AB* is scheduled in period 1 taught by SMITH, CRAIG
+AP CALCULUS AB* is scheduled in period 2 taught by SMITH, CRAIG
+AP CALCULUS AB* is scheduled in period 3 taught by SMITH, CRAIG
+AP CALCULUS AB* is scheduled in period 4 taught by SMITH, CRAIG
+AP CALCULUS AB* is scheduled in period 5 taught by SMITH, CRAIG
+prep is scheduled in period 6 for SMITH, CRAIG
+AP CALCULUS AB* is scheduled in period 7 taught by SMITH, CRAIG
+prep is scheduled in period 8 for SMITH, CRAIG
+SEMINARY is scheduled in period 1 taught by SEMINARY FACULTY
+SEMINARY is scheduled in period 2 taught by SEMINARY FACULTY
+SEMINARY is scheduled in period 3 taught by SEMINARY FACULTY
+SEMINARY is scheduled in period 4 taught by SEMINARY FACULTY
+SEMINARY is scheduled in period 5 taught by SEMINARY FACULTY
+SEMINARY is scheduled in period 6 taught by SEMINARY FACULTY
+SEMINARY is scheduled in period 7 taught by SEMINARY FACULTY
+SEMINARY is scheduled in period 8 taught by SEMINARY FACULTY
+WEATHER/CLIMATE - Concurrent Enrollment is scheduled in period 1 taught by PERKES
+WEATHER/CLIMATE - Concurrent Enrollment is scheduled in period 2 taught by PERKES
+WEATHER/CLIMATE - Concurrent Enrollment is scheduled in period 3 taught by PERKES
+AP ENVIRONMENTAL SCIENCE-Concurrent Enrollment* is scheduled in period 4 taught by PERKES
+prep is scheduled in period 5 for PERKES
+WEATHER/CLIMATE - Concurrent Enrollment is scheduled in period 6 taught by PERKES
+ENVIRONMENTAL SCIENCE is scheduled in period 7 taught by PERKES
+AP ENVIRONMENTAL SCIENCE-Concurrent Enrollment* is scheduled in period 8 taught by PERKES
+SECONDARY MATH 2* is scheduled in period 1 taught by BRINKERHOFF, E.
+SECONDARY MATH 2* is scheduled in period 2 taught by BRINKERHOFF, E.
+SECONDARY MATH 2* is scheduled in period 3 taught by BRINKERHOFF, E.
+SECONDARY MATH 2* is scheduled in period 4 taught by BRINKERHOFF, E.
+MATH DECISION MAKING* is scheduled in period 5 taught by BRINKERHOFF, E.
+MATH DECISION MAKING* is scheduled in period 6 taught by BRINKERHOFF, E.
+prep is scheduled in period 7 for BRINKERHOFF, E.
+MATH DECISION MAKING* is scheduled in period 8 taught by BRINKERHOFF, E.
+GIBBY^ is not available in period 1
+GIBBY^ is not available in period 2
+GIBBY^ is not available in period 3
+GIBBY^ is not available in period 4
+YEARBOOK* is scheduled in period 5 taught by GIBBY^
+COMMERCIAL PHOTO 1 is scheduled in period 6 taught by GIBBY^
+COMMERCIAL PHOTO 1 is scheduled in period 7 taught by GIBBY^
+COMMERCIAL PHOTO 1 is scheduled in period 8 taught by GIBBY^
+SECONDARY MATH 2* is scheduled in period 1 taught by MOLENI
+SECONDARY MATH 1* is scheduled in period 2 taught by MOLENI
+prep is scheduled in period 3 for MOLENI
+MATH DECISION MAKING* is scheduled in period 4 taught by MOLENI
+SECONDARY MATH 2* is scheduled in period 5 taught by MOLENI
+MATH DECISION MAKING* is scheduled in period 6 taught by MOLENI
+SECONDARY MATH 1 LAB is scheduled in period 7 taught by MOLENI
+prep is scheduled in period 8 for MOLENI
+HUNT is not available in period 1
+LAW ENFORCEMENT is scheduled in period 2 taught by HUNT
+LAW ENFORCEMENT is scheduled in period 3 taught by HUNT
+HUNT is not available in period 4
+HUNT is not available in period 5
+HUNT is not available in period 6
+HUNT is not available in period 7
+HUNT is not available in period 8
+UVU LIVE INTERACTIVE is scheduled in period 1 taught by WINN
+UVU LIVE INTERACTIVE is scheduled in period 2 taught by WINN
+UVU LIVE INTERACTIVE is scheduled in period 3 taught by WINN
+UVU LIVE INTERACTIVE is scheduled in period 4 taught by WINN
+UVU LIVE INTERACTIVE is scheduled in period 5 taught by WINN
+UVU LIVE INTERACTIVE is scheduled in period 6 taught by WINN
+UVU LIVE INTERACTIVE is scheduled in period 7 taught by WINN
+UVU LIVE INTERACTIVE is scheduled in period 8 taught by WINN
+DILELLO^^ is not available in period 1
+URBAN DANCE/HIP-HOP is scheduled in period 2 taught by DILELLO^^
+YOGA 1 is scheduled in period 3 taught by DILELLO^^
+UNIFIED PE is scheduled in period 4 taught by DILELLO^^
+DILELLO^^ is not available in period 5
+DANCE 3 Concurrent Enrollment -SYNERGY* is scheduled in period 6 taught by DILELLO^^
+prep is scheduled in period 7 for DILELLO^^
+YOGA 1 is scheduled in period 8 taught by DILELLO^^
+ROSS is not available in period 1
+ROSS is not available in period 2
+ROSS is not available in period 3
+ROSS is not available in period 4
+ROSS is not available in period 5
+ROSS is not available in period 6
+ROSS is not available in period 7
+BOYS BASKETBALL TEAM is scheduled in period 8 taught by ROSS
+prep is scheduled in period 1 for JENSEN^
+PLANT AND SOIL SCIENCE 1* is scheduled in period 2 taught by JENSEN^
+prep is scheduled in period 3 for JENSEN^
+FLORAL DESIGN ADV is scheduled in period 4 taught by JENSEN^
+FLORAL DESIGN 1 is scheduled in period 5 taught by JENSEN^
+FLORAL DESIGN 1 is scheduled in period 6 taught by JENSEN^
+FLORAL DESIGN 1 is scheduled in period 7 taught by JENSEN^
+FLORAL DESIGN 1 is scheduled in period 8 taught by JENSEN^
+US HISTORY* is scheduled in period 1 taught by GUNNARSON
+US HISTORY* is scheduled in period 2 taught by GUNNARSON
+US HISTORY* is scheduled in period 3 taught by GUNNARSON
+ANCIENT WORLD HISTORY is scheduled in period 4 taught by GUNNARSON
+prep is scheduled in period 5 for GUNNARSON
+prep is scheduled in period 6 for GUNNARSON
+US HISTORY* is scheduled in period 7 taught by GUNNARSON
+ANCIENT WORLD HISTORY is scheduled in period 8 taught by GUNNARSON
+COLLEGE/AP STUDY HALL is scheduled in period 1 taught by PAXTON^^
+FRENCH 2* is scheduled in period 2 taught by PAXTON^^
+FRENCH 4/AP* is scheduled in period 3 taught by PAXTON^^
+FRENCH 1* is scheduled in period 4 taught by PAXTON^^
+FRENCH 3* is scheduled in period 5 taught by PAXTON^^
+CURRENT ISSUES is scheduled in period 6 taught by PAXTON^^
+FRENCH 3* - Concurrent Enrollment is scheduled in period 7 taught by PAXTON^^
+FRENCH 4/AP* - Concurrent Enrollment is scheduled in period 8 taught by PAXTON^^
+SCULPTURE 2 is scheduled in period 1 taught by FIELD
+prep is scheduled in period 2 for FIELD
+PAINTING 1 is scheduled in period 3 taught by FIELD
+PAINTING 1 is scheduled in period 4 taught by FIELD
+PAINTING 1 is scheduled in period 5 taught by FIELD
+SCULPTURE 1 is scheduled in period 6 taught by FIELD
+SCULPTURE 1 is scheduled in period 7 taught by FIELD
+SCULPTURE 1 is scheduled in period 8 taught by FIELD
+prep is scheduled in period 1 for SMITH, CASSIDY
+ENGLISH 11* is scheduled in period 2 taught by SMITH, CASSIDY
+ENGLISH 10* is scheduled in period 3 taught by SMITH, CASSIDY
+ENGLISH 11* is scheduled in period 4 taught by SMITH, CASSIDY
+ENGLISH 10* is scheduled in period 5 taught by SMITH, CASSIDY
+ENGLISH 10* is scheduled in period 6 taught by SMITH, CASSIDY
+ENGLISH 11* is scheduled in period 7 taught by SMITH, CASSIDY
+prep is scheduled in period 8 for SMITH, CASSIDY
+VERNON is not available in period 1
+VERNON is not available in period 2
+VERNON is not available in period 3
+VERNON is not available in period 4
+SYMPHONIC ORCHESTRA* is scheduled in period 5 taught by VERNON
+CHAMBER ORCHESTRA* is scheduled in period 6 taught by VERNON
+MUSIC APPRECIATION - Concurrent Enrollment is scheduled in period 7 taught by VERNON
+CONCERT ORCHESTRA* is scheduled in period 8 taught by VERNON
+HEATH is not available in period 1
+HEATH is not available in period 2
+HEATH is not available in period 3
+HEATH is not available in period 4
+CHINESE BRIDGE 3118* is scheduled in period 5 taught by HEATH
+CHINESE BRIDGE 3118* is scheduled in period 6 taught by HEATH
+AP CHINESE* is scheduled in period 7 taught by HEATH
+prep is scheduled in period 8 for HEATH
+prep is scheduled in period 1 for OMER, R.
+AMERICAN STUDIES* is scheduled in period 2 taught by OMER, R.
+AMERICAN STUDIES* is scheduled in period 3 taught by OMER, R.
+ENGLISH 11 HONORS* is scheduled in period 4 taught by OMER, R.
+ENGLISH 11 HONORS* is scheduled in period 5 taught by OMER, R.
+AMERICAN STUDIES* is scheduled in period 6 taught by OMER, R.
+AMERICAN STUDIES* is scheduled in period 7 taught by OMER, R.
+prep is scheduled in period 8 for OMER, R.
+ENTREPRENEURSHIP is scheduled in period 1 taught by DAY^
+prep is scheduled in period 2 for DAY^
+ACCOUNTING 1 is scheduled in period 3 taught by DAY^
+ACCOUNTING 1 is scheduled in period 4 taught by DAY^
+DAY^ is not available in period 5
+DAY^ is not available in period 6
+DAY^ is not available in period 7
+DAY^ is not available in period 8
+FILM LITERATURE is scheduled in period 1 taught by JAYNES
+FILM LITERATURE is scheduled in period 2 taught by JAYNES
+ENGLISH 11* is scheduled in period 3 taught by JAYNES
+JAYNES is not available in period 4
+JAYNES is not available in period 5
+POPULAR LITERATURE is scheduled in period 6 taught by JAYNES
+ENGLISH 11* is scheduled in period 7 taught by JAYNES
+JAYNES is not available in period 8
+US HISTORY* is scheduled in period 1 taught by HUBBARD
+US HISTORY* is scheduled in period 2 taught by HUBBARD
+US HISTORY* is scheduled in period 3 taught by HUBBARD
+US HISTORY* is scheduled in period 4 taught by HUBBARD
+GOV & CIT is scheduled in period 5 taught by HUBBARD
+prep is scheduled in period 6 for HUBBARD
+GOV & CIT is scheduled in period 7 taught by HUBBARD
+GOV & CIT is scheduled in period 8 taught by HUBBARD
+CHILD DEVELOPMENT is scheduled in period 1 taught by SPRINGER
+CHILD DEVELOPMENT is scheduled in period 2 taught by SPRINGER
+TEACHING K-12 Fall - Concurrent Enrollment is scheduled in period 3 taught by SPRINGER
+PRESCHOOL(EARLY CHILDHOOD EDUCATION 1&3) is scheduled in period 4 taught by SPRINGER
 prep is scheduled in period 5 for SPRINGER
-TEACHING K-12 Fall - Concurrent Enrollment is scheduled in period 7 taught by SPRINGER
-CHILD DEVELOPMENT is scheduled in period 8 taught by SPRINGER
-prep is scheduled in period 0 for BERRY
+PRESCHOOL(EARLY CHILDHOOD EDUCATION 1&3) is scheduled in period 6 taught by SPRINGER
+PRESCHOOL(EARLY CHILDHOOD EDUCATION 1&3) is scheduled in period 7 taught by SPRINGER
+PRESCHOOL(EARLY CHILDHOOD EDUCATION 1&3) is scheduled in period 8 taught by SPRINGER
+AP ENGLISH LITERATURE* is scheduled in period 1 taught by HAYNIE
+AP ENGLISH LITERATURE* is scheduled in period 2 taught by HAYNIE
+AP ENGLISH LITERATURE* is scheduled in period 3 taught by HAYNIE
+ENGLISH 11* is scheduled in period 4 taught by HAYNIE
+ENGLISH 11* is scheduled in period 5 taught by HAYNIE
+prep is scheduled in period 6 for HAYNIE
+ENGLISH 11* is scheduled in period 7 taught by HAYNIE
+ENGLISH 11* is scheduled in period 8 taught by HAYNIE
+SECONDARY MATH 2* is scheduled in period 1 taught by TRACY
+prep is scheduled in period 2 for TRACY
+SECONDARY MATH 2* is scheduled in period 3 taught by TRACY
+SECONDARY MATH 2* is scheduled in period 4 taught by TRACY
+SECONDARY MATH 2* is scheduled in period 5 taught by TRACY
+SECONDARY MATH 1* is scheduled in period 6 taught by TRACY
+SECONDARY MATH 1* is scheduled in period 7 taught by TRACY
+MATH ESSENTIALS is scheduled in period 8 taught by TRACY
+ENGLISH 11* is scheduled in period 1 taught by JARVIE
+ENGLISH 11* is scheduled in period 2 taught by JARVIE
+ENGLISH 11* is scheduled in period 3 taught by JARVIE
+ENGLISH 10 HONORS* is scheduled in period 4 taught by JARVIE
+prep is scheduled in period 5 for JARVIE
+ENGLISH 10 HONORS* is scheduled in period 6 taught by JARVIE
+ENGLISH 10 HONORS* is scheduled in period 7 taught by JARVIE
+prep is scheduled in period 8 for JARVIE
+Essentials Coordinator is scheduled in period 1 taught by BERRY
 STUDY HALL is scheduled in period 2 taught by BERRY
 Essentials Coordinator is scheduled in period 3 taught by BERRY
 STUDY HALL is scheduled in period 4 taught by BERRY
 STUDY HALL is scheduled in period 5 taught by BERRY
-Essentials Coordinator is scheduled in period 6 taught by BERRY
+prep is scheduled in period 6 for BERRY
 STUDY HALL is scheduled in period 7 taught by BERRY
 STUDY HALL is scheduled in period 8 taught by BERRY
-SECONDARY MATH 3* is scheduled in period 1 taught by COATNEY
-SECONDARY MATH 2* is scheduled in period 2 taught by COATNEY
-SECONDARY MATH 2* is scheduled in period 3 taught by COATNEY
-SECONDARY MATH 3* is scheduled in period 4 taught by COATNEY
-prep is scheduled in period 4 for COATNEY
-SECONDARY MATH 2* is scheduled in period 6 taught by COATNEY
-SECONDARY MATH 2* is scheduled in period 7 taught by COATNEY
-SECONDARY MATH 3* is scheduled in period 8 taught by COATNEY
-PAINTING 2 is scheduled in period 1 taught by OMER, M.
-prep is scheduled in period 1 for OMER, M.
-ART HONORS* is scheduled in period 3 taught by OMER, M.
-DRAWING 1 is scheduled in period 4 taught by OMER, M.
-DRAWING 1 is scheduled in period 5 taught by OMER, M.
-prep is scheduled in period 5 for OMER, M.
-prep is scheduled in period 6 for OMER, M.
-prep is scheduled in period 7 for OMER, M.
-prep is scheduled in period 0 for SPENCER^
-prep is scheduled in period 1 for SPENCER^
-ANIMAL SCIENCE 1* is scheduled in period 3 taught by SPENCER^
-prep is scheduled in period 3 for SPENCER^
-ANIMAL SCIENCE 1* is scheduled in period 5 taught by SPENCER^
-prep is scheduled in period 5 for SPENCER^
-ANIMAL SCIENCE 2* is scheduled in period 7 taught by SPENCER^
-ANIMAL SCIENCE 1* is scheduled in period 8 taught by SPENCER^
-ENGLISH 10* is scheduled in period 1 taught by IKA^^
-prep is scheduled in period 1 for IKA^^
-prep is scheduled in period 2 for IKA^^
-ENGLISH 10* is scheduled in period 4 taught by IKA^^
-RESOURCE ENGLISH* is scheduled in period 5 taught by IKA^^
-ENGLISH 11* is scheduled in period 6 taught by IKA^^
-PEOPLE OF THE PACIFIC is scheduled in period 7 taught by IKA^^
-ENGLISH 10* is scheduled in period 8 taught by IKA^^
-PHYSICS* is scheduled in period 1 taught by TALBERT
-PHYSICS 1010 -Concurrent Enrollment* is scheduled in period 2 taught by TALBERT
-PHYSICS 1010 -Concurrent Enrollment* is scheduled in period 3 taught by TALBERT
-PHYSICS* is scheduled in period 4 taught by TALBERT
-PHYSICS 1010 -Concurrent Enrollment* is scheduled in period 5 taught by TALBERT
-PHYSICS* is scheduled in period 6 taught by TALBERT
-prep is scheduled in period 6 for TALBERT
-PHYSICS* is scheduled in period 8 taught by TALBERT
-ALGORITHMS & DATA STRUCTURES* - Concurrent Enrollment is scheduled in period 1 taught by LEE^
-GAME DEVELOPMENT FUNDAMENTALS 1 is scheduled in period 2 taught by LEE^
-GAME DEVELOPMENT FUNDAMENTALS 1 is scheduled in period 3 taught by LEE^
-COMPUTER PROGRAMMING 1&2* - Concurrent Enrollment is scheduled in period 4 taught by LEE^
-prep is scheduled in period 4 for LEE^
-ADVANCED COMPUTER PROGRAMMING* - Concurrent Enrollment is scheduled in period 6 taught by LEE^
-COMPUTER PROGRAMMING 1&2* - Concurrent Enrollment is scheduled in period 7 taught by LEE^
-COMPUTER PROGRAMMING 1&2* - Concurrent Enrollment is scheduled in period 8 taught by LEE^
-MEDICAL TERMINOLOGY - Concurrent Enrollment is scheduled in period 1 taught by VAN WOERKOM^
-STUDY HALL is scheduled in period 2 taught by VAN WOERKOM^
-MEDICAL TERMINOLOGY - Concurrent Enrollment is scheduled in period 3 taught by VAN WOERKOM^
-prep is scheduled in period 3 for VAN WOERKOM^
-MEDICAL ANATOMY & PHYSIOLOGY* is scheduled in period 5 taught by VAN WOERKOM^
-MEDICAL ANATOMY & PHYSIOLOGY* is scheduled in period 6 taught by VAN WOERKOM^
-prep is scheduled in period 6 for VAN WOERKOM^
-STUDY HALL is scheduled in period 8 taught by VAN WOERKOM^
-prep is scheduled in period 0 for MURPHY^
-CHEVALIERS-DRILL TEAM* is scheduled in period 2 taught by MURPHY^
-prep is scheduled in period 2 for MURPHY^
-prep is scheduled in period 3 for MURPHY^
-prep is scheduled in period 4 for MURPHY^
-prep is scheduled in period 5 for MURPHY^
-prep is scheduled in period 6 for MURPHY^
-prep is scheduled in period 7 for MURPHY^
-ENGLISH 10 HONORS* is scheduled in period 1 taught by DULONG
-ENGLISH 1010 - Concurrent Enrollment is scheduled in period 2 taught by DULONG
-ENGLISH 1010 - Concurrent Enrollment is scheduled in period 3 taught by DULONG
-ENGLISH 10 HONORS* is scheduled in period 4 taught by DULONG
-ENGLISH 1010 - Concurrent Enrollment is scheduled in period 5 taught by DULONG
-ENGLISH 1010 - Concurrent Enrollment is scheduled in period 6 taught by DULONG
-prep is scheduled in period 6 for DULONG
-SCI FI / FANTASY is scheduled in period 8 taught by DULONG
-SPORTS MEDICINE* - Concurrent Enrollment is scheduled in period 1 taught by BRYAN^
-INTRO TO PHYSICAL THERAPY* is scheduled in period 2 taught by BRYAN^
-ATHLETIC TRAINING PRACTICUM* is scheduled in period 3 taught by BRYAN^
-SPORTS MEDICINE* - Concurrent Enrollment is scheduled in period 4 taught by BRYAN^
-prep is scheduled in period 4 for BRYAN^
-ATHLETIC TRAINING PRACTICUM* is scheduled in period 6 taught by BRYAN^
-prep is scheduled in period 6 for BRYAN^
-SPORTS MEDICINE* - Concurrent Enrollment is scheduled in period 8 taught by BRYAN^
-SPANISH 1* is scheduled in period 1 taught by SWARTZ
-SPANISH 1* is scheduled in period 2 taught by SWARTZ
-SPANISH 2 HONORS* is scheduled in period 3 taught by SWARTZ
-prep is scheduled in period 3 for SWARTZ
-SPANISH 1* is scheduled in period 5 taught by SWARTZ
-SPANISH 1* is scheduled in period 6 taught by SWARTZ
-SPANISH 2 HONORS* is scheduled in period 7 taught by SWARTZ
-SPANISH 3 HONORS* - Concurrent Enrollment is scheduled in period 8 taught by SWARTZ
-prep is scheduled in period 0 for HUBBARD
-US HISTORY* is scheduled in period 2 taught by HUBBARD
-GOV & CIT is scheduled in period 3 taught by HUBBARD
-US HISTORY* is scheduled in period 4 taught by HUBBARD
-GOV & CIT is scheduled in period 5 taught by HUBBARD
-GOV & CIT is scheduled in period 6 taught by HUBBARD
-US HISTORY* is scheduled in period 7 taught by HUBBARD
-US HISTORY* is scheduled in period 8 taught by HUBBARD
-ENGLISH 10* is scheduled in period 1 taught by CARPENTER
-JOURNALISM* is scheduled in period 2 taught by CARPENTER
-ENGLISH 10* is scheduled in period 3 taught by CARPENTER
-prep is scheduled in period 3 for CARPENTER
-ACCELERATED READING is scheduled in period 5 taught by CARPENTER
-prep is scheduled in period 5 for CARPENTER
-ENGLISH 10* is scheduled in period 7 taught by CARPENTER
-ENGLISH 10* is scheduled in period 8 taught by CARPENTER
-YOGA 1 is scheduled in period 1 taught by DILELLO^^
-URBAN DANCE/HIP-HOP is scheduled in period 2 taught by DILELLO^^
-UNIFIED PE is scheduled in period 3 taught by DILELLO^^
-DANCE 3 Concurrent Enrollment -SYNERGY* is scheduled in period 4 taught by DILELLO^^
-prep is scheduled in period 4 for DILELLO^^
-prep is scheduled in period 5 for DILELLO^^
-YOGA 1 is scheduled in period 7 taught by DILELLO^^
-prep is scheduled in period 7 for DILELLO^^
-MATH DECISION MAKING* is scheduled in period 1 taught by BRINKERHOFF, E.
-MATH DECISION MAKING* is scheduled in period 2 taught by BRINKERHOFF, E.
-SECONDARY MATH 2* is scheduled in period 3 taught by BRINKERHOFF, E.
-MATH DECISION MAKING* is scheduled in period 4 taught by BRINKERHOFF, E.
-SECONDARY MATH 2* is scheduled in period 5 taught by BRINKERHOFF, E.
-SECONDARY MATH 2* is scheduled in period 6 taught by BRINKERHOFF, E.
-prep is scheduled in period 6 for BRINKERHOFF, E.
-SECONDARY MATH 2* is scheduled in period 8 taught by BRINKERHOFF, E.
-prep is scheduled in period 0 for REES
-ENGLISH 11 HONORS* is scheduled in period 2 taught by REES
-AP ENGLISH LANGUAGE* is scheduled in period 3 taught by REES
-AP ENGLISH LANGUAGE* is scheduled in period 4 taught by REES
-prep is scheduled in period 4 for REES
-AP ENGLISH LANGUAGE* is scheduled in period 6 taught by REES
-ENGLISH 11 HONORS* is scheduled in period 7 taught by REES
-AP ENGLISH LANGUAGE* is scheduled in period 8 taught by REES
-AP GOV & POLITICS* is scheduled in period 1 taught by SMITH, CALVIN^^
-POP CULTURE is scheduled in period 2 taught by SMITH, CALVIN^^
-AP GOV & POLITICS* is scheduled in period 3 taught by SMITH, CALVIN^^
-POP CULTURE IN US - TAYLOR SWIFT is scheduled in period 4 taught by SMITH, CALVIN^^
-GOV & CIT is scheduled in period 5 taught by SMITH, CALVIN^^
-SWIM TEAM is scheduled in period 6 taught by SMITH, CALVIN^^
-AP GOV & POLITICS* is scheduled in period 7 taught by SMITH, CALVIN^^
-ENGLISH LANGUAGE DEVELOPMENT is scheduled in period 8 taught by SMITH, CALVIN^^
-LS WRITING* is scheduled in period 1 taught by HURTT^
-prep is scheduled in period 1 for HURTT^
-STUDENT GOVERNMENT* is scheduled in period 3 taught by HURTT^
-LS MATH* is scheduled in period 4 taught by HURTT^
-LS MATH* is scheduled in period 5 taught by HURTT^
-LS READING* is scheduled in period 6 taught by HURTT^
-LIFE SKILLS* is scheduled in period 7 taught by HURTT^
-LS READING* is scheduled in period 8 taught by HURTT^
-CHEMISTRY* is scheduled in period 1 taught by WENTZ
-CHEMISTRY* is scheduled in period 2 taught by WENTZ
-CHEMISTRY* is scheduled in period 3 taught by WENTZ
-CHEMISTRY* is scheduled in period 4 taught by WENTZ
-CHEMISTRY* is scheduled in period 5 taught by WENTZ
-prep is scheduled in period 5 for WENTZ
-CHEMISTRY* is scheduled in period 7 taught by WENTZ
-CHEMISTRY* is scheduled in period 8 taught by WENTZ
-ROBOTICS 1 is scheduled in period 1 taught by SMITH, WESLEY
-prep is scheduled in period 1 for SMITH, WESLEY
-ENGINEERING PRINCIPLES 1 is scheduled in period 3 taught by SMITH, WESLEY
-prep is scheduled in period 3 for SMITH, WESLEY
-ROBOTICS 1 is scheduled in period 5 taught by SMITH, WESLEY
-ENGINEERING PRINCIPLES 1 is scheduled in period 6 taught by SMITH, WESLEY
-ENGINEERING PRINCIPLES 1 is scheduled in period 7 taught by SMITH, WESLEY
-ROBOTICS 1 is scheduled in period 8 taught by SMITH, WESLEY
-ENGLISH 11* is scheduled in period 1 taught by WAHLIN
-ACCELERATED READING is scheduled in period 2 taught by WAHLIN
-READING SKILLS is scheduled in period 3 taught by WAHLIN
-READING SKILLS is scheduled in period 4 taught by WAHLIN
-ENGLISH 11* is scheduled in period 5 taught by WAHLIN
-prep is scheduled in period 5 for WAHLIN
-ENGLISH 12* is scheduled in period 7 taught by WAHLIN
-prep is scheduled in period 7 for WAHLIN
-prep is scheduled in period 0 for KNIGHT^
-prep is scheduled in period 1 for KNIGHT^
-DANCE COMPANY* is scheduled in period 3 taught by KNIGHT^
-prep is scheduled in period 3 for KNIGHT^
-prep is scheduled in period 4 for KNIGHT^
-prep is scheduled in period 5 for KNIGHT^
-prep is scheduled in period 6 for KNIGHT^
-prep is scheduled in period 7 for KNIGHT^
-ACAPELLA CHOIR* is scheduled in period 1 taught by POWELL
-MUSICAL THEATER is scheduled in period 2 taught by POWELL
-ADVANCED WOMEN'S ENSEMBLE* is scheduled in period 3 taught by POWELL
-CHAMBER CHOIR - MADRIGAL* is scheduled in period 4 taught by POWELL
-THEATER PRODUCTIONS* is scheduled in period 5 taught by POWELL
-prep is scheduled in period 5 for POWELL
-AP MUSIC THEORY* is scheduled in period 7 taught by POWELL
-ADVANCED MEN'S ENSEMBLE* is scheduled in period 8 taught by POWELL
-prep is scheduled in period 0 for MOEA'I (DICKSON)
-prep is scheduled in period 1 for MOEA'I (DICKSON)
-GIRLS VOLLEYBALL TEAM is scheduled in period 3 taught by MOEA'I (DICKSON)
-prep is scheduled in period 3 for MOEA'I (DICKSON)
-prep is scheduled in period 4 for MOEA'I (DICKSON)
-prep is scheduled in period 5 for MOEA'I (DICKSON)
-prep is scheduled in period 6 for MOEA'I (DICKSON)
-prep is scheduled in period 7 for MOEA'I (DICKSON)
-BIOLOGY* is scheduled in period 1 taught by SCHETTLER
-BIOLOGY* is scheduled in period 2 taught by SCHETTLER
-BIOLOGY* is scheduled in period 3 taught by SCHETTLER
-prep is scheduled in period 3 for SCHETTLER
-BIOLOGY* is scheduled in period 5 taught by SCHETTLER
-BIOLOGY* is scheduled in period 6 taught by SCHETTLER
-prep is scheduled in period 6 for SCHETTLER
-BIOLOGY* is scheduled in period 8 taught by SCHETTLER
-prep is scheduled in period 0 for JAYNES
-FILM LITERATURE is scheduled in period 2 taught by JAYNES
-POPULAR LITERATURE is scheduled in period 3 taught by JAYNES
-prep is scheduled in period 3 for JAYNES
-prep is scheduled in period 4 for JAYNES
-ENGLISH 11* is scheduled in period 6 taught by JAYNES
-FILM LITERATURE is scheduled in period 7 taught by JAYNES
-ENGLISH 11* is scheduled in period 8 taught by JAYNES
-ENGLISH 11* is scheduled in period 1 taught by JARVIE
-ENGLISH 10 HONORS* is scheduled in period 2 taught by JARVIE
-prep is scheduled in period 2 for JARVIE
-ENGLISH 11* is scheduled in period 4 taught by JARVIE
-ENGLISH 10 HONORS* is scheduled in period 5 taught by JARVIE
-prep is scheduled in period 5 for JARVIE
-ENGLISH 11* is scheduled in period 7 taught by JARVIE
-ENGLISH 10 HONORS* is scheduled in period 8 taught by JARVIE
-SWIM TEAM is scheduled in period 1 taught by TIFFANY
-prep is scheduled in period 1 for TIFFANY
-prep is scheduled in period 2 for TIFFANY
-prep is scheduled in period 3 for TIFFANY
-prep is scheduled in period 4 for TIFFANY
-prep is scheduled in period 5 for TIFFANY
-prep is scheduled in period 6 for TIFFANY
-prep is scheduled in period 7 for TIFFANY
+PE FITNESS is scheduled in period 1 taught by BEZZANT
+PE FITNESS is scheduled in period 2 taught by BEZZANT
+PE FITNESS is scheduled in period 3 taught by BEZZANT
+BASEBALL TEAM is scheduled in period 4 taught by BEZZANT
+WEIGHTS is scheduled in period 5 taught by BEZZANT
+WEIGHTS is scheduled in period 6 taught by BEZZANT
+prep is scheduled in period 7 for BEZZANT
+WEIGHTS is scheduled in period 8 taught by BEZZANT
+VIDEO PROD 1 is scheduled in period 1 taught by TOPHAM^
+UKNIGHTED* is scheduled in period 2 taught by TOPHAM^
+AUDIO PROD 1 is scheduled in period 3 taught by TOPHAM^
+LONE PEAK LIVE is scheduled in period 4 taught by TOPHAM^
+STUDENT GOVERNMENT* is scheduled in period 5 taught by TOPHAM^
+TOPHAM^ is not available in period 6
+VIDEO CAPSTONE* is scheduled in period 7 taught by TOPHAM^
+LONE PEAK LIVE - Concurrent Enrollment is scheduled in period 8 taught by TOPHAM^
+CHEMISTRY 1010 - Concurrent Enrollment* is scheduled in period 1 taught by MITCHELL^
+WILDLIFE BIOLOGY is scheduled in period 2 taught by MITCHELL^
+CHEMISTRY 1010 - Concurrent Enrollment* is scheduled in period 3 taught by MITCHELL^
+AP CHEMISTRY* is scheduled in period 4 taught by MITCHELL^
+prep is scheduled in period 5 for MITCHELL^
+MEDICAL FORENSICS* - Concurrent Enrollment is scheduled in period 6 taught by MITCHELL^
+MEDICAL FORENSICS* - Concurrent Enrollment is scheduled in period 7 taught by MITCHELL^
+WILDLIFE BIOLOGY is scheduled in period 8 taught by MITCHELL^
+prep is scheduled in period 1 for FARR^
+GOV & CIT is scheduled in period 2 taught by FARR^
+GOV & CIT is scheduled in period 3 taught by FARR^
+GOV & CIT is scheduled in period 4 taught by FARR^
+GOV & CIT is scheduled in period 5 taught by FARR^
+GOV & CIT is scheduled in period 6 taught by FARR^
+GOV & CIT is scheduled in period 7 taught by FARR^
+BOYS GOLF TEAM is scheduled in period 8 taught by FARR^
+AP ART HISTORY* is scheduled in period 1 taught by PACK^^
+prep is scheduled in period 2 for PACK^^
+AP ART-2D PORTFOLIO or AP ART DRAWING* is scheduled in period 3 taught by PACK^^
+DRAWING 1 is scheduled in period 4 taught by PACK^^
+ITALIAN 2* is scheduled in period 5 taught by PACK^^
+DRAWING 2 is scheduled in period 6 taught by PACK^^
+ITALIAN 1* is scheduled in period 7 taught by PACK^^
+DRAWING 1 is scheduled in period 8 taught by PACK^^
 SECONDARY MATH 2 EXTENDED* is scheduled in period 1 taught by WALLACE
-SECONDARY MATH 2* is scheduled in period 2 taught by WALLACE
+SECONDARY MATH 2 EXTENDED* is scheduled in period 2 taught by WALLACE
 SECONDARY MATH 2* is scheduled in period 3 taught by WALLACE
 SECONDARY MATH 2 EXTENDED* is scheduled in period 4 taught by WALLACE
-prep is scheduled in period 4 for WALLACE
+SECONDARY MATH 2* is scheduled in period 5 taught by WALLACE
 SECONDARY MATH 2* is scheduled in period 6 taught by WALLACE
-SECONDARY MATH 2 EXTENDED* is scheduled in period 7 taught by WALLACE
+prep is scheduled in period 7 for WALLACE
 SECONDARY MATH 2 EXTENDED* is scheduled in period 8 taught by WALLACE
-THE U.S. & WW II is scheduled in period 1 taught by TURNER
-US HISTORY* is scheduled in period 2 taught by TURNER
-US HISTORY* is scheduled in period 3 taught by TURNER
-US HISTORY* is scheduled in period 4 taught by TURNER
-prep is scheduled in period 4 for TURNER
-AP WORLD HISTORY* is scheduled in period 6 taught by TURNER
-prep is scheduled in period 6 for TURNER
-AP WORLD HISTORY* is scheduled in period 8 taught by TURNER
-STUDENT GOVERNMENT* is scheduled in period 1 taught by COX, B.^
-BAKING & PASTRY is scheduled in period 2 taught by COX, B.^
-ADVANCED CULINARY* - Concurrent Enrollment is scheduled in period 3 taught by COX, B.^
-ADVANCED CULINARY* - Concurrent Enrollment is scheduled in period 4 taught by COX, B.^
-CULINARY BASICS is scheduled in period 5 taught by COX, B.^
-CULINARY BASICS is scheduled in period 6 taught by COX, B.^
-prep is scheduled in period 6 for COX, B.^
-CULINARY BASICS is scheduled in period 8 taught by COX, B.^
-prep is scheduled in period 0 for DAVENPORT (BRANCH)
-prep is scheduled in period 1 for DAVENPORT (BRANCH)
-prep is scheduled in period 2 for DAVENPORT (BRANCH)
-prep is scheduled in period 3 for DAVENPORT (BRANCH)
-FLORAL DESIGN 1 is scheduled in period 5 taught by DAVENPORT (BRANCH)
-prep is scheduled in period 5 for DAVENPORT (BRANCH)
-prep is scheduled in period 6 for DAVENPORT (BRANCH)
-prep is scheduled in period 7 for DAVENPORT (BRANCH)
+DIGITAL CURRICULUM is scheduled in period 1 taught by BRINKERHOFF, L.
+DIGITAL CURRICULUM is scheduled in period 2 taught by BRINKERHOFF, L.
+DIGITAL CURRICULUM is scheduled in period 3 taught by BRINKERHOFF, L.
+DIGITAL CURRICULUM is scheduled in period 4 taught by BRINKERHOFF, L.
+DIGITAL CURRICULUM is scheduled in period 5 taught by BRINKERHOFF, L.
+DIGITAL CURRICULUM is scheduled in period 6 taught by BRINKERHOFF, L.
+DIGITAL CURRICULUM is scheduled in period 7 taught by BRINKERHOFF, L.
+DIGITAL CURRICULUM is scheduled in period 8 taught by BRINKERHOFF, L.
+prep is scheduled in period 1 for DURRANT
+VIDEO CINEMATOGRAPHY is scheduled in period 2 taught by DURRANT
+UKNIGHTED* is scheduled in period 3 taught by DURRANT
+VIDEO EDITING is scheduled in period 4 taught by DURRANT
+VIDEO EDITING is scheduled in period 5 taught by DURRANT
+BROADCASTING 1 is scheduled in period 6 taught by DURRANT
+BROADCASTING 1 is scheduled in period 7 taught by DURRANT
+LONE PEAK LIVE - Concurrent Enrollment is scheduled in period 8 taught by DURRANT
+prep is scheduled in period 1 for RIDGWAY
+SECONDARY MATH 3 LAB is scheduled in period 2 taught by RIDGWAY
+SECONDARY MATH 2* is scheduled in period 3 taught by RIDGWAY
+SECONDARY MATH 2 LAB is scheduled in period 4 taught by RIDGWAY
+SECONDARY MATH 3* is scheduled in period 5 taught by RIDGWAY
+SECONDARY MATH 2 LAB is scheduled in period 6 taught by RIDGWAY
+SECONDARY MATH 2 LAB is scheduled in period 7 taught by RIDGWAY
+SECONDARY MATH 2* is scheduled in period 8 taught by RIDGWAY
+ENGINEERING PRINCIPLES 1 is scheduled in period 1 taught by SMITH, WESLEY
+ENGINEERING PRINCIPLES 1 is scheduled in period 2 taught by SMITH, WESLEY
+ROBOTICS 1 is scheduled in period 3 taught by SMITH, WESLEY
+prep is scheduled in period 4 for SMITH, WESLEY
+ROBOTICS 1 is scheduled in period 5 taught by SMITH, WESLEY
+ENGINEERING PRINCIPLES 1 is scheduled in period 6 taught by SMITH, WESLEY
+ROBOTICS 1 is scheduled in period 7 taught by SMITH, WESLEY
+prep is scheduled in period 8 for SMITH, WESLEY
+CERAMICS 1 is scheduled in period 1 taught by SEELY
+CERAMICS 1 is scheduled in period 2 taught by SEELY
+CERAMICS 1 is scheduled in period 3 taught by SEELY
+CERAMICS 1 is scheduled in period 4 taught by SEELY
+CERAMICS 1 is scheduled in period 5 taught by SEELY
+CERAMICS 2 is scheduled in period 6 taught by SEELY
+AP ART-3D SCULPTURE PORTFOLIO* is scheduled in period 7 taught by SEELY
+prep is scheduled in period 8 for SEELY
+BROADBENT is not available in period 1
+BROADBENT is not available in period 2
+BROADBENT is not available in period 3
+BROADBENT is not available in period 4
+INTERIOR DESIGN 1 is scheduled in period 5 taught by BROADBENT
+prep is scheduled in period 6 for BROADBENT
+INTERIOR DESIGN 1 is scheduled in period 7 taught by BROADBENT
+INTERIOR DESIGN 3* is scheduled in period 8 taught by BROADBENT
+POP/ROCK ENSEMBLE* is scheduled in period 1 taught by KIM, J.
+UKULELE is scheduled in period 2 taught by KIM, J.
+JAZZ BAND 2* is scheduled in period 3 taught by KIM, J.
+WIND ENSEMBLE ADVANCED* is scheduled in period 4 taught by KIM, J.
+WIND SYMPHONY* is scheduled in period 5 taught by KIM, J.
+prep is scheduled in period 6 for KIM, J.
+JAZZ BAND 1* is scheduled in period 7 taught by KIM, J.
+KIM, J. is not available in period 8
+PSYCHOLOGY is scheduled in period 1 taught by ELMER
+SPORTS PSYCHOLOGY is scheduled in period 2 taught by ELMER
+PSYCHOLOGY is scheduled in period 3 taught by ELMER
+POSITIVE PSYCHOLOGY is scheduled in period 4 taught by ELMER
+POSITIVE PSYCHOLOGY is scheduled in period 5 taught by ELMER
+prep is scheduled in period 6 for ELMER
+POSITIVE PSYCHOLOGY is scheduled in period 7 taught by ELMER
+PSYCHOLOGY is scheduled in period 8 taught by ELMER
+FINANCIAL LITERACY - Concurrent Enrollment is scheduled in period 1 taught by FLOOD
+FINANCIAL LITERACY - Concurrent Enrollment is scheduled in period 2 taught by FLOOD
+prep is scheduled in period 3 for FLOOD
+FINANCIAL LITERACY - Concurrent Enrollment is scheduled in period 4 taught by FLOOD
+FINANCIAL LITERACY - Concurrent Enrollment is scheduled in period 5 taught by FLOOD
+FINANCIAL LITERACY - Concurrent Enrollment is scheduled in period 6 taught by FLOOD
+FINANCIAL LITERACY - Concurrent Enrollment is scheduled in period 7 taught by FLOOD
+FINANCIAL LITERACY - Concurrent Enrollment is scheduled in period 8 taught by FLOOD
+PAINTING 2 is scheduled in period 1 taught by BRAUN
+ART HONORS* is scheduled in period 2 taught by BRAUN
+PAINTING 1 is scheduled in period 3 taught by BRAUN
+DRAWING 1 is scheduled in period 4 taught by BRAUN
+ILLUSTRATION is scheduled in period 5 taught by BRAUN
+DRAWING 1 is scheduled in period 6 taught by BRAUN
+prep is scheduled in period 7 for BRAUN
+PAINTING 1 is scheduled in period 8 taught by BRAUN
+BUILDING CONSTRUCTION* - Concurrent Enrollment is scheduled in period 1 taught by BURDETT
+BUILDING CONSTRUCTION* - Concurrent Enrollment is scheduled in period 2 taught by BURDETT
+BUILDING CONSTRUCTION* - Concurrent Enrollment is scheduled in period 3 taught by BURDETT
+BUILDING CONSTRUCTION* - Concurrent Enrollment is scheduled in period 4 taught by BURDETT
+BUILDING CONSTRUCTION* - Concurrent Enrollment is scheduled in period 5 taught by BURDETT
+BUILDING CONSTRUCTION* - Concurrent Enrollment is scheduled in period 6 taught by BURDETT
+BUILDING CONSTRUCTION* - Concurrent Enrollment is scheduled in period 7 taught by BURDETT
+BUILDING CONSTRUCTION* - Concurrent Enrollment is scheduled in period 8 taught by BURDETT
+MEDICAL ANATOMY & PHYSIOLOGY* is scheduled in period 1 taught by PASKETT^^
+MEDICAL TERMINOLOGY - Concurrent Enrollment is scheduled in period 2 taught by PASKETT^^
+prep is scheduled in period 3 for PASKETT^^
+MEDICAL ANATOMY & PHYSIOLOGY* is scheduled in period 4 taught by PASKETT^^
+MEDICAL ANATOMY & PHYSIOLOGY* is scheduled in period 5 taught by PASKETT^^
+MEDICAL ANATOMY & PHYSIOLOGY* is scheduled in period 6 taught by PASKETT^^
+MEDICAL TERMINOLOGY - Concurrent Enrollment is scheduled in period 7 taught by PASKETT^^
+EMERGENCY MEDICAL RESPONDER - Concurrent Enrollment is scheduled in period 8 taught by PASKETT^^
+MATH 1010-Concurrent Enrollment is scheduled in period 1 taught by SUMMERS
+prep is scheduled in period 2 for SUMMERS
+CALCULUS AB LAB is scheduled in period 3 taught by SUMMERS
+SECONDARY MATH 3 EXTENDED* is scheduled in period 4 taught by SUMMERS
+CALCULUS AB LAB is scheduled in period 5 taught by SUMMERS
+CALCULUS AB LAB is scheduled in period 6 taught by SUMMERS
+SECONDARY MATH 3 EXTENDED* is scheduled in period 7 taught by SUMMERS
+MATH 1010-Concurrent Enrollment is scheduled in period 8 taught by SUMMERS
+FITZPATRICK is not available in period 1
+FITZPATRICK is not available in period 2
+FITZPATRICK is not available in period 3
+FITZPATRICK is not available in period 4
+CHINESE 2* is scheduled in period 5 taught by FITZPATRICK
+CHINESE 1* is scheduled in period 6 taught by FITZPATRICK
+prep is scheduled in period 7 for FITZPATRICK
+CHINESE 3* - Concurrent Enrollment is scheduled in period 8 taught by FITZPATRICK
