@@ -19,6 +19,8 @@ def check_schedule():
     for class_name, periods in classes.items():
         if class_name and periods:
             all_combinations.p(periods)
+    print(classes)
+    print(all_combinations)
     for combination in all_combinations:
         combination = L(combination)
         combination.c()
@@ -27,9 +29,11 @@ def check_schedule():
         combination = combination[0]
     valid_combinations = all_combinations
     for combination in all_combinations:
-        for x in combination:
-            if combination.count(x) > 1:
-                valid_combinations.remove(combination)
+        for x in combination[0]:
+            if combination[0].count(x) > 1:
+                if combination in valid_combinations:
+                    valid_combinations.remove(combination)
+    print(valid_combinations)
     mapped_combinations = []
     for combination in valid_combinations:
         mapped_classes = []
