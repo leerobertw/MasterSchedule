@@ -25,6 +25,14 @@ h2 {
     text-decoration: underline;
 }
 
+.hide {
+    display: none;
+}
+
+.show {
+    display: block;
+}
+
 h3 {
     text-align: center;
 }
@@ -61,4 +69,14 @@ button {
 button:hover {
     background-color: var(--primaryColor);
     color: var(--secondaryColor);
+}
+
+.class_information {
+    display: block;
+}
+
+.class_information section {
+    background-color: var(--backgroundColor);
+    text-align: center;
+    margin: 20px;
 }
