@@ -3,7 +3,7 @@ class L(list):
         if not args:
             return
         if not self:
-            self.extend(args)
+            self.extend([[arg] for arg in args[0]])
             return
         c = [[i] for i in self]
         for lst in args:
@@ -15,16 +15,6 @@ class L(list):
         self.clear()
         self.extend(c)
     def c(self):
-        while len(self) > 1:
-            item = self.pop(1)
-            if isinstance(item, list):
-                self[0].extend(item)
-            else:
-                self[0].append(item)
-        i = 0
-        while i < len(self[0]):
-            while isinstance(self[0][i], list):
-                self[0][i:i+1] = self[0][i]
-            i += 1
-        while isinstance(self[0], list):
-            self[:] = self[0]
+        for i in range(len(self)):
+            while any(isinstance(item, list) for item in self[i]):
+                self[i] = sum(([item] if not isinstance(item, list) else item for item in self[i]), [])

@@ -19,34 +19,23 @@ def check_schedule():
     for class_name, periods in classes.items():
         if class_name and periods:
             all_combinations.p(periods)
-    print(classes)
-    print(all_combinations)
-    for combination in all_combinations:
-        combination = L(combination)
-        combination.c()
-    for combination in all_combinations:
-        combination[0].append(combination.pop(1))
-        combination = combination[0]
-    valid_combinations = all_combinations
-    for combination in all_combinations:
-        for x in combination[0]:
-            if combination[0].count(x) > 1:
-                if combination in valid_combinations:
-                    valid_combinations.remove(combination)
-    print(valid_combinations)
-    mapped_combinations = []
+    all_combinations.c()
+    valid_combinations = [comb for comb in all_combinations if len(set(comb)) == len(comb)]
+    print("Valid Combinations with Classes:")
     for combination in valid_combinations:
+        used_classes = set()
         mapped_classes = []
         for period in combination:
             for class_name, periods in classes.items():
-                if period in periods:
+                if period in periods and class_name not in used_classes:
                     mapped_classes.append(class_name)
+                    used_classes.add(class_name)
                     break
-        mapped_combinations.append((combination, mapped_classes))
-    print("Valid Combinations with Classes:")
-    for combo, class_names in mapped_combinations:
-        print(f"Combination: {combo} -> Classes: {class_names}")
-
+        classess = {}
+        for i in range(len(mapped_classes)):
+            classess[combination[i]] = mapped_classes[i]
+        classess = dict(sorted(classess.items()))
+        print(classess)
     return redirect(url_for('index'))
 
 if __name__ == '__main__':
