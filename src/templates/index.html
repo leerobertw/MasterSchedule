@@ -40,6 +40,17 @@
                 {% for result in results %}
                     {% set result_dict = result | safe | fromjson %}
                     <h3>{{ result_dict.status }}</h3>
+                    {% if "result" in result_dict %}
+                        <div id="schedule-box" style="display: none;">
+                            <h3>Valid Schedule:</h3>
+                            <div id="schedule-display"></div>
+                            <button id="prev-btn">←</button>
+                            <button id="next-btn">→</button>
+                        </div>
+                        <script>
+                            window.scheduleResults = {{ result_dict.result | tojson }};
+                        </script>
+                    {% endif %}
                 {% endfor %}
             {% endif %}
         {% endwith %}

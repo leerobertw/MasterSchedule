@@ -15,6 +15,7 @@ def index():
 @app.route('/check_schedule', methods=['POST'])
 def check_schedule():
     form_data = request.form.to_dict()
+    classnames = [form_data[f'class{i}'] for i in range(1, 9)]
     classes = {form_data[f'class{i}']: [] for i in range(1, 9)}
     for classs, _ in classes.items():
         classes[classs] = list(set([classss[1] for classss in schedule if classss[0] == classs]))
@@ -24,24 +25,13 @@ def check_schedule():
             all_combinations.p(periods)
     all_combinations.c()
     valid_combinations = [comb for comb in all_combinations if len(set(comb)) == len(comb)]
-    for combination in valid_combinations:
-        used_classes = set()
-        mapped_classes = []
-        for period in combination:
-            for class_name, periods in classes.items():
-                if period in periods and class_name not in used_classes:
-                    mapped_classes.append(class_name)
-                    used_classes.add(class_name)
-                    break
-        classess = {}
-        for i in range(len(mapped_classes)):
-            classess[combination[i]] = mapped_classes[i]
-        classess = dict(sorted(classess.items()))
+    mapped_class_combinations = [dict(sorted({valid_combination[i]:classnames[i] for i in range(len(classnames))}.items())) for valid_combination in valid_combinations]
     if len(valid_combinations) <= 0:
         msg = "You can't take those classes next year!"
+        flash(json.dumps({"status":msg}))
     else:
         msg = "You can take those classes next year!"
-    flash(json.dumps({"status": msg}))
+        flash(json.dumps({"status":msg,"result":mapped_class_combinations}))
     return redirect(url_for('index'))
 
 if __name__ == '__main__':
