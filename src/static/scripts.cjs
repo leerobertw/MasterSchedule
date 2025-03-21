@@ -1,76 +1,38 @@
-import {classes} from './schedule_complete.js';
-classes();
 
-const submitBtn = document.querySelector('#submit');
-submitBtn.addEventListener("click", () => {
-    let classOne = document.querySelector('input[name="class1"]');
-    localStorage.setItem('first-class', classOne.value);
-    let classTwo = document.querySelector('input[name="class2"]');
-    localStorage.setItem('second-class', classTwo.value);
-    let classThree = document.querySelector('input[name="class3"]');
-    localStorage.setItem('third-class', classThree.value);
-    let classFour = document.querySelector('input[name="class4"]');
-    localStorage.setItem('fourth-class', classFour.value);
-    let classFive = document.querySelector('input[name="class5"]');
-    localStorage.setItem('fifth-class', classFive.value);
-    let classSix = document.querySelector('input[name="class6"]');
-    localStorage.setItem('sixth-class', classSix.value);
-    let classSeven = document.querySelector('input[name="class7"]');
-    localStorage.setItem('seventh-class', classSeven.value);
-    let classEight = document.querySelector('input[name="class8"]');
-    localStorage.setItem('eighth-class', classEight.value);
-    let classNine = document.querySelector('input[name="class9"]');
-    localStorage.setItem('ninth-class', classNine.value);
-    let classTen = document.querySelector('input[name="class10"]');
-    localStorage.setItem('tenth-class', classTen.value);
-})
+document.addEventListener("DOMContentLoaded", function () {
+    if (!window.scheduleResults || window.scheduleResults.length === 0) return;
 
-const resetBtn = document.querySelector("#reset");
-resetBtn.addEventListener('click', () => {
-    localStorage.removeItem('class1');
-    localStorage.removeItem('class2');
-    localStorage.removeItem('class3');
-    localStorage.removeItem('class4');
-    localStorage.removeItem('class5');
-    localStorage.removeItem('class6');
-    localStorage.removeItem('class7');
-    localStorage.removeItem('class8');
-    localStorage.removeItem('class9');
-    localStorage.removeItem('class10');
-    location.reload();
-})
+    let results = window.scheduleResults;
+    let currentIndex = 0;
 
-const check = localStorage.getItem('class1');
-if (check === null) {
-    document.querySelector('#form').className = 'show';
-    document.querySelector('#class_information').className = 'hide';
-} else {
-    document.querySelector('#form').className = 'hide';
-    document.querySelector('#class_information').className = 'show'
-}
+    const scheduleBox = document.querySelector("#schedule-box");
+    const scheduleDisplay = document.querySelector("#schedule-display");
+    const prevBtn = document.querySelector("#prev-btn");
+    const nextBtn = document.querySelector("#next-btn");
 
-const classInfo = document.querySelector('#class_information');
+    function updateScheduleDisplay() {
+        if (results.length > 0) {
+            scheduleDisplay.innerHTML = Object.entries(results[currentIndex])
+                .map(([period, className]) => `<p>Period ${period}: ${className}</p>`)
+                .join("");
+            scheduleBox.style.display = "block";
+        }
+    }
+    prevBtn.addEventListener("click", function () {
+        if (currentIndex > 0) {
+            currentIndex--;
+            updateScheduleDisplay();
+        }
+    });
+    nextBtn.addEventListener("click", function () {
+        if (currentIndex < results.length - 1) {
+            currentIndex++;
+            updateScheduleDisplay();
+        }
+    });
 
-for (let x = 0; x < classes.length; x++) {
-    let information = document.createElement('div');
-    let classText = document.createElement('h4');
-    classText.innerHTML = `Class name: ${classes[x].class_name}`;
-    let teacherText = document.createElement('h4');
-    teacherText.innerHTML = `Teacher(s): ${classes[x].teacher(s)}`;
-    let roomText = document.createElement('h4');
-    roomText.innerHTMl = `Room: ${classes[x].room}`;
-    let periodText = document.createElement('h4');
-    periodText.innerHTML = `Periods: ${classes[x].periods}`;
-    let semesterText = document.createElement('h4');
-    semesterText.innerHTML = `Semesters: ${classes[x].semesters}`;
-    let figure = document.createElement('figure');
-    figure.appendChild(classText);
-    figure.appendChild(teacherText);
-    figure.appendChild(roomText);
-    figure.appendChild(periodText);
-    figure.appendChild(semesterText)
-    classInfo.appendChild(figure);
-}
+    updateScheduleDisplay();
+});
 
 
 

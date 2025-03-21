@@ -11,32 +11,56 @@
 </header>
 <body>
 <main>
-    <p>Ever wondered which classes you can take next year? Want to know which classes you can take and which ones you can't?
+    <p>
+        Ever wondered which classes you can take next year? Want to know which classes you can take and which ones you can't?
         Well, look no further! This website can help you figure out which classes you can take during
         your time here at Lone Peak High School. Please note that this is not to schedule your classes,
-        but rather a tool to help you figure out which classes you can take at Lone Peak. </p>
+        but rather a tool to help you figure out which classes you can take at Lone Peak.
+    </p>
     <div class="form">
-    <form>
-        <fieldset>
-            <label>Please enter the classes you wish to take here at Lone Peak (up to 10)</label><br>
-            <label><input type="text" name="class1"></label><br>
-            <label><input type="text" name="class2"></label><br>
-            <label><input type="text" name="class3"></label><br>
-            <label><input type="text" name="class4"></label><br>
-            <label><input type="text" name="class5"></label><br>
-            <label><input type="text" name="class6"></label><br>
-            <label><input type="text" name="class7"></label><br>
-            <label><input type="text" name="class8"></label><br>
-            <label><input type="text" name="class9"></label><br>
-            <label><input type="text" name="class10"></label><br>
-            <input type="submit" value="submit" id="submit">
-        </fieldset>
+        <form action="{{ url_for('check_schedule') }}" method="POST">
+            <fieldset>
+                <label>Please enter the classes you wish to take here at Lone Peak next year (up to 8)</label><br>
+                <label><input type="text" name="class1"></label><br>
+                <label><input type="text" name="class2"></label><br>
+                <label><input type="text" name="class3"></label><br>
+                <label><input type="text" name="class4"></label><br>
+                <label><input type="text" name="class5"></label><br>
+                <label><input type="text" name="class6"></label><br>
+                <label><input type="text" name="class7"></label><br>
+                <label><input type="text" name="class8"></label><br>
+                <button>Submit</button>
+            </fieldset>
         </form>
     </div>
-    <div id="class_information">
-        <section>
-            <button id="reset">Reset</button>
-        </section>
+    <div id="results">
+        {% with results = get_flashed_messages() %}
+            {% if results %}
+                <h2>Schedule Results:</h2>
+                {% for result in results %}
+                    {% set result_dict = result | safe | fromjson %}
+                    <h3>{{ result_dict.status }}</h3>
+                    {% if "result" in result_dict %}
+                        <div id="schedule-box" style="display: none;">
+                            <h3>Valid Schedule:</h3>
+                            <div id="schedule-display"></div>
+                            <button id="prev-btn">←</button>
+                            <button id="next-btn">→</button>
+                        </div>
+                        <script>
+                            window.scheduleResults = {{ result_dict.result | tojson }};
+                        </script>
+                    {% endif %}
+                {% endfor %}
+            {% endif %}
+        {% endwith %}
+    </div>
+    <div id="information">
+        <h4 id="class_name">Name:</h4>
+        <h4 id="teachers">Teacher(s):</h4>
+        <h4 id="class_periods">Class Period(s):</h4>
+        <h4 id="categories">Category:</h4>
+        <h4 id="prerequisites">Prerequisites:</h4>
     </div>
     <!--I'll try to add javascript to this later so this can stay up to date. All placeholders for now.-->
     <h2>Arena scheduling for 2025-2026 Seniors opens on April 9, 2025 at 2:45 P.M.</h2>
@@ -44,7 +68,7 @@
     <h2>Arena scheduling for 2025-2026 Sophomores opens on April 23, 2025 at 2:45 P.M.</h2>
     <p>If you have any questions, please talk to your counselor down in the counseling center. They're happy to help.</p>
 </main>
-<script src="{{ url_for('static', filename='scripts.js') }}" type="module"></script>
+<script src="{{ url_for('static', filename='scripts.cjs') }}" type="module"></script>
 <footer>
     <p>To visit the official school website, click <a href='https://lphs.alpineschools.org/'>here</a></p>
 </footer>
