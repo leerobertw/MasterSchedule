@@ -50,11 +50,18 @@
                         <script>
                             window.scheduleResults = {{ result_dict.result | tojson }};
                         </script>
+                    {% elif "conflicts" in result_dict %}
+                        <h3>Conflicting Classes:</h3>
+                        <ul>
+                            {% for period, classes in result_dict.conflicts.items() %}
+                                <li>Period {{ period }}: {{ classes | join(', ') }}</li>
+                            {% endfor %}
+                        </ul>
                     {% endif %}
                 {% endfor %}
             {% endif %}
         {% endwith %}
-    </div>
+    </div>    
     <div id="information">
         <h4 id="class_name">Name:</h4>
         <h4 id="teachers">Teacher(s):</h4>

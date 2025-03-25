@@ -91,3 +91,6 @@ def schedule():
         json.dump(outputjson, file, indent=4)
     
     return outputjson
+
+def schedulegrab():
+    return json.load(open("./data/classesout.json", "r") if os.path.isfile("./data/classesout.json") else open("./src/data/classesout.json", "r"))
