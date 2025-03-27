@@ -26,9 +26,13 @@ def get_valid(classes):
 def check_schedule():
     form_data = request.form.to_dict()
     classnames = [form_data[f'class{i}'] for i in range(1, 9)]
-    classes = {form_data[f'class{i}']: [] for i in range(1, 9)}
-    for classs, _ in classes.items():
-        classes[classs] = list(set([classss[1] for classss in schedule if classss[0] == classs]))
+    class_mapping = {form_data[f'class{i}'].lower(): form_data[f'class{i}'] for i in range(1, 9)}
+    classes = {class_name: [] for class_name in class_mapping}
+    for classs in classes:
+        for classss in schedule:
+            if classss[0].lower() == classs:
+                classes[classs] = list(set(classes[classs] + [classss[1]]))
+                class_mapping[classs] = classss[0]
     valid_combinations, valid = get_valid(classes)
     if not valid:
         period_conflicts = {}
@@ -38,20 +42,19 @@ def check_schedule():
                     period_conflicts[period].append(class_name)
                 else:
                     period_conflicts[period] = [class_name]
-        conflicting_classes = {k: v for k, v in sorted(period_conflicts.items()) if len(v) > 1}
-        removable_classes = []
+        conflicting_classes = []
         for class_name in list(classes.keys()):
             temp_classes = {k: v for k, v in classes.items() if k != class_name}
             _, temp_valid = get_valid(temp_classes)
             if temp_valid:
-                removable_classes.append(class_name)
+                conflicting_classes.append(class_name)
         msg = {
             "status": "You can't take those classes next year!",
-            "conflicts": removable_classes
+            "conflicts": conflicting_classes
         }
         flash(json.dumps(msg))
     else:
-        mapped_class_combinations = [dict(sorted({valid_combination[i]: classnames[i] for i in range(len(classnames))}.items())) for valid_combination in valid_combinations]
+        mapped_class_combinations = [dict(sorted({valid_combination[i]: class_mapping[classnames[i].lower()] for i in range(len(classnames))}.items())) for valid_combination in valid_combinations]
         msg = {"status": "You can take those classes next year!", "result": mapped_class_combinations}
         flash(json.dumps(msg))
     
