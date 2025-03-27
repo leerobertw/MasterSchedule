@@ -1,5 +1,5 @@
 :root {
-    font-family: sans-serif;
+    font-family: inherit;
     --primaryColor: #800000;
     --secondaryColor: #FFD700;
     --teritaryColor: #000000;
@@ -13,6 +13,7 @@ header {
     color: var(--secondaryColor);
     padding: 15px;
     font-size: 20px;
+    margin: auto;
 }
 
 body {
@@ -23,6 +24,7 @@ h2 {
     text-align: center;
     color: red;
     text-decoration: underline;
+    font-style: italic;
 }
 
 h3 {
@@ -31,6 +33,13 @@ h3 {
 
 p {
     text-align: center;
+    font-size: 25px;
+}
+
+#results {
+    text-align: center;
+    margin: 5px;
+    font-size: 20px;
 }
 
 footer {
@@ -61,4 +70,33 @@ button {
 button:hover {
     background-color: var(--primaryColor);
     color: var(--secondaryColor);
+}
+
+form {
+    text-align: left;
+    margin: 5px;
+    padding: 5px;
+    font-size: 20px;
+    border: 3px solid var(--primaryColor);
+}
+
+input {
+    font-size: 20px;
+    padding: 10px 10px;
+    text-align: left;
+    margin: 5px;
+    width: 75%;
+    box-sizing: border-box;
+}
+
+input:focus {
+    background-color: #FFADB0;
+}
+
+select {
+    width: 75%;
+    padding: 10px 10px;
+    border: none;
+    border-radius: 3px;
+    background-color: white;
 }
