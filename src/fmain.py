@@ -47,7 +47,7 @@ def check_schedule():
             temp_classes = {k: v for k, v in classes.items() if k != class_name}
             _, temp_valid = get_valid(temp_classes)
             if temp_valid:
-                conflicting_classes.append(class_name)
+                conflicting_classes.append(class_mapping[class_name])
         msg = {
             "status": "You can't take those classes next year!",
             "conflicts": conflicting_classes
