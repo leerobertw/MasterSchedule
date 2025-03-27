@@ -70,37 +70,40 @@ if (check === null) {
 
     }
 }*/
+const options = ["Painting 2", "Math", "Science", "English"];
 document.addEventListener("DOMContentLoaded", function () {
-    if (!window.scheduleResults || window.scheduleResults.length === 0) return;
-
-    let results = window.scheduleResults;
-    let currentIndex = 0;
-
-    const scheduleBox = document.getElementById("schedule-box");
-    const scheduleDisplay = document.getElementById("schedule-display");
-    const prevBtn = document.getElementById("prev-btn");
-    const nextBtn = document.getElementById("next-btn");
-
-    function updateScheduleDisplay() {
-        if (results.length > 0) {
-            scheduleDisplay.innerHTML = Object.entries(results[currentIndex])
-                .map(([period, className]) => `<p>Period ${period}: ${className}</p>`)
-                .join("");
-            scheduleBox.style.display = "block";
+    const inputs = document.querySelectorAll(".class-input");
+    const dropdownContainer = document.getElementById("dropdown-container");
+    inputs.forEach(input => {
+        const dropdown = document.createElement("select");
+        dropdown.size = 6;
+        dropdown.style.display = "none";
+        function updateDropdown(filter) {
+            dropdown.innerHTML = "";
+            options
+                .filter(option => option.toLowerCase().includes(filter.toLowerCase()))
+                .forEach(option => {
+                    const opt = document.createElement("option");
+                    opt.value = option;
+                    opt.textContent = option;
+                    dropdown.appendChild(opt);
+                });
+            dropdown.style.display = dropdown.children.length ? "block" : "none";
         }
-    }
-    prevBtn.addEventListener("click", function () {
-        if (currentIndex > 0) {
-            currentIndex--;
-            updateScheduleDisplay();
-        }
+        input.addEventListener("input", () => updateDropdown(input.value));
+        dropdown.addEventListener("change", function () {
+            input.value = dropdown.value;
+            dropdown.style.display = "none";
+        });
+        input.addEventListener("focus", function () {
+            updateDropdown(input.value);
+            dropdownContainer.appendChild(dropdown);
+            dropdown.style.position = "absolute";
+            dropdown.style.left = `${input.getBoundingClientRect().left}px`;
+            dropdown.style.top = `${input.getBoundingClientRect().bottom + window.scrollY}px`;
+        });
+        input.addEventListener("blur", function () {
+            setTimeout(() => dropdown.style.display = "none", 200);
+        });
     });
-    nextBtn.addEventListener("click", function () {
-        if (currentIndex < results.length - 1) {
-            currentIndex++;
-            updateScheduleDisplay();
-        }
-    });
-
-    updateScheduleDisplay();
 });
