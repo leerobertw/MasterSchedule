@@ -3,11 +3,11 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Master Schedule</title>
+    <title>Master Scheduler - LPHS</title>
     <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
 </head>
 <header>
-    <h1>Master Schedule</h1>
+    <h1>Master Scheduler - Lone Peak High School</h1>
 </header>
 <body>
 <main>
@@ -20,15 +20,15 @@
     <div class="form">
         <form action="{{ url_for('check_schedule') }}" method="POST">
             <fieldset>
-                <label>Please enter the classes you wish to take here at Lone Peak next year (up to 8)</label><br>
-                <label><input type="text" name="class1"></label><br>
-                <label><input type="text" name="class2"></label><br>
-                <label><input type="text" name="class3"></label><br>
-                <label><input type="text" name="class4"></label><br>
-                <label><input type="text" name="class5"></label><br>
-                <label><input type="text" name="class6"></label><br>
-                <label><input type="text" name="class7"></label><br>
-                <label><input type="text" name="class8"></label><br>
+                <label><input type="text" name="class1" class="class-input" placeholder="Start typing..."></label><br>
+                <label><input type="text" name="class2" class="class-input" placeholder="Start typing..."></label><br>
+                <label><input type="text" name="class3" class="class-input" placeholder="Start typing..."></label><br>
+                <label><input type="text" name="class4" class="class-input" placeholder="Start typing..."></label><br>
+                <label><input type="text" name="class5" class="class-input" placeholder="Start typing..."></label><br>
+                <label><input type="text" name="class6" class="class-input" placeholder="Start typing..."></label><br>
+                <label><input type="text" name="class7" class="class-input" placeholder="Start typing..."></label><br>
+                <label><input type="text" name="class8" class="class-input" placeholder="Start typing..."></label><br>
+                <div id="dropdown-container"></div>
                 <button>Submit</button>
             </fieldset>
         </form>
@@ -41,7 +41,7 @@
                     {% set result_dict = result | safe | fromjson %}
                     <h3>{{ result_dict.status }}</h3>
                     {% if "result" in result_dict %}
-                        <div id="schedule-box" style="display: none;">
+                        <div id="schedule-box">
                             <h3>Valid Schedule:</h3>
                             <div id="schedule-display"></div>
                             <button id="prev-btn">←</button>
@@ -50,19 +50,18 @@
                         <script>
                             window.scheduleResults = {{ result_dict.result | tojson }};
                         </script>
+                    {% elif "conflicts" in result_dict %}
+                        <h3>Conflicting Classes:</h3>
+                        <ul>
+                            {% for class in result_dict.conflicts %}
+                                <li>{{ class }}</li>
+                            {% endfor %}
+                        </ul>
                     {% endif %}
                 {% endfor %}
             {% endif %}
         {% endwith %}
     </div>
-    <div id="information">
-        <h4 id="class_name">Name:</h4>
-        <h4 id="teachers">Teacher(s):</h4>
-        <h4 id="class_periods">Class Period(s):</h4>
-        <h4 id="categories">Category:</h4>
-        <h4 id="prerequisites">Prerequisites:</h4>
-    </div>
-    <!--I'll try to add javascript to this later so this can stay up to date. All placeholders for now.-->
     <h2>Arena scheduling for 2025-2026 Seniors opens on April 9, 2025 at 2:45 P.M.</h2>
     <h2>Arena scheduling for 2025-2026 Juniors opens on April 16, 2025 at 2:45 P.M.</h2>
     <h2>Arena scheduling for 2025-2026 Sophomores opens on April 23, 2025 at 2:45 P.M.</h2>
@@ -70,7 +69,7 @@
 </main>
 <script src="{{ url_for('static', filename='scripts.cjs') }}" type="module"></script>
 <footer>
-    <p>To visit the official school website, click <a href='https://lphs.alpineschools.org/'>here</a></p>
+    <h3>To visit the official school website, click <a href='https://lphs.alpineschools.org/'>here</a></h3>
 </footer>
 </body>
 </html>

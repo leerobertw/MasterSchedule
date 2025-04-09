@@ -1,1524 +1,524 @@
 {
     "classes": [
         [
-            "PSYCHOLOGY",
+            "ACCOUNTING 1",
             1,
-            "ELMER"
+            "DAY^"
         ],
         [
-            "SPORTS PSYCHOLOGY",
+            "ENTREPRENEURSHIP",
             2,
-            "ELMER"
+            "DAY^"
         ],
         [
-            "POSITIVE PSYCHOLOGY",
+            "ACCOUNTING 1",
             3,
-            "ELMER"
-        ],
-        [
-            "PSYCHOLOGY",
-            4,
-            "ELMER"
+            "DAY^"
         ],
         [
             "PSYCHOLOGY",
-            5,
-            "ELMER"
-        ],
-        [
-            "Prep",
-            6,
-            "ELMER"
-        ],
-        [
-            "POSITIVE PSYCHOLOGY",
-            7,
-            "ELMER"
-        ],
-        [
-            "POSITIVE PSYCHOLOGY",
-            8,
-            "ELMER"
-        ],
-        [
-            "Not available",
-            1,
-            "HUNT"
-        ],
-        [
-            "LAW ENFORCEMENT",
-            2,
-            "HUNT"
-        ],
-        [
-            "LAW ENFORCEMENT",
-            3,
-            "HUNT"
-        ],
-        [
-            "Not available",
             4,
-            "HUNT"
+            "DAY^"
         ],
         [
             "Not available",
             5,
-            "HUNT"
+            "DAY^"
         ],
         [
             "Not available",
             6,
-            "HUNT"
+            "DAY^"
         ],
         [
             "Not available",
             7,
-            "HUNT"
+            "DAY^"
         ],
         [
             "Not available",
             8,
-            "HUNT"
+            "DAY^"
         ],
         [
-            "Not available",
+            "AP CALCULUS AB*",
             1,
-            "WILY"
+            "SMITH, CRAIG"
         ],
         [
-            "Not available",
+            "AP CALCULUS AB*",
             2,
-            "WILY"
-        ],
-        [
-            "Not available",
-            3,
-            "WILY"
-        ],
-        [
-            "Not available",
-            4,
-            "WILY"
-        ],
-        [
-            "Prep",
-            5,
-            "WILY"
-        ],
-        [
-            "ENGLISH 10*",
-            6,
-            "WILY"
-        ],
-        [
-            "ENGLISH 10*",
-            7,
-            "WILY"
-        ],
-        [
-            "ENGLISH 10*",
-            8,
-            "WILY"
-        ],
-        [
-            "GOV & CIT",
-            1,
-            "FARR^"
-        ],
-        [
-            "GOV & CIT",
-            2,
-            "FARR^"
+            "SMITH, CRAIG"
         ],
         [
             "Prep",
             3,
-            "FARR^"
+            "SMITH, CRAIG"
         ],
         [
-            "GOV & CIT",
+            "Prep",
             4,
-            "FARR^"
+            "SMITH, CRAIG"
         ],
         [
-            "GOV & CIT",
+            "AP CALCULUS AB*",
             5,
-            "FARR^"
+            "SMITH, CRAIG"
         ],
         [
-            "GOV & CIT",
+            "AP CALCULUS AB*",
             6,
-            "FARR^"
+            "SMITH, CRAIG"
         ],
         [
-            "GOV & CIT",
+            "AP CALCULUS AB*",
             7,
-            "FARR^"
+            "SMITH, CRAIG"
         ],
         [
-            "BOYS GOLF TEAM",
+            "AP CALCULUS AB*",
             8,
-            "FARR^"
+            "SMITH, CRAIG"
         ],
         [
             "Prep",
             1,
-            "POWELL"
+            "MOLEN^"
         ],
         [
-            "MUSICAL THEATER",
+            "BUSINESS OFFICE SPECIALIST - Concurrent Enrollment",
             2,
-            "POWELL"
+            "MOLEN^"
+        ],
+        [
+            "GRAPHIC DESIGN / DIGITAL MEDIA",
+            3,
+            "MOLEN^"
+        ],
+        [
+            "DIGITAL TECHNOLOGY - Concurrent Enrollment",
+            4,
+            "MOLEN^"
+        ],
+        [
+            "GRAPHIC DESIGN / DIGITAL MEDIA",
+            5,
+            "MOLEN^"
+        ],
+        [
+            "Prep",
+            6,
+            "MOLEN^"
+        ],
+        [
+            "BUSINESS MANAGEMENT - Concurrent Enrollment",
+            7,
+            "MOLEN^"
+        ],
+        [
+            "WEB DEVELOPMENT 2 - Concurrent Enrollment",
+            8,
+            "MOLEN^"
+        ],
+        [
+            "Prep",
+            1,
+            "MITCHELL^"
+        ],
+        [
+            "AP CHEMISTRY*",
+            2,
+            "MITCHELL^"
+        ],
+        [
+            "CHEMISTRY 1010 - Concurrent Enrollment*",
+            3,
+            "MITCHELL^"
+        ],
+        [
+            "CHEMISTRY 1010 - Concurrent Enrollment*",
+            4,
+            "MITCHELL^"
+        ],
+        [
+            "WILDLIFE BIOLOGY",
+            5,
+            "MITCHELL^"
+        ],
+        [
+            "WILDLIFE BIOLOGY",
+            6,
+            "MITCHELL^"
+        ],
+        [
+            "MEDICAL FORENSICS* - Concurrent Enrollment",
+            7,
+            "MITCHELL^"
+        ],
+        [
+            "MEDICAL FORENSICS* - Concurrent Enrollment",
+            8,
+            "MITCHELL^"
+        ],
+        [
+            "HEALTH",
+            1,
+            "FERRAN"
+        ],
+        [
+            "HEALTH",
+            2,
+            "FERRAN"
         ],
         [
             "AP MUSIC THEORY*",
             3,
-            "POWELL"
+            "FERRAN"
         ],
         [
-            "ACAPELLA CHOIR*",
+            "HEALTH",
             4,
-            "POWELL"
+            "FERRAN"
         ],
         [
-            "ADVANCED MEN'S ENSEMBLE*",
+            "HEALTH",
             5,
-            "POWELL"
+            "FERRAN"
         ],
         [
-            "CHAMBER CHOIR - MADRIGAL*",
+            "HEALTH",
             6,
-            "POWELL"
+            "FERRAN"
         ],
         [
-            "ADVANCED WOMEN'S ENSEMBLE*",
+            "HEALTH",
             7,
-            "POWELL"
+            "FERRAN"
         ],
         [
-            "THEATER PRODUCTIONS*",
+            "HEALTH",
             8,
-            "POWELL"
+            "FERRAN"
         ],
         [
-            "AP CALCULUS BC*",
+            "GOV & CIT",
             1,
-            "LYONS"
+            "FARR^"
+        ],
+        [
+            "BOYS GOLF TEAM",
+            2,
+            "FARR^"
+        ],
+        [
+            "GOV & CIT",
+            3,
+            "FARR^"
+        ],
+        [
+            "GOV & CIT",
+            4,
+            "FARR^"
+        ],
+        [
+            "GOV & CIT",
+            5,
+            "FARR^"
+        ],
+        [
+            "GOV & CIT",
+            6,
+            "FARR^"
+        ],
+        [
+            "GOV & CIT",
+            7,
+            "FARR^"
         ],
         [
             "Prep",
-            2,
-            "LYONS"
-        ],
-        [
-            "AP STATISTICS*",
-            3,
-            "LYONS"
-        ],
-        [
-            "AP CALCULUS BC*",
-            4,
-            "LYONS"
-        ],
-        [
-            "SECONDARY MATH 3 EXTENDED*",
-            5,
-            "LYONS"
-        ],
-        [
-            "ADV MATH LAB",
-            6,
-            "LYONS"
-        ],
-        [
-            "SECONDARY MATH 3 EXTENDED*",
-            7,
-            "LYONS"
-        ],
-        [
-            "AP STATISTICS*",
             8,
-            "LYONS"
+            "FARR^"
+        ],
+        [
+            "US HISTORY*",
+            1,
+            "VOORHEIS^"
         ],
         [
             "ENGLISH 12*",
-            1,
-            "NELSON"
-        ],
-        [
-            "ENGLISH 12*",
             2,
-            "NELSON"
+            "VOORHEIS^"
         ],
         [
-            "ENGLISH 12*",
+            "US HISTORY*",
             3,
-            "NELSON"
+            "VOORHEIS^"
         ],
         [
-            "CREATIVE WRITING 1",
+            "FINANCIAL LITERACY",
             4,
-            "NELSON"
+            "VOORHEIS^"
+        ],
+        [
+            "FINANCIAL LITERACY",
+            5,
+            "VOORHEIS^"
+        ],
+        [
+            "US HISTORY*",
+            6,
+            "VOORHEIS^"
+        ],
+        [
+            "SOCIAL STUDIES ESSENTIALS",
+            7,
+            "VOORHEIS^"
+        ],
+        [
+            "FINANCIAL LITERACY",
+            8,
+            "VOORHEIS^"
+        ],
+        [
+            "PAINTING 2",
+            1,
+            "BRAUN"
+        ],
+        [
+            "ILLUSTRATION",
+            2,
+            "BRAUN"
         ],
         [
             "Prep",
-            5,
-            "NELSON"
-        ],
-        [
-            "ENGLISH 12*",
-            6,
-            "NELSON"
-        ],
-        [
-            "CREATIVE WRITING 1",
-            7,
-            "NELSON"
-        ],
-        [
-            "CREATIVE WRITING 1",
-            8,
-            "NELSON"
-        ],
-        [
-            "AP ENVIRONMENTAL SCIENCE-Concurrent Enrollment*",
-            1,
-            "PERKES"
-        ],
-        [
-            "WEATHER/CLIMATE - Concurrent Enrollment",
-            2,
-            "PERKES"
-        ],
-        [
-            "WEATHER/CLIMATE - Concurrent Enrollment",
             3,
-            "PERKES"
+            "BRAUN"
         ],
         [
-            "ENVIRONMENTAL SCIENCE",
+            "DRAWING 1",
             4,
-            "PERKES"
+            "BRAUN"
         ],
         [
-            "AP ENVIRONMENTAL SCIENCE-Concurrent Enrollment*",
+            "DRAWING 1",
             5,
-            "PERKES"
+            "BRAUN"
         ],
         [
-            "WEATHER/CLIMATE - Concurrent Enrollment",
+            "ART HONORS*",
             6,
-            "PERKES"
-        ],
-        [
-            "WEATHER/CLIMATE - Concurrent Enrollment",
-            7,
-            "PERKES"
-        ],
-        [
-            "Prep",
-            8,
-            "PERKES"
-        ],
-        [
-            "SPANISH 2 HONORS*",
-            1,
-            "SWARTZ"
-        ],
-        [
-            "SPANISH 1*",
-            2,
-            "SWARTZ"
-        ],
-        [
-            "SPANISH 1*",
-            3,
-            "SWARTZ"
-        ],
-        [
-            "SPANISH 2 HONORS*",
-            4,
-            "SWARTZ"
-        ],
-        [
-            "SPANISH 1*",
-            5,
-            "SWARTZ"
-        ],
-        [
-            "SPANISH 3 HONORS* - Concurrent Enrollment",
-            6,
-            "SWARTZ"
-        ],
-        [
-            "SPANISH 1*",
-            7,
-            "SWARTZ"
-        ],
-        [
-            "Prep",
-            8,
-            "SWARTZ"
-        ],
-        [
-            "Prep",
-            1,
-            "SMITH, CASSIDY"
-        ],
-        [
-            "ENGLISH 10*",
-            2,
-            "SMITH, CASSIDY"
-        ],
-        [
-            "ENGLISH 11*",
-            3,
-            "SMITH, CASSIDY"
-        ],
-        [
-            "ENGLISH 11*",
-            4,
-            "SMITH, CASSIDY"
-        ],
-        [
-            "ENGLISH 10*",
-            5,
-            "SMITH, CASSIDY"
-        ],
-        [
-            "Prep",
-            6,
-            "SMITH, CASSIDY"
-        ],
-        [
-            "ENGLISH 11*",
-            7,
-            "SMITH, CASSIDY"
-        ],
-        [
-            "ENGLISH 10*",
-            8,
-            "SMITH, CASSIDY"
-        ],
-        [
-            "SCULPTURE 1",
-            1,
-            "FIELD"
-        ],
-        [
-            "SCULPTURE 2",
-            2,
-            "FIELD"
-        ],
-        [
-            "Prep",
-            3,
-            "FIELD"
+            "BRAUN"
         ],
         [
             "PAINTING 1",
-            4,
-            "FIELD"
-        ],
-        [
-            "PAINTING 1",
-            5,
-            "FIELD"
-        ],
-        [
-            "SCULPTURE 1",
-            6,
-            "FIELD"
-        ],
-        [
-            "SCULPTURE 1",
             7,
-            "FIELD"
+            "BRAUN"
         ],
         [
             "PAINTING 1",
             8,
-            "FIELD"
-        ],
-        [
-            "BAKING & PASTRY",
-            1,
-            "COX, B.^"
-        ],
-        [
-            "STUDENT GOVERNMENT*",
-            2,
-            "COX, B.^"
-        ],
-        [
-            "ADVANCED CULINARY* - Concurrent Enrollment",
-            3,
-            "COX, B.^"
-        ],
-        [
-            "CULINARY BASICS",
-            4,
-            "COX, B.^"
-        ],
-        [
-            "CULINARY BASICS",
-            5,
-            "COX, B.^"
-        ],
-        [
-            "CULINARY BASICS",
-            6,
-            "COX, B.^"
-        ],
-        [
-            "ADVANCED CULINARY* - Concurrent Enrollment",
-            7,
-            "COX, B.^"
-        ],
-        [
-            "Not available",
-            8,
-            "COX, B.^"
-        ],
-        [
-            "US HISTORY*",
-            1,
-            "JOLLEY^"
-        ],
-        [
-            "US HISTORY*",
-            2,
-            "JOLLEY^"
-        ],
-        [
-            "Prep",
-            3,
-            "JOLLEY^"
-        ],
-        [
-            "US HISTORY*",
-            4,
-            "JOLLEY^"
-        ],
-        [
-            "US HISTORY*",
-            5,
-            "JOLLEY^"
-        ],
-        [
-            "US HISTORY*",
-            6,
-            "JOLLEY^"
-        ],
-        [
-            "GIRLS SOCCER TEAM",
-            7,
-            "JOLLEY^"
-        ],
-        [
-            "US HISTORY*",
-            8,
-            "JOLLEY^"
-        ],
-        [
-            "BUILDING CONSTRUCTION* - Concurrent Enrollment",
-            1,
-            "BURDETT"
-        ],
-        [
-            "BUILDING CONSTRUCTION* - Concurrent Enrollment",
-            2,
-            "BURDETT"
-        ],
-        [
-            "BUILDING CONSTRUCTION* - Concurrent Enrollment",
-            3,
-            "BURDETT"
-        ],
-        [
-            "BUILDING CONSTRUCTION* - Concurrent Enrollment",
-            4,
-            "BURDETT"
-        ],
-        [
-            "BUILDING CONSTRUCTION* - Concurrent Enrollment",
-            5,
-            "BURDETT"
-        ],
-        [
-            "BUILDING CONSTRUCTION* - Concurrent Enrollment",
-            6,
-            "BURDETT"
-        ],
-        [
-            "BUILDING CONSTRUCTION* - Concurrent Enrollment",
-            7,
-            "BURDETT"
-        ],
-        [
-            "BUILDING CONSTRUCTION* - Concurrent Enrollment",
-            8,
-            "BURDETT"
-        ],
-        [
-            "PERCUSSION BEGINNING & INT.*",
-            1,
-            "HOPE"
-        ],
-        [
-            "Prep",
-            2,
-            "HOPE"
-        ],
-        [
-            "HISTORY OF ROCK AND ROLL - Concurrent Enrollment",
-            3,
-            "HOPE"
-        ],
-        [
-            "PERCUSSION ADV.*",
-            4,
-            "HOPE"
-        ],
-        [
-            "DRUM SET 1",
-            5,
-            "HOPE"
-        ],
-        [
-            "Prep",
-            6,
-            "HOPE"
-        ],
-        [
-            "HISTORY OF ROCK AND ROLL - Concurrent Enrollment",
-            7,
-            "HOPE"
-        ],
-        [
-            "STEEL DRUMS",
-            8,
-            "HOPE"
-        ],
-        [
-            "ENGLISH 1010 - Concurrent Enrollment",
-            1,
-            "DULONG"
-        ],
-        [
-            "SCI FI / FANTASY",
-            2,
-            "DULONG"
-        ],
-        [
-            "Prep",
-            3,
-            "DULONG"
-        ],
-        [
-            "ENGLISH 10 HONORS*",
-            4,
-            "DULONG"
-        ],
-        [
-            "ENGLISH 1010 - Concurrent Enrollment",
-            5,
-            "DULONG"
-        ],
-        [
-            "ENGLISH 1010 - Concurrent Enrollment",
-            6,
-            "DULONG"
-        ],
-        [
-            "ENGLISH 10 HONORS*",
-            7,
-            "DULONG"
-        ],
-        [
-            "ENGLISH 1010 - Concurrent Enrollment",
-            8,
-            "DULONG"
+            "BRAUN"
         ],
         [
             "Prep",
             1,
-            "MONTROSE^"
+            "SUMMERS"
         ],
         [
-            "HEALTH",
+            "SPANISH 1*",
             2,
-            "MONTROSE^"
-        ],
-        [
-            "HEALTH",
-            3,
-            "MONTROSE^"
-        ],
-        [
-            "SPANISH 2*",
-            4,
-            "MONTROSE^"
-        ],
-        [
-            "SPANISH 2*",
-            5,
-            "MONTROSE^"
-        ],
-        [
-            "SPANISH 2*",
-            6,
-            "MONTROSE^"
-        ],
-        [
-            "HEALTH",
-            7,
-            "MONTROSE^"
-        ],
-        [
-            "HEALTH",
-            8,
-            "MONTROSE^"
-        ],
-        [
-            "ENGLISH 10 HONORS*",
-            1,
-            "JARVIE"
-        ],
-        [
-            "ENGLISH 11*",
-            2,
-            "JARVIE"
-        ],
-        [
-            "ENGLISH 11*",
-            3,
-            "JARVIE"
-        ],
-        [
-            "ENGLISH 11*",
-            4,
-            "JARVIE"
-        ],
-        [
-            "Prep",
-            5,
-            "JARVIE"
-        ],
-        [
-            "ENGLISH 10 HONORS*",
-            6,
-            "JARVIE"
-        ],
-        [
-            "Prep",
-            7,
-            "JARVIE"
-        ],
-        [
-            "ENGLISH 10 HONORS*",
-            8,
-            "JARVIE"
-        ],
-        [
-            "MEDICAL TERMINOLOGY - Concurrent Enrollment",
-            1,
-            "VAN WOERKOM^"
-        ],
-        [
-            "STUDY HALL",
-            2,
-            "VAN WOERKOM^"
-        ],
-        [
-            "Prep",
-            3,
-            "VAN WOERKOM^"
-        ],
-        [
-            "MEDICAL TERMINOLOGY - Concurrent Enrollment",
-            4,
-            "VAN WOERKOM^"
-        ],
-        [
-            "Prep",
-            5,
-            "VAN WOERKOM^"
-        ],
-        [
-            "MEDICAL ANATOMY & PHYSIOLOGY*",
-            6,
-            "VAN WOERKOM^"
-        ],
-        [
-            "STUDY HALL",
-            7,
-            "VAN WOERKOM^"
-        ],
-        [
-            "MEDICAL ANATOMY & PHYSIOLOGY*",
-            8,
-            "VAN WOERKOM^"
-        ],
-        [
-            "Prep",
-            1,
-            "BERRY"
-        ],
-        [
-            "STUDY HALL",
-            2,
-            "BERRY"
-        ],
-        [
-            "STUDY HALL",
-            3,
-            "BERRY"
-        ],
-        [
-            "STUDY HALL",
-            4,
-            "BERRY"
-        ],
-        [
-            "Essentials Coordinator",
-            5,
-            "BERRY"
-        ],
-        [
-            "STUDY HALL",
-            6,
-            "BERRY"
-        ],
-        [
-            "Essentials Coordinator",
-            7,
-            "BERRY"
-        ],
-        [
-            "STUDY HALL",
-            8,
-            "BERRY"
-        ],
-        [
-            "US HISTORY*",
-            1,
-            "HUBBARD"
-        ],
-        [
-            "GOV & CIT",
-            2,
-            "HUBBARD"
-        ],
-        [
-            "Prep",
-            3,
-            "HUBBARD"
-        ],
-        [
-            "US HISTORY*",
-            4,
-            "HUBBARD"
-        ],
-        [
-            "US HISTORY*",
-            5,
-            "HUBBARD"
-        ],
-        [
-            "GOV & CIT",
-            6,
-            "HUBBARD"
-        ],
-        [
-            "GOV & CIT",
-            7,
-            "HUBBARD"
-        ],
-        [
-            "US HISTORY*",
-            8,
-            "HUBBARD"
-        ],
-        [
-            "Not available",
-            1,
-            "ROSS"
-        ],
-        [
-            "Not available",
-            2,
-            "ROSS"
-        ],
-        [
-            "Not available",
-            3,
-            "ROSS"
-        ],
-        [
-            "Not available",
-            4,
-            "ROSS"
-        ],
-        [
-            "Not available",
-            5,
-            "ROSS"
-        ],
-        [
-            "Not available",
-            6,
-            "ROSS"
-        ],
-        [
-            "Not available",
-            7,
-            "ROSS"
-        ],
-        [
-            "BOYS BASKETBALL TEAM",
-            8,
-            "ROSS"
-        ],
-        [
-            "ENGLISH LANGUAGE DEVELOPMENT",
-            1,
-            "SMITH, CALVIN^^"
-        ],
-        [
-            "AP GOV & POLITICS*",
-            2,
-            "SMITH, CALVIN^^"
-        ],
-        [
-            "GOV & CIT",
-            3,
-            "SMITH, CALVIN^^"
-        ],
-        [
-            "POP CULTURE",
-            4,
-            "SMITH, CALVIN^^"
-        ],
-        [
-            "AP GOV & POLITICS*",
-            5,
-            "SMITH, CALVIN^^"
-        ],
-        [
-            "SWIM TEAM",
-            6,
-            "SMITH, CALVIN^^"
-        ],
-        [
-            "POP CULTURE IN US - TAYLOR SWIFT",
-            7,
-            "SMITH, CALVIN^^"
-        ],
-        [
-            "AP GOV & POLITICS*",
-            8,
-            "SMITH, CALVIN^^"
-        ],
-        [
-            "SECONDARY MATH 2*",
-            1,
-            "COATNEY"
-        ],
-        [
-            "SECONDARY MATH 3*",
-            2,
-            "COATNEY"
-        ],
-        [
-            "SECONDARY MATH 2*",
-            3,
-            "COATNEY"
-        ],
-        [
-            "SECONDARY MATH 2*",
-            4,
-            "COATNEY"
-        ],
-        [
-            "SECONDARY MATH 3*",
-            5,
-            "COATNEY"
-        ],
-        [
-            "Prep",
-            6,
-            "COATNEY"
-        ],
-        [
-            "SECONDARY MATH 3*",
-            7,
-            "COATNEY"
-        ],
-        [
-            "SECONDARY MATH 2*",
-            8,
-            "COATNEY"
-        ],
-        [
-            "SECONDARY MATH 1*",
-            1,
-            "TRACY"
-        ],
-        [
-            "SECONDARY MATH 2*",
-            2,
-            "TRACY"
-        ],
-        [
-            "SECONDARY MATH 1*",
-            3,
-            "TRACY"
-        ],
-        [
-            "Prep",
-            4,
-            "TRACY"
-        ],
-        [
-            "MATH ESSENTIALS",
-            5,
-            "TRACY"
-        ],
-        [
-            "SECONDARY MATH 2*",
-            6,
-            "TRACY"
-        ],
-        [
-            "SECONDARY MATH 2*",
-            7,
-            "TRACY"
-        ],
-        [
-            "SECONDARY MATH 2*",
-            8,
-            "TRACY"
-        ],
-        [
-            "Prep",
-            1,
-            "WAWRO^"
-        ],
-        [
-            "SOCIOLOGY",
-            2,
-            "WAWRO^"
-        ],
-        [
-            "AP HUMAN GEOGRAPHY*",
-            3,
-            "WAWRO^"
-        ],
-        [
-            "STUDENT GOVERNMENT*",
-            4,
-            "WAWRO^"
-        ],
-        [
-            "SOCIOLOGY",
-            5,
-            "WAWRO^"
-        ],
-        [
-            "SOCIOLOGY",
-            6,
-            "WAWRO^"
-        ],
-        [
-            "SOCIOLOGY",
-            7,
-            "WAWRO^"
-        ],
-        [
-            "AP HUMAN GEOGRAPHY*",
-            8,
-            "WAWRO^"
-        ],
-        [
-            "PHYSICS*",
-            1,
-            "TALBERT"
-        ],
-        [
-            "PHYSICS*",
-            2,
-            "TALBERT"
-        ],
-        [
-            "Prep",
-            3,
-            "TALBERT"
-        ],
-        [
-            "PHYSICS 1010 -Concurrent Enrollment*",
-            4,
-            "TALBERT"
-        ],
-        [
-            "PHYSICS 1010 -Concurrent Enrollment*",
-            5,
-            "TALBERT"
-        ],
-        [
-            "PHYSICS*",
-            6,
-            "TALBERT"
-        ],
-        [
-            "PHYSICS*",
-            7,
-            "TALBERT"
-        ],
-        [
-            "PHYSICS 1010 -Concurrent Enrollment*",
-            8,
-            "TALBERT"
-        ],
-        [
-            "SECONDARY MATH 3*",
-            1,
-            "PEARSON"
-        ],
-        [
-            "SECONDARY MATH 3*",
-            2,
-            "PEARSON"
-        ],
-        [
-            "SECONDARY MATH 2 EXTENDED*",
-            3,
-            "PEARSON"
-        ],
-        [
-            "SECONDARY MATH 2 EXTENDED*",
-            4,
-            "PEARSON"
-        ],
-        [
-            "Prep",
-            5,
-            "PEARSON"
-        ],
-        [
-            "SECONDARY MATH 2 EXTENDED*",
-            6,
-            "PEARSON"
-        ],
-        [
-            "SECONDARY MATH 3*",
-            7,
-            "PEARSON"
-        ],
-        [
-            "SECONDARY MATH 2 EXTENDED*",
-            8,
-            "PEARSON"
+            "SUMMERS"
         ],
         [
             "SECONDARY MATH 3 EXTENDED*",
-            1,
-            "MURRAY"
-        ],
-        [
-            "SECONDARY MATH 3 EXTENDED*",
-            2,
-            "MURRAY"
-        ],
-        [
-            "SECONDARY MATH 3*",
             3,
-            "MURRAY"
+            "SUMMERS"
         ],
         [
-            "SECONDARY MATH 3 EXTENDED*",
+            "CALCULUS AB LAB",
             4,
-            "MURRAY"
+            "SUMMERS"
         ],
         [
-            "SECONDARY MATH 3*",
+            "CALCULUS AB LAB",
             5,
-            "MURRAY"
+            "SUMMERS"
         ],
         [
-            "MATH 1010-Concurrent Enrollment",
+            "CALCULUS AB LAB",
             6,
-            "MURRAY"
+            "SUMMERS"
         ],
         [
             "MATH 1010-Concurrent Enrollment",
             7,
-            "MURRAY"
+            "SUMMERS"
+        ],
+        [
+            "MATH 1010-Concurrent Enrollment",
+            8,
+            "SUMMERS"
+        ],
+        [
+            "Not available",
+            1,
+            "FITZPATRICK"
+        ],
+        [
+            "Not available",
+            2,
+            "FITZPATRICK"
+        ],
+        [
+            "Not available",
+            3,
+            "FITZPATRICK"
+        ],
+        [
+            "Not available",
+            4,
+            "FITZPATRICK"
+        ],
+        [
+            "CHINESE 1*",
+            5,
+            "FITZPATRICK"
+        ],
+        [
+            "CHINESE 3* - Concurrent Enrollment",
+            6,
+            "FITZPATRICK"
+        ],
+        [
+            "CHINESE 2*",
+            7,
+            "FITZPATRICK"
         ],
         [
             "Prep",
             8,
-            "MURRAY"
-        ],
-        [
-            "ENGLISH 10*",
-            1,
-            "IKA^^"
+            "FITZPATRICK"
         ],
         [
             "RESOURCE ENGLISH*",
-            2,
+            1,
             "IKA^^"
         ],
         [
             "PEOPLE OF THE PACIFIC",
-            3,
-            "IKA^^"
-        ],
-        [
-            "Prep",
-            4,
-            "IKA^^"
-        ],
-        [
-            "ENGLISH 10*",
-            5,
-            "IKA^^"
-        ],
-        [
-            "ENGLISH 10*",
-            6,
-            "IKA^^"
-        ],
-        [
-            "Prep",
-            7,
+            2,
             "IKA^^"
         ],
         [
             "ENGLISH 11*",
-            8,
+            3,
+            "IKA^^"
+        ],
+        [
+            "ENGLISH 10*",
+            4,
+            "IKA^^"
+        ],
+        [
+            "ENGLISH 10*",
+            5,
+            "IKA^^"
+        ],
+        [
+            "ENGLISH 11*",
+            6,
+            "IKA^^"
+        ],
+        [
+            "ENGLISH 10*",
+            7,
             "IKA^^"
         ],
         [
             "Prep",
-            1,
-            "SCHOONOVER"
-        ],
-        [
-            "ADVANCED WEIGHTS",
-            2,
-            "SCHOONOVER"
-        ],
-        [
-            "PE FITNESS",
-            3,
-            "SCHOONOVER"
-        ],
-        [
-            "PE FITNESS",
-            4,
-            "SCHOONOVER"
-        ],
-        [
-            "PE FITNESS",
-            5,
-            "SCHOONOVER"
-        ],
-        [
-            "WEIGHTS",
-            6,
-            "SCHOONOVER"
-        ],
-        [
-            "ADVANCED WEIGHTS",
-            7,
-            "SCHOONOVER"
-        ],
-        [
-            "PE FITNESS",
             8,
-            "SCHOONOVER"
+            "IKA^^"
         ],
         [
             "Not available",
             1,
-            "VERNON"
+            "BROADBENT"
         ],
         [
             "Not available",
             2,
-            "VERNON"
+            "BROADBENT"
         ],
         [
             "Not available",
             3,
-            "VERNON"
+            "BROADBENT"
         ],
         [
-            "Not available",
+            "PAINTING 1",
             4,
-            "VERNON"
-        ],
-        [
-            "CHAMBER ORCHESTRA*",
-            5,
-            "VERNON"
-        ],
-        [
-            "SYMPHONIC ORCHESTRA*",
-            6,
-            "VERNON"
-        ],
-        [
-            "CONCERT ORCHESTRA*",
-            7,
-            "VERNON"
-        ],
-        [
-            "MUSIC APPRECIATION - Concurrent Enrollment",
-            8,
-            "VERNON"
-        ],
-        [
-            "MATH 1010-Concurrent Enrollment",
-            1,
-            "SUMMERS"
-        ],
-        [
-            "SECONDARY MATH 3 EXTENDED*",
-            2,
-            "SUMMERS"
-        ],
-        [
-            "CALCULUS AB LAB",
-            3,
-            "SUMMERS"
-        ],
-        [
-            "MATH 1010-Concurrent Enrollment",
-            4,
-            "SUMMERS"
+            "BROADBENT"
         ],
         [
             "Prep",
             5,
-            "SUMMERS"
+            "BROADBENT"
         ],
         [
-            "CALCULUS AB LAB",
+            "INTERIOR DESIGN 3*",
             6,
-            "SUMMERS"
+            "BROADBENT"
         ],
         [
-            "CALCULUS AB LAB",
+            "INTERIOR DESIGN 1",
             7,
-            "SUMMERS"
+            "BROADBENT"
         ],
         [
-            "SECONDARY MATH 3 EXTENDED*",
+            "INTERIOR DESIGN 1",
             8,
-            "SUMMERS"
+            "BROADBENT"
         ],
         [
-            "CERAMICS 1",
+            "PLANT AND SOIL SCIENCE 1*",
             1,
-            "SEELY"
+            "JENSEN^"
         ],
         [
-            "CERAMICS 1",
+            "Prep",
             2,
-            "SEELY"
+            "JENSEN^"
         ],
         [
-            "AP ART-3D SCULPTURE PORTFOLIO*",
+            "FLORAL DESIGN 1",
             3,
-            "SEELY"
+            "JENSEN^"
         ],
         [
             "Prep",
             4,
-            "SEELY"
+            "JENSEN^"
         ],
         [
-            "CERAMICS 1",
+            "FLORAL DESIGN ADV",
             5,
-            "SEELY"
+            "JENSEN^"
         ],
         [
-            "CERAMICS 1",
+            "FLORAL DESIGN 1",
             6,
-            "SEELY"
+            "JENSEN^"
         ],
         [
-            "CERAMICS 2",
+            "FLORAL DESIGN 1",
             7,
-            "SEELY"
+            "JENSEN^"
         ],
         [
-            "CERAMICS 1",
+            "FLORAL DESIGN 1",
             8,
-            "SEELY"
-        ],
-        [
-            "WEIGHTS",
-            1,
-            "BEZZANT"
-        ],
-        [
-            "WEIGHTS",
-            2,
-            "BEZZANT"
-        ],
-        [
-            "Prep",
-            3,
-            "BEZZANT"
-        ],
-        [
-            "WEIGHTS",
-            4,
-            "BEZZANT"
-        ],
-        [
-            "PE FITNESS",
-            5,
-            "BEZZANT"
-        ],
-        [
-            "PE FITNESS",
-            6,
-            "BEZZANT"
-        ],
-        [
-            "BASEBALL TEAM",
-            7,
-            "BEZZANT"
-        ],
-        [
-            "PE FITNESS",
-            8,
-            "BEZZANT"
-        ],
-        [
-            "COMPUTER PROGRAMMING 1&2* - Concurrent Enrollment",
-            1,
-            "LEE^"
-        ],
-        [
-            "GAME DEVELOPMENT FUNDAMENTALS 1",
-            2,
-            "LEE^"
-        ],
-        [
-            "ADVANCED COMPUTER PROGRAMMING* - Concurrent Enrollment",
-            3,
-            "LEE^"
-        ],
-        [
-            "Prep",
-            4,
-            "LEE^"
-        ],
-        [
-            "COMPUTER PROGRAMMING 1&2* - Concurrent Enrollment",
-            5,
-            "LEE^"
-        ],
-        [
-            "COMPUTER PROGRAMMING 1&2* - Concurrent Enrollment",
-            6,
-            "LEE^"
-        ],
-        [
-            "GAME DEVELOPMENT FUNDAMENTALS 1",
-            7,
-            "LEE^"
-        ],
-        [
-            "ALGORITHMS & DATA STRUCTURES* - Concurrent Enrollment",
-            8,
-            "LEE^"
-        ],
-        [
-            "Not available",
-            1,
-            "GIBBY^"
-        ],
-        [
-            "Not available",
-            2,
-            "GIBBY^"
-        ],
-        [
-            "Not available",
-            3,
-            "GIBBY^"
-        ],
-        [
-            "Not available",
-            4,
-            "GIBBY^"
-        ],
-        [
-            "YEARBOOK*",
-            5,
-            "GIBBY^"
-        ],
-        [
-            "COMMERCIAL PHOTO 1",
-            6,
-            "GIBBY^"
-        ],
-        [
-            "COMMERCIAL PHOTO 1",
-            7,
-            "GIBBY^"
-        ],
-        [
-            "COMMERCIAL PHOTO 1",
-            8,
-            "GIBBY^"
-        ],
-        [
-            "Not available",
-            1,
-            "HEATH"
-        ],
-        [
-            "Not available",
-            2,
-            "HEATH"
-        ],
-        [
-            "Not available",
-            3,
-            "HEATH"
-        ],
-        [
-            "Not available",
-            4,
-            "HEATH"
-        ],
-        [
-            "CHINESE BRIDGE 3118*",
-            5,
-            "HEATH"
-        ],
-        [
-            "Prep",
-            6,
-            "HEATH"
-        ],
-        [
-            "CHINESE BRIDGE 3118*",
-            7,
-            "HEATH"
-        ],
-        [
-            "AP CHINESE*",
-            8,
-            "HEATH"
+            "JENSEN^"
         ],
         [
             "ANIMAL SCIENCE 2*",
@@ -1541,1424 +541,24 @@
             "SPENCER^"
         ],
         [
-            "Not available",
+            "US HISTORY*",
             5,
             "SPENCER^"
-        ],
-        [
-            "Not available",
-            6,
-            "SPENCER^"
-        ],
-        [
-            "Not available",
-            7,
-            "SPENCER^"
-        ],
-        [
-            "Not available",
-            8,
-            "SPENCER^"
-        ],
-        [
-            "SCRIPT WRITING",
-            1,
-            "COX, C.^"
-        ],
-        [
-            "Prep",
-            2,
-            "COX, C.^"
-        ],
-        [
-            "Not available",
-            3,
-            "COX, C.^"
-        ],
-        [
-            "STAGE CREW*",
-            4,
-            "COX, C.^"
-        ],
-        [
-            "THEATER PRODUCTIONS*",
-            5,
-            "COX, C.^"
-        ],
-        [
-            "MOTION PICTURE",
-            6,
-            "COX, C.^"
-        ],
-        [
-            "MOTION PICTURE",
-            7,
-            "COX, C.^"
-        ],
-        [
-            "MUSICAL THEATER",
-            8,
-            "COX, C.^"
-        ],
-        [
-            "Prep",
-            1,
-            "CARPENTER"
-        ],
-        [
-            "ACCELERATED READING",
-            2,
-            "CARPENTER"
-        ],
-        [
-            "JOURNALISM*",
-            3,
-            "CARPENTER"
-        ],
-        [
-            "Prep",
-            4,
-            "CARPENTER"
-        ],
-        [
-            "ENGLISH 10*",
-            5,
-            "CARPENTER"
-        ],
-        [
-            "ENGLISH 10*",
-            6,
-            "CARPENTER"
-        ],
-        [
-            "ENGLISH 10*",
-            7,
-            "CARPENTER"
-        ],
-        [
-            "ENGLISH 10*",
-            8,
-            "CARPENTER"
-        ],
-        [
-            "COLLEGE/AP STUDY HALL",
-            1,
-            "PAXTON^^"
-        ],
-        [
-            "FRENCH 4/AP*",
-            2,
-            "PAXTON^^"
-        ],
-        [
-            "FRENCH 3*",
-            3,
-            "PAXTON^^"
-        ],
-        [
-            "FRENCH 4/AP* - Concurrent Enrollment",
-            4,
-            "PAXTON^^"
-        ],
-        [
-            "FRENCH 2*",
-            5,
-            "PAXTON^^"
-        ],
-        [
-            "CURRENT ISSUES",
-            6,
-            "PAXTON^^"
-        ],
-        [
-            "FRENCH 3* - Concurrent Enrollment",
-            7,
-            "PAXTON^^"
-        ],
-        [
-            "FRENCH 1*",
-            8,
-            "PAXTON^^"
-        ],
-        [
-            "AP ENGLISH LANGUAGE*",
-            1,
-            "REES"
-        ],
-        [
-            "ENGLISH 11 HONORS*",
-            2,
-            "REES"
-        ],
-        [
-            "AP ENGLISH LANGUAGE*",
-            3,
-            "REES"
-        ],
-        [
-            "AP ENGLISH LANGUAGE*",
-            4,
-            "REES"
-        ],
-        [
-            "AP ENGLISH LANGUAGE*",
-            5,
-            "REES"
-        ],
-        [
-            "Prep",
-            6,
-            "REES"
-        ],
-        [
-            "Not available",
-            7,
-            "REES"
-        ],
-        [
-            "ENGLISH 11 HONORS*",
-            8,
-            "REES"
-        ],
-        [
-            "LIFETIME ACTIVITY",
-            1,
-            "ASAY"
-        ],
-        [
-            "LIFETIME ACTIVITY",
-            2,
-            "ASAY"
-        ],
-        [
-            "LIFETIME ACTIVITY",
-            3,
-            "ASAY"
-        ],
-        [
-            "Not available",
-            4,
-            "ASAY"
-        ],
-        [
-            "Not available",
-            5,
-            "ASAY"
-        ],
-        [
-            "LIFETIME ACTIVITY",
-            6,
-            "ASAY"
-        ],
-        [
-            "HIGH FIT/ZUMBA",
-            7,
-            "ASAY"
-        ],
-        [
-            "Not available",
-            8,
-            "ASAY"
-        ],
-        [
-            "INTERNSHIP",
-            1,
-            "WHATCOTT"
-        ],
-        [
-            "INTERNSHIP",
-            2,
-            "WHATCOTT"
-        ],
-        [
-            "INTERNSHIP",
-            3,
-            "WHATCOTT"
-        ],
-        [
-            "INTERNSHIP",
-            4,
-            "WHATCOTT"
-        ],
-        [
-            "INTERNSHIP",
-            5,
-            "WHATCOTT"
-        ],
-        [
-            "INTERNSHIP",
-            6,
-            "WHATCOTT"
-        ],
-        [
-            "INTERNSHIP",
-            7,
-            "WHATCOTT"
-        ],
-        [
-            "INTERNSHIP",
-            8,
-            "WHATCOTT"
-        ],
-        [
-            "Not available",
-            1,
-            "DAVENPORT (BRANCH)"
-        ],
-        [
-            "Not available",
-            2,
-            "DAVENPORT (BRANCH)"
-        ],
-        [
-            "Not available",
-            3,
-            "DAVENPORT (BRANCH)"
-        ],
-        [
-            "Not available",
-            4,
-            "DAVENPORT (BRANCH)"
-        ],
-        [
-            "Not available",
-            5,
-            "DAVENPORT (BRANCH)"
-        ],
-        [
-            "Not available",
-            6,
-            "DAVENPORT (BRANCH)"
-        ],
-        [
-            "FLORAL DESIGN 1",
-            7,
-            "DAVENPORT (BRANCH)"
-        ],
-        [
-            "Not available",
-            8,
-            "DAVENPORT (BRANCH)"
-        ],
-        [
-            "SPANISH 4* - Concurrent Enrollment",
-            1,
-            "PEAY"
-        ],
-        [
-            "Prep",
-            2,
-            "PEAY"
-        ],
-        [
-            "SPANISH 3* - Concurrent Enrollment",
-            3,
-            "PEAY"
-        ],
-        [
-            "SPANISH 4* - Concurrent Enrollment",
-            4,
-            "PEAY"
-        ],
-        [
-            "AP SPANISH LANGUAGE*",
-            5,
-            "PEAY"
-        ],
-        [
-            "SPANISH 3* - Concurrent Enrollment",
-            6,
-            "PEAY"
-        ],
-        [
-            "SPANISH 3* - Concurrent Enrollment",
-            7,
-            "PEAY"
-        ],
-        [
-            "Prep",
-            8,
-            "PEAY"
-        ],
-        [
-            "AP PSYCHOLOGY*",
-            1,
-            "KIM, H."
-        ],
-        [
-            "AP PSYCHOLOGY*",
-            2,
-            "KIM, H."
-        ],
-        [
-            "AP PSYCHOLOGY*",
-            3,
-            "KIM, H."
-        ],
-        [
-            "PSYCHOLOGY",
-            4,
-            "KIM, H."
-        ],
-        [
-            "AP PSYCHOLOGY*",
-            5,
-            "KIM, H."
-        ],
-        [
-            "Prep",
-            6,
-            "KIM, H."
-        ],
-        [
-            "Prep",
-            7,
-            "KIM, H."
-        ],
-        [
-            "PSYCHOLOGY",
-            8,
-            "KIM, H."
-        ],
-        [
-            "PHYSICS*",
-            1,
-            "PASSEY"
-        ],
-        [
-            "PHYSICS*",
-            2,
-            "PASSEY"
-        ],
-        [
-            "SCIENCE ESSENTIALS",
-            3,
-            "PASSEY"
-        ],
-        [
-            "EARTH SCIENCE*",
-            4,
-            "PASSEY"
-        ],
-        [
-            "EARTH SCIENCE*",
-            5,
-            "PASSEY"
-        ],
-        [
-            "EARTH SCIENCE*",
-            6,
-            "PASSEY"
-        ],
-        [
-            "EARTH SCIENCE*",
-            7,
-            "PASSEY"
-        ],
-        [
-            "Prep",
-            8,
-            "PASSEY"
-        ],
-        [
-            "Not available",
-            1,
-            "KNIGHT^"
-        ],
-        [
-            "Not available",
-            2,
-            "KNIGHT^"
-        ],
-        [
-            "Not available",
-            3,
-            "KNIGHT^"
-        ],
-        [
-            "Not available",
-            4,
-            "KNIGHT^"
-        ],
-        [
-            "DANCE COMPANY*",
-            5,
-            "KNIGHT^"
-        ],
-        [
-            "Not available",
-            6,
-            "KNIGHT^"
-        ],
-        [
-            "Not available",
-            7,
-            "KNIGHT^"
-        ],
-        [
-            "Not available",
-            8,
-            "KNIGHT^"
-        ],
-        [
-            "AP GOV & POLITICS-Concurrent Enrollment*",
-            1,
-            "BIRRELL"
-        ],
-        [
-            "AMERICAN STUDIES*",
-            2,
-            "BIRRELL"
-        ],
-        [
-            "Prep",
-            3,
-            "BIRRELL"
-        ],
-        [
-            "Not available",
-            4,
-            "BIRRELL"
-        ],
-        [
-            "AMERICAN STUDIES*",
-            5,
-            "BIRRELL"
-        ],
-        [
-            "AMERICAN STUDIES*",
-            6,
-            "BIRRELL"
-        ],
-        [
-            "AP US HISTORY - Concurrent Enrollment*",
-            7,
-            "BIRRELL"
-        ],
-        [
-            "AMERICAN STUDIES*",
-            8,
-            "BIRRELL"
-        ],
-        [
-            "FLORAL DESIGN 1",
-            1,
-            "JENSEN^"
-        ],
-        [
-            "FLORAL DESIGN 1",
-            2,
-            "JENSEN^"
-        ],
-        [
-            "Prep",
-            3,
-            "JENSEN^"
-        ],
-        [
-            "FLORAL DESIGN 1",
-            4,
-            "JENSEN^"
-        ],
-        [
-            "PLANT AND SOIL SCIENCE 1*",
-            5,
-            "JENSEN^"
-        ],
-        [
-            "FLORAL DESIGN 1",
-            6,
-            "JENSEN^"
-        ],
-        [
-            "Prep",
-            7,
-            "JENSEN^"
-        ],
-        [
-            "FLORAL DESIGN ADV",
-            8,
-            "JENSEN^"
-        ],
-        [
-            "ENGLISH 11*",
-            1,
-            "WALKER, M."
-        ],
-        [
-            "ENGLISH 11*",
-            2,
-            "WALKER, M."
-        ],
-        [
-            "ENGLISH 11*",
-            3,
-            "WALKER, M."
-        ],
-        [
-            "ENGLISH 11*",
-            4,
-            "WALKER, M."
-        ],
-        [
-            "Prep",
-            5,
-            "WALKER, M."
-        ],
-        [
-            "DEBATE*",
-            6,
-            "WALKER, M."
-        ],
-        [
-            "DEBATE*",
-            7,
-            "WALKER, M."
-        ],
-        [
-            "ENGLISH 11*",
-            8,
-            "WALKER, M."
-        ],
-        [
-            "SECONDARY MATH 2*",
-            1,
-            "RUCHTI"
-        ],
-        [
-            "Prep",
-            2,
-            "RUCHTI"
-        ],
-        [
-            "SECONDARY MATH 2*",
-            3,
-            "RUCHTI"
-        ],
-        [
-            "SECONDARY MATH 2*",
-            4,
-            "RUCHTI"
-        ],
-        [
-            "SECONDARY MATH 3 EXTENDED*",
-            5,
-            "RUCHTI"
-        ],
-        [
-            "SECONDARY MATH 2*",
-            6,
-            "RUCHTI"
-        ],
-        [
-            "SECONDARY MATH 3 EXTENDED*",
-            7,
-            "RUCHTI"
-        ],
-        [
-            "MATH 1010-Concurrent Enrollment",
-            8,
-            "RUCHTI"
-        ],
-        [
-            "SECONDARY MATH 2*",
-            1,
-            "WALLACE"
-        ],
-        [
-            "SECONDARY MATH 2 EXTENDED*",
-            2,
-            "WALLACE"
-        ],
-        [
-            "SECONDARY MATH 2 EXTENDED*",
-            3,
-            "WALLACE"
-        ],
-        [
-            "SECONDARY MATH 2 EXTENDED*",
-            4,
-            "WALLACE"
-        ],
-        [
-            "Prep",
-            5,
-            "WALLACE"
-        ],
-        [
-            "SECONDARY MATH 2*",
-            6,
-            "WALLACE"
-        ],
-        [
-            "SECONDARY MATH 2*",
-            7,
-            "WALLACE"
-        ],
-        [
-            "SECONDARY MATH 2 EXTENDED*",
-            8,
-            "WALLACE"
-        ],
-        [
-            "ITALIAN 1*",
-            1,
-            "PACK^^"
-        ],
-        [
-            "AP ART HISTORY*",
-            2,
-            "PACK^^"
-        ],
-        [
-            "Prep",
-            3,
-            "PACK^^"
-        ],
-        [
-            "DRAWING 1",
-            4,
-            "PACK^^"
-        ],
-        [
-            "DRAWING 2",
-            5,
-            "PACK^^"
-        ],
-        [
-            "DRAWING 1",
-            6,
-            "PACK^^"
-        ],
-        [
-            "AP ART-2D PORTFOLIO or AP ART DRAWING*",
-            7,
-            "PACK^^"
-        ],
-        [
-            "ITALIAN 2*",
-            8,
-            "PACK^^"
-        ],
-        [
-            "FINANCIAL LITERACY",
-            1,
-            "VOORHEIS^"
-        ],
-        [
-            "FINANCIAL LITERACY",
-            2,
-            "VOORHEIS^"
         ],
         [
             "US HISTORY*",
-            3,
-            "VOORHEIS^"
-        ],
-        [
-            "FINANCIAL LITERACY",
-            4,
-            "VOORHEIS^"
-        ],
-        [
-            "US HISTORY*",
-            5,
-            "VOORHEIS^"
-        ],
-        [
-            "Prep",
             6,
-            "VOORHEIS^"
+            "SPENCER^"
         ],
         [
-            "SOCIAL STUDIES ESSENTIALS",
+            "GIRLS SOCCER TEAM",
             7,
-            "VOORHEIS^"
+            "SPENCER^"
         ],
         [
             "US HISTORY*",
             8,
-            "VOORHEIS^"
-        ],
-        [
-            "SECONDARY MATH 3*",
-            1,
-            "RIDGWAY"
-        ],
-        [
-            "SECONDARY MATH 2 LAB",
-            2,
-            "RIDGWAY"
-        ],
-        [
-            "SECONDARY MATH 3 LAB",
-            3,
-            "RIDGWAY"
-        ],
-        [
-            "SECONDARY MATH 2*",
-            4,
-            "RIDGWAY"
-        ],
-        [
-            "SECONDARY MATH 2 LAB",
-            5,
-            "RIDGWAY"
-        ],
-        [
-            "SECONDARY MATH 2*",
-            6,
-            "RIDGWAY"
-        ],
-        [
-            "SECONDARY MATH 2 LAB",
-            7,
-            "RIDGWAY"
-        ],
-        [
-            "Prep",
-            8,
-            "RIDGWAY"
-        ],
-        [
-            "SEMINARY",
-            1,
-            "SEMINARY FACULTY"
-        ],
-        [
-            "SEMINARY",
-            2,
-            "SEMINARY FACULTY"
-        ],
-        [
-            "SEMINARY",
-            3,
-            "SEMINARY FACULTY"
-        ],
-        [
-            "SEMINARY",
-            4,
-            "SEMINARY FACULTY"
-        ],
-        [
-            "SEMINARY",
-            5,
-            "SEMINARY FACULTY"
-        ],
-        [
-            "SEMINARY",
-            6,
-            "SEMINARY FACULTY"
-        ],
-        [
-            "SEMINARY",
-            7,
-            "SEMINARY FACULTY"
-        ],
-        [
-            "SEMINARY",
-            8,
-            "SEMINARY FACULTY"
-        ],
-        [
-            "BIOLOGY 1010 - Concurrent Enrollment*",
-            1,
-            "BERRETT"
-        ],
-        [
-            "AP BIOLOGY - Concurrent Enrollment BIO 1610*",
-            2,
-            "BERRETT"
-        ],
-        [
-            "BIOLOGY 1010 - Concurrent Enrollment*",
-            3,
-            "BERRETT"
-        ],
-        [
-            "GENETICS",
-            4,
-            "BERRETT"
-        ],
-        [
-            "AP BIOLOGY - Concurrent Enrollment BIO 1610*",
-            5,
-            "BERRETT"
-        ],
-        [
-            "AP BIOLOGY - Concurrent Enrollment BIO 1610*",
-            6,
-            "BERRETT"
-        ],
-        [
-            "Prep",
-            7,
-            "BERRETT"
-        ],
-        [
-            "BIOLOGY 1010 - Concurrent Enrollment*",
-            8,
-            "BERRETT"
-        ],
-        [
-            "Prep",
-            1,
-            "SCHETTLER"
-        ],
-        [
-            "BIOLOGY*",
-            2,
-            "SCHETTLER"
-        ],
-        [
-            "BIOLOGY*",
-            3,
-            "SCHETTLER"
-        ],
-        [
-            "BIOLOGY*",
-            4,
-            "SCHETTLER"
-        ],
-        [
-            "BIOLOGY*",
-            5,
-            "SCHETTLER"
-        ],
-        [
-            "BIOLOGY*",
-            6,
-            "SCHETTLER"
-        ],
-        [
-            "Prep",
-            7,
-            "SCHETTLER"
-        ],
-        [
-            "BIOLOGY*",
-            8,
-            "SCHETTLER"
-        ],
-        [
-            "DRAWING 1",
-            1,
-            "OMER, M."
-        ],
-        [
-            "DRAWING 1",
-            2,
-            "OMER, M."
-        ],
-        [
-            "Not available",
-            3,
-            "OMER, M."
-        ],
-        [
-            "Not available",
-            4,
-            "OMER, M."
-        ],
-        [
-            "PAINTING 2",
-            5,
-            "OMER, M."
-        ],
-        [
-            "ART HONORS*",
-            6,
-            "OMER, M."
-        ],
-        [
-            "Not available",
-            7,
-            "OMER, M."
-        ],
-        [
-            "Not available",
-            8,
-            "OMER, M."
-        ],
-        [
-            "Not available",
-            1,
-            "GUMMOW"
-        ],
-        [
-            "Not available",
-            2,
-            "GUMMOW"
-        ],
-        [
-            "GUITAR 1",
-            3,
-            "GUMMOW"
-        ],
-        [
-            "GUITAR 1",
-            4,
-            "GUMMOW"
-        ],
-        [
-            "Not available",
-            5,
-            "GUMMOW"
-        ],
-        [
-            "Not available",
-            6,
-            "GUMMOW"
-        ],
-        [
-            "Not available",
-            7,
-            "GUMMOW"
-        ],
-        [
-            "Not available",
-            8,
-            "GUMMOW"
-        ],
-        [
-            "VIDEO PROD 1",
-            1,
-            "TOPHAM^"
-        ],
-        [
-            "STUDENT GOVERNMENT*",
-            2,
-            "TOPHAM^"
-        ],
-        [
-            "UKNIGHTED*",
-            3,
-            "TOPHAM^"
-        ],
-        [
-            "LONE PEAK LIVE",
-            4,
-            "TOPHAM^"
-        ],
-        [
-            "LONE PEAK LIVE - Concurrent Enrollment",
-            5,
-            "TOPHAM^"
-        ],
-        [
-            "Not available",
-            6,
-            "TOPHAM^"
-        ],
-        [
-            "VIDEO CAPSTONE*",
-            7,
-            "TOPHAM^"
-        ],
-        [
-            "AUDIO PROD 1",
-            8,
-            "TOPHAM^"
-        ],
-        [
-            "FOUNDATIONS OF NUTRITION-Concurrent Enrollment",
-            1,
-            "BURNETT^^"
-        ],
-        [
-            "Prep",
-            2,
-            "BURNETT^^"
-        ],
-        [
-            "EMERGENCY MEDICAL RESPONDER - Concurrent Enrollment",
-            3,
-            "BURNETT^^"
-        ],
-        [
-            "Prep",
-            4,
-            "BURNETT^^"
-        ],
-        [
-            "EMERGENCY MEDICAL RESPONDER - Concurrent Enrollment",
-            5,
-            "BURNETT^^"
-        ],
-        [
-            "FOUNDATIONS OF NUTRITION-Concurrent Enrollment",
-            6,
-            "BURNETT^^"
-        ],
-        [
-            "CHEER TEAM*",
-            7,
-            "BURNETT^^"
-        ],
-        [
-            "STUDENT GOVERNMENT*",
-            8,
-            "BURNETT^^"
-        ],
-        [
-            "CHEVALIERS-DRILL TEAM*",
-            1,
-            "MURPHY^"
-        ],
-        [
-            "Not available",
-            2,
-            "MURPHY^"
-        ],
-        [
-            "Not available",
-            3,
-            "MURPHY^"
-        ],
-        [
-            "Not available",
-            4,
-            "MURPHY^"
-        ],
-        [
-            "Not available",
-            5,
-            "MURPHY^"
-        ],
-        [
-            "Not available",
-            6,
-            "MURPHY^"
-        ],
-        [
-            "Not available",
-            7,
-            "MURPHY^"
-        ],
-        [
-            "Not available",
-            8,
-            "MURPHY^"
-        ],
-        [
-            "Not available",
-            1,
-            "FITZPATRICK"
-        ],
-        [
-            "Not available",
-            2,
-            "FITZPATRICK"
-        ],
-        [
-            "Not available",
-            3,
-            "FITZPATRICK"
-        ],
-        [
-            "Not available",
-            4,
-            "FITZPATRICK"
-        ],
-        [
-            "CHINESE 2*",
-            5,
-            "FITZPATRICK"
-        ],
-        [
-            "CHINESE 3* - Concurrent Enrollment",
-            6,
-            "FITZPATRICK"
-        ],
-        [
-            "CHINESE 1*",
-            7,
-            "FITZPATRICK"
-        ],
-        [
-            "Prep",
-            8,
-            "FITZPATRICK"
-        ],
-        [
-            "CHEMISTRY*",
-            1,
-            "WENTZ"
-        ],
-        [
-            "CHEMISTRY*",
-            2,
-            "WENTZ"
-        ],
-        [
-            "CHEMISTRY*",
-            3,
-            "WENTZ"
-        ],
-        [
-            "Prep",
-            4,
-            "WENTZ"
-        ],
-        [
-            "CHEMISTRY*",
-            5,
-            "WENTZ"
-        ],
-        [
-            "CHEMISTRY*",
-            6,
-            "WENTZ"
-        ],
-        [
-            "CHEMISTRY*",
-            7,
-            "WENTZ"
-        ],
-        [
-            "CHEMISTRY*",
-            8,
-            "WENTZ"
-        ],
-        [
-            "DRAWING 1",
-            1,
-            "BRAUN"
-        ],
-        [
-            "PAINTING 1",
-            2,
-            "BRAUN"
-        ],
-        [
-            "ART HONORS*",
-            3,
-            "BRAUN"
-        ],
-        [
-            "ILLUSTRATION",
-            4,
-            "BRAUN"
-        ],
-        [
-            "Prep",
-            5,
-            "BRAUN"
-        ],
-        [
-            "PAINTING 2",
-            6,
-            "BRAUN"
-        ],
-        [
-            "PAINTING 1",
-            7,
-            "BRAUN"
-        ],
-        [
-            "DRAWING 1",
-            8,
-            "BRAUN"
-        ],
-        [
-            "LIFE SKILLS*",
-            1,
-            "HURTT^"
-        ],
-        [
-            "LS WRITING*",
-            2,
-            "HURTT^"
-        ],
-        [
-            "STUDENT GOVERNMENT*",
-            3,
-            "HURTT^"
-        ],
-        [
-            "LS READING*",
-            4,
-            "HURTT^"
-        ],
-        [
-            "LS READING*",
-            5,
-            "HURTT^"
-        ],
-        [
-            "Prep",
-            6,
-            "HURTT^"
-        ],
-        [
-            "LS MATH*",
-            7,
-            "HURTT^"
-        ],
-        [
-            "LS MATH*",
-            8,
-            "HURTT^"
-        ],
-        [
-            "UVU LIVE INTERACTIVE",
-            1,
-            "WINN"
-        ],
-        [
-            "UVU LIVE INTERACTIVE",
-            2,
-            "WINN"
-        ],
-        [
-            "UVU LIVE INTERACTIVE",
-            3,
-            "WINN"
-        ],
-        [
-            "UVU LIVE INTERACTIVE",
-            4,
-            "WINN"
-        ],
-        [
-            "UVU LIVE INTERACTIVE",
-            5,
-            "WINN"
-        ],
-        [
-            "UVU LIVE INTERACTIVE",
-            6,
-            "WINN"
-        ],
-        [
-            "UVU LIVE INTERACTIVE",
-            7,
-            "WINN"
-        ],
-        [
-            "UVU LIVE INTERACTIVE",
-            8,
-            "WINN"
-        ],
-        [
-            "Prep",
-            1,
-            "NAIR"
-        ],
-        [
-            "PHYSICS*",
-            2,
-            "NAIR"
-        ],
-        [
-            "PHYSICS*",
-            3,
-            "NAIR"
-        ],
-        [
-            "PHYSICS*",
-            4,
-            "NAIR"
-        ],
-        [
-            "PHYSICS*",
-            5,
-            "NAIR"
-        ],
-        [
-            "PHYSICS*",
-            6,
-            "NAIR"
-        ],
-        [
-            "PHYSICS*",
-            7,
-            "NAIR"
-        ],
-        [
-            "PHYSICS*",
-            8,
-            "NAIR"
-        ],
-        [
-            "Not available",
-            1,
-            "BROADBENT"
-        ],
-        [
-            "Not available",
-            2,
-            "BROADBENT"
-        ],
-        [
-            "Not available",
-            3,
-            "BROADBENT"
-        ],
-        [
-            "Not available",
-            4,
-            "BROADBENT"
-        ],
-        [
-            "INTERIOR DESIGN 1",
-            5,
-            "BROADBENT"
-        ],
-        [
-            "INTERIOR DESIGN 3*",
-            6,
-            "BROADBENT"
-        ],
-        [
-            "Prep",
-            7,
-            "BROADBENT"
-        ],
-        [
-            "INTERIOR DESIGN 1",
-            8,
-            "BROADBENT"
-        ],
-        [
-            "ENGLISH 11 HONORS*",
-            1,
-            "OMER, R."
-        ],
-        [
-            "Prep",
-            2,
-            "OMER, R."
-        ],
-        [
-            "ENGLISH 11 HONORS*",
-            3,
-            "OMER, R."
-        ],
-        [
-            "AMERICAN STUDIES*",
-            4,
-            "OMER, R."
-        ],
-        [
-            "AMERICAN STUDIES*",
-            5,
-            "OMER, R."
-        ],
-        [
-            "AMERICAN STUDIES*",
-            6,
-            "OMER, R."
-        ],
-        [
-            "Prep",
-            7,
-            "OMER, R."
-        ],
-        [
-            "AMERICAN STUDIES*",
-            8,
-            "OMER, R."
+            "SPENCER^"
         ],
         [
             "Not available",
@@ -3003,482 +603,202 @@
         [
             "Not available",
             1,
-            "CRAFT"
-        ],
-        [
-            "HUMANITIES",
-            2,
-            "CRAFT"
-        ],
-        [
-            "ENGLISH 10*",
-            3,
-            "CRAFT"
-        ],
-        [
-            "Not available",
-            4,
-            "CRAFT"
-        ],
-        [
-            "Not available",
-            5,
-            "CRAFT"
-        ],
-        [
-            "ENGLISH 10*",
-            6,
-            "CRAFT"
-        ],
-        [
-            "ENGLISH 10*",
-            7,
-            "CRAFT"
-        ],
-        [
-            "Not available",
-            8,
-            "CRAFT"
-        ],
-        [
-            "Not available",
-            1,
-            "DILELLO^^"
-        ],
-        [
-            "YOGA 1",
-            2,
-            "DILELLO^^"
-        ],
-        [
-            "YOGA 1",
-            3,
-            "DILELLO^^"
-        ],
-        [
-            "Prep",
-            4,
-            "DILELLO^^"
-        ],
-        [
-            "Not available",
-            5,
-            "DILELLO^^"
-        ],
-        [
-            "DANCE 3 Concurrent Enrollment -SYNERGY*",
-            6,
             "DILELLO^^"
         ],
         [
             "UNIFIED PE",
-            7,
+            2,
+            "DILELLO^^"
+        ],
+        [
+            "Prep",
+            3,
+            "DILELLO^^"
+        ],
+        [
+            "YOGA 1",
+            4,
+            "DILELLO^^"
+        ],
+        [
+            "Not available",
+            5,
+            "DILELLO^^"
+        ],
+        [
+            "YOGA 1",
+            6,
             "DILELLO^^"
         ],
         [
             "URBAN DANCE/HIP-HOP",
+            7,
+            "DILELLO^^"
+        ],
+        [
+            "DANCE 3 Concurrent Enrollment -SYNERGY*",
             8,
             "DILELLO^^"
         ],
         [
-            "CHEMISTRY 1010 - Concurrent Enrollment*",
+            "MYTHOLOGY ANCIENT",
             1,
-            "MITCHELL^"
+            "MCPHERSON"
         ],
         [
-            "AP CHEMISTRY*",
+            "ENGLISH ESSENTIALS",
             2,
-            "MITCHELL^"
+            "MCPHERSON"
         ],
         [
-            "WILDLIFE BIOLOGY",
+            "ENGLISH 11*",
             3,
-            "MITCHELL^"
-        ],
-        [
-            "MEDICAL FORENSICS* - Concurrent Enrollment",
-            4,
-            "MITCHELL^"
-        ],
-        [
-            "CHEMISTRY 1010 - Concurrent Enrollment*",
-            5,
-            "MITCHELL^"
-        ],
-        [
-            "Prep",
-            6,
-            "MITCHELL^"
-        ],
-        [
-            "WILDLIFE BIOLOGY",
-            7,
-            "MITCHELL^"
-        ],
-        [
-            "MEDICAL FORENSICS* - Concurrent Enrollment",
-            8,
-            "MITCHELL^"
-        ],
-        [
-            "US HISTORY*",
-            1,
-            "GUNNARSON"
-        ],
-        [
-            "US HISTORY*",
-            2,
-            "GUNNARSON"
-        ],
-        [
-            "US HISTORY*",
-            3,
-            "GUNNARSON"
-        ],
-        [
-            "ANCIENT WORLD HISTORY",
-            4,
-            "GUNNARSON"
-        ],
-        [
-            "US HISTORY*",
-            5,
-            "GUNNARSON"
-        ],
-        [
-            "ANCIENT WORLD HISTORY",
-            6,
-            "GUNNARSON"
-        ],
-        [
-            "Prep",
-            7,
-            "GUNNARSON"
-        ],
-        [
-            "Prep",
-            8,
-            "GUNNARSON"
-        ],
-        [
-            "ENGINEERING PRINCIPLES 1",
-            1,
-            "SMITH, WESLEY"
-        ],
-        [
-            "Prep",
-            2,
-            "SMITH, WESLEY"
-        ],
-        [
-            "Prep",
-            3,
-            "SMITH, WESLEY"
-        ],
-        [
-            "ROBOTICS 1",
-            4,
-            "SMITH, WESLEY"
-        ],
-        [
-            "ROBOTICS 1",
-            5,
-            "SMITH, WESLEY"
-        ],
-        [
-            "ENGINEERING PRINCIPLES 1",
-            6,
-            "SMITH, WESLEY"
-        ],
-        [
-            "ROBOTICS 1",
-            7,
-            "SMITH, WESLEY"
-        ],
-        [
-            "ENGINEERING PRINCIPLES 1",
-            8,
-            "SMITH, WESLEY"
-        ],
-        [
-            "MOTION PICTURE",
-            1,
-            "COX, C.^^"
-        ],
-        [
-            "Prep",
-            2,
-            "COX, C.^^"
+            "MCPHERSON"
         ],
         [
             "Not available",
-            3,
-            "COX, C.^^"
-        ],
-        [
-            "STAGE CREW*",
             4,
-            "COX, C.^^"
+            "MCPHERSON"
         ],
         [
-            "MUSICAL THEATER",
+            "Not available",
             5,
-            "COX, C.^^"
+            "MCPHERSON"
         ],
         [
-            "SCRIPT WRITING",
+            "ENGLISH ESSENTIALS",
             6,
-            "COX, C.^^"
+            "MCPHERSON"
         ],
         [
-            "THEATER PRODUCTIONS*",
+            "MYTHOLOGY ANCIENT",
             7,
-            "COX, C.^^"
+            "MCPHERSON"
         ],
         [
-            "MOTION PICTURE",
+            "Not available",
             8,
-            "COX, C.^^"
+            "MCPHERSON"
         ],
         [
-            "ATHLETIC TRAINING PRACTICUM*",
+            "Prep",
             1,
-            "BRYAN^"
+            "HOPE"
         ],
         [
-            "Prep",
+            "STEEL DRUMS",
             2,
-            "BRYAN^"
+            "HOPE"
         ],
         [
-            "SPORTS MEDICINE* - Concurrent Enrollment",
+            "HISTORY OF ROCK AND ROLL - Concurrent Enrollment",
             3,
-            "BRYAN^"
+            "HOPE"
         ],
         [
-            "SPORTS MEDICINE* - Concurrent Enrollment",
+            "PERCUSSION ADV.*",
             4,
-            "BRYAN^"
+            "HOPE"
         ],
         [
-            "SPORTS MEDICINE* - Concurrent Enrollment",
+            "HISTORY OF ROCK AND ROLL - Concurrent Enrollment",
             5,
-            "BRYAN^"
-        ],
-        [
-            "ATHLETIC TRAINING PRACTICUM*",
-            6,
-            "BRYAN^"
-        ],
-        [
-            "INTRO TO PHYSICAL THERAPY*",
-            7,
-            "BRYAN^"
+            "HOPE"
         ],
         [
             "Prep",
-            8,
-            "BRYAN^"
+            6,
+            "HOPE"
         ],
         [
-            "LIFETIME ACTIVITY",
+            "DRUM SET 1",
+            7,
+            "HOPE"
+        ],
+        [
+            "PERCUSSION BEGINNING & INT.*",
+            8,
+            "HOPE"
+        ],
+        [
+            "PE FITNESS",
             1,
-            "WARNER"
+            "SCHOONOVER"
         ],
         [
-            "INTRO TO BASKETBALL",
+            "PE FITNESS",
             2,
-            "WARNER"
+            "SCHOONOVER"
         ],
         [
-            "WEIGHTS Female",
+            "PE FITNESS",
             3,
-            "WARNER"
+            "SCHOONOVER"
         ],
         [
-            "GIRLS BASKETBALL TEAM",
+            "WEIGHTS",
             4,
-            "WARNER"
+            "SCHOONOVER"
         ],
         [
-            "LIFETIME ACTIVITY",
+            "ADVANCED WEIGHTS",
             5,
-            "WARNER"
+            "SCHOONOVER"
+        ],
+        [
+            "ADVANCED WEIGHTS",
+            6,
+            "SCHOONOVER"
+        ],
+        [
+            "PE FITNESS",
+            7,
+            "SCHOONOVER"
         ],
         [
             "Prep",
-            6,
-            "WARNER"
-        ],
-        [
-            "LIFETIME ACTIVITY",
-            7,
-            "WARNER"
-        ],
-        [
-            "LIFETIME ACTIVITY",
             8,
-            "WARNER"
+            "SCHOONOVER"
         ],
         [
-            "SECONDARY MATH 1*",
+            "AP BIOLOGY - Concurrent Enrollment BIO 1610*",
             1,
-            "MOLENI"
+            "BERRETT"
         ],
         [
-            "MATH DECISION MAKING*",
+            "STUDY HALL",
             2,
-            "MOLENI"
+            "BERRETT"
         ],
         [
-            "SECONDARY MATH 2*",
+            "BIOLOGY 1010 - Concurrent Enrollment*",
             3,
-            "MOLENI"
+            "BERRETT"
         ],
         [
-            "SECONDARY MATH 1 LAB",
+            "AP BIOLOGY - Concurrent Enrollment BIO 1610*",
             4,
-            "MOLENI"
+            "BERRETT"
         ],
         [
-            "Prep",
+            "BIOLOGY 1010 - Concurrent Enrollment*",
             5,
-            "MOLENI"
+            "BERRETT"
         ],
         [
-            "SECONDARY MATH 2*",
+            "BIOLOGY 1010 - Concurrent Enrollment*",
             6,
-            "MOLENI"
+            "BERRETT"
         ],
         [
-            "Prep",
+            "AP BIOLOGY - Concurrent Enrollment BIO 1610*",
             7,
-            "MOLENI"
+            "BERRETT"
         ],
         [
-            "MATH DECISION MAKING*",
+            "GENETICS",
             8,
-            "MOLENI"
-        ],
-        [
-            "HEALTH",
-            1,
-            "FERRAN"
-        ],
-        [
-            "Prep",
-            2,
-            "FERRAN"
-        ],
-        [
-            "HEALTH",
-            3,
-            "FERRAN"
-        ],
-        [
-            "HEALTH",
-            4,
-            "FERRAN"
-        ],
-        [
-            "HEALTH",
-            5,
-            "FERRAN"
-        ],
-        [
-            "HEALTH",
-            6,
-            "FERRAN"
-        ],
-        [
-            "HEALTH",
-            7,
-            "FERRAN"
-        ],
-        [
-            "HEALTH",
-            8,
-            "FERRAN"
-        ],
-        [
-            "PRESCHOOL(EARLY CHILDHOOD EDUCATION 1&3)",
-            1,
-            "SPRINGER"
-        ],
-        [
-            "CHILD DEVELOPMENT",
-            2,
-            "SPRINGER"
-        ],
-        [
-            "PRESCHOOL(EARLY CHILDHOOD EDUCATION 1&3)",
-            3,
-            "SPRINGER"
-        ],
-        [
-            "Prep",
-            4,
-            "SPRINGER"
-        ],
-        [
-            "CHILD DEVELOPMENT",
-            5,
-            "SPRINGER"
-        ],
-        [
-            "PRESCHOOL(EARLY CHILDHOOD EDUCATION 1&3)",
-            6,
-            "SPRINGER"
-        ],
-        [
-            "TEACHING K-12 Fall - Concurrent Enrollment",
-            7,
-            "SPRINGER"
-        ],
-        [
-            "PRESCHOOL(EARLY CHILDHOOD EDUCATION 1&3)",
-            8,
-            "SPRINGER"
-        ],
-        [
-            "DIGITAL CURRICULUM",
-            1,
-            "BRINKERHOFF, L."
-        ],
-        [
-            "DIGITAL CURRICULUM",
-            2,
-            "BRINKERHOFF, L."
-        ],
-        [
-            "DIGITAL CURRICULUM",
-            3,
-            "BRINKERHOFF, L."
-        ],
-        [
-            "DIGITAL CURRICULUM",
-            4,
-            "BRINKERHOFF, L."
-        ],
-        [
-            "DIGITAL CURRICULUM",
-            5,
-            "BRINKERHOFF, L."
-        ],
-        [
-            "DIGITAL CURRICULUM",
-            6,
-            "BRINKERHOFF, L."
-        ],
-        [
-            "DIGITAL CURRICULUM",
-            7,
-            "BRINKERHOFF, L."
-        ],
-        [
-            "DIGITAL CURRICULUM",
-            8,
-            "BRINKERHOFF, L."
+            "BERRETT"
         ],
         [
             "ASL 1*",
@@ -3488,50 +808,490 @@
         [
             "ASL 1*",
             2,
-            "TERRY"
-        ],
-        [
-            "ASL 1*",
-            3,
             "TERRY"
         ],
         [
             "ASL 3* - Concurrent Enrollment",
+            3,
+            "TERRY"
+        ],
+        [
+            "STUDY HALL",
             4,
-            "TERRY"
-        ],
-        [
-            "Prep",
-            5,
-            "TERRY"
-        ],
-        [
-            "ASL 2*",
-            6,
             "TERRY"
         ],
         [
             "ASL3* & ASL 4* - Concurrent Enrollment",
-            7,
+            5,
             "TERRY"
         ],
         [
             "ASL 2*",
+            6,
+            "TERRY"
+        ],
+        [
+            "ASL 2*",
+            7,
+            "TERRY"
+        ],
+        [
+            "ASL 1*",
             8,
             "TERRY"
         ],
         [
+            "DIGITAL CURRICULUM",
+            1,
+            "BRINKERHOFF, L."
+        ],
+        [
+            "DIGITAL CURRICULUM",
+            2,
+            "BRINKERHOFF, L."
+        ],
+        [
+            "DIGITAL CURRICULUM",
+            3,
+            "BRINKERHOFF, L."
+        ],
+        [
+            "DIGITAL CURRICULUM",
+            4,
+            "BRINKERHOFF, L."
+        ],
+        [
+            "DIGITAL CURRICULUM",
+            5,
+            "BRINKERHOFF, L."
+        ],
+        [
+            "DIGITAL CURRICULUM",
+            6,
+            "BRINKERHOFF, L."
+        ],
+        [
+            "DIGITAL CURRICULUM",
+            7,
+            "BRINKERHOFF, L."
+        ],
+        [
+            "DIGITAL CURRICULUM",
+            8,
+            "BRINKERHOFF, L."
+        ],
+        [
+            "SPANISH 1*",
+            1,
+            "SWARTZ"
+        ],
+        [
+            "SPANISH 1*",
+            2,
+            "SWARTZ"
+        ],
+        [
+            "SPANISH 1*",
+            3,
+            "SWARTZ"
+        ],
+        [
+            "SPANISH 1*",
+            4,
+            "SWARTZ"
+        ],
+        [
             "Prep",
+            5,
+            "SWARTZ"
+        ],
+        [
+            "SPANISH 3 HONORS* - Concurrent Enrollment",
+            6,
+            "SWARTZ"
+        ],
+        [
+            "SPANISH 2 HONORS*",
+            7,
+            "SWARTZ"
+        ],
+        [
+            "SPANISH 2 HONORS*",
+            8,
+            "SWARTZ"
+        ],
+        [
+            "ENGLISH 11*",
+            1,
+            "JARVIE"
+        ],
+        [
+            "Prep",
+            2,
+            "JARVIE"
+        ],
+        [
+            "ENGLISH 11*",
+            3,
+            "JARVIE"
+        ],
+        [
+            "ENGLISH 11*",
+            4,
+            "JARVIE"
+        ],
+        [
+            "ENGLISH 10 HONORS*",
+            5,
+            "JARVIE"
+        ],
+        [
+            "Prep",
+            6,
+            "JARVIE"
+        ],
+        [
+            "ENGLISH 10 HONORS*",
+            7,
+            "JARVIE"
+        ],
+        [
+            "ENGLISH 10 HONORS*",
+            8,
+            "JARVIE"
+        ],
+        [
+            "STUDY HALL",
+            1,
+            "BERRY"
+        ],
+        [
+            "Essentials Coordinator",
+            2,
+            "BERRY"
+        ],
+        [
+            "Essentials Coordinator",
+            3,
+            "BERRY"
+        ],
+        [
+            "STUDY HALL",
+            4,
+            "BERRY"
+        ],
+        [
+            "STUDY HALL",
+            5,
+            "BERRY"
+        ],
+        [
+            "Prep",
+            6,
+            "BERRY"
+        ],
+        [
+            "STUDY HALL",
+            7,
+            "BERRY"
+        ],
+        [
+            "STUDY HALL",
+            8,
+            "BERRY"
+        ],
+        [
+            "GOV & CIT",
+            1,
+            "HUBBARD"
+        ],
+        [
+            "US HISTORY*",
+            2,
+            "HUBBARD"
+        ],
+        [
+            "US HISTORY*",
+            3,
+            "HUBBARD"
+        ],
+        [
+            "US HISTORY*",
+            4,
+            "HUBBARD"
+        ],
+        [
+            "Prep",
+            5,
+            "HUBBARD"
+        ],
+        [
+            "US HISTORY*",
+            6,
+            "HUBBARD"
+        ],
+        [
+            "GOV & CIT",
+            7,
+            "HUBBARD"
+        ],
+        [
+            "GOV & CIT",
+            8,
+            "HUBBARD"
+        ],
+        [
+            "Not available",
+            1,
+            "KNIGHT^"
+        ],
+        [
+            "Not available",
+            2,
+            "KNIGHT^"
+        ],
+        [
+            "Not available",
+            3,
+            "KNIGHT^"
+        ],
+        [
+            "Not available",
+            4,
+            "KNIGHT^"
+        ],
+        [
+            "DANCE COMPANY*",
+            5,
+            "KNIGHT^"
+        ],
+        [
+            "Not available",
+            6,
+            "KNIGHT^"
+        ],
+        [
+            "Not available",
+            7,
+            "KNIGHT^"
+        ],
+        [
+            "Not available",
+            8,
+            "KNIGHT^"
+        ],
+        [
+            "INTERNSHIP",
+            1,
+            "WHATCOTT"
+        ],
+        [
+            "INTERNSHIP",
+            2,
+            "WHATCOTT"
+        ],
+        [
+            "INTERNSHIP",
+            3,
+            "WHATCOTT"
+        ],
+        [
+            "INTERNSHIP",
+            4,
+            "WHATCOTT"
+        ],
+        [
+            "INTERNSHIP",
+            5,
+            "WHATCOTT"
+        ],
+        [
+            "INTERNSHIP",
+            6,
+            "WHATCOTT"
+        ],
+        [
+            "INTERNSHIP",
+            7,
+            "WHATCOTT"
+        ],
+        [
+            "INTERNSHIP",
+            8,
+            "WHATCOTT"
+        ],
+        [
+            "Prep",
+            1,
+            "BURNETT^^"
+        ],
+        [
+            "EMERGENCY MEDICAL RESPONDER - Concurrent Enrollment",
+            2,
+            "BURNETT^^"
+        ],
+        [
+            "STUDENT GOVERNMENT*",
+            3,
+            "BURNETT^^"
+        ],
+        [
+            "FOUNDATIONS OF NUTRITION-Concurrent Enrollment",
+            4,
+            "BURNETT^^"
+        ],
+        [
+            "EMERGENCY MEDICAL RESPONDER - Concurrent Enrollment",
+            5,
+            "BURNETT^^"
+        ],
+        [
+            "CHEER TEAM*",
+            6,
+            "BURNETT^^"
+        ],
+        [
+            "FOUNDATIONS OF NUTRITION-Concurrent Enrollment",
+            7,
+            "BURNETT^^"
+        ],
+        [
+            "Prep",
+            8,
+            "BURNETT^^"
+        ],
+        [
+            "ENGLISH 1010 - Concurrent Enrollment",
+            1,
+            "DULONG"
+        ],
+        [
+            "ENGLISH 1010 - Concurrent Enrollment",
+            2,
+            "DULONG"
+        ],
+        [
+            "ENGLISH 10 HONORS*",
+            3,
+            "DULONG"
+        ],
+        [
+            "SCI FI / FANTASY",
+            4,
+            "DULONG"
+        ],
+        [
+            "Prep",
+            5,
+            "DULONG"
+        ],
+        [
+            "ENGLISH 1010 - Concurrent Enrollment",
+            6,
+            "DULONG"
+        ],
+        [
+            "ENGLISH 10 HONORS*",
+            7,
+            "DULONG"
+        ],
+        [
+            "ENGLISH 1010 - Concurrent Enrollment",
+            8,
+            "DULONG"
+        ],
+        [
+            "SCULPTURE 1",
+            1,
+            "FIELD"
+        ],
+        [
+            "PAINTING 1",
+            2,
+            "FIELD"
+        ],
+        [
+            "SCULPTURE 1",
+            3,
+            "FIELD"
+        ],
+        [
+            "PAINTING 1",
+            4,
+            "FIELD"
+        ],
+        [
+            "SCULPTURE 2",
+            5,
+            "FIELD"
+        ],
+        [
+            "SCULPTURE 1",
+            6,
+            "FIELD"
+        ],
+        [
+            "Prep",
+            7,
+            "FIELD"
+        ],
+        [
+            "PAINTING 1",
+            8,
+            "FIELD"
+        ],
+        [
+            "PRECALCULUS*",
+            1,
+            "SCHOONOVER"
+        ],
+        [
+            "SECONDARY MATH 3*",
+            2,
+            "SCHOONOVER"
+        ],
+        [
+            "PE FITNESS",
+            3,
+            "SCHOONOVER"
+        ],
+        [
+            "PE FITNESS",
+            4,
+            "SCHOONOVER"
+        ],
+        [
+            "PE FITNESS",
+            5,
+            "SCHOONOVER"
+        ],
+        [
+            "Prep",
+            6,
+            "SCHOONOVER"
+        ],
+        [
+            "ADVANCED WEIGHTS",
+            7,
+            "SCHOONOVER"
+        ],
+        [
+            "PE FITNESS",
+            8,
+            "SCHOONOVER"
+        ],
+        [
+            "PHYSICS*",
             1,
             "EREKSON"
         ],
         [
-            "PHYSICS*",
+            "ASTRONOMY - Concurrent Enrollment",
             2,
             "EREKSON"
         ],
         [
-            "ASTRONOMY - Concurrent Enrollment",
+            "Prep",
             3,
             "EREKSON"
         ],
@@ -3548,610 +1308,250 @@
         [
             "ASTRONOMY - Concurrent Enrollment",
             6,
-            "EREKSON"
-        ],
-        [
-            "PHYSICS*",
-            7,
             "EREKSON"
         ],
         [
             "AP PHYSICS C*",
+            7,
+            "EREKSON"
+        ],
+        [
+            "PHYSICS*",
             8,
             "EREKSON"
         ],
         [
-            "MEDICAL ANATOMY & PHYSIOLOGY*",
+            "ADV MATH LAB",
             1,
-            "PASKETT^^"
+            "LYONS"
         ],
         [
-            "MEDICAL ANATOMY & PHYSIOLOGY*",
+            "AP STATISTICS*",
             2,
-            "PASKETT^^"
+            "LYONS"
+        ],
+        [
+            "AP STATISTICS*",
+            3,
+            "LYONS"
+        ],
+        [
+            "SECONDARY MATH 3 EXTENDED*",
+            4,
+            "LYONS"
+        ],
+        [
+            "SECONDARY MATH 3 EXTENDED*",
+            5,
+            "LYONS"
         ],
         [
             "Prep",
-            3,
-            "PASKETT^^"
-        ],
-        [
-            "MEDICAL ANATOMY & PHYSIOLOGY*",
-            4,
-            "PASKETT^^"
-        ],
-        [
-            "MEDICAL ANATOMY & PHYSIOLOGY*",
-            5,
-            "PASKETT^^"
-        ],
-        [
-            "EMERGENCY MEDICAL RESPONDER - Concurrent Enrollment",
             6,
-            "PASKETT^^"
+            "LYONS"
         ],
         [
-            "MEDICAL TERMINOLOGY - Concurrent Enrollment",
+            "AP CALCULUS BC*",
             7,
-            "PASKETT^^"
+            "LYONS"
         ],
         [
-            "MEDICAL TERMINOLOGY - Concurrent Enrollment",
+            "AP CALCULUS BC*",
             8,
-            "PASKETT^^"
+            "LYONS"
         ],
         [
-            "FINANCIAL LITERACY - Concurrent Enrollment",
+            "CREATIVE WRITING 1",
             1,
-            "FLOOD"
-        ],
-        [
-            "FINANCIAL LITERACY - Concurrent Enrollment",
-            2,
-            "FLOOD"
-        ],
-        [
-            "FINANCIAL LITERACY - Concurrent Enrollment",
-            3,
-            "FLOOD"
-        ],
-        [
-            "Prep",
-            4,
-            "FLOOD"
-        ],
-        [
-            "FINANCIAL LITERACY - Concurrent Enrollment",
-            5,
-            "FLOOD"
-        ],
-        [
-            "FINANCIAL LITERACY - Concurrent Enrollment",
-            6,
-            "FLOOD"
-        ],
-        [
-            "FINANCIAL LITERACY - Concurrent Enrollment",
-            7,
-            "FLOOD"
-        ],
-        [
-            "FINANCIAL LITERACY - Concurrent Enrollment",
-            8,
-            "FLOOD"
-        ],
-        [
-            "ENGLISH 10*",
-            1,
-            "NIELSON"
-        ],
-        [
-            "ENGLISH 10*",
-            2,
-            "NIELSON"
-        ],
-        [
-            "ENGLISH 10*",
-            3,
-            "NIELSON"
-        ],
-        [
-            "ENGLISH 10*",
-            4,
-            "NIELSON"
-        ],
-        [
-            "Not available",
-            5,
-            "NIELSON"
-        ],
-        [
-            "Not available",
-            6,
-            "NIELSON"
-        ],
-        [
-            "Not available",
-            7,
-            "NIELSON"
-        ],
-        [
-            "Not available",
-            8,
-            "NIELSON"
-        ],
-        [
-            "MYTHOLOGY ANCIENT",
-            1,
-            "MCPHERSON"
-        ],
-        [
-            "ENGLISH ESSENTIALS",
-            2,
-            "MCPHERSON"
-        ],
-        [
-            "ENGLISH 11*",
-            3,
-            "MCPHERSON"
-        ],
-        [
-            "Not available",
-            4,
-            "MCPHERSON"
-        ],
-        [
-            "Not available",
-            5,
-            "MCPHERSON"
-        ],
-        [
-            "ENGLISH ESSENTIALS",
-            6,
-            "MCPHERSON"
-        ],
-        [
-            "MYTHOLOGY ANCIENT",
-            7,
-            "MCPHERSON"
-        ],
-        [
-            "Not available",
-            8,
-            "MCPHERSON"
-        ],
-        [
-            "AP CALCULUS AB*",
-            1,
-            "SMITH, CRAIG"
-        ],
-        [
-            "Prep",
-            2,
-            "SMITH, CRAIG"
-        ],
-        [
-            "AP CALCULUS AB*",
-            3,
-            "SMITH, CRAIG"
-        ],
-        [
-            "AP CALCULUS AB*",
-            4,
-            "SMITH, CRAIG"
-        ],
-        [
-            "Prep",
-            5,
-            "SMITH, CRAIG"
-        ],
-        [
-            "AP CALCULUS AB*",
-            6,
-            "SMITH, CRAIG"
-        ],
-        [
-            "AP CALCULUS AB*",
-            7,
-            "SMITH, CRAIG"
-        ],
-        [
-            "AP CALCULUS AB*",
-            8,
-            "SMITH, CRAIG"
+            "NELSON"
         ],
         [
             "ENGLISH 12*",
-            1,
-            "WAHLIN"
-        ],
-        [
-            "ENGLISH 11*",
             2,
-            "WAHLIN"
+            "NELSON"
         ],
         [
-            "ENGLISH 11*",
+            "CREATIVE WRITING 1",
             3,
-            "WAHLIN"
+            "NELSON"
         ],
         [
-            "READING SKILLS",
+            "ENGLISH 12*",
             4,
-            "WAHLIN"
+            "NELSON"
         ],
         [
-            "READING SKILLS",
+            "ENGLISH 12*",
             5,
-            "WAHLIN"
+            "NELSON"
         ],
         [
-            "Prep",
+            "ENGLISH 12*",
             6,
-            "WAHLIN"
+            "NELSON"
         ],
         [
-            "ACCELERATED READING",
+            "Prep",
             7,
-            "WAHLIN"
+            "NELSON"
         ],
         [
-            "Prep",
+            "CREATIVE WRITING 1",
             8,
-            "WAHLIN"
+            "NELSON"
         ],
         [
-            "Prep",
+            "SWIM TEAM",
             1,
-            "BANKS^"
+            "SMITH, CALVIN^^"
         ],
         [
-            "HISTORY OF ROCK AND ROLL - Concurrent Enrollment",
+            "AP GOV & POLITICS*",
             2,
-            "BANKS^"
+            "SMITH, CALVIN^^"
         ],
         [
-            "HISTORY OF ROCK AND ROLL - Concurrent Enrollment",
+            "GOV & CIT",
             3,
-            "BANKS^"
+            "SMITH, CALVIN^^"
         ],
         [
-            "GERMAN 3* - Concurrent Enrollment",
+            "POP CULTURE IN US - TAYLOR SWIFT",
             4,
-            "BANKS^"
+            "SMITH, CALVIN^^"
         ],
         [
-            "GERMAN 2*",
+            "AP GOV & POLITICS*",
             5,
-            "BANKS^"
+            "SMITH, CALVIN^^"
         ],
         [
-            "GERMAN 1*",
+            "POP CULTURE",
             6,
-            "BANKS^"
+            "SMITH, CALVIN^^"
         ],
         [
-            "GERMAN 4/AP* - Concurrent Enrollment",
+            "AP GOV & POLITICS*",
             7,
-            "BANKS^"
+            "SMITH, CALVIN^^"
         ],
         [
-            "Prep",
+            "ENGLISH LANGUAGE DEVELOPMENT",
             8,
-            "BANKS^"
-        ],
-        [
-            "FILM LITERATURE",
-            1,
-            "JAYNES"
-        ],
-        [
-            "POPULAR LITERATURE",
-            2,
-            "JAYNES"
+            "SMITH, CALVIN^^"
         ],
         [
             "ENGLISH 11*",
+            1,
+            "WALKER, M."
+        ],
+        [
+            "DEBATE*",
+            2,
+            "WALKER, M."
+        ],
+        [
+            "DEBATE*",
             3,
-            "JAYNES"
+            "WALKER, M."
         ],
         [
-            "Not available",
+            "ENGLISH 11*",
             4,
-            "JAYNES"
+            "WALKER, M."
         ],
         [
-            "Not available",
+            "ENGLISH 11*",
             5,
-            "JAYNES"
+            "WALKER, M."
         ],
         [
             "ENGLISH 11*",
             6,
-            "JAYNES"
-        ],
-        [
-            "FILM LITERATURE",
-            7,
-            "JAYNES"
-        ],
-        [
-            "Not available",
-            8,
-            "JAYNES"
-        ],
-        [
-            "SECONDARY MATH 3*",
-            1,
-            "SAUNDERS"
-        ],
-        [
-            "PRECALCULUS*",
-            2,
-            "SAUNDERS"
-        ],
-        [
-            "SECONDARY MATH 3*",
-            3,
-            "SAUNDERS"
-        ],
-        [
-            "SECONDARY MATH 3*",
-            4,
-            "SAUNDERS"
-        ],
-        [
-            "SECONDARY MATH 3*",
-            5,
-            "SAUNDERS"
-        ],
-        [
-            "SECONDARY MATH 3*",
-            6,
-            "SAUNDERS"
-        ],
-        [
-            "Prep",
-            7,
-            "SAUNDERS"
-        ],
-        [
-            "PRECALCULUS*",
-            8,
-            "SAUNDERS"
-        ],
-        [
-            "SECONDARY MATH 2*",
-            1,
-            "BRINKERHOFF, E."
-        ],
-        [
-            "MATH DECISION MAKING*",
-            2,
-            "BRINKERHOFF, E."
-        ],
-        [
-            "MATH DECISION MAKING*",
-            3,
-            "BRINKERHOFF, E."
-        ],
-        [
-            "SECONDARY MATH 2*",
-            4,
-            "BRINKERHOFF, E."
-        ],
-        [
-            "SECONDARY MATH 2*",
-            5,
-            "BRINKERHOFF, E."
-        ],
-        [
-            "SECONDARY MATH 2*",
-            6,
-            "BRINKERHOFF, E."
-        ],
-        [
-            "MATH DECISION MAKING*",
-            7,
-            "BRINKERHOFF, E."
-        ],
-        [
-            "Prep",
-            8,
-            "BRINKERHOFF, E."
-        ],
-        [
-            "Prep",
-            1,
-            "HAYNIE"
-        ],
-        [
-            "ENGLISH 11*",
-            2,
-            "HAYNIE"
-        ],
-        [
-            "ENGLISH 11*",
-            3,
-            "HAYNIE"
-        ],
-        [
-            "AP ENGLISH LITERATURE*",
-            4,
-            "HAYNIE"
-        ],
-        [
-            "AP ENGLISH LITERATURE*",
-            5,
-            "HAYNIE"
-        ],
-        [
-            "ENGLISH 11*",
-            6,
-            "HAYNIE"
+            "WALKER, M."
         ],
         [
             "ENGLISH 11*",
             7,
-            "HAYNIE"
+            "WALKER, M."
         ],
         [
-            "AP ENGLISH LITERATURE*",
+            "Prep",
             8,
-            "HAYNIE"
+            "WALKER, M."
         ],
         [
             "Prep",
             1,
-            "MOLEN^"
+            "POWELL"
         ],
         [
-            "GRAPHIC DESIGN / DIGITAL MEDIA",
+            "THEATER PRODUCTIONS*",
             2,
-            "MOLEN^"
+            "POWELL"
         ],
         [
-            "DIGITAL TECHNOLOGY - Concurrent Enrollment",
+            "ADVANCED WOMEN'S ENSEMBLE*",
             3,
-            "MOLEN^"
+            "POWELL"
         ],
         [
-            "GRAPHIC DESIGN / DIGITAL MEDIA",
+            "CHAMBER CHOIR - MADRIGAL*",
             4,
-            "MOLEN^"
+            "POWELL"
         ],
         [
-            "Prep",
+            "ADVANCED MEN'S ENSEMBLE*",
             5,
-            "MOLEN^"
+            "POWELL"
         ],
         [
-            "WEB DEVELOPMENT 2 - Concurrent Enrollment",
+            "MUSICAL THEATER",
             6,
-            "MOLEN^"
+            "POWELL"
         ],
         [
-            "BUSINESS MANAGEMENT - Concurrent Enrollment",
+            "ACAPELLA CHOIR*",
             7,
-            "MOLEN^"
+            "POWELL"
         ],
         [
-            "BUSINESS OFFICE SPECIALIST - Concurrent Enrollment",
+            "AP MUSIC THEORY*",
             8,
-            "MOLEN^"
-        ],
-        [
-            "US HISTORY*",
-            1,
-            "TURNER"
-        ],
-        [
-            "THE U.S. & WW II",
-            2,
-            "TURNER"
-        ],
-        [
-            "US HISTORY*",
-            3,
-            "TURNER"
-        ],
-        [
-            "US HISTORY*",
-            4,
-            "TURNER"
-        ],
-        [
-            "AP WORLD HISTORY*",
-            5,
-            "TURNER"
-        ],
-        [
-            "Not available",
-            6,
-            "TURNER"
-        ],
-        [
-            "Prep",
-            7,
-            "TURNER"
-        ],
-        [
-            "AP WORLD HISTORY*",
-            8,
-            "TURNER"
-        ],
-        [
-            "ACCOUNTING 1",
-            1,
-            "DAY^"
-        ],
-        [
-            "Prep",
-            2,
-            "DAY^"
-        ],
-        [
-            "ACCOUNTING 1",
-            3,
-            "DAY^"
-        ],
-        [
-            "ENTREPRENEURSHIP",
-            4,
-            "DAY^"
-        ],
-        [
-            "Not available",
-            5,
-            "DAY^"
-        ],
-        [
-            "Not available",
-            6,
-            "DAY^"
-        ],
-        [
-            "Not available",
-            7,
-            "DAY^"
-        ],
-        [
-            "Not available",
-            8,
-            "DAY^"
-        ],
-        [
-            "WIND ENSEMBLE ADVANCED*",
-            1,
-            "KIM, J."
-        ],
-        [
-            "WIND SYMPHONY*",
-            2,
-            "KIM, J."
-        ],
-        [
-            "JAZZ BAND 2*",
-            3,
-            "KIM, J."
-        ],
-        [
-            "Prep",
-            4,
-            "KIM, J."
+            "POWELL"
         ],
         [
             "POP/ROCK ENSEMBLE*",
-            5,
-            "KIM, J."
-        ],
-        [
-            "UKULELE",
-            6,
+            1,
             "KIM, J."
         ],
         [
             "JAZZ BAND 1*",
+            2,
+            "KIM, J."
+        ],
+        [
+            "WIND SYMPHONY*",
+            3,
+            "KIM, J."
+        ],
+        [
+            "UKULELE",
+            4,
+            "KIM, J."
+        ],
+        [
+            "WIND ENSEMBLE ADVANCED*",
+            5,
+            "KIM, J."
+        ],
+        [
+            "JAZZ BAND 2*",
+            6,
+            "KIM, J."
+        ],
+        [
+            "Prep",
             7,
             "KIM, J."
         ],
@@ -4159,6 +1559,166 @@
             "Not available",
             8,
             "KIM, J."
+        ],
+        [
+            "LONE PEAK LIVE - Concurrent Enrollment",
+            1,
+            "DURRANT"
+        ],
+        [
+            "UKNIGHTED*",
+            2,
+            "DURRANT"
+        ],
+        [
+            "BROADCASTING 1",
+            3,
+            "DURRANT"
+        ],
+        [
+            "VIDEO CINEMATOGRAPHY",
+            4,
+            "DURRANT"
+        ],
+        [
+            "BROADCASTING 1",
+            5,
+            "DURRANT"
+        ],
+        [
+            "VIDEO EDITING",
+            6,
+            "DURRANT"
+        ],
+        [
+            "VIDEO EDITING",
+            7,
+            "DURRANT"
+        ],
+        [
+            "Prep",
+            8,
+            "DURRANT"
+        ],
+        [
+            "Not available",
+            1,
+            "ROSS"
+        ],
+        [
+            "Not available",
+            2,
+            "ROSS"
+        ],
+        [
+            "Not available",
+            3,
+            "ROSS"
+        ],
+        [
+            "Not available",
+            4,
+            "ROSS"
+        ],
+        [
+            "Not available",
+            5,
+            "ROSS"
+        ],
+        [
+            "Not available",
+            6,
+            "ROSS"
+        ],
+        [
+            "MOTION PICTURE",
+            7,
+            "ROSS"
+        ],
+        [
+            "BOYS BASKETBALL TEAM",
+            8,
+            "ROSS"
+        ],
+        [
+            "SECONDARY MATH 3 LAB",
+            1,
+            "RIDGWAY"
+        ],
+        [
+            "SECONDARY MATH 2 LAB",
+            2,
+            "RIDGWAY"
+        ],
+        [
+            "SECONDARY MATH 3*",
+            3,
+            "RIDGWAY"
+        ],
+        [
+            "Prep",
+            4,
+            "RIDGWAY"
+        ],
+        [
+            "SECONDARY MATH 2*",
+            5,
+            "RIDGWAY"
+        ],
+        [
+            "SECONDARY MATH 2*",
+            6,
+            "RIDGWAY"
+        ],
+        [
+            "SECONDARY MATH 2 LAB",
+            7,
+            "RIDGWAY"
+        ],
+        [
+            "SECONDARY MATH 2 LAB",
+            8,
+            "RIDGWAY"
+        ],
+        [
+            "CULINARY BASICS",
+            1,
+            "COX, B.^"
+        ],
+        [
+            "ADVANCED CULINARY* - Concurrent Enrollment",
+            2,
+            "COX, B.^"
+        ],
+        [
+            "CULINARY BASICS",
+            3,
+            "COX, B.^"
+        ],
+        [
+            "STUDENT GOVERNMENT*",
+            4,
+            "COX, B.^"
+        ],
+        [
+            "BAKING & PASTRY",
+            5,
+            "COX, B.^"
+        ],
+        [
+            "ADVANCED CULINARY* - Concurrent Enrollment",
+            6,
+            "COX, B.^"
+        ],
+        [
+            "CULINARY BASICS",
+            7,
+            "COX, B.^"
+        ],
+        [
+            "Not available",
+            8,
+            "COX, B.^"
         ],
         [
             "Not available",
@@ -4201,7 +1761,1087 @@
             "TIFFANY"
         ],
         [
-            "FASHION DESIGN STUDIO",
+            "FINANCIAL LITERACY - Concurrent Enrollment",
+            1,
+            "FLOOD"
+        ],
+        [
+            "Prep",
+            2,
+            "FLOOD"
+        ],
+        [
+            "FINANCIAL LITERACY - Concurrent Enrollment",
+            3,
+            "FLOOD"
+        ],
+        [
+            "FINANCIAL LITERACY - Concurrent Enrollment",
+            4,
+            "FLOOD"
+        ],
+        [
+            "FINANCIAL LITERACY - Concurrent Enrollment",
+            5,
+            "FLOOD"
+        ],
+        [
+            "FINANCIAL LITERACY - Concurrent Enrollment",
+            6,
+            "FLOOD"
+        ],
+        [
+            "FINANCIAL LITERACY - Concurrent Enrollment",
+            7,
+            "FLOOD"
+        ],
+        [
+            "FINANCIAL LITERACY - Concurrent Enrollment",
+            8,
+            "FLOOD"
+        ],
+        [
+            "PSYCHOLOGY",
+            1,
+            "KIM, H."
+        ],
+        [
+            "Prep",
+            2,
+            "KIM, H."
+        ],
+        [
+            "INTERNSHIP",
+            3,
+            "KIM, H."
+        ],
+        [
+            "AP PSYCHOLOGY*",
+            4,
+            "KIM, H."
+        ],
+        [
+            "AP PSYCHOLOGY*",
+            5,
+            "KIM, H."
+        ],
+        [
+            "PSYCHOLOGY",
+            6,
+            "KIM, H."
+        ],
+        [
+            "AP PSYCHOLOGY*",
+            7,
+            "KIM, H."
+        ],
+        [
+            "AP PSYCHOLOGY*",
+            8,
+            "KIM, H."
+        ],
+        [
+            "SECONDARY MATH 2*",
+            1,
+            "BRINKERHOFF, E."
+        ],
+        [
+            "MATH DECISION MAKING*",
+            2,
+            "BRINKERHOFF, E."
+        ],
+        [
+            "SECONDARY MATH 2*",
+            3,
+            "BRINKERHOFF, E."
+        ],
+        [
+            "MATH DECISION MAKING*",
+            4,
+            "BRINKERHOFF, E."
+        ],
+        [
+            "SECONDARY MATH 2*",
+            5,
+            "BRINKERHOFF, E."
+        ],
+        [
+            "SECONDARY MATH 2*",
+            6,
+            "BRINKERHOFF, E."
+        ],
+        [
+            "Prep",
+            7,
+            "BRINKERHOFF, E."
+        ],
+        [
+            "MATH DECISION MAKING*",
+            8,
+            "BRINKERHOFF, E."
+        ],
+        [
+            "PHYSICS 1010 -Concurrent Enrollment*",
+            1,
+            "TALBERT"
+        ],
+        [
+            "PHYSICS*",
+            2,
+            "TALBERT"
+        ],
+        [
+            "PHYSICS*",
+            3,
+            "TALBERT"
+        ],
+        [
+            "PHYSICS 1010 -Concurrent Enrollment*",
+            4,
+            "TALBERT"
+        ],
+        [
+            "Prep",
+            5,
+            "TALBERT"
+        ],
+        [
+            "PHYSICS*",
+            6,
+            "TALBERT"
+        ],
+        [
+            "PHYSICS*",
+            7,
+            "TALBERT"
+        ],
+        [
+            "PHYSICS 1010 -Concurrent Enrollment*",
+            8,
+            "TALBERT"
+        ],
+        [
+            "UVU LIVE INTERACTIVE",
+            1,
+            "WINN"
+        ],
+        [
+            "UVU LIVE INTERACTIVE",
+            2,
+            "WINN"
+        ],
+        [
+            "UVU LIVE INTERACTIVE",
+            3,
+            "WINN"
+        ],
+        [
+            "UVU LIVE INTERACTIVE",
+            4,
+            "WINN"
+        ],
+        [
+            "UVU LIVE INTERACTIVE",
+            5,
+            "WINN"
+        ],
+        [
+            "UVU LIVE INTERACTIVE",
+            6,
+            "WINN"
+        ],
+        [
+            "UVU LIVE INTERACTIVE",
+            7,
+            "WINN"
+        ],
+        [
+            "UVU LIVE INTERACTIVE",
+            8,
+            "WINN"
+        ],
+        [
+            "SEMINARY",
+            1,
+            "SEMINARY FACULTY"
+        ],
+        [
+            "SEMINARY",
+            2,
+            "SEMINARY FACULTY"
+        ],
+        [
+            "SEMINARY",
+            3,
+            "SEMINARY FACULTY"
+        ],
+        [
+            "SEMINARY",
+            4,
+            "SEMINARY FACULTY"
+        ],
+        [
+            "SEMINARY",
+            5,
+            "SEMINARY FACULTY"
+        ],
+        [
+            "SEMINARY",
+            6,
+            "SEMINARY FACULTY"
+        ],
+        [
+            "SEMINARY",
+            7,
+            "SEMINARY FACULTY"
+        ],
+        [
+            "SEMINARY",
+            8,
+            "SEMINARY FACULTY"
+        ],
+        [
+            "Not available",
+            1,
+            "KNIGHT^"
+        ],
+        [
+            "DRAWING 1",
+            2,
+            "KNIGHT^"
+        ],
+        [
+            "Not available",
+            3,
+            "KNIGHT^"
+        ],
+        [
+            "Not available",
+            4,
+            "KNIGHT^"
+        ],
+        [
+            "ART HONORS*",
+            5,
+            "KNIGHT^"
+        ],
+        [
+            "PAINTING 2",
+            6,
+            "KNIGHT^"
+        ],
+        [
+            "Not available",
+            7,
+            "KNIGHT^"
+        ],
+        [
+            "Not available",
+            8,
+            "KNIGHT^"
+        ],
+        [
+            "Prep",
+            1,
+            "JOLLEY^"
+        ],
+        [
+            "GIRLS SOCCER TEAM",
+            2,
+            "JOLLEY^"
+        ],
+        [
+            "US HISTORY*",
+            3,
+            "JOLLEY^"
+        ],
+        [
+            "US HISTORY*",
+            4,
+            "JOLLEY^"
+        ],
+        [
+            "US HISTORY*",
+            5,
+            "JOLLEY^"
+        ],
+        [
+            "US HISTORY*",
+            6,
+            "JOLLEY^"
+        ],
+        [
+            "US HISTORY*",
+            7,
+            "JOLLEY^"
+        ],
+        [
+            "US HISTORY*",
+            8,
+            "JOLLEY^"
+        ],
+        [
+            "Not available",
+            1,
+            "GIBBY^"
+        ],
+        [
+            "Not available",
+            2,
+            "GIBBY^"
+        ],
+        [
+            "Not available",
+            3,
+            "GIBBY^"
+        ],
+        [
+            "Not available",
+            4,
+            "GIBBY^"
+        ],
+        [
+            "YEARBOOK*",
+            5,
+            "GIBBY^"
+        ],
+        [
+            "COMMERCIAL PHOTO 1",
+            6,
+            "GIBBY^"
+        ],
+        [
+            "COMMERCIAL PHOTO 1",
+            7,
+            "GIBBY^"
+        ],
+        [
+            "COMMERCIAL PHOTO 1",
+            8,
+            "GIBBY^"
+        ],
+        [
+            "LIFETIME ACTIVITY",
+            1,
+            "WARNER"
+        ],
+        [
+            "LIFETIME ACTIVITY",
+            2,
+            "WARNER"
+        ],
+        [
+            "Prep",
+            3,
+            "WARNER"
+        ],
+        [
+            "LIFETIME ACTIVITY",
+            4,
+            "WARNER"
+        ],
+        [
+            "LIFETIME ACTIVITY",
+            5,
+            "WARNER"
+        ],
+        [
+            "GIRLS BASKETBALL TEAM",
+            6,
+            "WARNER"
+        ],
+        [
+            "WEIGHTS Female",
+            7,
+            "WARNER"
+        ],
+        [
+            "INTRO TO BASKETBALL",
+            8,
+            "WARNER"
+        ],
+        [
+            "SECONDARY MATH 2*",
+            1,
+            "RUCHTI"
+        ],
+        [
+            "Prep",
+            2,
+            "RUCHTI"
+        ],
+        [
+            "SECONDARY MATH 2*",
+            3,
+            "RUCHTI"
+        ],
+        [
+            "MATH 1010-Concurrent Enrollment",
+            4,
+            "RUCHTI"
+        ],
+        [
+            "SECONDARY MATH 3 EXTENDED*",
+            5,
+            "RUCHTI"
+        ],
+        [
+            "SECONDARY MATH 2*",
+            6,
+            "RUCHTI"
+        ],
+        [
+            "SECONDARY MATH 2*",
+            7,
+            "RUCHTI"
+        ],
+        [
+            "SECONDARY MATH 3 EXTENDED*",
+            8,
+            "RUCHTI"
+        ],
+        [
+            "LIFETIME ACTIVITY",
+            1,
+            "ASAY"
+        ],
+        [
+            "LIFETIME ACTIVITY",
+            2,
+            "ASAY"
+        ],
+        [
+            "LIFETIME ACTIVITY",
+            3,
+            "ASAY"
+        ],
+        [
+            "DRAWING 1",
+            4,
+            "ASAY"
+        ],
+        [
+            "Not available",
+            5,
+            "ASAY"
+        ],
+        [
+            "LIFETIME ACTIVITY",
+            6,
+            "ASAY"
+        ],
+        [
+            "HIGH FIT/ZUMBA",
+            7,
+            "ASAY"
+        ],
+        [
+            "ITALIAN 2*",
+            8,
+            "ASAY"
+        ],
+        [
+            "SPANISH 4* - Concurrent Enrollment",
+            1,
+            "PEAY"
+        ],
+        [
+            "Prep",
+            2,
+            "PEAY"
+        ],
+        [
+            "SPANISH 3* - Concurrent Enrollment",
+            3,
+            "PEAY"
+        ],
+        [
+            "Prep",
+            4,
+            "PEAY"
+        ],
+        [
+            "SPANISH 4* - Concurrent Enrollment",
+            5,
+            "PEAY"
+        ],
+        [
+            "SPANISH 3* - Concurrent Enrollment",
+            6,
+            "PEAY"
+        ],
+        [
+            "AP SPANISH LANGUAGE*",
+            7,
+            "PEAY"
+        ],
+        [
+            "SPANISH 3* - Concurrent Enrollment",
+            8,
+            "PEAY"
+        ],
+        [
+            "Not available",
+            1,
+            "CRAFT"
+        ],
+        [
+            "HUMANITIES",
+            2,
+            "CRAFT"
+        ],
+        [
+            "ENGLISH 10*",
+            3,
+            "CRAFT"
+        ],
+        [
+            "Not available",
+            4,
+            "CRAFT"
+        ],
+        [
+            "Not available",
+            5,
+            "CRAFT"
+        ],
+        [
+            "ENGLISH 10*",
+            6,
+            "CRAFT"
+        ],
+        [
+            "ENGLISH 10*",
+            7,
+            "CRAFT"
+        ],
+        [
+            "Not available",
+            8,
+            "CRAFT"
+        ],
+        [
+            "Prep",
+            1,
+            "MOLENI"
+        ],
+        [
+            "SECONDARY MATH 2*",
+            2,
+            "MOLENI"
+        ],
+        [
+            "Prep",
+            3,
+            "MOLENI"
+        ],
+        [
+            "MATH DECISION MAKING*",
+            4,
+            "MOLENI"
+        ],
+        [
+            "SECONDARY MATH 1*",
+            5,
+            "MOLENI"
+        ],
+        [
+            "SECONDARY MATH 2*",
+            6,
+            "MOLENI"
+        ],
+        [
+            "MATH DECISION MAKING*",
+            7,
+            "MOLENI"
+        ],
+        [
+            "SECONDARY MATH 1 LAB",
+            8,
+            "MOLENI"
+        ],
+        [
+            "VIDEO PROD 1",
+            1,
+            "TOPHAM^"
+        ],
+        [
+            "LONE PEAK LIVE",
+            2,
+            "TOPHAM^"
+        ],
+        [
+            "LONE PEAK LIVE - Concurrent Enrollment",
+            3,
+            "TOPHAM^"
+        ],
+        [
+            "VIDEO CAPSTONE*",
+            4,
+            "TOPHAM^"
+        ],
+        [
+            "AUDIO PROD 1",
+            5,
+            "TOPHAM^"
+        ],
+        [
+            "Not available",
+            6,
+            "TOPHAM^"
+        ],
+        [
+            "STUDENT GOVERNMENT*",
+            7,
+            "TOPHAM^"
+        ],
+        [
+            "UKNIGHTED*",
+            8,
+            "TOPHAM^"
+        ],
+        [
+            "Not available",
+            1,
+            "WILY"
+        ],
+        [
+            "Not available",
+            2,
+            "WILY"
+        ],
+        [
+            "Not available",
+            3,
+            "WILY"
+        ],
+        [
+            "Not available",
+            4,
+            "WILY"
+        ],
+        [
+            "Prep",
+            5,
+            "WILY"
+        ],
+        [
+            "ENGLISH 10*",
+            6,
+            "WILY"
+        ],
+        [
+            "ENGLISH 10*",
+            7,
+            "WILY"
+        ],
+        [
+            "ENGLISH 10*",
+            8,
+            "WILY"
+        ],
+        [
+            "BIOLOGY*",
+            1,
+            "SCHETTLER"
+        ],
+        [
+            "BIOLOGY*",
+            2,
+            "SCHETTLER"
+        ],
+        [
+            "Prep",
+            3,
+            "SCHETTLER"
+        ],
+        [
+            "BIOLOGY*",
+            4,
+            "SCHETTLER"
+        ],
+        [
+            "BIOLOGY*",
+            5,
+            "SCHETTLER"
+        ],
+        [
+            "ART HONORS*",
+            6,
+            "SCHETTLER"
+        ],
+        [
+            "BIOLOGY*",
+            7,
+            "SCHETTLER"
+        ],
+        [
+            "BIOLOGY*",
+            8,
+            "SCHETTLER"
+        ],
+        [
+            "ENGLISH 11 HONORS*",
+            1,
+            "REES"
+        ],
+        [
+            "ENGLISH 11 HONORS*",
+            2,
+            "REES"
+        ],
+        [
+            "AP ENGLISH LANGUAGE*",
+            3,
+            "REES"
+        ],
+        [
+            "AP ENGLISH LANGUAGE*",
+            4,
+            "REES"
+        ],
+        [
+            "AP ENGLISH LANGUAGE*",
+            5,
+            "REES"
+        ],
+        [
+            "AP ENGLISH LANGUAGE*",
+            6,
+            "REES"
+        ],
+        [
+            "Not available",
+            7,
+            "REES"
+        ],
+        [
+            "Prep",
+            8,
+            "REES"
+        ],
+        [
+            "SECONDARY MATH 2 EXTENDED*",
+            1,
+            "WALLACE"
+        ],
+        [
+            "SECONDARY MATH 2 EXTENDED*",
+            2,
+            "WALLACE"
+        ],
+        [
+            "SECONDARY MATH 2 EXTENDED*",
+            3,
+            "WALLACE"
+        ],
+        [
+            "SECONDARY MATH 2*",
+            4,
+            "WALLACE"
+        ],
+        [
+            "SECONDARY MATH 2 EXTENDED*",
+            5,
+            "WALLACE"
+        ],
+        [
+            "SECONDARY MATH 2*",
+            6,
+            "WALLACE"
+        ],
+        [
+            "Prep",
+            7,
+            "WALLACE"
+        ],
+        [
+            "SECONDARY MATH 2*",
+            8,
+            "WALLACE"
+        ],
+        [
+            "THEATER PRODUCTIONS*",
+            1,
+            "COX, C.^^"
+        ],
+        [
+            "MOTION PICTURE",
+            2,
+            "COX, C.^^"
+        ],
+        [
+            "Not available",
+            3,
+            "COX, C.^^"
+        ],
+        [
+            "MOTION PICTURE",
+            4,
+            "COX, C.^^"
+        ],
+        [
+            "MUSICAL THEATER",
+            5,
+            "COX, C.^^"
+        ],
+        [
+            "STAGE CREW*",
+            6,
+            "COX, C.^^"
+        ],
+        [
+            "CHEER TEAM*",
+            7,
+            "COX, C.^^"
+        ],
+        [
+            "SCRIPT WRITING",
+            8,
+            "COX, C.^^"
+        ],
+        [
+            "Prep",
+            1,
+            "BANKS^"
+        ],
+        [
+            "GERMAN 1*",
+            2,
+            "BANKS^"
+        ],
+        [
+            "HISTORY OF ROCK AND ROLL - Concurrent Enrollment",
+            3,
+            "BANKS^"
+        ],
+        [
+            "GERMAN 2*",
+            4,
+            "BANKS^"
+        ],
+        [
+            "HISTORY OF ROCK AND ROLL - Concurrent Enrollment",
+            5,
+            "BANKS^"
+        ],
+        [
+            "Prep",
+            6,
+            "BANKS^"
+        ],
+        [
+            "GERMAN 3* - Concurrent Enrollment",
+            7,
+            "BANKS^"
+        ],
+        [
+            "GERMAN 4/AP* - Concurrent Enrollment",
+            8,
+            "BANKS^"
+        ],
+        [
+            "SECONDARY MATH 3 EXTENDED*",
+            1,
+            "MURRAY"
+        ],
+        [
+            "SECONDARY MATH 3 EXTENDED*",
+            2,
+            "MURRAY"
+        ],
+        [
+            "MATH 1010-Concurrent Enrollment",
+            3,
+            "MURRAY"
+        ],
+        [
+            "Prep",
+            4,
+            "MURRAY"
+        ],
+        [
+            "SECONDARY MATH 3*",
+            5,
+            "MURRAY"
+        ],
+        [
+            "SECONDARY MATH 3 EXTENDED*",
+            6,
+            "MURRAY"
+        ],
+        [
+            "SECONDARY MATH 3*",
+            7,
+            "MURRAY"
+        ],
+        [
+            "MATH 1010-Concurrent Enrollment",
+            8,
+            "MURRAY"
+        ],
+        [
+            "CHEMISTRY*",
+            1,
+            "WENTZ"
+        ],
+        [
+            "CHEMISTRY*",
+            2,
+            "WENTZ"
+        ],
+        [
+            "CHEMISTRY*",
+            3,
+            "WENTZ"
+        ],
+        [
+            "Prep",
+            4,
+            "WENTZ"
+        ],
+        [
+            "CHEMISTRY*",
+            5,
+            "WENTZ"
+        ],
+        [
+            "CHEMISTRY*",
+            6,
+            "WENTZ"
+        ],
+        [
+            "CHEMISTRY*",
+            7,
+            "WENTZ"
+        ],
+        [
+            "CHEMISTRY*",
+            8,
+            "WENTZ"
+        ],
+        [
+            "AP ART-3D SCULPTURE PORTFOLIO*",
+            1,
+            "SEELY"
+        ],
+        [
+            "CERAMICS 1",
+            2,
+            "SEELY"
+        ],
+        [
+            "CERAMICS 1",
+            3,
+            "SEELY"
+        ],
+        [
+            "CERAMICS 1",
+            4,
+            "SEELY"
+        ],
+        [
+            "Prep",
+            5,
+            "SEELY"
+        ],
+        [
+            "CERAMICS 1",
+            6,
+            "SEELY"
+        ],
+        [
+            "CERAMICS 1",
+            7,
+            "SEELY"
+        ],
+        [
+            "CERAMICS 2",
+            8,
+            "SEELY"
+        ],
+        [
+            "LIFE SKILLS*",
+            1,
+            "HEATH"
+        ],
+        [
+            "Not available",
+            2,
+            "HEATH"
+        ],
+        [
+            "Not available",
+            3,
+            "HEATH"
+        ],
+        [
+            "Not available",
+            4,
+            "HEATH"
+        ],
+        [
+            "AP CHINESE*",
+            5,
+            "HEATH"
+        ],
+        [
+            "CHINESE BRIDGE 3118*",
+            6,
+            "HEATH"
+        ],
+        [
+            "LS MATH*",
+            7,
+            "HEATH"
+        ],
+        [
+            "CHINESE BRIDGE 3118*",
+            8,
+            "HEATH"
+        ],
+        [
+            "AP WORLD HISTORY*",
+            1,
+            "TURNER"
+        ],
+        [
+            "Prep",
+            2,
+            "TURNER"
+        ],
+        [
+            "US HISTORY*",
+            3,
+            "TURNER"
+        ],
+        [
+            "AP WORLD HISTORY*",
+            4,
+            "TURNER"
+        ],
+        [
+            "US HISTORY*",
+            5,
+            "TURNER"
+        ],
+        [
+            "UVU LIVE INTERACTIVE",
+            6,
+            "TURNER"
+        ],
+        [
+            "THE U.S. & WW II",
+            7,
+            "TURNER"
+        ],
+        [
+            "US HISTORY*",
+            8,
+            "TURNER"
+        ],
+        [
+            "Prep",
             1,
             "HARLOW"
         ],
@@ -4216,7 +2856,7 @@
             "HARLOW"
         ],
         [
-            "Prep",
+            "FASHION DESIGN STUDIO",
             4,
             "HARLOW"
         ],
@@ -4241,44 +2881,1404 @@
             "HARLOW"
         ],
         [
-            "VIDEO EDITING",
+            "HEALTH",
             1,
-            "DURRANT"
+            "MONTROSE^"
         ],
         [
-            "LONE PEAK LIVE - Concurrent Enrollment",
+            "SPANISH 2*",
             2,
-            "DURRANT"
+            "MONTROSE^"
         ],
         [
-            "UKNIGHTED*",
+            "HEALTH",
             3,
-            "DURRANT"
+            "MONTROSE^"
         ],
         [
-            "VIDEO EDITING",
+            "SPANISH 2*",
             4,
-            "DURRANT"
+            "MONTROSE^"
         ],
         [
-            "VIDEO CINEMATOGRAPHY",
+            "HEALTH",
             5,
-            "DURRANT"
+            "MONTROSE^"
+        ],
+        [
+            "HEALTH",
+            6,
+            "MONTROSE^"
+        ],
+        [
+            "Prep",
+            7,
+            "MONTROSE^"
+        ],
+        [
+            "SPANISH 2*",
+            8,
+            "MONTROSE^"
+        ],
+        [
+            "MEDICAL TERMINOLOGY - Concurrent Enrollment",
+            1,
+            "PASKETT^^"
+        ],
+        [
+            "MEDICAL ANATOMY & PHYSIOLOGY*",
+            2,
+            "PASKETT^^"
+        ],
+        [
+            "MEDICAL ANATOMY & PHYSIOLOGY*",
+            3,
+            "PASKETT^^"
+        ],
+        [
+            "MEDICAL TERMINOLOGY - Concurrent Enrollment",
+            4,
+            "PASKETT^^"
+        ],
+        [
+            "EMERGENCY MEDICAL RESPONDER - Concurrent Enrollment",
+            5,
+            "PASKETT^^"
+        ],
+        [
+            "MEDICAL ANATOMY & PHYSIOLOGY*",
+            6,
+            "PASKETT^^"
+        ],
+        [
+            "Prep",
+            7,
+            "PASKETT^^"
+        ],
+        [
+            "MEDICAL ANATOMY & PHYSIOLOGY*",
+            8,
+            "PASKETT^^"
+        ],
+        [
+            "Not available",
+            1,
+            "VERNON"
+        ],
+        [
+            "Not available",
+            2,
+            "VERNON"
+        ],
+        [
+            "Not available",
+            3,
+            "VERNON"
+        ],
+        [
+            "Not available",
+            4,
+            "VERNON"
+        ],
+        [
+            "MUSIC APPRECIATION - Concurrent Enrollment",
+            5,
+            "VERNON"
+        ],
+        [
+            "CHAMBER ORCHESTRA*",
+            6,
+            "VERNON"
+        ],
+        [
+            "SYMPHONIC ORCHESTRA*",
+            7,
+            "VERNON"
+        ],
+        [
+            "CONCERT ORCHESTRA*",
+            8,
+            "VERNON"
+        ],
+        [
+            "AMERICAN STUDIES*",
+            1,
+            "BIRRELL"
+        ],
+        [
+            "AP US HISTORY - Concurrent Enrollment*",
+            2,
+            "BIRRELL"
+        ],
+        [
+            "AMERICAN STUDIES*",
+            3,
+            "BIRRELL"
+        ],
+        [
+            "Not available",
+            4,
+            "BIRRELL"
+        ],
+        [
+            "AMERICAN STUDIES*",
+            5,
+            "BIRRELL"
+        ],
+        [
+            "AP GOV & POLITICS-Concurrent Enrollment*",
+            6,
+            "BIRRELL"
+        ],
+        [
+            "Prep",
+            7,
+            "BIRRELL"
+        ],
+        [
+            "AMERICAN STUDIES*",
+            8,
+            "BIRRELL"
+        ],
+        [
+            "THEATER PRODUCTIONS*",
+            1,
+            "COX, C.^"
+        ],
+        [
+            "MOTION PICTURE",
+            2,
+            "COX, C.^"
+        ],
+        [
+            "YOGA 1",
+            3,
+            "COX, C.^"
+        ],
+        [
+            "MUSICAL THEATER",
+            4,
+            "COX, C.^"
+        ],
+        [
+            "MOTION PICTURE",
+            5,
+            "COX, C.^"
         ],
         [
             "Prep",
             6,
-            "DURRANT"
+            "COX, C.^"
         ],
         [
-            "BROADCASTING 1",
+            "STAGE CREW*",
             7,
-            "DURRANT"
+            "COX, C.^"
         ],
         [
-            "BROADCASTING 1",
+            "SCRIPT WRITING",
             8,
-            "DURRANT"
+            "COX, C.^"
+        ],
+        [
+            "COMPUTER PROGRAMMING 1&2* - Concurrent Enrollment",
+            1,
+            "LEE^"
+        ],
+        [
+            "ADVANCED COMPUTER PROGRAMMING* - Concurrent Enrollment",
+            2,
+            "LEE^"
+        ],
+        [
+            "GAME DEVELOPMENT FUNDAMENTALS 1",
+            3,
+            "LEE^"
+        ],
+        [
+            "Prep",
+            4,
+            "LEE^"
+        ],
+        [
+            "GAME DEVELOPMENT FUNDAMENTALS 1",
+            5,
+            "LEE^"
+        ],
+        [
+            "COMPUTER PROGRAMMING 1&2* - Concurrent Enrollment",
+            6,
+            "LEE^"
+        ],
+        [
+            "ALGORITHMS & DATA STRUCTURES* - Concurrent Enrollment",
+            7,
+            "LEE^"
+        ],
+        [
+            "COMPUTER PROGRAMMING 1&2* - Concurrent Enrollment",
+            8,
+            "LEE^"
+        ],
+        [
+            "CHEMISTRY*",
+            1,
+            "WENTZ"
+        ],
+        [
+            "CHEMISTRY*",
+            2,
+            "WENTZ"
+        ],
+        [
+            "CHEMISTRY*",
+            3,
+            "WENTZ"
+        ],
+        [
+            "CHEMISTRY*",
+            4,
+            "WENTZ"
+        ],
+        [
+            "Prep",
+            5,
+            "WENTZ"
+        ],
+        [
+            "CHEMISTRY*",
+            6,
+            "WENTZ"
+        ],
+        [
+            "CHEMISTRY*",
+            7,
+            "WENTZ"
+        ],
+        [
+            "CHEMISTRY*",
+            8,
+            "WENTZ"
+        ],
+        [
+            "Prep",
+            1,
+            "PERKES"
+        ],
+        [
+            "WEATHER/CLIMATE - Concurrent Enrollment",
+            2,
+            "PERKES"
+        ],
+        [
+            "WEATHER/CLIMATE - Concurrent Enrollment",
+            3,
+            "PERKES"
+        ],
+        [
+            "ENVIRONMENTAL SCIENCE",
+            4,
+            "PERKES"
+        ],
+        [
+            "WEATHER/CLIMATE - Concurrent Enrollment",
+            5,
+            "PERKES"
+        ],
+        [
+            "WEATHER/CLIMATE - Concurrent Enrollment",
+            6,
+            "PERKES"
+        ],
+        [
+            "AP ENVIRONMENTAL SCIENCE-Concurrent Enrollment*",
+            7,
+            "PERKES"
+        ],
+        [
+            "AP ENVIRONMENTAL SCIENCE-Concurrent Enrollment*",
+            8,
+            "PERKES"
+        ],
+        [
+            "SECONDARY MATH 3*",
+            1,
+            "PEARSON"
+        ],
+        [
+            "SECONDARY MATH 2 EXTENDED*",
+            2,
+            "PEARSON"
+        ],
+        [
+            "SECONDARY MATH 3*",
+            3,
+            "PEARSON"
+        ],
+        [
+            "SECONDARY MATH 2 EXTENDED*",
+            4,
+            "PEARSON"
+        ],
+        [
+            "SECONDARY MATH 2 EXTENDED*",
+            5,
+            "PEARSON"
+        ],
+        [
+            "SECONDARY MATH 2 EXTENDED*",
+            6,
+            "PEARSON"
+        ],
+        [
+            "Prep",
+            7,
+            "PEARSON"
+        ],
+        [
+            "SECONDARY MATH 3*",
+            8,
+            "PEARSON"
+        ],
+        [
+            "ENGLISH 10*",
+            1,
+            "NIELSON"
+        ],
+        [
+            "ENGLISH 10*",
+            2,
+            "NIELSON"
+        ],
+        [
+            "ENGLISH 10*",
+            3,
+            "NIELSON"
+        ],
+        [
+            "ENGLISH 10*",
+            4,
+            "NIELSON"
+        ],
+        [
+            "Not available",
+            5,
+            "NIELSON"
+        ],
+        [
+            "Not available",
+            6,
+            "NIELSON"
+        ],
+        [
+            "Not available",
+            7,
+            "NIELSON"
+        ],
+        [
+            "Not available",
+            8,
+            "NIELSON"
+        ],
+        [
+            "AP ENGLISH LITERATURE*",
+            1,
+            "HAYNIE"
+        ],
+        [
+            "ENGLISH 11*",
+            2,
+            "HAYNIE"
+        ],
+        [
+            "AP ENGLISH LITERATURE*",
+            3,
+            "HAYNIE"
+        ],
+        [
+            "ENGLISH 11*",
+            4,
+            "HAYNIE"
+        ],
+        [
+            "ENGLISH 11*",
+            5,
+            "HAYNIE"
+        ],
+        [
+            "ENGLISH 11*",
+            6,
+            "HAYNIE"
+        ],
+        [
+            "Prep",
+            7,
+            "HAYNIE"
+        ],
+        [
+            "AP ENGLISH LITERATURE*",
+            8,
+            "HAYNIE"
+        ],
+        [
+            "SECONDARY MATH 3*",
+            1,
+            "COATNEY"
+        ],
+        [
+            "SECONDARY MATH 2*",
+            2,
+            "COATNEY"
+        ],
+        [
+            "SECONDARY MATH 2*",
+            3,
+            "COATNEY"
+        ],
+        [
+            "SECONDARY MATH 3*",
+            4,
+            "COATNEY"
+        ],
+        [
+            "SECONDARY MATH 3*",
+            5,
+            "COATNEY"
+        ],
+        [
+            "SECONDARY MATH 2*",
+            6,
+            "COATNEY"
+        ],
+        [
+            "Prep",
+            7,
+            "COATNEY"
+        ],
+        [
+            "SECONDARY MATH 2*",
+            8,
+            "COATNEY"
+        ],
+        [
+            "ROBOTICS 1",
+            1,
+            "SMITH, WESLEY"
+        ],
+        [
+            "ENGINEERING PRINCIPLES 1",
+            2,
+            "SMITH, WESLEY"
+        ],
+        [
+            "ENGINEERING PRINCIPLES 1",
+            3,
+            "SMITH, WESLEY"
+        ],
+        [
+            "Prep",
+            4,
+            "SMITH, WESLEY"
+        ],
+        [
+            "ROBOTICS 1",
+            5,
+            "SMITH, WESLEY"
+        ],
+        [
+            "Prep",
+            6,
+            "SMITH, WESLEY"
+        ],
+        [
+            "ROBOTICS 1",
+            7,
+            "SMITH, WESLEY"
+        ],
+        [
+            "ENGINEERING PRINCIPLES 1",
+            8,
+            "SMITH, WESLEY"
+        ],
+        [
+            "Not available",
+            1,
+            "GUMMOW"
+        ],
+        [
+            "Not available",
+            2,
+            "GUMMOW"
+        ],
+        [
+            "GUITAR 1",
+            3,
+            "GUMMOW"
+        ],
+        [
+            "GUITAR 1",
+            4,
+            "GUMMOW"
+        ],
+        [
+            "Not available",
+            5,
+            "GUMMOW"
+        ],
+        [
+            "Not available",
+            6,
+            "GUMMOW"
+        ],
+        [
+            "Not available",
+            7,
+            "GUMMOW"
+        ],
+        [
+            "Not available",
+            8,
+            "GUMMOW"
+        ],
+        [
+            "ENGLISH 11*",
+            1,
+            "SMITH, CASSIDY"
+        ],
+        [
+            "ENGLISH 11*",
+            2,
+            "SMITH, CASSIDY"
+        ],
+        [
+            "ENGLISH 10*",
+            3,
+            "SMITH, CASSIDY"
+        ],
+        [
+            "Prep",
+            4,
+            "SMITH, CASSIDY"
+        ],
+        [
+            "ENGLISH 11*",
+            5,
+            "SMITH, CASSIDY"
+        ],
+        [
+            "DIGITAL CURRICULUM",
+            6,
+            "SMITH, CASSIDY"
+        ],
+        [
+            "ENGLISH 10*",
+            7,
+            "SMITH, CASSIDY"
+        ],
+        [
+            "ENGLISH 10*",
+            8,
+            "SMITH, CASSIDY"
+        ],
+        [
+            "ATHLETIC TRAINING PRACTICUM*",
+            1,
+            "BRYAN^"
+        ],
+        [
+            "INTRO TO PHYSICAL THERAPY*",
+            2,
+            "BRYAN^"
+        ],
+        [
+            "SPORTS MEDICINE* - Concurrent Enrollment",
+            3,
+            "BRYAN^"
+        ],
+        [
+            "Prep",
+            4,
+            "BRYAN^"
+        ],
+        [
+            "ATHLETIC TRAINING PRACTICUM*",
+            5,
+            "BRYAN^"
+        ],
+        [
+            "SPORTS MEDICINE* - Concurrent Enrollment",
+            6,
+            "BRYAN^"
+        ],
+        [
+            "SPORTS MEDICINE* - Concurrent Enrollment",
+            7,
+            "BRYAN^"
+        ],
+        [
+            "Prep",
+            8,
+            "BRYAN^"
+        ],
+        [
+            "Prep",
+            1,
+            "WAHLIN"
+        ],
+        [
+            "ENGLISH 11*",
+            2,
+            "WAHLIN"
+        ],
+        [
+            "ENGLISH 12*",
+            3,
+            "WAHLIN"
+        ],
+        [
+            "ENGLISH 11*",
+            4,
+            "WAHLIN"
+        ],
+        [
+            "READING SKILLS",
+            5,
+            "WAHLIN"
+        ],
+        [
+            "ACCELERATED READING",
+            6,
+            "WAHLIN"
+        ],
+        [
+            "READING SKILLS",
+            7,
+            "WAHLIN"
+        ],
+        [
+            "Prep",
+            8,
+            "WAHLIN"
+        ],
+        [
+            "PHYSICS*",
+            1,
+            "PASSEY"
+        ],
+        [
+            "EARTH SCIENCE*",
+            2,
+            "PASSEY"
+        ],
+        [
+            "EARTH SCIENCE*",
+            3,
+            "PASSEY"
+        ],
+        [
+            "PHYSICS*",
+            4,
+            "PASSEY"
+        ],
+        [
+            "MEDICAL ANATOMY & PHYSIOLOGY*",
+            5,
+            "PASSEY"
+        ],
+        [
+            "EARTH SCIENCE*",
+            6,
+            "PASSEY"
+        ],
+        [
+            "EARTH SCIENCE*",
+            7,
+            "PASSEY"
+        ],
+        [
+            "SCIENCE ESSENTIALS",
+            8,
+            "PASSEY"
+        ],
+        [
+            "SOCIOLOGY",
+            1,
+            "WAWRO^"
+        ],
+        [
+            "SOCIOLOGY",
+            2,
+            "WAWRO^"
+        ],
+        [
+            "SOCIOLOGY",
+            3,
+            "WAWRO^"
+        ],
+        [
+            "STUDENT GOVERNMENT*",
+            4,
+            "WAWRO^"
+        ],
+        [
+            "AP HUMAN GEOGRAPHY*",
+            5,
+            "WAWRO^"
+        ],
+        [
+            "SOCIOLOGY",
+            6,
+            "WAWRO^"
+        ],
+        [
+            "AP HUMAN GEOGRAPHY*",
+            7,
+            "WAWRO^"
+        ],
+        [
+            "Prep",
+            8,
+            "WAWRO^"
+        ],
+        [
+            "SECONDARY MATH 2*",
+            1,
+            "TRACY"
+        ],
+        [
+            "ENGLISH 10*",
+            2,
+            "TRACY"
+        ],
+        [
+            "SECONDARY MATH 2*",
+            3,
+            "TRACY"
+        ],
+        [
+            "MATH ESSENTIALS",
+            4,
+            "TRACY"
+        ],
+        [
+            "SECONDARY MATH 2*",
+            5,
+            "TRACY"
+        ],
+        [
+            "SECONDARY MATH 2*",
+            6,
+            "TRACY"
+        ],
+        [
+            "SECONDARY MATH 1*",
+            7,
+            "TRACY"
+        ],
+        [
+            "SECONDARY MATH 1*",
+            8,
+            "TRACY"
+        ],
+        [
+            "AP ART-2D PORTFOLIO or AP ART DRAWING*",
+            1,
+            "PACK^^"
+        ],
+        [
+            "ITALIAN 2*",
+            2,
+            "PACK^^"
+        ],
+        [
+            "DRAWING 2",
+            3,
+            "PACK^^"
+        ],
+        [
+            "DRAWING 1",
+            4,
+            "PACK^^"
+        ],
+        [
+            "Prep",
+            5,
+            "PACK^^"
+        ],
+        [
+            "ITALIAN 1*",
+            6,
+            "PACK^^"
+        ],
+        [
+            "DRAWING 1",
+            7,
+            "PACK^^"
+        ],
+        [
+            "AP ART HISTORY*",
+            8,
+            "PACK^^"
+        ],
+        [
+            "BUILDING CONSTRUCTION* - Concurrent Enrollment",
+            1,
+            "BURDETT"
+        ],
+        [
+            "BUILDING CONSTRUCTION* - Concurrent Enrollment",
+            2,
+            "BURDETT"
+        ],
+        [
+            "BUILDING CONSTRUCTION* - Concurrent Enrollment",
+            3,
+            "BURDETT"
+        ],
+        [
+            "BUILDING CONSTRUCTION* - Concurrent Enrollment",
+            4,
+            "BURDETT"
+        ],
+        [
+            "BUILDING CONSTRUCTION* - Concurrent Enrollment",
+            5,
+            "BURDETT"
+        ],
+        [
+            "BUILDING CONSTRUCTION* - Concurrent Enrollment",
+            6,
+            "BURDETT"
+        ],
+        [
+            "BUILDING CONSTRUCTION* - Concurrent Enrollment",
+            7,
+            "BURDETT"
+        ],
+        [
+            "BUILDING CONSTRUCTION* - Concurrent Enrollment",
+            8,
+            "BURDETT"
+        ],
+        [
+            "LS READING*",
+            1,
+            "HURTT^"
+        ],
+        [
+            "LS WRITING*",
+            2,
+            "HURTT^"
+        ],
+        [
+            "LS READING*",
+            3,
+            "HURTT^"
+        ],
+        [
+            "LIFE SKILLS*",
+            4,
+            "HURTT^"
+        ],
+        [
+            "LS MATH*",
+            5,
+            "HURTT^"
+        ],
+        [
+            "STUDENT GOVERNMENT*",
+            6,
+            "HURTT^"
+        ],
+        [
+            "LS MATH*",
+            7,
+            "HURTT^"
+        ],
+        [
+            "Prep",
+            8,
+            "HURTT^"
+        ],
+        [
+            "Prep",
+            1,
+            "OMER, R."
+        ],
+        [
+            "Prep",
+            2,
+            "OMER, R."
+        ],
+        [
+            "AMERICAN STUDIES*",
+            3,
+            "OMER, R."
+        ],
+        [
+            "ENGLISH 11 HONORS*",
+            4,
+            "OMER, R."
+        ],
+        [
+            "AMERICAN STUDIES*",
+            5,
+            "OMER, R."
+        ],
+        [
+            "AMERICAN STUDIES*",
+            6,
+            "OMER, R."
+        ],
+        [
+            "ENGLISH 11 HONORS*",
+            7,
+            "OMER, R."
+        ],
+        [
+            "AMERICAN STUDIES*",
+            8,
+            "OMER, R."
+        ],
+        [
+            "ENGLISH 11*",
+            1,
+            "JAYNES"
+        ],
+        [
+            "ENGLISH 11*",
+            2,
+            "JAYNES"
+        ],
+        [
+            "FILM LITERATURE",
+            3,
+            "JAYNES"
+        ],
+        [
+            "Not available",
+            4,
+            "JAYNES"
+        ],
+        [
+            "Not available",
+            5,
+            "JAYNES"
+        ],
+        [
+            "POPULAR LITERATURE",
+            6,
+            "JAYNES"
+        ],
+        [
+            "FILM LITERATURE",
+            7,
+            "JAYNES"
+        ],
+        [
+            "Not available",
+            8,
+            "JAYNES"
+        ],
+        [
+            "CHEVALIERS-DRILL TEAM*",
+            1,
+            "MURPHY^"
+        ],
+        [
+            "Not available",
+            2,
+            "MURPHY^"
+        ],
+        [
+            "Not available",
+            3,
+            "MURPHY^"
+        ],
+        [
+            "Not available",
+            4,
+            "MURPHY^"
+        ],
+        [
+            "Not available",
+            5,
+            "MURPHY^"
+        ],
+        [
+            "Not available",
+            6,
+            "MURPHY^"
+        ],
+        [
+            "Not available",
+            7,
+            "MURPHY^"
+        ],
+        [
+            "Not available",
+            8,
+            "MURPHY^"
+        ],
+        [
+            "POSITIVE PSYCHOLOGY",
+            1,
+            "ELMER"
+        ],
+        [
+            "Prep",
+            2,
+            "ELMER"
+        ],
+        [
+            "POSITIVE PSYCHOLOGY",
+            3,
+            "ELMER"
+        ],
+        [
+            "PSYCHOLOGY",
+            4,
+            "ELMER"
+        ],
+        [
+            "PSYCHOLOGY",
+            5,
+            "ELMER"
+        ],
+        [
+            "PSYCHOLOGY",
+            6,
+            "ELMER"
+        ],
+        [
+            "SPORTS PSYCHOLOGY",
+            7,
+            "ELMER"
+        ],
+        [
+            "POSITIVE PSYCHOLOGY",
+            8,
+            "ELMER"
+        ],
+        [
+            "Not available",
+            1,
+            "DAVENPORT (BRANCH)"
+        ],
+        [
+            "Not available",
+            2,
+            "DAVENPORT (BRANCH)"
+        ],
+        [
+            "Not available",
+            3,
+            "DAVENPORT (BRANCH)"
+        ],
+        [
+            "Not available",
+            4,
+            "DAVENPORT (BRANCH)"
+        ],
+        [
+            "Not available",
+            5,
+            "DAVENPORT (BRANCH)"
+        ],
+        [
+            "Not available",
+            6,
+            "DAVENPORT (BRANCH)"
+        ],
+        [
+            "FLORAL DESIGN 1",
+            7,
+            "DAVENPORT (BRANCH)"
+        ],
+        [
+            "AP ENGLISH LITERATURE*",
+            8,
+            "DAVENPORT (BRANCH)"
+        ],
+        [
+            "WEIGHTS",
+            1,
+            "BEZZANT"
+        ],
+        [
+            "Prep",
+            2,
+            "BEZZANT"
+        ],
+        [
+            "WEIGHTS",
+            3,
+            "BEZZANT"
+        ],
+        [
+            "PE FITNESS",
+            4,
+            "BEZZANT"
+        ],
+        [
+            "WEIGHTS",
+            5,
+            "BEZZANT"
+        ],
+        [
+            "PE FITNESS",
+            6,
+            "BEZZANT"
+        ],
+        [
+            "BASEBALL TEAM",
+            7,
+            "BEZZANT"
+        ],
+        [
+            "PE FITNESS",
+            8,
+            "BEZZANT"
+        ],
+        [
+            "COLLEGE/AP STUDY HALL",
+            1,
+            "PAXTON^^"
+        ],
+        [
+            "FRENCH 3* - Concurrent Enrollment",
+            2,
+            "PAXTON^^"
+        ],
+        [
+            "FRENCH 4/AP* - Concurrent Enrollment",
+            3,
+            "PAXTON^^"
+        ],
+        [
+            "CURRENT ISSUES",
+            4,
+            "PAXTON^^"
+        ],
+        [
+            "FRENCH 3*",
+            5,
+            "PAXTON^^"
+        ],
+        [
+            "FRENCH 4/AP*",
+            6,
+            "PAXTON^^"
+        ],
+        [
+            "FRENCH 2*",
+            7,
+            "PAXTON^^"
+        ],
+        [
+            "FRENCH 1*",
+            8,
+            "PAXTON^^"
+        ],
+        [
+            "US HISTORY*",
+            1,
+            "GUNNARSON"
+        ],
+        [
+            "US HISTORY*",
+            2,
+            "GUNNARSON"
+        ],
+        [
+            "Prep",
+            3,
+            "GUNNARSON"
+        ],
+        [
+            "US HISTORY*",
+            4,
+            "GUNNARSON"
+        ],
+        [
+            "Prep",
+            5,
+            "GUNNARSON"
+        ],
+        [
+            "US HISTORY*",
+            6,
+            "GUNNARSON"
+        ],
+        [
+            "ANCIENT WORLD HISTORY",
+            7,
+            "GUNNARSON"
+        ],
+        [
+            "ANCIENT WORLD HISTORY",
+            8,
+            "GUNNARSON"
+        ],
+        [
+            "ENGLISH 10*",
+            1,
+            "CARPENTER"
+        ],
+        [
+            "JOURNALISM*",
+            2,
+            "CARPENTER"
+        ],
+        [
+            "ACCELERATED READING",
+            3,
+            "CARPENTER"
+        ],
+        [
+            "Prep",
+            4,
+            "CARPENTER"
+        ],
+        [
+            "ENGLISH 10*",
+            5,
+            "CARPENTER"
+        ],
+        [
+            "Prep",
+            6,
+            "CARPENTER"
+        ],
+        [
+            "ENGLISH 10*",
+            7,
+            "CARPENTER"
+        ],
+        [
+            "ENGLISH 10*",
+            8,
+            "CARPENTER"
+        ],
+        [
+            "PHYSICS*",
+            1,
+            "NAIR"
+        ],
+        [
+            "PHYSICS*",
+            2,
+            "NAIR"
+        ],
+        [
+            "PHYSICS*",
+            3,
+            "NAIR"
+        ],
+        [
+            "PHYSICS*",
+            4,
+            "NAIR"
+        ],
+        [
+            "Prep",
+            5,
+            "NAIR"
+        ],
+        [
+            "PHYSICS*",
+            6,
+            "NAIR"
+        ],
+        [
+            "PHYSICS*",
+            7,
+            "NAIR"
+        ],
+        [
+            "PHYSICS*",
+            8,
+            "NAIR"
+        ],
+        [
+            "PRESCHOOL(EARLY CHILDHOOD EDUCATION 1&3)",
+            1,
+            "SPRINGER"
+        ],
+        [
+            "PRESCHOOL(EARLY CHILDHOOD EDUCATION 1&3)",
+            2,
+            "SPRINGER"
+        ],
+        [
+            "PRESCHOOL(EARLY CHILDHOOD EDUCATION 1&3)",
+            3,
+            "SPRINGER"
+        ],
+        [
+            "CHILD DEVELOPMENT",
+            4,
+            "SPRINGER"
+        ],
+        [
+            "TEACHING K-12 Fall - Concurrent Enrollment",
+            5,
+            "SPRINGER"
+        ],
+        [
+            "Prep",
+            6,
+            "SPRINGER"
+        ],
+        [
+            "CHILD DEVELOPMENT",
+            7,
+            "SPRINGER"
+        ],
+        [
+            "PRESCHOOL(EARLY CHILDHOOD EDUCATION 1&3)",
+            8,
+            "SPRINGER"
+        ],
+        [
+            "MEDICAL TERMINOLOGY - Concurrent Enrollment",
+            1,
+            "VAN WOERKOM^"
+        ],
+        [
+            "MEDICAL TERMINOLOGY - Concurrent Enrollment",
+            2,
+            "VAN WOERKOM^"
+        ],
+        [
+            "Prep",
+            3,
+            "VAN WOERKOM^"
+        ],
+        [
+            "MEDICAL ANATOMY & PHYSIOLOGY*",
+            4,
+            "VAN WOERKOM^"
+        ],
+        [
+            "Prep",
+            5,
+            "VAN WOERKOM^"
+        ],
+        [
+            "STUDY HALL",
+            6,
+            "VAN WOERKOM^"
+        ],
+        [
+            "MEDICAL ANATOMY & PHYSIOLOGY*",
+            7,
+            "VAN WOERKOM^"
+        ],
+        [
+            "STUDY HALL",
+            8,
+            "VAN WOERKOM^"
         ]
     ]
 }

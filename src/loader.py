@@ -1,4 +1,6 @@
-import csv, os, json
+import csv
+import json
+import os
 
 def mergedict(a, b, ignores):
     for k in a.keys() & b.keys():

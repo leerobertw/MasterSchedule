@@ -1,7 +1,9 @@
 from ortools.sat.python import cp_model
-import os, json, ast
+import ast
+import json
+import os
 
-def main():
+def schedule():
     model = cp_model.CpModel()
     periods = 8
     cps_raw = json.load(open("./src/data/classesin.json", "r")) if os.path.isfile("./src/data/classesin.json") else json.load(open("./data/classesin.json", "r"))
@@ -89,6 +91,8 @@ def main():
             file.write(f"\n{line}")
     with open(outjson, 'w') as file:
         json.dump(outputjson, file, indent=4)
+    
+    return outputjson
 
-if __name__ == '__main__':
-    main()
+def schedulegrab():
+    return json.load(open("./data/classesout.json", "r") if os.path.isfile("./data/classesout.json") else open("./src/data/classesout.json", "r"))

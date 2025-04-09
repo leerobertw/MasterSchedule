@@ -1,0 +1,13 @@
+Some things I noticed while I was playing around with the website -
+
+1. Some classes that don't conflict end up conflicting with each other. For example, Wind Ensemble Advanced is A1 and Bakinng & Pastry is B5. When I put the two 
+classes in the scheduler, however, it said that the two classes conflicted with each other. This could possibly happen with other classes as well.
+
+2. Need more data for conflicting classes. As of right now, it says which classes conflict but it doesn't say which periods it would conflict with. 
+From a UI point of view, it would be nice to see which conflicting classes have which periods. It would help the user understand better which 
+classes they can and can't take.
+
+3. Mentioned this in an earlier commit, but when all of the classes are valid, it doesn't show the different schedules the user can have the next school year. Not sure if 
+it's a back-end problem or a front-end problem.
+
+Overall though, we're making good progress! Now we just have to hope that the administration likes the website.
