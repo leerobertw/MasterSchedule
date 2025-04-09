@@ -28,3 +28,7 @@ For the "serving" branch and its functionality, I use the following class combin
 8. DRAWING 1
 
 Resource English and AP Spanish Language are both only available during period 3.
+
+1. Say which class combinations work
+2. Say when conflicting classes are
+3. Dropdown for classes
