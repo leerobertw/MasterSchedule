@@ -56,8 +56,7 @@ def check_schedule():
         mapped_class_combinations = [dict(sorted({valid_combination[i]: class_mapping[classnames[i].lower()] for i in range(len(classnames))}.items())) for valid_combination in valid_combinations]
         msg = {"status": "You can take those classes next year!", "result": mapped_class_combinations}
         flash(json.dumps(msg))
-    
     return redirect(url_for('index'))
 
 if __name__ == '__main__':
-    app.run(host='0.0.0.0', port=8080)
+    app.run(host='0.0.0.0', port=8080, debug=True)

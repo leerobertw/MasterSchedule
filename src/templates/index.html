@@ -1,75 +1,75 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Master Scheduler - LPHS</title>
-    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
-</head>
-<header>
-    <h1>Master Scheduler - Lone Peak High School</h1>
-</header>
-<body>
-<main>
-    <p>
-        Ever wondered which classes you can take next year? Want to know which classes you can take and which ones you can't?
-        Well, look no further! This website can help you figure out which classes you can take during
-        your time here at Lone Peak High School. Please note that this is not to schedule your classes,
-        but rather a tool to help you figure out which classes you can take at Lone Peak.
-    </p>
-    <div class="form">
-        <form action="{{ url_for('check_schedule') }}" method="POST">
-            <fieldset>
-                <label><input type="text" name="class1" class="class-input" placeholder="Start typing..."></label><br>
-                <label><input type="text" name="class2" class="class-input" placeholder="Start typing..."></label><br>
-                <label><input type="text" name="class3" class="class-input" placeholder="Start typing..."></label><br>
-                <label><input type="text" name="class4" class="class-input" placeholder="Start typing..."></label><br>
-                <label><input type="text" name="class5" class="class-input" placeholder="Start typing..."></label><br>
-                <label><input type="text" name="class6" class="class-input" placeholder="Start typing..."></label><br>
-                <label><input type="text" name="class7" class="class-input" placeholder="Start typing..."></label><br>
-                <label><input type="text" name="class8" class="class-input" placeholder="Start typing..."></label><br>
-                <div id="dropdown-container"></div>
-                <button>Submit</button>
-            </fieldset>
-        </form>
-    </div>
-    <div id="results">
-        {% with results = get_flashed_messages() %}
-            {% if results %}
-                <h2>Schedule Results:</h2>
-                {% for result in results %}
-                    {% set result_dict = result | safe | fromjson %}
-                    <h3>{{ result_dict.status }}</h3>
-                    {% if "result" in result_dict %}
-                        <div id="schedule-box">
-                            <h3>Valid Schedule:</h3>
-                            <div id="schedule-display"></div>
-                            <button id="prev-btn">←</button>
-                            <button id="next-btn">→</button>
-                        </div>
-                        <script>
-                            window.scheduleResults = {{ result_dict.result | tojson }};
-                        </script>
-                    {% elif "conflicts" in result_dict %}
-                        <h3>Conflicting Classes:</h3>
-                        <ul>
-                            {% for class in result_dict.conflicts %}
-                                <li>{{ class }}</li>
-                            {% endfor %}
-                        </ul>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+            <title>Master Scheduler - LPHS</title>
+            <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+    </head>
+    <header>
+        <h1>Master Scheduler - Lone Peak High School</h1>
+    </header>
+    <body>
+        <main>
+            <p>
+                Ever wondered which classes you can take next year? Want to know which classes you can take and which ones you can't?
+                Well, look no further! This website can help you figure out which classes you can take during
+                your time here at Lone Peak High School. Please note that this is not to schedule your classes,
+                but rather a tool to help you figure out which classes you can take at Lone Peak.
+            </p>
+            <div class="form">
+                <form action="{{ url_for('check_schedule') }}" method="POST">
+                    <fieldset>
+                        <label><input type="text" name="class1" class="class-input" placeholder="Start typing..."></label><br>
+                        <label><input type="text" name="class2" class="class-input" placeholder="Start typing..."></label><br>
+                        <label><input type="text" name="class3" class="class-input" placeholder="Start typing..."></label><br>
+                        <label><input type="text" name="class4" class="class-input" placeholder="Start typing..."></label><br>
+                        <label><input type="text" name="class5" class="class-input" placeholder="Start typing..."></label><br>
+                        <label><input type="text" name="class6" class="class-input" placeholder="Start typing..."></label><br>
+                        <label><input type="text" name="class7" class="class-input" placeholder="Start typing..."></label><br>
+                        <label><input type="text" name="class8" class="class-input" placeholder="Start typing..."></label><br>
+                        <div id="dropdown-container"></div>
+                        <button>Submit</button>
+                    </fieldset>
+                </form>
+            </div>
+            <div id="results">
+                {% with results = get_flashed_messages() %}
+                    {% if results %}
+                        <h2>Schedule Results:</h2>
+                        {% for result in results %}
+                            {% set result_dict = result | safe | fromjson %}
+                            <h3>{{ result_dict.status }}</h3>
+                            {% if "result" in result_dict %}
+                                <div id="schedule-box">
+                                    <h3>Valid Schedule:</h3>
+                                    <div id="schedule-display"></div>
+                                    <button id="prev-btn">←</button>
+                                    <button id="next-btn">→</button>
+                                </div>
+                                <script>
+                                    window.scheduleResults = {{ result_dict.result | tojson }};
+                                </script>
+                            {% elif "conflicts" in result_dict %}
+                                <h3>Conflicting Classes:</h3>
+                                <ul>
+                                    {% for class in result_dict.conflicts %}
+                                        <li>{{ class }}</li>
+                                    {% endfor %}
+                                </ul>
+                            {% endif %}
+                        {% endfor %}
                     {% endif %}
-                {% endfor %}
-            {% endif %}
-        {% endwith %}
-    </div>
-    <h2>Arena scheduling for 2025-2026 Seniors opens on April 9, 2025 at 2:45 P.M.</h2>
-    <h2>Arena scheduling for 2025-2026 Juniors opens on April 16, 2025 at 2:45 P.M.</h2>
-    <h2>Arena scheduling for 2025-2026 Sophomores opens on April 23, 2025 at 2:45 P.M.</h2>
-    <p>If you have any questions, please talk to your counselor down in the counseling center. They're happy to help.</p>
-</main>
-<script src="{{ url_for('static', filename='scripts.cjs') }}" type="module"></script>
-<footer>
-    <h3>To visit the official school website, click <a href='https://lphs.alpineschools.org/'>here</a></h3>
-</footer>
-</body>
+                {% endwith %}
+            </div>
+            <h2>Arena scheduling for 2025-2026 Seniors opens on April 9, 2025 at 2:45 P.M.</h2>
+            <h2>Arena scheduling for 2025-2026 Juniors opens on April 16, 2025 at 2:45 P.M.</h2>
+            <h2>Arena scheduling for 2025-2026 Sophomores opens on April 23, 2025 at 2:45 P.M.</h2>
+            <p>If you have any questions, please talk to your counselor down in the counseling center. They're happy to help.</p>
+        </main>
+        <script src="{{ url_for('static', filename='scripts.js') }}" type="module"></script>
+        <footer>
+            <h3>To visit the official school website, click <a href='https://lphs.alpineschools.org/'>here</a></h3>
+        </footer>
+    </body>
 </html>
