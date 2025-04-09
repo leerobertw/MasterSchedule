@@ -1,5 +1,7 @@
 from ortools.sat.python import cp_model
-import os, json, ast
+import ast
+import json
+import os
 
 def schedule():
     model = cp_model.CpModel()

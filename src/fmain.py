@@ -2,7 +2,6 @@ from flask import Flask, render_template, flash, redirect, url_for, request
 from schedule import schedulegrab
 from clist import L
 import json
-from collections import Counter
 
 schedule = schedulegrab()['classes']
 app = Flask(__name__)
