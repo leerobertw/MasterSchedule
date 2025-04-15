@@ -3,11 +3,11 @@
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-            <title>Master Scheduler - LPHS</title>
+            <title>Schedule Organizer - LPHS</title>
             <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
     </head>
     <header>
-        <h1>Master Scheduler - Lone Peak High School</h1>
+        <h1>Schedule Organizer - Lone Peak High School</h1>
     </header>
     <body>
         <main>
@@ -39,7 +39,7 @@
                         <h2>Schedule Results:</h2>
                         {% for result in results %}
                             {% set result_dict = result | safe | fromjson %}
-                            <h3>{{ result_dict.status }}</h3>
+                            <h3 id="good">{{ result_dict.status }}</h3>
                             {% if "result" in result_dict %}
                                 <div id="schedule-box">
                                     <h3>Valid Schedule:</h3>
@@ -51,7 +51,7 @@
                                     window.scheduleResults = {{ result_dict.result | tojson }};
                                 </script>
                             {% elif "conflicts" in result_dict %}
-                                <h3>Conflicting Classes:</h3>
+                                <h3 id="bad">Conflicting Classes:</h3>
                                 <ul>
                                     {% for class in result_dict.conflicts %}
                                         <li>{{ class }}</li>
@@ -62,7 +62,7 @@
                     {% endif %}
                 {% endwith %}
             </div>
-            <h2>Arena scheduling for 2025-2026 Seniors opens on April 9, 2025 at 2:45 P.M.</h2>
+            <h2>Arena scheduling for 2025-2026 Seniors is now closed</h2>
             <h2>Arena scheduling for 2025-2026 Juniors opens on April 16, 2025 at 2:45 P.M.</h2>
             <h2>Arena scheduling for 2025-2026 Sophomores opens on April 23, 2025 at 2:45 P.M.</h2>
             <p>If you have any questions, please talk to your counselor down in the counseling center. They're happy to help.</p>

@@ -12,7 +12,7 @@ header {
     background-color: var(--primaryColor);
     color: var(--secondaryColor);
     padding: 15px;
-    font-size: 20px;
+    font-size: 27px;
     margin: auto;
 }
 
@@ -22,29 +22,20 @@ body {
 
 h2 {
     text-align: center;
-    color: red;
-    text-decoration: underline;
     font-style: italic;
-}
-
-.hide {
-    display: none;
-}
-
-.show {
-    display: block;
-}
-
-.hide {
-    display: none;
-}
-
-.show {
-    display: block;
 }
 
 h3 {
     text-align: center;
+    font-size: 25px;
+}
+
+h3 #good {
+    color: green;
+}
+
+h3 #bad {
+    color: red;
 }
 
 p {
@@ -63,7 +54,11 @@ footer {
     background-color: var(--primaryColor);
     color: var(--secondaryColor);
     padding: 15px;
-    font-size: 20px;
+    font-size: 25px;
+}
+
+footer h3 {
+    color: var(--secondaryColor);
 }
 
 a {
@@ -100,7 +95,7 @@ button:hover {
 
 
 form {
-    text-align: left;
+    text-align: center;
     margin: 5px;
     padding: 5px;
     font-size: 20px;
@@ -109,10 +104,10 @@ form {
 
 input {
     font-size: 20px;
-    padding: 10px 10px;
-    text-align: left;
+    padding: 5px 5px;
+    text-align: center;
     margin: 5px;
-    width: 75%;
+    width: 50%;
     box-sizing: border-box;
 }
 
@@ -121,9 +116,19 @@ input:focus {
 }
 
 select {
-    width: 75%;
-    padding: 10px 10px;
-    border: none;
+    width: 48%;
+    padding: 5px 5px;
+    border: 1px solid black;
     border-radius: 3px;
     background-color: white;
+}
+
+ul {
+    font-size: 25px;
+    padding: 5px;
+    text-decoration: underline;
+}
+
+li {
+    list-style-type: none;
 }
