@@ -235,34 +235,27 @@ document.addEventListener("DOMContentLoaded", function () {
         if (results.length > 0) {
             const scheduleBox = document.querySelector("#schedule-box");
             const scheduleDisplay = document.querySelector("#schedule-display");
-            const prevBtn = document.querySelector("#prev-btn");
-            const nextBtn = document.querySelector("#next-btn");
-            let isNavigating = false;
-            prevBtn.addEventListener("click", function () {
-                if (!isNavigating && currentIndex > 0) {
-                    isNavigating = true;
-                    currentIndex--;
-                    updateScheduleDisplay();
-                    setTimeout(() => (isNavigating = false), 300);
-                }
-            });
-            nextBtn.addEventListener("click", function () {
-                if (!isNavigating && currentIndex < results.length - 1) {
-                    isNavigating = true;
-                    currentIndex++;
-                    updateScheduleDisplay();
-                    setTimeout(() => (isNavigating = false), 300);
-                }
-            });
             scheduleDisplay.innerHTML = Object.entries(results[currentIndex])
                 .map(([period, className]) => `<p>Period ${period}: ${className}</p>`)
                 .join("");
             scheduleBox.style.display = "block";
         }
     }
-
+    const prevBtn = document.querySelector("#prev-btn");
+    const nextBtn = document.querySelector("#next-btn");
+    prevBtn.addEventListener("click", function () {
+        if (currentIndex > 0) {
+            currentIndex--;
+            updateScheduleDisplay();
+        }
+    });
+    nextBtn.addEventListener("click", function () {
+        if (currentIndex < results.length - 1) {
+            currentIndex++;
+            updateScheduleDisplay();
+        }
+    });
     updateScheduleDisplay();
-
     const inputs = document.querySelectorAll(".class-input");
     const dropdownContainer = document.getElementById("dropdown-container");
     inputs.forEach((input) => {
