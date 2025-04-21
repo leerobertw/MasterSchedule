@@ -1,7 +1,5 @@
 # The demonstration went really well! Here's some notes that the counselors and Ms. Whatcott said we could do with the website
 
-- Display conflicting periods
-- - This is done I think? I will test
 - Update the website often so it matches the master schedule (like once a week or so)
 - - This is hard too but it can be done easier than Skyward communications
 - Communicate with Skyward to see which classes are full and which ones aren't
@@ -10,8 +8,6 @@
 - - If this is referring to the outputed schedules on the website, I'll get right on that.
 - Possibly add TA and release time periods
 - - This is hard and confusing
-- Allow blank spots on the schedule (in case someone doesn't want to take 8 classes that year)
-- - If this is referring to the schedule for choosing classes, you don't need to enter 8 options.
 - Option for a day preference (example: a student would prefer to take math on A day instead of B day)
 - - This is easy and can be done before the year is out
 
