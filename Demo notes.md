@@ -20,4 +20,4 @@
   we don't have to do it right now.
 
   Overall, the demonstration went really well! A lot of counselors came in to see the website, and they all loved it. They also think that student will like this tool
-  as well when people start using it. 
+  as well when people start using it.
