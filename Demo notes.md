@@ -1,4 +1,5 @@
-The demonstration went really well! Here's some notes that the counselors and Ms. Whatcott said we could do with the website:
+# The demonstration went really well! Here's some notes that the counselors and Ms. Whatcott said we could do with the website
+
 - Display conflicting periods
 - - This is done I think? I will test
 - Update the website often so it matches the master schedule (like once a week or so)
