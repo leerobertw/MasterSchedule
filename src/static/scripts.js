@@ -1,4 +1,4 @@
-document.addEventListener("DOMContentLoaded", function () {
+window.onload = function() {
     const options = [
         "ACAPELLA CHOIR*",
         "ACCELERATED READING",
@@ -241,21 +241,23 @@ document.addEventListener("DOMContentLoaded", function () {
             scheduleBox.style.display = "block";
         }
     }
-    const prevBtn = document.querySelector("#prev-btn");
-    const nextBtn = document.querySelector("#next-btn");
-    prevBtn.addEventListener("click", function () {
-        if (currentIndex > 0) {
-            currentIndex--;
-            updateScheduleDisplay();
-        }
-    });
-    nextBtn.addEventListener("click", function () {
-        if (currentIndex < results.length - 1) {
-            currentIndex++;
-            updateScheduleDisplay();
-        }
-    });
-    updateScheduleDisplay();
+    if (results.length > 0) {
+        const prevBtn = document.querySelector("#prev-btn");
+        const nextBtn = document.querySelector("#next-btn");
+        prevBtn.addEventListener("click", function () {
+            if (currentIndex > 0) {
+                currentIndex--;
+                updateScheduleDisplay();
+            }
+        });
+        nextBtn.addEventListener("click", function () {
+            if (currentIndex < results.length - 1) {
+                currentIndex++;
+                updateScheduleDisplay();
+            }
+        });
+        updateScheduleDisplay();
+    }
     const inputs = document.querySelectorAll(".class-input");
     const dropdownContainer = document.getElementById("dropdown-container");
     inputs.forEach((input) => {
@@ -291,4 +293,4 @@ document.addEventListener("DOMContentLoaded", function () {
             setTimeout(() => (dropdown.style.display = "none"), 200);
         });
     });
-});
+};
