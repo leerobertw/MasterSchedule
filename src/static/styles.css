@@ -76,6 +76,7 @@ button {
     color: var(--primaryColor);
     border: 3px solid var(--teritaryColor);
     font-size: 20px;
+    text-align: center;
 }
 
 button:hover {
@@ -107,7 +108,7 @@ input {
     padding: 5px 5px;
     text-align: center;
     margin: 5px;
-    width: 50%;
+    width: 25%;
     box-sizing: border-box;
 }
 
@@ -116,7 +117,7 @@ input:focus {
 }
 
 select {
-    width: 48%;
+    width: 24%;
     padding: 5px 5px;
     border: 1px solid black;
     border-radius: 3px;
