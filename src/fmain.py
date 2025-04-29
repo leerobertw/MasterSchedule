@@ -65,8 +65,9 @@ def check_schedule():
         }
         flash(json.dumps(msg))
     else:
-        mapped_class_combinations = [
-            dict(
+        mapped_class_combinations = []
+        for valid_combination in valid_combinations:
+            sorted_schedule = dict(
                 sorted(
                     {
                         valid_combination[i]: class_mapping[classnames[i].lower()]
@@ -74,8 +75,17 @@ def check_schedule():
                     }.items()
                 )
             )
-            for valid_combination in valid_combinations
-        ]
+            mapped_class_combinations.append(sorted_schedule)
+        mapped_with_teachers = mapped_class_combinations.copy()
+        for mapp in mapped_with_teachers:
+            for period, class_name in mapp.items():
+                for class_info in schedule:
+                    if class_info[0].lower() == class_name.lower() and int(period) == class_info[1]:
+                        mapp[period] = {
+                            "class_name": class_name,
+                            "teacher": class_info[2] if class_info[2] else "No Teacher Found",
+                        }
+        print(mapped_with_teachers)
         msg = {
             "status": "You can take those classes next year!",
             "result": mapped_class_combinations,
