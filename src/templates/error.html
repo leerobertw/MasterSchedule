@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Error</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #000000;
+      color: #ff0019;
+      margin: 0;
+      padding: 0;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+    }
+    .error-container {
+      text-align: center;
+      border: 1px solid #000000;
+      background-color: #000000;
+      padding: 20px;
+      border-radius: 5px;
+      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    }
+    .error-container h1 {
+      margin: 0;
+      font-size: 2rem;
+    }
+    .error-container p {
+      margin: 10px 0 0;
+    }
+  </style>
+</head>
+<body>
+  <div class="error-container">
+    <h1>Error</h1>
+    <p>An error has occured.</p>
+    <p>{{ error }}</p>
+    <p>Please contact support.</p>
+  </div>
+</body>
+</html>

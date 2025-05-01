@@ -342,7 +342,12 @@ window.onload = function () {
             const scheduleBox = document.querySelector("#schedule-box");
             const scheduleDisplay = document.querySelector("#schedule-display");
             scheduleDisplay.innerHTML = Object.entries(results[currentIndex])
-                .map(([period, className]) => `<p>Period ${period}: ${className}</p>`)
+                .map(
+                    ([period, { class_name, teachers }]) =>
+                        `<p>Period ${period}: ${class_name} (Teachers: ${teachers.join(
+                            ", "
+                        )})</p>`
+                )
                 .join("");
             scheduleBox.style.display = "block";
         }
