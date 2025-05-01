@@ -336,7 +336,22 @@ window.onload = function () {
     ];
     let results = window.scheduleResults || [];
     let currentIndex = 0;
-
+    document.getElementById("autofill-btn").addEventListener("click", () => {
+        const testData = [
+            "SPANISH 3* - Concurrent Enrollment",
+            "MATH 1010-Concurrent Enrollment",
+            "CALCULUS AB LAB",
+            "SPANISH 4* - Concurrent Enrollment",
+            "AP SPANISH LANGUAGE*",
+            "ART HONORS*",
+            "PAINTING 2",
+            "DRAWING 1"
+        ];
+        testData.forEach((x, i) => {
+            let e = document.querySelector(`.class-input[name="class${i + 1}"]`);
+            if (e) e.value = x;
+        });
+    });
     function updateScheduleDisplay() {
         if (results.length > 0) {
             const scheduleBox = document.querySelector("#schedule-box");
