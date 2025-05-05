@@ -30,9 +30,11 @@ def get_valid(classes):
 def check_schedule():
     try:
         form_data = request.form.to_dict()
-        classnames = [form_data[f"class{i}"] for i in range(1, 9)]
         class_mapping = {
             form_data[f"class{i}"].lower(): form_data[f"class{i}"] for i in range(1, 9)
+        }
+        preferred_teachers = {
+            form_data[f"class{i}"].lower(): form_data[f"teacher{i}"] for i in range(1, 9)
         }
         classes = {class_name: [] for class_name in class_mapping}
         for classs in classes:
@@ -49,6 +51,7 @@ def check_schedule():
                         period_conflicts[period].append(class_name)
                     else:
                         period_conflicts[period] = [class_name]
+
             conflicting_classes = []
             for class_name in list(classes.keys()):
                 temp_classes = {k: v for k, v in classes.items() if k != class_name}
@@ -57,9 +60,12 @@ def check_schedule():
                     conflicting_classes.append(
                         {
                             "class_name": class_mapping[class_name],
-                            "available_periods": ",".join(map(str, classes[class_name])),
+                            "available_periods": ",".join(
+                                map(str, classes[class_name])
+                            ),
                         }
                     )
+
             msg = {
                 "status": "You can't take those classes next year!",
                 "conflicts": conflicting_classes,
@@ -71,31 +77,59 @@ def check_schedule():
                 sorted_schedule = dict(
                     sorted(
                         {
-                            valid_combination[i]: class_mapping[classnames[i].lower()]
-                            for i in range(len(classnames))
+                            valid_combination[i]: class_mapping[
+                                list(class_mapping.keys())[i]
+                            ]
+                            for i in range(len(class_mapping))
                         }.items()
                     )
                 )
                 mapped_class_combinations.append(sorted_schedule)
-            # currently the teacher mapping sets the teacher to the last teacher found but it is supposed to be a list of all teachers
             mapped_with_teachers = mapped_class_combinations.copy()
+            teacher_conflicts = []
+            good_mapped_with_teachers = mapped_with_teachers.copy()
             for mapp in mapped_with_teachers:
                 for period, class_name in mapp.items():
                     teachers = []
                     for class_info in schedule:
-                        if class_info[0].lower() == class_name.lower() and int(period) == class_info[1]:
-                            teachers.append(class_info[2] if class_info[2] else "No Teacher Found")
+                        if (
+                            class_info[0].lower() == class_name.lower()
+                            and int(period) == class_info[1]
+                        ):
+                            teachers.append(
+                                class_info[2] if class_info[2] else "No Teacher Found"
+                            )
+                    preferred_teacher = preferred_teachers.get(class_name.lower())
+                    if preferred_teacher:
+                        teachers = [preferred_teacher] if preferred_teacher in teachers else teachers
                     mapp[period] = {
                         "class_name": class_name,
                         "teachers": teachers if teachers else ["No Teacher Found"],
                     }
-            msg = {
-                "status": "You can take those classes next year!",
-                "result": mapped_with_teachers,
-            }
+                    if preferred_teacher and preferred_teacher not in teachers:
+                        good_mapped_with_teachers.remove(mapp)
+                        if class_name.lower() in class_mapping:
+                            teacher_conflicts.append(
+                                {
+                                    "class_name": class_mapping[class_name.lower()],
+                                    "preferred_teacher": preferred_teacher,
+                                    "available_teachers": ", ".join(teachers),
+                                }
+                            )
+            if good_mapped_with_teachers:
+                msg = {
+                    "status": "You can take those classes next year!",
+                    "result": good_mapped_with_teachers,
+                }
+            elif teacher_conflicts:
+                msg = {
+                    "status": "Some preferred teachers are unavailable!",
+                    "teacher_conflicts": teacher_conflicts,
+                }
             flash(json.dumps(msg))
         return redirect(url_for("index"))
     except Exception as e:
+        print("Error occurred:", e)
         return render_template("error.html", error=e)
 
 

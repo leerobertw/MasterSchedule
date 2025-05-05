@@ -347,8 +347,22 @@ window.onload = function () {
             "PAINTING 2",
             "DRAWING 1"
         ];
+        const testTeachers = [
+            "PEAY",
+            "",
+            "SUMMERS",
+            "PEAY",
+            "PEAY",
+            "",
+            "",
+            ""
+        ];
         testData.forEach((x, i) => {
             let e = document.querySelector(`.class-input[name="class${i + 1}"]`);
+            if (e) e.value = x;
+        });
+        testTeachers.forEach((x, i) => {
+            let e = document.querySelector(`.teacher-input[name="teacher${i + 1}"]`);
             if (e) e.value = x;
         });
     });
