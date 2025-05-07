@@ -1,5 +1,5 @@
 from unittest import TestCase
-from CSV_to_JSON import *
+from load_csv import *
 
 class Test(TestCase):
     def test_build_courses(self):
