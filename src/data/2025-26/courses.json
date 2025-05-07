@@ -1,0 +1,4160 @@
+[
+  {
+    "name": "ENGLISH 10*",
+    "teacher": "CARPENTER",
+    "room": "rm 614",
+    "period": "A1",
+    "semester": "full year"
+  },
+  {
+    "name": "ACCELERATED READING",
+    "teacher": "CARPENTER",
+    "room": "rm 614",
+    "period": "A3",
+    "semester": "1, 2"
+  },
+  {
+    "name": "ENGLISH 10*",
+    "teacher": "CARPENTER",
+    "room": "rm 614",
+    "period": "A4",
+    "semester": "full year"
+  },
+  {
+    "name": "ENGLISH 10*",
+    "teacher": "CARPENTER",
+    "room": "rm 614",
+    "period": "B5",
+    "semester": "full year"
+  },
+  {
+    "name": "ENGLISH 10*",
+    "teacher": "CARPENTER",
+    "room": "rm 614",
+    "period": "B7",
+    "semester": "full year"
+  },
+  {
+    "name": "JOURNALISM*",
+    "teacher": "CARPENTER",
+    "room": "rm 614",
+    "period": "B8",
+    "semester": "full year"
+  },
+  {
+    "name": "DRAMA 2",
+    "teacher": "COX, C.^^",
+    "room": "rm 106/Auditorium",
+    "period": "A1",
+    "semester": "1, 2"
+  },
+  {
+    "name": "SCRIPT WRITING",
+    "teacher": "COX, C.^^",
+    "room": "rm 106/Auditorium",
+    "period": "A2",
+    "semester": "1, 2"
+  },
+  {
+    "name": "MUSICAL THEATER",
+    "teacher": "COX, C.^^",
+    "room": "rm 106/Auditorium",
+    "period": "A4",
+    "semester": "1, 2"
+  },
+  {
+    "name": "STAGECRAFT",
+    "teacher": "COX, C.^^",
+    "room": "rm 106/Auditorium",
+    "period": "B6",
+    "semester": "1, 2"
+  },
+  {
+    "name": "STAGE CREW (ADVANCED TECHNICAL THEATRE*)",
+    "teacher": "COX, C.^^",
+    "room": "rm 106/Auditorium",
+    "period": "B7",
+    "semester": "full year"
+  },
+  {
+    "name": "PRODUCTIONS COMPANY*",
+    "teacher": "COX, C.^^",
+    "room": "rm 106/Auditorium",
+    "period": "B8",
+    "semester": "full year"
+  },
+  {
+    "name": "ENGLISH 10*",
+    "teacher": "CRAFT",
+    "room": "rm 212",
+    "period": "A2",
+    "semester": "full year"
+  },
+  {
+    "name": "ENGLISH 10*",
+    "teacher": "CRAFT",
+    "room": "rm 212",
+    "period": "A3",
+    "semester": "full year"
+  },
+  {
+    "name": "ENGLISH 10*",
+    "teacher": "CRAFT",
+    "room": "rm 212",
+    "period": "B5",
+    "semester": "full year"
+  },
+  {
+    "name": "ENGLISH 10*",
+    "teacher": "CRAFT",
+    "room": "rm 212",
+    "period": "B6",
+    "semester": "full year"
+  },
+  {
+    "name": "HUMANITIES",
+    "teacher": "CRAFT",
+    "room": "rm 212",
+    "period": "B7",
+    "semester": "1, 2"
+  },
+  {
+    "name": "ENGLISH 1010 - Concurrent Enrollment",
+    "teacher": "DULONG^",
+    "room": "rm 223",
+    "period": "A1",
+    "semester": "1, 2"
+  },
+  {
+    "name": "ENGLISH 1010 - Concurrent Enrollment",
+    "teacher": "DULONG^",
+    "room": "rm 223",
+    "period": "A3",
+    "semester": "1, 2"
+  },
+  {
+    "name": "SCIENCE FICTION",
+    "teacher": "DULONG^",
+    "room": "rm 223",
+    "period": "A4",
+    "semester": "1, 2"
+  },
+  {
+    "name": "ENGLISH 1010 - Concurrent Enrollment",
+    "teacher": "DULONG^",
+    "room": "rm 223",
+    "period": "B5",
+    "semester": "1, 2"
+  },
+  {
+    "name": "ENGLISH 1010 - Concurrent Enrollment",
+    "teacher": "DULONG^",
+    "room": "rm 223",
+    "period": "B7",
+    "semester": "1, 2"
+  },
+  {
+    "name": "ENGLISH 1010 - Concurrent Enrollment",
+    "teacher": "DULONG^",
+    "room": "rm 223",
+    "period": "B8",
+    "semester": "1, 2"
+  },
+  {
+    "name": "ENGLISH 11*",
+    "teacher": "HAYNIE",
+    "room": "rm 613",
+    "period": "A1",
+    "semester": "full year"
+  },
+  {
+    "name": "ENGLISH 11*",
+    "teacher": "HAYNIE",
+    "room": "rm 613",
+    "period": "A2",
+    "semester": "full year"
+  },
+  {
+    "name": "ENGLISH 11*",
+    "teacher": "HAYNIE",
+    "room": "rm 613",
+    "period": "A3",
+    "semester": "full year"
+  },
+  {
+    "name": "ENGLISH 11*",
+    "teacher": "HAYNIE",
+    "room": "rm 613",
+    "period": "A4",
+    "semester": "full year"
+  },
+  {
+    "name": "AP ENGLISH LITERATURE*",
+    "teacher": "HAYNIE",
+    "room": "rm 613",
+    "period": "B5",
+    "semester": "full year"
+  },
+  {
+    "name": "AP ENGLISH LITERATURE*",
+    "teacher": "HAYNIE",
+    "room": "rm 613",
+    "period": "B6",
+    "semester": "full year"
+  },
+  {
+    "name": "AP ENGLISH LITERATURE*",
+    "teacher": "HAYNIE",
+    "room": "rm 613",
+    "period": "B7",
+    "semester": "full year"
+  },
+  {
+    "name": "ENGLISH 10 HONORS*",
+    "teacher": "JARVIE",
+    "room": "rm 609",
+    "period": "A1",
+    "semester": "full year"
+  },
+  {
+    "name": "ENGLISH 10 HONORS*",
+    "teacher": "JARVIE",
+    "room": "rm 609",
+    "period": "A2",
+    "semester": "full year"
+  },
+  {
+    "name": "ENGLISH 10 HONORS*",
+    "teacher": "JARVIE",
+    "room": "rm 609",
+    "period": "A3",
+    "semester": "full year"
+  },
+  {
+    "name": "ENGLISH 10 HONORS*",
+    "teacher": "JARVIE",
+    "room": "rm 609",
+    "period": "B5",
+    "semester": "full year"
+  },
+  {
+    "name": "ENGLISH 11*",
+    "teacher": "JARVIE",
+    "room": "rm 609",
+    "period": "B6",
+    "semester": "full year"
+  },
+  {
+    "name": "ENGLISH 11*",
+    "teacher": "JARVIE",
+    "room": "rm 609",
+    "period": "B8",
+    "semester": "full year"
+  },
+  {
+    "name": "ENGLISH 11 HONORS*",
+    "teacher": "JAYNES",
+    "room": "rm 214",
+    "period": "A2",
+    "semester": "full year"
+  },
+  {
+    "name": "ENGLISH 11 HONORS*",
+    "teacher": "JAYNES",
+    "room": "rm 214",
+    "period": "A3",
+    "semester": "full year"
+  },
+  {
+    "name": "FILM LITERATURE",
+    "teacher": "JAYNES",
+    "room": "rm 214",
+    "period": "B5",
+    "semester": "1, 2"
+  },
+  {
+    "name": "FILM LITERATURE",
+    "teacher": "JAYNES",
+    "room": "rm 214",
+    "period": "B6",
+    "semester": "1, 2"
+  },
+  {
+    "name": "POPULAR LITERATURE",
+    "teacher": "JAYNES",
+    "room": "rm 214",
+    "period": "B7",
+    "semester": "1, 2"
+  },
+  {
+    "name": "AMERICAN STUDIES*",
+    "teacher": "KING (Dickson)",
+    "room": "rm 133",
+    "period": "A2",
+    "semester": "full year"
+  },
+  {
+    "name": "AMERICAN STUDIES*",
+    "teacher": "KING (Dickson)",
+    "room": "rm 133",
+    "period": "A3",
+    "semester": "full year"
+  },
+  {
+    "name": "AMERICAN STUDIES*",
+    "teacher": "KING (Dickson)",
+    "room": "rm 133",
+    "period": "B6",
+    "semester": "full year"
+  },
+  {
+    "name": "AMERICAN STUDIES*",
+    "teacher": "KING (Dickson)",
+    "room": "rm 133",
+    "period": "B7",
+    "semester": "full year"
+  },
+  {
+    "name": "ENGLISH ESSENTIALS",
+    "teacher": "MCPHERSON^",
+    "room": "rm 610",
+    "period": "A2",
+    "semester": "1, 2"
+  },
+  {
+    "name": "ENGLISH 11*",
+    "teacher": "MCPHERSON^",
+    "room": "rm 610",
+    "period": "A3",
+    "semester": "full year"
+  },
+  {
+    "name": "STUDY HALL",
+    "teacher": "MCPHERSON^",
+    "room": "rm 610",
+    "period": "A4",
+    "semester": "1, 2"
+  },
+  {
+    "name": "MYTHOLOGY ANCIENT",
+    "teacher": "MCPHERSON^",
+    "room": "rm 610",
+    "period": "B6",
+    "semester": "1, 2"
+  },
+  {
+    "name": "MYTHOLOGY ANCIENT",
+    "teacher": "MCPHERSON^",
+    "room": "rm 610",
+    "period": "B7",
+    "semester": "1, 2"
+  },
+  {
+    "name": "ENGLISH 12*",
+    "teacher": "NELSON",
+    "room": "rm 221",
+    "period": "A1",
+    "semester": "full year"
+  },
+  {
+    "name": "ENGLISH 12*",
+    "teacher": "NELSON",
+    "room": "rm 221",
+    "period": "A2",
+    "semester": "full year"
+  },
+  {
+    "name": "ENGLISH 12*",
+    "teacher": "NELSON",
+    "room": "rm 221",
+    "period": "A3",
+    "semester": "full year"
+  },
+  {
+    "name": "ENGLISH 12*",
+    "teacher": "NELSON",
+    "room": "rm 221",
+    "period": "A4",
+    "semester": "full year"
+  },
+  {
+    "name": "CREATIVE WRITING 1",
+    "teacher": "NELSON",
+    "room": "rm 221",
+    "period": "B6",
+    "semester": "1, 2"
+  },
+  {
+    "name": "CREATIVE WRITING 1",
+    "teacher": "NELSON",
+    "room": "rm 221",
+    "period": "B7",
+    "semester": "1, 2"
+  },
+  {
+    "name": "CREATIVE WRITING 1",
+    "teacher": "NELSON",
+    "room": "rm 221",
+    "period": "B8",
+    "semester": "1, 2"
+  },
+  {
+    "name": "ENGLISH 10* ",
+    "teacher": "NIELSON",
+    "room": "rm 612",
+    "period": "A1",
+    "semester": "full year"
+  },
+  {
+    "name": "ENGLISH 10* ",
+    "teacher": "NIELSON",
+    "room": "rm 612",
+    "period": "A2",
+    "semester": "full year"
+  },
+  {
+    "name": "ENGLISH 10*",
+    "teacher": "NIELSON",
+    "room": "rm 612",
+    "period": "A3",
+    "semester": "full year"
+  },
+  {
+    "name": "ENGLISH 10*",
+    "teacher": "NIELSON",
+    "room": "rm 612",
+    "period": "A4",
+    "semester": "full year"
+  },
+  {
+    "name": "AP ENGLISH LANGUAGE*",
+    "teacher": "REES",
+    "room": "rm 611",
+    "period": "A1",
+    "semester": "full year"
+  },
+  {
+    "name": "AP ENGLISH LANGUAGE*",
+    "teacher": "REES",
+    "room": "rm 611",
+    "period": "A2",
+    "semester": "full year"
+  },
+  {
+    "name": "AP ENGLISH LANGUAGE*",
+    "teacher": "REES",
+    "room": "rm 611",
+    "period": "A3",
+    "semester": "full year"
+  },
+  {
+    "name": "AP ENGLISH LANGUAGE*",
+    "teacher": "REES",
+    "room": "rm 611",
+    "period": "A4",
+    "semester": "full year"
+  },
+  {
+    "name": "ENGLISH 11 HONORS*",
+    "teacher": "REES",
+    "room": "rm 611",
+    "period": "B5",
+    "semester": "full year"
+  },
+  {
+    "name": "ENGLISH 11 HONORS*",
+    "teacher": "REES",
+    "room": "rm 611",
+    "period": "B6",
+    "semester": "full year"
+  },
+  {
+    "name": "ENGLISH 11*",
+    "teacher": "SMITH, CASSIDY",
+    "room": "rm 215",
+    "period": "A1",
+    "semester": "full year"
+  },
+  {
+    "name": "ENGLISH 11*",
+    "teacher": "SMITH, CASSIDY",
+    "room": "rm 215",
+    "period": "A2",
+    "semester": "full year"
+  },
+  {
+    "name": "ENGLISH 11*",
+    "teacher": "SMITH, CASSIDY",
+    "room": "rm 215",
+    "period": "A4",
+    "semester": "full year"
+  },
+  {
+    "name": "ENGLISH 11*",
+    "teacher": "SMITH, CASSIDY",
+    "room": "rm 215",
+    "period": "B6",
+    "semester": "full year"
+  },
+  {
+    "name": "ENGLISH 11*",
+    "teacher": "SMITH, CASSIDY",
+    "room": "rm 215",
+    "period": "B7",
+    "semester": "full year"
+  },
+  {
+    "name": "ENGLISH 11*",
+    "teacher": "SMITH, CASSIDY",
+    "room": "rm 215",
+    "period": "B8",
+    "semester": "full year"
+  },
+  {
+    "name": "ENGLISH 11*",
+    "teacher": "WALKER, M.",
+    "room": "rm 608",
+    "period": "A1",
+    "semester": "full year"
+  },
+  {
+    "name": "ENGLISH 11*",
+    "teacher": "WALKER, M.",
+    "room": "rm 608",
+    "period": "A2",
+    "semester": "full year"
+  },
+  {
+    "name": "DEBATE*",
+    "teacher": "WALKER, M.",
+    "room": "rm 608",
+    "period": "A3",
+    "semester": "full year"
+  },
+  {
+    "name": "DEBATE*",
+    "teacher": "WALKER, M.",
+    "room": "rm 608",
+    "period": "A4",
+    "semester": "full year"
+  },
+  {
+    "name": "ENGLISH 11*",
+    "teacher": "WALKER, M.",
+    "room": "rm 608",
+    "period": "B5",
+    "semester": "full year"
+  },
+  {
+    "name": "ENGLISH 11*",
+    "teacher": "WALKER, M.",
+    "room": "rm 608",
+    "period": "B6",
+    "semester": "full year"
+  },
+  {
+    "name": "ENGLISH 11*",
+    "teacher": "WALKER, M.",
+    "room": "rm 608",
+    "period": "B7",
+    "semester": "full year"
+  },
+  {
+    "name": "ENGLISH 10*",
+    "teacher": "WILY",
+    "room": "rm 612",
+    "period": "B6",
+    "semester": "full year"
+  },
+  {
+    "name": "ENGLISH 10*",
+    "teacher": "WILY",
+    "room": "rm 612",
+    "period": "B7",
+    "semester": "full year"
+  },
+  {
+    "name": "ENGLISH 10*",
+    "teacher": "WILY",
+    "room": "rm 612",
+    "period": "B8",
+    "semester": "full year"
+  },
+  {
+    "name": "ENGLISH 10*",
+    "teacher": "COX, A.",
+    "room": "rm 126",
+    "period": "A1",
+    "semester": "full year"
+  },
+  {
+    "name": "RESOURCE ENGLISH*",
+    "teacher": "COX, A.",
+    "room": "rm 126",
+    "period": "A2",
+    "semester": "full year"
+  },
+  {
+    "name": "ACCELERATED READING",
+    "teacher": "COX, A.",
+    "room": "rm 126",
+    "period": "A3",
+    "semester": "1, 2"
+  },
+  {
+    "name": "ENGLISH 10*",
+    "teacher": "COX, A.",
+    "room": "rm 126",
+    "period": "B5",
+    "semester": "full year"
+  },
+  {
+    "name": "READING SKILLS",
+    "teacher": "COX, A.",
+    "room": "rm 126",
+    "period": "B6",
+    "semester": "1, 2"
+  },
+  {
+    "name": "ENGLISH 10*",
+    "teacher": "COX, A.",
+    "room": "rm 126",
+    "period": "B7",
+    "semester": "full year"
+  },
+  {
+    "name": "LS READING*",
+    "teacher": "HURTT^",
+    "room": "rm 118",
+    "period": "A1",
+    "semester": "full year"
+  },
+  {
+    "name": "LS MATH*",
+    "teacher": "HURTT^",
+    "room": "rm 118",
+    "period": "A2",
+    "semester": "full year"
+  },
+  {
+    "name": "STUDENT GOVERNMENT*",
+    "teacher": "HURTT^",
+    "room": "rm 118",
+    "period": "A3",
+    "semester": "full year"
+  },
+  {
+    "name": "LIFE SKILLS*",
+    "teacher": "HURTT^",
+    "room": "rm 118",
+    "period": "A4",
+    "semester": "full year"
+  },
+  {
+    "name": "LS READING*",
+    "teacher": "HURTT^",
+    "room": "rm 118",
+    "period": "B5",
+    "semester": "full year"
+  },
+  {
+    "name": "LS MATH*",
+    "teacher": "HURTT^",
+    "room": "rm 118",
+    "period": "B6",
+    "semester": "full year"
+  },
+  {
+    "name": "LS WRITING*",
+    "teacher": "HURTT^",
+    "room": "rm 118",
+    "period": "B7",
+    "semester": "full year"
+  },
+  {
+    "name": "ENGLISH 12*",
+    "teacher": "IKA^^",
+    "room": "rm 122 / 808",
+    "period": "A1",
+    "semester": "full year"
+  },
+  {
+    "name": "ENGLISH 11*",
+    "teacher": "IKA^^",
+    "room": "rm 122 / 808",
+    "period": "A2",
+    "semester": "full year"
+  },
+  {
+    "name": "ENGLISH 12*",
+    "teacher": "IKA^^",
+    "room": "rm 122 / 808",
+    "period": "A3",
+    "semester": "full year"
+  },
+  {
+    "name": "ENGLISH 11*",
+    "teacher": "IKA^^",
+    "room": "rm 122 / 808",
+    "period": "B6",
+    "semester": "full year"
+  },
+  {
+    "name": "ENGLISH 11*",
+    "teacher": "IKA^^",
+    "room": "rm 122 / 808",
+    "period": "B7",
+    "semester": "full year"
+  },
+  {
+    "name": "PEOPLE OF THE PACIFIC",
+    "teacher": "IKA^^",
+    "room": "rm 122 / 808",
+    "period": "B8",
+    "semester": "1, 2"
+  },
+  {
+    "name": "SECONDARY MATH 1*",
+    "teacher": "MOLENI",
+    "room": "rm 130",
+    "period": "A1",
+    "semester": "full year"
+  },
+  {
+    "name": "MATH DECISION MAKING*",
+    "teacher": "MOLENI",
+    "room": "rm 130",
+    "period": "A3",
+    "semester": "full year"
+  },
+  {
+    "name": "MATH DECISION MAKING*",
+    "teacher": "MOLENI",
+    "room": "rm 130",
+    "period": "A4",
+    "semester": "full year"
+  },
+  {
+    "name": "SECONDARY MATH 2*",
+    "teacher": "MOLENI",
+    "room": "rm 130",
+    "period": "B5",
+    "semester": "full year"
+  },
+  {
+    "name": "SECONDARY MATH 2*",
+    "teacher": "MOLENI",
+    "room": "rm 130",
+    "period": "B6",
+    "semester": "full year"
+  },
+  {
+    "name": "SECONDARY MATH 1 LAB",
+    "teacher": "MOLENI",
+    "room": "rm 130",
+    "period": "B7",
+    "semester": "1, 2"
+  },
+  {
+    "name": "SECONDARY MATH 3*",
+    "teacher": "RIDGWAY",
+    "room": "rm 126",
+    "period": "A1",
+    "semester": "full year"
+  },
+  {
+    "name": "SECONDARY MATH 2*",
+    "teacher": "RIDGWAY",
+    "room": "rm 126",
+    "period": "A2",
+    "semester": "full year"
+  },
+  {
+    "name": "SECONDARY MATH 2*",
+    "teacher": "RIDGWAY",
+    "room": "rm 126",
+    "period": "A3",
+    "semester": "full year"
+  },
+  {
+    "name": "SECONDARY MATH 2 LAB",
+    "teacher": "RIDGWAY",
+    "room": "rm 126",
+    "period": "A4",
+    "semester": "1, 2"
+  },
+  {
+    "name": "SECONDARY MATH 2 LAB",
+    "teacher": "RIDGWAY",
+    "room": "rm 126",
+    "period": "B6",
+    "semester": "1, 2"
+  },
+  {
+    "name": "SECONDARY MATH 3 LAB",
+    "teacher": "RIDGWAY",
+    "room": "rm 126",
+    "period": "B7",
+    "semester": "1, 2"
+  },
+  {
+    "name": "SECONDARY MATH 2 LAB",
+    "teacher": "RIDGWAY",
+    "room": "rm 126",
+    "period": "B8",
+    "semester": "1, 2"
+  },
+  {
+    "name": "MATH DECISION MAKING*",
+    "teacher": "BRINKERHOFF, E.",
+    "room": "rm 137",
+    "period": "A1",
+    "semester": "full year"
+  },
+  {
+    "name": "MATH DECISION MAKING*",
+    "teacher": "BRINKERHOFF, E.",
+    "room": "rm 137",
+    "period": "A2",
+    "semester": "full year"
+  },
+  {
+    "name": "SECONDARY MATH 2*",
+    "teacher": "BRINKERHOFF, E.",
+    "room": "rm 137",
+    "period": "A3",
+    "semester": "full year"
+  },
+  {
+    "name": "SECONDARY MATH 2*",
+    "teacher": "BRINKERHOFF, E.",
+    "room": "rm 137",
+    "period": "B5",
+    "semester": "full year"
+  },
+  {
+    "name": "SECONDARY MATH 2*",
+    "teacher": "BRINKERHOFF, E.",
+    "room": "rm 137",
+    "period": "B6",
+    "semester": "full year"
+  },
+  {
+    "name": "SECONDARY MATH 2*",
+    "teacher": "BRINKERHOFF, E.",
+    "room": "rm 137",
+    "period": "B7",
+    "semester": "full year"
+  },
+  {
+    "name": "SECONDARY MATH 2*",
+    "teacher": "BRINKERHOFF, E.",
+    "room": "rm 137",
+    "period": "B8",
+    "semester": "full year"
+  },
+  {
+    "name": "*",
+    "teacher": "BRINKERHOFF, E.",
+    "room": "rm 137",
+    "period": "B9",
+    "semester": "full year"
+  },
+  {
+    "name": "SECONDARY MATH 2*",
+    "teacher": "COATNEY",
+    "room": "rm 705",
+    "period": "A1",
+    "semester": "full year"
+  },
+  {
+    "name": "SECONDARY MATH 2*",
+    "teacher": "COATNEY",
+    "room": "rm 705",
+    "period": "A2",
+    "semester": "full year"
+  },
+  {
+    "name": "MATH DECISION MAKING*",
+    "teacher": "COATNEY",
+    "room": "rm 705",
+    "period": "A3",
+    "semester": "full year"
+  },
+  {
+    "name": "MATH DECISION MAKING*",
+    "teacher": "COATNEY",
+    "room": "rm 705",
+    "period": "A4",
+    "semester": "full year"
+  },
+  {
+    "name": "SECONDARY MATH 3*",
+    "teacher": "COATNEY",
+    "room": "rm 705",
+    "period": "B6",
+    "semester": "full year"
+  },
+  {
+    "name": "SECONDARY MATH 3*",
+    "teacher": "COATNEY",
+    "room": "rm 705",
+    "period": "B7",
+    "semester": "full year"
+  },
+  {
+    "name": "SECONDARY MATH 3*",
+    "teacher": "COATNEY",
+    "room": "rm 705",
+    "period": "B8",
+    "semester": "full year"
+  },
+  {
+    "name": "ACCOUNTING 1",
+    "teacher": "DAY^",
+    "room": "rm 802",
+    "period": "A1",
+    "semester": "1, 2"
+  },
+  {
+    "name": "ACCOUNTING 1",
+    "teacher": "DAY^",
+    "room": "rm 802",
+    "period": "A2",
+    "semester": "1, 2"
+  },
+  {
+    "name": "MARKETING",
+    "teacher": "DAY^",
+    "room": "rm 802",
+    "period": "A3",
+    "semester": "1, 2"
+  },
+  {
+    "name": "MARKETING",
+    "teacher": "DAY^",
+    "room": "rm 802",
+    "period": "A4",
+    "semester": "1, 2"
+  },
+  {
+    "name": "ENTREPRENEURSHIP",
+    "teacher": "DAY^",
+    "room": "rm 802",
+    "period": "B6",
+    "semester": "1, 2"
+  },
+  {
+    "name": "BUSINESS OFFICE SPECIALIST - Concurrent Enrollment",
+    "teacher": "DAY^",
+    "room": "rm 802",
+    "period": "B7",
+    "semester": "1, 2"
+  },
+  {
+    "name": "BUSINESS OFFICE SPECIALIST - Concurrent Enrollment",
+    "teacher": "DAY^",
+    "room": "rm 802",
+    "period": "B8",
+    "semester": "1, 2"
+  },
+  {
+    "name": "COMPUTER PROGRAMMING 1&2* - Concurrent Enrollment",
+    "teacher": "LEE^",
+    "room": "rm 140",
+    "period": "A1",
+    "semester": "full year"
+  },
+  {
+    "name": "COMPUTER PROGRAMMING 1&2* - Concurrent Enrollment",
+    "teacher": "LEE^",
+    "room": "rm 140",
+    "period": "A3",
+    "semester": "full year"
+  },
+  {
+    "name": "AP COMPUTER PROGRAMMING A*",
+    "teacher": "LEE^",
+    "room": "rm 140",
+    "period": "A4",
+    "semester": "full year"
+  },
+  {
+    "name": "WEB DEVELOPMENT 2 - Concurrent Enrollment",
+    "teacher": "LEE^",
+    "room": "rm 140",
+    "period": "B6",
+    "semester": "full year"
+  },
+  {
+    "name": "ADVANCED COMPUTER PROGRAMMING* - Concurrent Enrollment",
+    "teacher": "LEE^",
+    "room": "rm 140",
+    "period": "B7",
+    "semester": "full year"
+  },
+  {
+    "name": "ALGORITHMS & DATA STRUCTURES* - Concurrent Enrollment",
+    "teacher": "LEE^",
+    "room": "rm 140",
+    "period": "B8",
+    "semester": "1, 2"
+  },
+  {
+    "name": "WEB DEVELOPMENT 2 - Concurrent Enrollment",
+    "teacher": "",
+    "room": "LYONS",
+    "period": "B6",
+    "semester": "1, 2"
+  },
+  {
+    "name": "REMOTE INFO. TECH. CLASSES -- Click Here for Titles & Details",
+    "teacher": "",
+    "room": "LYONS",
+    "period": "B8",
+    "semester": "1, 2"
+  },
+  {
+    "name": "MATH 1050-Concurrent Enrollment",
+    "teacher": "rm 136",
+    "room": "MURRAY",
+    "period": "B5",
+    "semester": "1, 2"
+  },
+  {
+    "name": "ADV MATH LAB",
+    "teacher": "rm 136",
+    "room": "MURRAY",
+    "period": "B8",
+    "semester": "1, 2"
+  },
+  {
+    "name": "MATH 1050-Concurrent Enrollment",
+    "teacher": "rm 902",
+    "room": "PEARSON",
+    "period": "A3",
+    "semester": "1, 2"
+  },
+  {
+    "name": "MATH 1050-Concurrent Enrollment",
+    "teacher": "rm 902",
+    "room": "PEARSON",
+    "period": "B7",
+    "semester": "1, 2"
+  },
+  {
+    "name": "MATH 1050-Concurrent Enrollment",
+    "teacher": "rm 803",
+    "room": "SAUNDERS",
+    "period": "A1",
+    "semester": "1, 2"
+  },
+  {
+    "name": "MATH 1050-Concurrent Enrollment",
+    "teacher": "rm 906",
+    "room": "TRACY",
+    "period": "A2",
+    "semester": "1, 2"
+  },
+  {
+    "name": "CALCULUS AB LAB",
+    "teacher": "rm 906",
+    "room": "TRACY",
+    "period": "A4",
+    "semester": "1, 2"
+  },
+  {
+    "name": "CALCULUS AB LAB",
+    "teacher": "rm 906",
+    "room": "TRACY",
+    "period": "B5",
+    "semester": "1, 2"
+  },
+  {
+    "name": "MATH 1030-Concurrent Enrollment",
+    "teacher": "rm 906",
+    "room": "TRACY",
+    "period": "B6",
+    "semester": "1, 2"
+  },
+  {
+    "name": "CALCULUS AB LAB",
+    "teacher": "rm 906",
+    "room": "TRACY",
+    "period": "B8",
+    "semester": "1, 2"
+  },
+  {
+    "name": "MATH ESSENTIALS",
+    "teacher": "rm 139",
+    "room": "WALLACE",
+    "period": "A2",
+    "semester": "1, 2"
+  },
+  {
+    "name": "INTERIOR DESIGN 1",
+    "teacher": "BROADBENT",
+    "room": "rm 213",
+    "period": "B5",
+    "semester": "1, 2"
+  },
+  {
+    "name": "INTERIOR DESIGN 1",
+    "teacher": "BROADBENT",
+    "room": "rm 213",
+    "period": "B7",
+    "semester": "1, 2"
+  },
+  {
+    "name": "INTERIOR DESIGN 3*",
+    "teacher": "BROADBENT",
+    "room": "rm 213",
+    "period": "B8",
+    "semester": "full year"
+  },
+  {
+    "name": "Assistant Athletic Director",
+    "teacher": "BRYAN^",
+    "room": "rm 116",
+    "period": "A1",
+    "semester": "full year"
+  },
+  {
+    "name": "SPORTS MEDICINE* - Concurrent Enrollment",
+    "teacher": "BRYAN^",
+    "room": "rm 116",
+    "period": "A2",
+    "semester": "full year"
+  },
+  {
+    "name": "EMERGENCY MEDICAL RESPONDER - Concurrent Enrollment",
+    "teacher": "BRYAN^",
+    "room": "rm 116",
+    "period": "A3",
+    "semester": "1, 2"
+  },
+  {
+    "name": "ATHLETIC TRAINING PRACTICUM*",
+    "teacher": "BRYAN^",
+    "room": "rm 116",
+    "period": "A4",
+    "semester": "full year"
+  },
+  {
+    "name": "SPORTS MEDICINE* - Concurrent Enrollment",
+    "teacher": "BRYAN^",
+    "room": "rm 116",
+    "period": "B6",
+    "semester": "full year"
+  },
+  {
+    "name": "SPORTS MEDICINE* - Concurrent Enrollment",
+    "teacher": "BRYAN^",
+    "room": "rm 116",
+    "period": "B7",
+    "semester": "full year"
+  },
+  {
+    "name": "ATHLETIC TRAINING PRACTICUM*",
+    "teacher": "BRYAN^",
+    "room": "rm 116",
+    "period": "B8",
+    "semester": "full year"
+  },
+  {
+    "name": "FOUNDATIONS OF NUTRITION-Concurrent Enrollment",
+    "teacher": "BURNETT^^",
+    "room": "rm 117",
+    "period": "A1",
+    "semester": "1, 2"
+  },
+  {
+    "name": "FOUNDATIONS OF NUTRITION-Concurrent Enrollment",
+    "teacher": "BURNETT^^",
+    "room": "rm 117",
+    "period": "A2",
+    "semester": "1, 2"
+  },
+  {
+    "name": "STUDENT GOVERNMENT*",
+    "teacher": "BURNETT^^",
+    "room": "rm 117",
+    "period": "A3",
+    "semester": "full year"
+  },
+  {
+    "name": "CHEER TEAM*",
+    "teacher": "BURNETT^^",
+    "room": "rm 117",
+    "period": "A4",
+    "semester": "full year"
+  },
+  {
+    "name": "EMERGENCY MEDICAL RESPONDER - Concurrent Enrollment",
+    "teacher": "BURNETT^^",
+    "room": "rm 117",
+    "period": "B5",
+    "semester": "1, 2"
+  },
+  {
+    "name": "EMERGENCY MEDICAL RESPONDER - Concurrent Enrollment",
+    "teacher": "BURNETT^^",
+    "room": "rm 117",
+    "period": "B6",
+    "semester": "1, 2"
+  },
+  {
+    "name": "EMERGENCY MEDICAL RESPONDER - Concurrent Enrollment",
+    "teacher": "BURNETT^^",
+    "room": "rm 117",
+    "period": "B7",
+    "semester": "1, 2"
+  },
+  {
+    "name": "CULINARY BASICS",
+    "teacher": "COX, B.^",
+    "room": "rm 507",
+    "period": "A1",
+    "semester": "1, 2"
+  },
+  {
+    "name": "CULINARY BASICS",
+    "teacher": "COX, B.^",
+    "room": "rm 507",
+    "period": "A2",
+    "semester": "1, 2"
+  },
+  {
+    "name": "STUDENT GOVERNMENT*",
+    "teacher": "COX, B.^",
+    "room": "rm 507",
+    "period": "A3",
+    "semester": "full year"
+  },
+  {
+    "name": "CULINARY BASICS",
+    "teacher": "COX, B.^",
+    "room": "rm 507",
+    "period": "A4",
+    "semester": "1, 2"
+  },
+  {
+    "name": "BAKING & PASTRY",
+    "teacher": "COX, B.^",
+    "room": "rm 507",
+    "period": "B5",
+    "semester": "1, 2"
+  },
+  {
+    "name": "ADVANCED CULINARY* - Concurrent Enrollment",
+    "teacher": "COX, B.^",
+    "room": "rm 507",
+    "period": "B6",
+    "semester": "full year"
+  },
+  {
+    "name": "ADVANCED CULINARY* - Concurrent Enrollment",
+    "teacher": "COX, B.^",
+    "room": "rm 507",
+    "period": "B7",
+    "semester": "full year"
+  },
+  {
+    "name": "FLORAL DESIGN 1",
+    "teacher": "DAVENPORT (Branch)",
+    "room": "rm 806",
+    "period": "B7",
+    "semester": "1, 2"
+  },
+  {
+    "name": "BROADCASTING 1",
+    "teacher": "DURRANT",
+    "room": "rm 234",
+    "period": "A2",
+    "semester": "1, 2"
+  },
+  {
+    "name": "VIDEO EDITING",
+    "teacher": "DURRANT",
+    "room": "rm 234",
+    "period": "A3",
+    "semester": "1, 2"
+  },
+  {
+    "name": "BROADCASTING 1",
+    "teacher": "DURRANT",
+    "room": "rm 234",
+    "period": "B6",
+    "semester": "1, 2"
+  },
+  {
+    "name": "LONE PEAK LIVE - Concurrent Enrollment*",
+    "teacher": "DURRANT",
+    "room": "rm 234",
+    "period": "B7",
+    "semester": "full year"
+  },
+  {
+    "name": "COMMERCIAL PHOTO 1",
+    "teacher": "GIBBY^",
+    "room": "rm 308",
+    "period": "A1",
+    "semester": "1, 2"
+  },
+  {
+    "name": "COMMERCIAL PHOTO 1",
+    "teacher": "GIBBY^",
+    "room": "rm 308",
+    "period": "A2",
+    "semester": "1, 2"
+  },
+  {
+    "name": "COMMERCIAL PHOTO 1",
+    "teacher": "GIBBY^",
+    "room": "rm 308",
+    "period": "A3",
+    "semester": "1, 2"
+  },
+  {
+    "name": "DIGITAL MEDIA",
+    "teacher": "GIBBY^",
+    "room": "rm 308",
+    "period": "B5",
+    "semester": "1, 2"
+  },
+  {
+    "name": "YEARBOOK*",
+    "teacher": "GIBBY^",
+    "room": "rm 308",
+    "period": "B6",
+    "semester": "full year"
+  },
+  {
+    "name": "DIGITAL MEDIA",
+    "teacher": "GIBBY^",
+    "room": "rm 308",
+    "period": "B8",
+    "semester": "1, 2"
+  },
+  {
+    "name": "DESIGN SEWING 1 & 2",
+    "teacher": "HARLOW",
+    "room": "rm 713",
+    "period": "A1",
+    "semester": "1, 2"
+  },
+  {
+    "name": "FASHION DESIGN STUDIO",
+    "teacher": "HARLOW",
+    "room": "rm 713",
+    "period": "A3",
+    "semester": "1, 2"
+  },
+  {
+    "name": "FASHION DESIGN STUDIO",
+    "teacher": "HARLOW",
+    "room": "rm 713",
+    "period": "A4",
+    "semester": "1, 2"
+  },
+  {
+    "name": "FLORAL DESIGN 1",
+    "teacher": "JENSEN^",
+    "room": "rm 806",
+    "period": "A1",
+    "semester": "1, 2"
+  },
+  {
+    "name": "FLORAL DESIGN 1",
+    "teacher": "JENSEN^",
+    "room": "rm 806",
+    "period": "A3",
+    "semester": "1, 2"
+  },
+  {
+    "name": "FLORAL DESIGN 1",
+    "teacher": "JENSEN^",
+    "room": "rm 806",
+    "period": "A4",
+    "semester": "1, 2"
+  },
+  {
+    "name": "FLORAL DESIGN 1",
+    "teacher": "JENSEN^",
+    "room": "rm 806",
+    "period": "B5",
+    "semester": "1, 2"
+  },
+  {
+    "name": "PLANT AND SOIL SCIENCE 1*",
+    "teacher": "JENSEN^",
+    "room": "rm 806",
+    "period": "B6",
+    "semester": "full year"
+  },
+  {
+    "name": "FLORAL DESIGN 1",
+    "teacher": "JENSEN^",
+    "room": "rm 806",
+    "period": "B8",
+    "semester": "1, 2"
+  },
+  {
+    "name": "WILDLIFE BIOLOGY",
+    "teacher": "rm 224",
+    "room": "SMITH, WESLEY",
+    "period": "A3",
+    "semester": "1, 2"
+  },
+  {
+    "name": "WILDLIFE BIOLOGY",
+    "teacher": "rm 224",
+    "room": "SMITH, WESLEY",
+    "period": "A4",
+    "semester": "1, 2"
+  },
+  {
+    "name": "ENGINEERING PRINCIPLES 1",
+    "teacher": "rm 238",
+    "room": "SPENCER^",
+    "period": "A1",
+    "semester": "1, 2"
+  },
+  {
+    "name": "ENGINEERING PRINCIPLES 2 - Concurrent Enrollment",
+    "teacher": "rm 238",
+    "room": "SPENCER^",
+    "period": "A3",
+    "semester": "1, 2"
+  },
+  {
+    "name": "DIGITAL ELECTRONICS - Concurrent Enrollment",
+    "teacher": "rm 238",
+    "room": "SPENCER^",
+    "period": "A4",
+    "semester": "1, 2"
+  },
+  {
+    "name": "MECHANICAL DESIGN AND ENGINEERING 1",
+    "teacher": "rm 238",
+    "room": "SPENCER^",
+    "period": "B5",
+    "semester": "full year"
+  },
+  {
+    "name": "ROBOTICS 2",
+    "teacher": "rm 238",
+    "room": "SPENCER^",
+    "period": "B7",
+    "semester": "full year"
+  },
+  {
+    "name": "ROBOTICS 1",
+    "teacher": "rm 238",
+    "room": "SPENCER^",
+    "period": "B8",
+    "semester": "full year"
+  },
+  {
+    "name": "CHILD DEVELOPMENT",
+    "teacher": "rm 504",
+    "room": "TOPHAM^",
+    "period": "A1",
+    "semester": "1, 2"
+  },
+  {
+    "name": "PRESCHOOL (EARLY CHILDHOOD EDUCATION 2&3)",
+    "teacher": "rm 504",
+    "room": "TOPHAM^",
+    "period": "A2",
+    "semester": "1, 2"
+  },
+  {
+    "name": "PRESCHOOL (EARLY CHILDHOOD EDUCATION 2&3)",
+    "teacher": "rm 504",
+    "room": "TOPHAM^",
+    "period": "A3",
+    "semester": "1, 2"
+  },
+  {
+    "name": "PRESCHOOL (EARLY CHILDHOOD EDUCATION 2&3)",
+    "teacher": "rm 504",
+    "room": "TOPHAM^",
+    "period": "B6",
+    "semester": "1, 2"
+  },
+  {
+    "name": "PRESCHOOL (EARLY CHILDHOOD EDUCATION 2&3)",
+    "teacher": "rm 504",
+    "room": "TOPHAM^",
+    "period": "B7",
+    "semester": "full year"
+  },
+  {
+    "name": "CHILD DEVELOPMENT",
+    "teacher": "rm 504",
+    "room": "TOPHAM^",
+    "period": "B8",
+    "semester": "1, 2"
+  },
+  {
+    "name": "VIDEO PROD 1",
+    "teacher": "rm 808",
+    "room": "",
+    "period": "A1",
+    "semester": "full year"
+  },
+  {
+    "name": "CINEMATOGRAPHY",
+    "teacher": "rm 808",
+    "room": "",
+    "period": "A4",
+    "semester": "1, 2"
+  },
+  {
+    "name": "PEOPLE OF THE PACIFIC",
+    "teacher": "rm 808",
+    "room": "",
+    "period": "B8",
+    "semester": "full year"
+  },
+  {
+    "name": "MEDICAL ANATOMY & PHYSIOLOGY*",
+    "teacher": "VANWOERKOM^",
+    "room": "rm 802",
+    "period": "A1",
+    "semester": "full year"
+  },
+  {
+    "name": "MEDICAL ANATOMY & PHYSIOLOGY*",
+    "teacher": "VANWOERKOM^",
+    "room": "rm 802",
+    "period": "A2",
+    "semester": "full year"
+  },
+  {
+    "name": "MEDICAL ANATOMY & PHYSIOLOGY*",
+    "teacher": "VANWOERKOM^",
+    "room": "rm 802",
+    "period": "A3",
+    "semester": "full year"
+  },
+  {
+    "name": "MEDICAL TERMINOLOGY - Concurrent Enrollment",
+    "teacher": "VANWOERKOM^",
+    "room": "rm 802",
+    "period": "B5",
+    "semester": "1, 2"
+  },
+  {
+    "name": "MEDICAL TERMINOLOGY - Concurrent Enrollment",
+    "teacher": "VANWOERKOM^",
+    "room": "rm 802",
+    "period": "B6",
+    "semester": "1, 2"
+  },
+  {
+    "name": "HEALTH",
+    "teacher": "VANWOERKOM^",
+    "room": "rm 802",
+    "period": "B7",
+    "semester": "1, 2"
+  },
+  {
+    "name": "HEALTH",
+    "teacher": "VANWOERKOM^",
+    "room": "rm 802",
+    "period": "B8",
+    "semester": "1, 2"
+  },
+  {
+    "name": "INTERNSHIP",
+    "teacher": "WHATCOTT",
+    "room": "rm 506",
+    "period": "A1",
+    "semester": "1, 2"
+  },
+  {
+    "name": "INTERNSHIP",
+    "teacher": "WHATCOTT",
+    "room": "rm 506",
+    "period": "A2",
+    "semester": "1, 2"
+  },
+  {
+    "name": "INTERNSHIP",
+    "teacher": "WHATCOTT",
+    "room": "rm 506",
+    "period": "A3",
+    "semester": "1, 2"
+  },
+  {
+    "name": "INTERNSHIP",
+    "teacher": "WHATCOTT",
+    "room": "rm 506",
+    "period": "A4",
+    "semester": "1, 2"
+  },
+  {
+    "name": "INTERNSHIP",
+    "teacher": "WHATCOTT",
+    "room": "rm 506",
+    "period": "B5",
+    "semester": "1, 2"
+  },
+  {
+    "name": "INTERNSHIP",
+    "teacher": "WHATCOTT",
+    "room": "rm 506",
+    "period": "B6",
+    "semester": "1, 2"
+  },
+  {
+    "name": "INTERNSHIP",
+    "teacher": "WHATCOTT",
+    "room": "rm 506",
+    "period": "B7",
+    "semester": "1, 2"
+  },
+  {
+    "name": "INTERNSHIP",
+    "teacher": "WHATCOTT",
+    "room": "rm 506",
+    "period": "B8",
+    "semester": "1, 2"
+  },
+  {
+    "name": "BUILDING CONSTRUCTION* - Concurrent Enrollment",
+    "teacher": "NEW TEACHER - (Baines)",
+    "room": "Off Campus",
+    "period": "A1",
+    "semester": "1, 2"
+  },
+  {
+    "name": "BUILDING CONSTRUCTION* - Concurrent Enrollment",
+    "teacher": "NEW TEACHER - (Baines)",
+    "room": "Off Campus",
+    "period": "A2",
+    "semester": "1, 2"
+  },
+  {
+    "name": "BUILDING CONSTRUCTION* - Concurrent Enrollment",
+    "teacher": "NEW TEACHER - (Baines)",
+    "room": "Off Campus",
+    "period": "A3",
+    "semester": "full year"
+  },
+  {
+    "name": "BUILDING CONSTRUCTION* - Concurrent Enrollment",
+    "teacher": "NEW TEACHER - (Baines)",
+    "room": "Off Campus",
+    "period": "A4",
+    "semester": "full year"
+  },
+  {
+    "name": "BUILDING CONSTRUCTION* - Concurrent Enrollment",
+    "teacher": "NEW TEACHER - (Baines)",
+    "room": "Off Campus",
+    "period": "B5",
+    "semester": "full year"
+  },
+  {
+    "name": "BUILDING CONSTRUCTION* - Concurrent Enrollment",
+    "teacher": "NEW TEACHER - (Baines)",
+    "room": "Off Campus",
+    "period": "B6",
+    "semester": "full year"
+  },
+  {
+    "name": "BUILDING CONSTRUCTION* - Concurrent Enrollment",
+    "teacher": "NEW TEACHER - (Baines)",
+    "room": "Off Campus",
+    "period": "B7",
+    "semester": "full year"
+  },
+  {
+    "name": "BUILDING CONSTRUCTION* - Concurrent Enrollment",
+    "teacher": "NEW TEACHER - (Baines)",
+    "room": "Off Campus",
+    "period": "B8",
+    "semester": "full year"
+  },
+  {
+    "name": "HISTORY OF ROCK AND ROLL - Concurrent Enrollment",
+    "teacher": "BANKS^",
+    "room": "rm 908",
+    "period": "A1",
+    "semester": "1, 2"
+  },
+  {
+    "name": "GERMAN 4/AP* - Concurrent Enrollment",
+    "teacher": "BANKS^",
+    "room": "rm 908",
+    "period": "A3",
+    "semester": "full year"
+  },
+  {
+    "name": "HISTORY OF ROCK AND ROLL - Concurrent Enrollment",
+    "teacher": "BANKS^",
+    "room": "rm 908",
+    "period": "A4",
+    "semester": "1, 2"
+  },
+  {
+    "name": "GERMAN 3* - Concurrent Enrollment",
+    "teacher": "BANKS^",
+    "room": "rm 908",
+    "period": "B5",
+    "semester": "full year"
+  },
+  {
+    "name": "GERMAN 2*",
+    "teacher": "BANKS^",
+    "room": "rm 908",
+    "period": "B7",
+    "semester": "full year"
+  },
+  {
+    "name": "GERMAN 1*",
+    "teacher": "BANKS^",
+    "room": "rm 908",
+    "period": "B8",
+    "semester": "full year"
+  },
+  {
+    "name": "PAINTING 1",
+    "teacher": "BRAUN",
+    "room": "rm 306",
+    "period": "A2",
+    "semester": "1, 2"
+  },
+  {
+    "name": "PAINTING 2",
+    "teacher": "BRAUN",
+    "room": "rm 306",
+    "period": "A3",
+    "semester": "1, 2"
+  },
+  {
+    "name": "PAINTING 1",
+    "teacher": "BRAUN",
+    "room": "rm 306",
+    "period": "A4",
+    "semester": "1, 2"
+  },
+  {
+    "name": "ILLUSTRATION",
+    "teacher": "BRAUN",
+    "room": "rm 306",
+    "period": "B5",
+    "semester": "1, 2"
+  },
+  {
+    "name": "DRAWING 1",
+    "teacher": "BRAUN",
+    "room": "rm 306",
+    "period": "B6",
+    "semester": "1, 2"
+  },
+  {
+    "name": "ART HONORS*",
+    "teacher": "BRAUN",
+    "room": "rm 306",
+    "period": "B7",
+    "semester": "full year"
+  },
+  {
+    "name": "DRAWING 1",
+    "teacher": "BRAUN",
+    "room": "rm 306",
+    "period": "B8",
+    "semester": "1, 2"
+  },
+  {
+    "name": "DRAMA 2",
+    "teacher": "COX, C.^",
+    "room": "rm 106/Auditorium",
+    "period": "A1",
+    "semester": "1, 2"
+  },
+  {
+    "name": "SCRIPT WRITING",
+    "teacher": "COX, C.^",
+    "room": "rm 106/Auditorium",
+    "period": "A2",
+    "semester": "1, 2"
+  },
+  {
+    "name": "MUSICAL THEATER",
+    "teacher": "COX, C.^",
+    "room": "rm 106/Auditorium",
+    "period": "A4",
+    "semester": "1, 2"
+  },
+  {
+    "name": "STAGECRAFT",
+    "teacher": "COX, C.^",
+    "room": "rm 106/Auditorium",
+    "period": "B6",
+    "semester": "1, 2"
+  },
+  {
+    "name": "STAGE CREW (ADVANCED TECHNICAL THEATRE*)",
+    "teacher": "COX, C.^",
+    "room": "rm 106/Auditorium",
+    "period": "B7",
+    "semester": "full year"
+  },
+  {
+    "name": "PRODUCTIONS COMPANY*",
+    "teacher": "COX, C.^",
+    "room": "rm 106/Auditorium",
+    "period": "B8",
+    "semester": "full year"
+  },
+  {
+    "name": "DANCE 3 Concurrent Enrollment -SYNERGY*",
+    "teacher": "DILELLO^^",
+    "room": "rm 109",
+    "period": "A2",
+    "semester": "full year"
+  },
+  {
+    "name": "UNIFIED PE",
+    "teacher": "DILELLO^^",
+    "room": "rm 109",
+    "period": "A3",
+    "semester": "1, 2"
+  },
+  {
+    "name": "YOGA 1",
+    "teacher": "DILELLO^^",
+    "room": "rm 109",
+    "period": "A4",
+    "semester": "1, 2"
+  },
+  {
+    "name": "URBAN DANCE/HIP-HOP",
+    "teacher": "DILELLO^^",
+    "room": "rm 109",
+    "period": "B7",
+    "semester": "1, 2"
+  },
+  {
+    "name": "YOGA 1",
+    "teacher": "DILELLO^^",
+    "room": "rm 109",
+    "period": "B8",
+    "semester": "1, 2"
+  },
+  {
+    "name": "PAINTING 2",
+    "teacher": "FIELD",
+    "room": "rm 716",
+    "period": "A1",
+    "semester": "1, 2"
+  },
+  {
+    "name": "PAINTING 1",
+    "teacher": "FIELD",
+    "room": "rm 716",
+    "period": "A3",
+    "semester": "1, 2"
+  },
+  {
+    "name": "PAINTING 1",
+    "teacher": "FIELD",
+    "room": "rm 716",
+    "period": "A4",
+    "semester": "1, 2"
+  },
+  {
+    "name": "SCULPTURE 2 HONORS",
+    "teacher": "FIELD",
+    "room": "rm 716",
+    "period": "B5",
+    "semester": "1, 2"
+  },
+  {
+    "name": "SCULPTURE 1",
+    "teacher": "FIELD",
+    "room": "rm 716",
+    "period": "B6",
+    "semester": "1, 2"
+  },
+  {
+    "name": "SCULPTURE 1",
+    "teacher": "FIELD",
+    "room": "rm 716",
+    "period": "B7",
+    "semester": "1, 2"
+  },
+  {
+    "name": "SCULPTURE 1",
+    "teacher": "FIELD",
+    "room": "rm 716",
+    "period": "B8",
+    "semester": "1, 2"
+  },
+  {
+    "name": "GUITAR 1",
+    "teacher": "GUMMOW\n",
+    "room": "rm 100",
+    "period": "A3",
+    "semester": "1, 2"
+  },
+  {
+    "name": "GUITAR 1",
+    "teacher": "GUMMOW\n",
+    "room": "rm 100",
+    "period": "A4",
+    "semester": "1, 2"
+  },
+  {
+    "name": "WIND ENSEMBLE ADVANCED*",
+    "teacher": "KIM, J. rm 104",
+    "room": "0 Per. Sem. 1 MARCHING BAND",
+    "period": "A1",
+    "semester": "full year"
+  },
+  {
+    "name": "WIND SYMPHONY*",
+    "teacher": "KIM, J. rm 104",
+    "room": "0 Per. Sem. 1 MARCHING BAND",
+    "period": "A2",
+    "semester": "full year"
+  },
+  {
+    "name": "UKULELE",
+    "teacher": "KIM, J. rm 104",
+    "room": "0 Per. Sem. 1 MARCHING BAND",
+    "period": "A4",
+    "semester": "1, 2"
+  },
+  {
+    "name": "JAZZ BAND 2*",
+    "teacher": "KIM, J. rm 104",
+    "room": "0 Per. Sem. 1 MARCHING BAND",
+    "period": "B5",
+    "semester": "full year"
+  },
+  {
+    "name": "JAZZ BAND 1*",
+    "teacher": "KIM, J. rm 104",
+    "room": "0 Per. Sem. 1 MARCHING BAND",
+    "period": "B6",
+    "semester": "full year"
+  },
+  {
+    "name": "POP/ROCK ENSEMBLE*",
+    "teacher": "KIM, J. rm 104",
+    "room": "0 Per. Sem. 1 MARCHING BAND",
+    "period": "B7",
+    "semester": "full year"
+  },
+  {
+    "name": "DANCE COMPANY*",
+    "teacher": "KNIGHT^",
+    "room": "rm 109",
+    "period": "B5",
+    "semester": "full year"
+  },
+  {
+    "name": "DRAWING 1",
+    "teacher": "OMER, M.",
+    "room": "rm 236",
+    "period": "A1",
+    "semester": "1, 2"
+  },
+  {
+    "name": "DRAWING 1",
+    "teacher": "OMER, M.",
+    "room": "rm 236",
+    "period": "A2",
+    "semester": "1, 2"
+  },
+  {
+    "name": "DRAWING 1",
+    "teacher": "OMER, M.",
+    "room": "rm 236",
+    "period": "A4",
+    "semester": "1, 2"
+  },
+  {
+    "name": "ART HONORS*",
+    "teacher": "OMER, M.",
+    "room": "rm 236",
+    "period": "B5",
+    "semester": "full year"
+  },
+  {
+    "name": "DRAWING 2",
+    "teacher": "OMER, M.",
+    "room": "rm 236",
+    "period": "B6",
+    "semester": "1, 2"
+  },
+  {
+    "name": "DRAWING 2",
+    "teacher": "OMER, M.",
+    "room": "rm 236",
+    "period": "B7",
+    "semester": "1, 2"
+  },
+  {
+    "name": "ITALIAN 1*",
+    "teacher": "PACK^^",
+    "room": "rm 715",
+    "period": "A1",
+    "semester": "full year"
+  },
+  {
+    "name": "ITALIAN 2*",
+    "teacher": "PACK^^",
+    "room": "rm 715",
+    "period": "A2",
+    "semester": "full year"
+  },
+  {
+    "name": "DRAWING 1",
+    "teacher": "PACK^^",
+    "room": "rm 715",
+    "period": "A3",
+    "semester": "1, 2"
+  },
+  {
+    "name": "AP ART-2D PORTFOLIO or AP ART DRAWING*",
+    "teacher": "PACK^^",
+    "room": "rm 715",
+    "period": "A4",
+    "semester": "full year"
+  },
+  {
+    "name": "AP ART HISTORY*",
+    "teacher": "PACK^^",
+    "room": "rm 715",
+    "period": "B5",
+    "semester": "full year"
+  },
+  {
+    "name": "DRAWING 1",
+    "teacher": "PACK^^",
+    "room": "rm 715",
+    "period": "B7",
+    "semester": "1, 2"
+  },
+  {
+    "name": "DRAWING 2",
+    "teacher": "PACK^^",
+    "room": "rm 715",
+    "period": "B8",
+    "semester": "1, 2"
+  },
+  {
+    "name": "ADVANCED WOMEN'S ENSEMBLE*",
+    "teacher": "POWELL",
+    "room": "rm 102",
+    "period": "A1",
+    "semester": "full year"
+  },
+  {
+    "name": "ACAPELLA CHOIR*",
+    "teacher": "POWELL",
+    "room": "rm 102",
+    "period": "A2",
+    "semester": "full year"
+  },
+  {
+    "name": "AP MUSIC THEORY*",
+    "teacher": "POWELL",
+    "room": "rm 102",
+    "period": "A3",
+    "semester": "full year"
+  },
+  {
+    "name": "MUSICAL THEATER",
+    "teacher": "POWELL",
+    "room": "rm 102",
+    "period": "A4",
+    "semester": "1, 2"
+  },
+  {
+    "name": "ADVANCED MEN'S ENSEMBLE*",
+    "teacher": "POWELL",
+    "room": "rm 102",
+    "period": "B5",
+    "semester": "full year"
+  },
+  {
+    "name": "CHAMBER CHOIR*",
+    "teacher": "POWELL",
+    "room": "rm 102",
+    "period": "B6",
+    "semester": "full year"
+  },
+  {
+    "name": "PRODUCTIONS COMPANY*",
+    "teacher": "POWELL",
+    "room": "rm 102",
+    "period": "B8",
+    "semester": "full year"
+  },
+  {
+    "name": "CERAMICS 1",
+    "teacher": "SEELY",
+    "room": "rm 305",
+    "period": "A1",
+    "semester": "1, 2"
+  },
+  {
+    "name": "CERAMICS 1",
+    "teacher": "SEELY",
+    "room": "rm 305",
+    "period": "A2",
+    "semester": "1, 2"
+  },
+  {
+    "name": "CERAMICS 1",
+    "teacher": "SEELY",
+    "room": "rm 305",
+    "period": "A3",
+    "semester": "1, 2"
+  },
+  {
+    "name": "CERAMICS 1",
+    "teacher": "SEELY",
+    "room": "rm 305",
+    "period": "A4",
+    "semester": "1, 2"
+  },
+  {
+    "name": "CERAMICS 1",
+    "teacher": "SEELY",
+    "room": "rm 305",
+    "period": "B5",
+    "semester": "1, 2"
+  },
+  {
+    "name": "CERAMICS 2",
+    "teacher": "SEELY",
+    "room": "rm 305",
+    "period": "B7",
+    "semester": "1, 2"
+  },
+  {
+    "name": "AP ART-3D SCULPTURE PORTFOLIO*",
+    "teacher": "SEELY",
+    "room": "rm 305",
+    "period": "B8",
+    "semester": "full year"
+  },
+  {
+    "name": "CONCERT ORCHESTRA*",
+    "teacher": "VERNON",
+    "room": "rm 100",
+    "period": "B5",
+    "semester": "full year"
+  },
+  {
+    "name": "SYMPHONIC ORCHESTRA*",
+    "teacher": "VERNON",
+    "room": "rm 100",
+    "period": "B6",
+    "semester": "full year"
+  },
+  {
+    "name": "CHAMBER ORCHESTRA*",
+    "teacher": "VERNON",
+    "room": "rm 100",
+    "period": "B7",
+    "semester": "full year"
+  },
+  {
+    "name": "MUSIC HISTORY - Concurrent Enrollment",
+    "teacher": "VERNON",
+    "room": "rm 100",
+    "period": "B8",
+    "semester": "1, 2"
+  },
+  {
+    "name": "PERCUSSION ADV.*",
+    "teacher": "NEW TEACHER (Keyes)",
+    "room": "rm 100 / 104 / 141",
+    "period": "A1",
+    "semester": "full year"
+  },
+  {
+    "name": "PERCUSSION BEGINNING & INT.*",
+    "teacher": "NEW TEACHER (Keyes)",
+    "room": "rm 100 / 104 / 141",
+    "period": "A2",
+    "semester": "full year"
+  },
+  {
+    "name": "DRUM SET 1",
+    "teacher": "NEW TEACHER (Keyes)",
+    "room": "rm 100 / 104 / 141",
+    "period": "A3",
+    "semester": "1, 2"
+  },
+  {
+    "name": "HISTORY OF ROCK AND ROLL",
+    "teacher": "NEW TEACHER (Keyes)",
+    "room": "rm 100 / 104 / 141",
+    "period": "B5",
+    "semester": "1, 2"
+  },
+  {
+    "name": "HISTORY OF ROCK AND ROLL",
+    "teacher": "NEW TEACHER (Keyes)",
+    "room": "rm 100 / 104 / 141",
+    "period": "B6",
+    "semester": "1, 2"
+  },
+  {
+    "name": "STEEL DRUMS",
+    "teacher": "NEW TEACHER (Keyes)",
+    "room": "rm 100 / 104 / 141",
+    "period": "B8",
+    "semester": "1, 2"
+  },
+  {
+    "name": "HIGH FIT/ZUMBA",
+    "teacher": "ASAY",
+    "room": "Main Gym / rm 109",
+    "period": "A1",
+    "semester": "1, 2"
+  },
+  {
+    "name": "LIFETIME ACTIVITY",
+    "teacher": "ASAY",
+    "room": "Main Gym / rm 109",
+    "period": "A2",
+    "semester": "1, 2"
+  },
+  {
+    "name": "LIFETIME ACTIVITY",
+    "teacher": "ASAY",
+    "room": "Main Gym / rm 109",
+    "period": "A3",
+    "semester": "1, 2"
+  },
+  {
+    "name": "LIFETIME ACTIVITY",
+    "teacher": "ASAY",
+    "room": "Main Gym / rm 109",
+    "period": "B6",
+    "semester": "1, 2"
+  },
+  {
+    "name": "LIFETIME ACTIVITY",
+    "teacher": "ASAY",
+    "room": "Main Gym / rm 109",
+    "period": "B7",
+    "semester": "1, 2"
+  },
+  {
+    "name": "PE FITNESS",
+    "teacher": "BEZZANT",
+    "room": "Main Gym / Weight/201",
+    "period": "A1",
+    "semester": "1, 2"
+  },
+  {
+    "name": "WEIGHTS",
+    "teacher": "BEZZANT",
+    "room": "Main Gym / Weight/201",
+    "period": "A2",
+    "semester": "1, 2"
+  },
+  {
+    "name": "PE FITNESS",
+    "teacher": "BEZZANT",
+    "room": "Main Gym / Weight/201",
+    "period": "A3",
+    "semester": "1, 2"
+  },
+  {
+    "name": "PE FITNESS",
+    "teacher": "BEZZANT",
+    "room": "Main Gym / Weight/201",
+    "period": "B5",
+    "semester": "1, 2"
+  },
+  {
+    "name": "WEIGHTS",
+    "teacher": "BEZZANT",
+    "room": "Main Gym / Weight/201",
+    "period": "B6",
+    "semester": "1, 2"
+  },
+  {
+    "name": "WEIGHTS",
+    "teacher": "BEZZANT",
+    "room": "Main Gym / Weight/201",
+    "period": "B7",
+    "semester": "1, 2"
+  },
+  {
+    "name": "BASEBALL TEAM",
+    "teacher": "BEZZANT",
+    "room": "Main Gym / Weight/201",
+    "period": "B8",
+    "semester": "1, 2"
+  },
+  {
+    "name": "GOV & CIT",
+    "teacher": "FARR^",
+    "room": "rm 910",
+    "period": "A1",
+    "semester": "1, 2"
+  },
+  {
+    "name": "GOV & CIT",
+    "teacher": "FARR^",
+    "room": "rm 910",
+    "period": "A2",
+    "semester": "1, 2"
+  },
+  {
+    "name": "GOV & CIT",
+    "teacher": "FARR^",
+    "room": "rm 910",
+    "period": "A3",
+    "semester": "1, 2"
+  },
+  {
+    "name": "GOV & CIT",
+    "teacher": "FARR^",
+    "room": "rm 910",
+    "period": "A4",
+    "semester": "1, 2"
+  },
+  {
+    "name": "GOV & CIT",
+    "teacher": "FARR^",
+    "room": "rm 910",
+    "period": "B5",
+    "semester": "1, 2"
+  },
+  {
+    "name": "GOV & CIT",
+    "teacher": "FARR^",
+    "room": "rm 910",
+    "period": "B6",
+    "semester": "1, 2"
+  },
+  {
+    "name": "BOYS GOLF TEAM",
+    "teacher": "FARR^",
+    "room": "rm 910",
+    "period": "B8",
+    "semester": "1, 2"
+  },
+  {
+    "name": "HEALTH",
+    "teacher": "FERRAN",
+    "room": "rm 801",
+    "period": "A1",
+    "semester": "1, 2"
+  },
+  {
+    "name": "HEALTH",
+    "teacher": "FERRAN",
+    "room": "rm 801",
+    "period": "A2",
+    "semester": "1, 2"
+  },
+  {
+    "name": "HEALTH",
+    "teacher": "FERRAN",
+    "room": "rm 801",
+    "period": "A3",
+    "semester": "1, 2"
+  },
+  {
+    "name": "HEALTH",
+    "teacher": "FERRAN",
+    "room": "rm 801",
+    "period": "A4",
+    "semester": "1, 2"
+  },
+  {
+    "name": "HEALTH",
+    "teacher": "FERRAN",
+    "room": "rm 801",
+    "period": "B5",
+    "semester": "1, 2"
+  },
+  {
+    "name": "HEALTH",
+    "teacher": "FERRAN",
+    "room": "rm 801",
+    "period": "B6",
+    "semester": "1, 2"
+  },
+  {
+    "name": "HEALTH",
+    "teacher": "FERRAN",
+    "room": "rm 801",
+    "period": "B8",
+    "semester": "1, 2"
+  },
+  {
+    "name": "US HISTORY*",
+    "teacher": "JOLLEY^",
+    "room": "rm 132",
+    "period": "A1",
+    "semester": "full year"
+  },
+  {
+    "name": "US HISTORY*",
+    "teacher": "JOLLEY^",
+    "room": "rm 132",
+    "period": "A2",
+    "semester": "full year"
+  },
+  {
+    "name": "US HISTORY*",
+    "teacher": "JOLLEY^",
+    "room": "rm 132",
+    "period": "A3",
+    "semester": "full year"
+  },
+  {
+    "name": "GIRLS SOCCER TEAM",
+    "teacher": "JOLLEY^",
+    "room": "rm 132",
+    "period": "A4",
+    "semester": "1, 2"
+  },
+  {
+    "name": "US HISTORY*",
+    "teacher": "JOLLEY^",
+    "room": "rm 132",
+    "period": "B5",
+    "semester": "full year"
+  },
+  {
+    "name": "PE FITNESS",
+    "teacher": "JOLLEY^",
+    "room": "rm 132",
+    "period": "B6",
+    "semester": "1, 2"
+  },
+  {
+    "name": "PE FITNESS",
+    "teacher": "JOLLEY^",
+    "room": "rm 132",
+    "period": "B7",
+    "semester": "1, 2"
+  },
+  {
+    "name": "GIRLS VOLLEYBALL TEAM",
+    "teacher": "MOEA'I (Dickson)",
+    "room": "",
+    "period": "A4",
+    "semester": "full year"
+  },
+  {
+    "name": "CHEVALIERS-DRILL TEAM*",
+    "teacher": "MURPHY^",
+    "room": "Maroon Gym",
+    "period": "A1",
+    "semester": "full year"
+  },
+  {
+    "name": "STUDY HALL",
+    "teacher": "NILSON^",
+    "room": "rm 213",
+    "period": "A3",
+    "semester": "1, 2"
+  },
+  {
+    "name": "BOYS SOCCER TEAM",
+    "teacher": "NILSON^",
+    "room": "rm 213",
+    "period": "A4",
+    "semester": "1, 2"
+  },
+  {
+    "name": "PE FITNESS",
+    "teacher": "SCHOONOVER",
+    "room": "Main Gym / rm 201",
+    "period": "A1",
+    "semester": "1, 2"
+  },
+  {
+    "name": "PE FITNESS",
+    "teacher": "SCHOONOVER",
+    "room": "Main Gym / rm 201",
+    "period": "A2",
+    "semester": "1, 2"
+  },
+  {
+    "name": "WEIGHTS",
+    "teacher": "SCHOONOVER",
+    "room": "Main Gym / rm 201",
+    "period": "A3",
+    "semester": "1, 2"
+  },
+  {
+    "name": "ADVANCED WEIGHTS",
+    "teacher": "SCHOONOVER",
+    "room": "Main Gym / rm 201",
+    "period": "A4",
+    "semester": "1, 2"
+  },
+  {
+    "name": "LIFETIME ACTIVITY",
+    "teacher": "SCHOONOVER",
+    "room": "Main Gym / rm 201",
+    "period": "B6",
+    "semester": "1, 2"
+  },
+  {
+    "name": "LIFETIME ACTIVITY",
+    "teacher": "SCHOONOVER",
+    "room": "Main Gym / rm 201",
+    "period": "B7",
+    "semester": "1, 2"
+  },
+  {
+    "name": "ADVANCED WEIGHTS",
+    "teacher": "SCHOONOVER",
+    "room": "Main Gym / rm 201",
+    "period": "B8",
+    "semester": "1, 2"
+  },
+  {
+    "name": "ENGLISH LANGUAGE DEVELOPMENT",
+    "teacher": "SMITH, CALVIN^^",
+    "room": "rm 705 / Off Campus",
+    "period": "A1",
+    "semester": "1, 2"
+  },
+  {
+    "name": "GOV & CIT",
+    "teacher": "SMITH, CALVIN^^",
+    "room": "rm 705 / Off Campus",
+    "period": "A2",
+    "semester": "1, 2"
+  },
+  {
+    "name": "SWIM TEAM",
+    "teacher": "SMITH, CALVIN^^",
+    "room": "rm 705 / Off Campus",
+    "period": "A3",
+    "semester": "1, 2"
+  },
+  {
+    "name": "AP ECONOMICS*",
+    "teacher": "SMITH, CALVIN^^",
+    "room": "rm 705 / Off Campus",
+    "period": "B5",
+    "semester": "full year"
+  },
+  {
+    "name": "AP GOV & POLITICS with AP COMPARATIVE GOVERNMENT*",
+    "teacher": "SMITH, CALVIN^^",
+    "room": "rm 705 / Off Campus",
+    "period": "B6",
+    "semester": "full year"
+  },
+  {
+    "name": "AP GOV & POLITICS with AP COMPARATIVE GOVERNMENT*",
+    "teacher": "SMITH, CALVIN^^",
+    "room": "rm 705 / Off Campus",
+    "period": "B8",
+    "semester": "full year"
+  },
+  {
+    "name": "SWIM TEAM",
+    "teacher": "TIFFANY",
+    "room": "off campus",
+    "period": "A3",
+    "semester": "full year"
+  },
+  {
+    "name": "WEIGHTS Female",
+    "teacher": "WARNER",
+    "room": "",
+    "period": "A1",
+    "semester": "1, 2"
+  },
+  {
+    "name": "LIFETIME ACTIVITY",
+    "teacher": "WARNER",
+    "room": "",
+    "period": "A2",
+    "semester": "1, 2"
+  },
+  {
+    "name": "LIFETIME ACTIVITY",
+    "teacher": "WARNER",
+    "room": "",
+    "period": "A3",
+    "semester": "1, 2"
+  },
+  {
+    "name": "GIRLS BASKETBALL TEAM",
+    "teacher": "WARNER",
+    "room": "",
+    "period": "A4",
+    "semester": "1, 2"
+  },
+  {
+    "name": "BOYS WRESTLING TEAM",
+    "teacher": "WILDE",
+    "room": "rm 202",
+    "period": "B8",
+    "semester": "full year"
+  },
+  {
+    "name": "STUDY HALL",
+    "teacher": "NEW TEACHER (Ingle)^",
+    "room": "rm 230",
+    "period": "A2",
+    "semester": "1, 2"
+  },
+  {
+    "name": "STUDY HALL",
+    "teacher": "NEW TEACHER (Ingle)^",
+    "room": "rm 230",
+    "period": "A3",
+    "semester": "1, 2"
+  },
+  {
+    "name": "COLLEGE/AP ACADEMIC STUDY HALL",
+    "teacher": "NEW TEACHER (Ingle)^",
+    "room": "rm 230",
+    "period": "A4",
+    "semester": "1, 2"
+  },
+  {
+    "name": "INTRO TO BASKETBALL",
+    "teacher": "NEW TEACHER (Ingle)^",
+    "room": "rm 230",
+    "period": "B5",
+    "semester": "1, 2"
+  },
+  {
+    "name": "HEALTH",
+    "teacher": "NEW TEACHER (Ingle)^",
+    "room": "rm 230",
+    "period": "B6",
+    "semester": "1, 2"
+  },
+  {
+    "name": "HEALTH",
+    "teacher": "NEW TEACHER (Ingle)^",
+    "room": "rm 230",
+    "period": "B7",
+    "semester": "1, 2"
+  },
+  {
+    "name": "BOYS BASKETBALL TEAM",
+    "teacher": "NEW TEACHER (Ingle)^",
+    "room": "rm 230",
+    "period": "B8",
+    "semester": "1, 2"
+  },
+  {
+    "name": "STUDY HALL",
+    "teacher": "BERRY",
+    "room": "rm 603",
+    "period": "A1",
+    "semester": "1, 2"
+  },
+  {
+    "name": "Essentials Coordinator",
+    "teacher": "BERRY",
+    "room": "rm 603",
+    "period": "A2",
+    "semester": "full year"
+  },
+  {
+    "name": "STUDY HALL",
+    "teacher": "BERRY",
+    "room": "rm 603",
+    "period": "A3",
+    "semester": "1, 2"
+  },
+  {
+    "name": "STUDY HALL",
+    "teacher": "BERRY",
+    "room": "rm 603",
+    "period": "B5",
+    "semester": "1, 2"
+  },
+  {
+    "name": "STUDY HALL",
+    "teacher": "BERRY",
+    "room": "rm 603",
+    "period": "B6",
+    "semester": "1, 2"
+  },
+  {
+    "name": "STUDY HALL",
+    "teacher": "BERRY",
+    "room": "rm 603",
+    "period": "B7",
+    "semester": "1, 2"
+  },
+  {
+    "name": "STUDY HALL",
+    "teacher": "BERRY",
+    "room": "rm 603",
+    "period": "B8",
+    "semester": "1, 2"
+  },
+  {
+    "name": "DIGITAL CURRICULUM",
+    "teacher": "BRINKERHOFF, L.",
+    "room": "rm 217",
+    "period": "A1",
+    "semester": "1, 2"
+  },
+  {
+    "name": "DIGITAL CURRICULUM",
+    "teacher": "BRINKERHOFF, L.",
+    "room": "rm 217",
+    "period": "A2",
+    "semester": "1, 2"
+  },
+  {
+    "name": "DIGITAL CURRICULUM",
+    "teacher": "BRINKERHOFF, L.",
+    "room": "rm 217",
+    "period": "A3",
+    "semester": "1, 2"
+  },
+  {
+    "name": "DIGITAL CURRICULUM",
+    "teacher": "BRINKERHOFF, L.",
+    "room": "rm 217",
+    "period": "A4",
+    "semester": "1, 2"
+  },
+  {
+    "name": "DIGITAL CURRICULUM",
+    "teacher": "BRINKERHOFF, L.",
+    "room": "rm 217",
+    "period": "B5",
+    "semester": "1, 2"
+  },
+  {
+    "name": "DIGITAL CURRICULUM",
+    "teacher": "BRINKERHOFF, L.",
+    "room": "rm 217",
+    "period": "B6",
+    "semester": "1, 2"
+  },
+  {
+    "name": "DIGITAL CURRICULUM",
+    "teacher": "BRINKERHOFF, L.",
+    "room": "rm 217",
+    "period": "B7",
+    "semester": "1, 2"
+  },
+  {
+    "name": "DIGITAL CURRICULUM",
+    "teacher": "BRINKERHOFF, L.",
+    "room": "rm 217",
+    "period": "B8",
+    "semester": "1, 2"
+  },
+  {
+    "name": "FINANCIAL LITERACY - Concurrent Enrollment",
+    "teacher": "FLOOD",
+    "room": "rm 909",
+    "period": "A1",
+    "semester": "1, 2"
+  },
+  {
+    "name": "FINANCIAL LITERACY - Concurrent Enrollment",
+    "teacher": "FLOOD",
+    "room": "rm 909",
+    "period": "A2",
+    "semester": "1, 2"
+  },
+  {
+    "name": "FINANCIAL LITERACY - Concurrent Enrollment",
+    "teacher": "FLOOD",
+    "room": "rm 909",
+    "period": "A3",
+    "semester": "1, 2"
+  },
+  {
+    "name": "FINANCIAL LITERACY - Concurrent Enrollment",
+    "teacher": "FLOOD",
+    "room": "rm 909",
+    "period": "B5",
+    "semester": "1, 2"
+  },
+  {
+    "name": "FINANCIAL LITERACY - Concurrent Enrollment",
+    "teacher": "FLOOD",
+    "room": "rm 909",
+    "period": "B6",
+    "semester": "1, 2"
+  },
+  {
+    "name": "FINANCIAL LITERACY - Concurrent Enrollment",
+    "teacher": "FLOOD",
+    "room": "rm 909",
+    "period": "B7",
+    "semester": "1, 2"
+  },
+  {
+    "name": "FINANCIAL LITERACY - Concurrent Enrollment",
+    "teacher": "FLOOD",
+    "room": "rm 909",
+    "period": "B8",
+    "semester": "1, 2"
+  },
+  {
+    "name": "MATH 1010-Concurrent Enrollment",
+    "teacher": "SUMMERS^",
+    "room": "rm 906",
+    "period": "A2",
+    "semester": "1, 2"
+  },
+  {
+    "name": "SECONDARY MATH 3 EXTENDED*",
+    "teacher": "SUMMERS^",
+    "room": "rm 906",
+    "period": "A3",
+    "semester": "full year"
+  },
+  {
+    "name": "CALCULUS AB LAB",
+    "teacher": "SUMMERS^",
+    "room": "rm 906",
+    "period": "A4",
+    "semester": "1, 2"
+  },
+  {
+    "name": "CALCULUS AB LAB",
+    "teacher": "SUMMERS^",
+    "room": "rm 906",
+    "period": "B5",
+    "semester": "1, 2"
+  },
+  {
+    "name": "MATH 1010-Concurrent Enrollment",
+    "teacher": "SUMMERS^",
+    "room": "rm 906",
+    "period": "B6",
+    "semester": "1, 2"
+  },
+  {
+    "name": "AP STATISTICS*",
+    "teacher": "SUMMERS^",
+    "room": "rm 906",
+    "period": "B7",
+    "semester": "full year"
+  },
+  {
+    "name": "CALCULUS AB LAB",
+    "teacher": "SUMMERS^",
+    "room": "rm 906",
+    "period": "B8",
+    "semester": "1, 2"
+  },
+  {
+    "name": "VIDEO PROD 1",
+    "teacher": "TOPHAM^",
+    "room": "rm 808",
+    "period": "A1",
+    "semester": "1, 2"
+  },
+  {
+    "name": "UKNIGHTED*",
+    "teacher": "TOPHAM^",
+    "room": "rm 808",
+    "period": "A2",
+    "semester": "full year"
+  },
+  {
+    "name": "STUDENT GOVERNMENT*",
+    "teacher": "TOPHAM^",
+    "room": "rm 808",
+    "period": "A3",
+    "semester": "full year"
+  },
+  {
+    "name": "CINEMATOGRAPHY",
+    "teacher": "TOPHAM^",
+    "room": "rm 808",
+    "period": "A4",
+    "semester": "1, 2"
+  },
+  {
+    "name": "UKNIGHTED*",
+    "teacher": "TOPHAM^",
+    "room": "rm 808",
+    "period": "B6",
+    "semester": "full year"
+  },
+  {
+    "name": "LONE PEAK LIVE - Concurrent Enrollment",
+    "teacher": "TOPHAM^",
+    "room": "rm 808",
+    "period": "B7",
+    "semester": "1, 2"
+  },
+  {
+    "name": "PEOPLE OF THE PACIFIC",
+    "teacher": "TOPHAM^",
+    "room": "rm 808",
+    "period": "B8",
+    "semester": "1, 2"
+  },
+  {
+    "name": "FINANCIAL LITERACY",
+    "teacher": "rm 703",
+    "room": "WAWRO^",
+    "period": "A1",
+    "semester": "1, 2"
+  },
+  {
+    "name": "SOCIAL STUDIES ESSENTIALS",
+    "teacher": "rm 703",
+    "room": "WAWRO^",
+    "period": "A2",
+    "semester": "1, 2"
+  },
+  {
+    "name": "FINANCIAL LITERACY",
+    "teacher": "rm 703",
+    "room": "WAWRO^",
+    "period": "A3",
+    "semester": "1, 2"
+  },
+  {
+    "name": "FINANCIAL LITERACY",
+    "teacher": "rm 703",
+    "room": "WAWRO^",
+    "period": "A4",
+    "semester": "1, 2"
+  },
+  {
+    "name": "PHILOSOPHY",
+    "teacher": "rm 602",
+    "room": "WINN",
+    "period": "A4",
+    "semester": "1, 2"
+  },
+  {
+    "name": "SOCIOLOGY",
+    "teacher": "rm 602",
+    "room": "WINN",
+    "period": "B5",
+    "semester": "1, 2"
+  },
+  {
+    "name": "SOCIOLOGY",
+    "teacher": "rm 602",
+    "room": "WINN",
+    "period": "B6",
+    "semester": "1, 2"
+  },
+  {
+    "name": "SOCIOLOGY",
+    "teacher": "rm 602",
+    "room": "WINN",
+    "period": "B7",
+    "semester": "1, 2"
+  },
+  {
+    "name": "SOCIOLOGY",
+    "teacher": "rm 602",
+    "room": "WINN",
+    "period": "B8",
+    "semester": "1, 2"
+  },
+  {
+    "name": "UVU LIVE INTERACTIVE",
+    "teacher": "rm 710/712",
+    "room": "WENTZ^",
+    "period": "A1",
+    "semester": "1, 2"
+  },
+  {
+    "name": "UVU LIVE INTERACTIVE",
+    "teacher": "rm 710/712",
+    "room": "WENTZ^",
+    "period": "A2",
+    "semester": "1, 2"
+  },
+  {
+    "name": "UVU LIVE INTERACTIVE",
+    "teacher": "rm 710/712",
+    "room": "WENTZ^",
+    "period": "A3",
+    "semester": "1, 2"
+  },
+  {
+    "name": "UVU LIVE INTERACTIVE",
+    "teacher": "rm 710/712",
+    "room": "WENTZ^",
+    "period": "A4",
+    "semester": "1, 2"
+  },
+  {
+    "name": "UVU LIVE INTERACTIVE",
+    "teacher": "rm 710/712",
+    "room": "WENTZ^",
+    "period": "B5",
+    "semester": "1, 2"
+  },
+  {
+    "name": "UVU LIVE INTERACTIVE",
+    "teacher": "rm 710/712",
+    "room": "WENTZ^",
+    "period": "B6",
+    "semester": "1, 2"
+  },
+  {
+    "name": "UVU LIVE INTERACTIVE",
+    "teacher": "rm 710/712",
+    "room": "WENTZ^",
+    "period": "B7",
+    "semester": "1, 2"
+  },
+  {
+    "name": "UVU LIVE INTERACTIVE",
+    "teacher": "rm 710/712",
+    "room": "WENTZ^",
+    "period": "B8",
+    "semester": "1, 2"
+  },
+  {
+    "name": "SEMINARY",
+    "teacher": "0 Per. A days OR B days SEMINARY",
+    "room": "NEW TEACHER (Henderson)^",
+    "period": "A1",
+    "semester": "full year"
+  },
+  {
+    "name": "SEMINARY",
+    "teacher": "0 Per. A days OR B days SEMINARY",
+    "room": "NEW TEACHER (Henderson)^",
+    "period": "A2",
+    "semester": "full year"
+  },
+  {
+    "name": "SEMINARY",
+    "teacher": "0 Per. A days OR B days SEMINARY",
+    "room": "NEW TEACHER (Henderson)^",
+    "period": "A3",
+    "semester": "full year"
+  },
+  {
+    "name": "SEMINARY",
+    "teacher": "0 Per. A days OR B days SEMINARY",
+    "room": "NEW TEACHER (Henderson)^",
+    "period": "A4",
+    "semester": "full year"
+  },
+  {
+    "name": "SEMINARY",
+    "teacher": "0 Per. A days OR B days SEMINARY",
+    "room": "NEW TEACHER (Henderson)^",
+    "period": "B5",
+    "semester": "full year"
+  },
+  {
+    "name": "SEMINARY",
+    "teacher": "0 Per. A days OR B days SEMINARY",
+    "room": "NEW TEACHER (Henderson)^",
+    "period": "B6",
+    "semester": "full year"
+  },
+  {
+    "name": "SEMINARY",
+    "teacher": "0 Per. A days OR B days SEMINARY",
+    "room": "NEW TEACHER (Henderson)^",
+    "period": "B7",
+    "semester": "1, 2"
+  },
+  {
+    "name": "SEMINARY",
+    "teacher": "0 Per. A days OR B days SEMINARY",
+    "room": "NEW TEACHER (Henderson)^",
+    "period": "B8",
+    "semester": "full year"
+  },
+  {
+    "name": "ENGLISH LANGUAGE LEARNERS ACADEMIC STUDY HALL",
+    "teacher": "rm 132",
+    "room": "NEW TEACHER (Ingle)^",
+    "period": "B7",
+    "semester": "1, 2"
+  },
+  {
+    "name": "AP GOV & POLITICS-Concurrent Enrollment*",
+    "teacher": "BIRRELL rm 133",
+    "room": "0 Per. AP US HISTORY - Concurrent Enrollment*",
+    "period": "A1",
+    "semester": "full year"
+  },
+  {
+    "name": "AMERICAN STUDIES*",
+    "teacher": "BIRRELL rm 133",
+    "room": "0 Per. AP US HISTORY - Concurrent Enrollment*",
+    "period": "A2",
+    "semester": "full year"
+  },
+  {
+    "name": "AMERICAN STUDIES*",
+    "teacher": "BIRRELL rm 133",
+    "room": "0 Per. AP US HISTORY - Concurrent Enrollment*",
+    "period": "A3",
+    "semester": "full year"
+  },
+  {
+    "name": "AP US HISTORY - Concurrent Enrollment*",
+    "teacher": "BIRRELL rm 133",
+    "room": "0 Per. AP US HISTORY - Concurrent Enrollment*",
+    "period": "B5",
+    "semester": "full year"
+  },
+  {
+    "name": "AMERICAN STUDIES*",
+    "teacher": "BIRRELL rm 133",
+    "room": "0 Per. AP US HISTORY - Concurrent Enrollment*",
+    "period": "B6",
+    "semester": "full year"
+  },
+  {
+    "name": "AMERICAN STUDIES*",
+    "teacher": "BIRRELL rm 133",
+    "room": "0 Per. AP US HISTORY - Concurrent Enrollment*",
+    "period": "B7",
+    "semester": "full year"
+  },
+  {
+    "name": "SPORTS PSYCHOLOGY",
+    "teacher": "ELMER",
+    "room": "rm 700",
+    "period": "A2",
+    "semester": "1, 2"
+  },
+  {
+    "name": "PSYCHOLOGY",
+    "teacher": "ELMER",
+    "room": "rm 700",
+    "period": "A3",
+    "semester": "1, 2"
+  },
+  {
+    "name": "PSYCHOLOGY",
+    "teacher": "ELMER",
+    "room": "rm 700",
+    "period": "A4",
+    "semester": "1, 2"
+  },
+  {
+    "name": "POSITIVE PSYCHOLOGY",
+    "teacher": "ELMER",
+    "room": "rm 700",
+    "period": "B5",
+    "semester": "1, 2"
+  },
+  {
+    "name": "SPORTS PSYCHOLOGY",
+    "teacher": "ELMER",
+    "room": "rm 700",
+    "period": "B6",
+    "semester": "1, 2"
+  },
+  {
+    "name": "POSITIVE PSYCHOLOGY",
+    "teacher": "ELMER",
+    "room": "rm 700",
+    "period": "B7",
+    "semester": "1, 2"
+  },
+  {
+    "name": "POSITIVE PSYCHOLOGY",
+    "teacher": "ELMER",
+    "room": "rm 700",
+    "period": "B8",
+    "semester": "1, 2"
+  },
+  {
+    "name": "ANCIENT WORLD HISTORY",
+    "teacher": "GUNNARSON",
+    "room": "rm 135",
+    "period": "A2",
+    "semester": "1, 2"
+  },
+  {
+    "name": "ANCIENT WORLD HISTORY",
+    "teacher": "GUNNARSON",
+    "room": "rm 135",
+    "period": "A3",
+    "semester": "1, 2"
+  },
+  {
+    "name": "US HISTORY*",
+    "teacher": "GUNNARSON",
+    "room": "rm 135",
+    "period": "A4",
+    "semester": "full year"
+  },
+  {
+    "name": "US HISTORY*",
+    "teacher": "GUNNARSON",
+    "room": "rm 135",
+    "period": "B6",
+    "semester": "full year"
+  },
+  {
+    "name": "US HISTORY*",
+    "teacher": "GUNNARSON",
+    "room": "rm 135",
+    "period": "B7",
+    "semester": "full year"
+  },
+  {
+    "name": "US HISTORY*",
+    "teacher": "GUNNARSON",
+    "room": "rm 135",
+    "period": "B8",
+    "semester": "full year"
+  },
+  {
+    "name": "US HISTORY*",
+    "teacher": "HUBBARD",
+    "room": "rm 701",
+    "period": "A1",
+    "semester": "full year"
+  },
+  {
+    "name": "US HISTORY*",
+    "teacher": "HUBBARD",
+    "room": "rm 701",
+    "period": "A2",
+    "semester": "full year"
+  },
+  {
+    "name": "US HISTORY*",
+    "teacher": "HUBBARD",
+    "room": "rm 701",
+    "period": "A4",
+    "semester": "full year"
+  },
+  {
+    "name": "US HISTORY*",
+    "teacher": "HUBBARD",
+    "room": "rm 701",
+    "period": "B5",
+    "semester": "full year"
+  },
+  {
+    "name": "GOV & CIT",
+    "teacher": "HUBBARD",
+    "room": "rm 701",
+    "period": "B6",
+    "semester": "1, 2"
+  },
+  {
+    "name": "GOV & CIT",
+    "teacher": "HUBBARD",
+    "room": "rm 701",
+    "period": "B7",
+    "semester": "1, 2"
+  },
+  {
+    "name": "GOV & CIT",
+    "teacher": "HUBBARD",
+    "room": "rm 701",
+    "period": "B8",
+    "semester": "1, 2"
+  },
+  {
+    "name": "AP PSYCHOLOGY*",
+    "teacher": "KIM, H.",
+    "room": "rm 601",
+    "period": "A1",
+    "semester": "full year"
+  },
+  {
+    "name": "AP PSYCHOLOGY*",
+    "teacher": "KIM, H.",
+    "room": "rm 601",
+    "period": "A2",
+    "semester": "full year"
+  },
+  {
+    "name": "AP PSYCHOLOGY*",
+    "teacher": "KIM, H.",
+    "room": "rm 601",
+    "period": "A4",
+    "semester": "full year"
+  },
+  {
+    "name": "PSYCHOLOGY",
+    "teacher": "KIM, H.",
+    "room": "rm 601",
+    "period": "B5",
+    "semester": "1, 2"
+  },
+  {
+    "name": "PSYCHOLOGY",
+    "teacher": "KIM, H.",
+    "room": "rm 601",
+    "period": "B7",
+    "semester": "1, 2"
+  },
+  {
+    "name": "AP PSYCHOLOGY*",
+    "teacher": "KIM, H.",
+    "room": "rm 601",
+    "period": "B8",
+    "semester": "full year"
+  },
+  {
+    "name": "CURRENT ISSUES",
+    "teacher": "PAXTON^",
+    "room": "rm 912",
+    "period": "A1",
+    "semester": "1, 2"
+  },
+  {
+    "name": "FRENCH 1*",
+    "teacher": "PAXTON^",
+    "room": "rm 912",
+    "period": "A2",
+    "semester": "full year"
+  },
+  {
+    "name": "FRENCH 2*",
+    "teacher": "PAXTON^",
+    "room": "rm 912",
+    "period": "A3",
+    "semester": "full year"
+  },
+  {
+    "name": "FRENCH 4/AP* - Concurrent Enrollment",
+    "teacher": "PAXTON^",
+    "room": "rm 912",
+    "period": "B6",
+    "semester": "full year"
+  },
+  {
+    "name": "FRENCH 3* - Concurrent Enrollment",
+    "teacher": "PAXTON^",
+    "room": "rm 912",
+    "period": "B7",
+    "semester": "full year"
+  },
+  {
+    "name": "CURRENT ISSUES",
+    "teacher": "PAXTON^",
+    "room": "rm 912",
+    "period": "B8",
+    "semester": "1, 2"
+  },
+  {
+    "name": "US HISTORY*",
+    "teacher": "TURNER",
+    "room": "rm 702",
+    "period": "A2",
+    "semester": "full year"
+  },
+  {
+    "name": "US HISTORY*",
+    "teacher": "TURNER",
+    "room": "rm 702",
+    "period": "A3",
+    "semester": "full year"
+  },
+  {
+    "name": "US HISTORY*",
+    "teacher": "TURNER",
+    "room": "rm 702",
+    "period": "A4",
+    "semester": "full year"
+  },
+  {
+    "name": "AP WORLD HISTORY*",
+    "teacher": "TURNER",
+    "room": "rm 702",
+    "period": "B5",
+    "semester": "full year"
+  },
+  {
+    "name": "AP WORLD HISTORY*",
+    "teacher": "TURNER",
+    "room": "rm 702",
+    "period": "B6",
+    "semester": "full year"
+  },
+  {
+    "name": "THE U.S. & WW II",
+    "teacher": "TURNER",
+    "room": "rm 702",
+    "period": "B8",
+    "semester": "1, 2"
+  },
+  {
+    "name": "FINANCIAL LITERACY",
+    "teacher": "VOORHEIS^",
+    "room": "rm 703",
+    "period": "A1",
+    "semester": "1, 2"
+  },
+  {
+    "name": "SOCIAL STUDIES ESSENTIALS",
+    "teacher": "VOORHEIS^",
+    "room": "rm 703",
+    "period": "A2",
+    "semester": "1, 2"
+  },
+  {
+    "name": "FINANCIAL LITERACY",
+    "teacher": "VOORHEIS^",
+    "room": "rm 703",
+    "period": "A3",
+    "semester": "1, 2"
+  },
+  {
+    "name": "FINANCIAL LITERACY",
+    "teacher": "VOORHEIS^",
+    "room": "rm 703",
+    "period": "A4",
+    "semester": "1, 2"
+  },
+  {
+    "name": "US HISTORY*",
+    "teacher": "VOORHEIS^",
+    "room": "rm 703",
+    "period": "B5",
+    "semester": "full year"
+  },
+  {
+    "name": "US HISTORY*",
+    "teacher": "VOORHEIS^",
+    "room": "rm 703",
+    "period": "B7",
+    "semester": "full year"
+  },
+  {
+    "name": "US HISTORY*",
+    "teacher": "VOORHEIS^",
+    "room": "rm 703",
+    "period": "B8",
+    "semester": "full year"
+  },
+  {
+    "name": "AP HUMAN GEOGRAPHY*",
+    "teacher": "WAWRO^",
+    "room": "rm 602",
+    "period": "A2",
+    "semester": "full year"
+  },
+  {
+    "name": "STUDENT GOVERNMENT*",
+    "teacher": "WAWRO^",
+    "room": "rm 602",
+    "period": "A3",
+    "semester": "full year"
+  },
+  {
+    "name": "WORLD RELIGIONS",
+    "teacher": "WAWRO^",
+    "room": "rm 602",
+    "period": "A4",
+    "semester": "1, 2"
+  },
+  {
+    "name": "SOCIOLOGY",
+    "teacher": "WAWRO^",
+    "room": "rm 602",
+    "period": "B5",
+    "semester": "1, 2"
+  },
+  {
+    "name": "SOCIOLOGY",
+    "teacher": "WAWRO^",
+    "room": "rm 602",
+    "period": "B6",
+    "semester": "1, 2"
+  },
+  {
+    "name": "SOCIOLOGY",
+    "teacher": "WAWRO^",
+    "room": "rm 602",
+    "period": "B7",
+    "semester": "1, 2"
+  },
+  {
+    "name": "SOCIOLOGY",
+    "teacher": "WAWRO^",
+    "room": "rm 602",
+    "period": "B8",
+    "semester": "1, 2"
+  },
+  {
+    "name": "BIOLOGY 1010 - Concurrent Enrollment*",
+    "teacher": "BERRETT",
+    "room": "rm 222",
+    "period": "A1",
+    "semester": "full year"
+  },
+  {
+    "name": "BIOLOGY 1010 - Concurrent Enrollment*",
+    "teacher": "BERRETT",
+    "room": "rm 222",
+    "period": "A2",
+    "semester": "full year"
+  },
+  {
+    "name": "BIOLOGY 1010 - Concurrent Enrollment*",
+    "teacher": "BERRETT",
+    "room": "rm 222",
+    "period": "A3",
+    "semester": "full year"
+  },
+  {
+    "name": "BIOLOGY 1010 - Concurrent Enrollment*",
+    "teacher": "BERRETT",
+    "room": "rm 222",
+    "period": "A4",
+    "semester": "full year"
+  },
+  {
+    "name": "AP BIOLOGY - Concurrent Enrollment BIO 1610 & 1615*",
+    "teacher": "BERRETT",
+    "room": "rm 222",
+    "period": "B5",
+    "semester": "full year"
+  },
+  {
+    "name": "AP BIOLOGY - Concurrent Enrollment BIO 1610 & 1615*",
+    "teacher": "BERRETT",
+    "room": "rm 222",
+    "period": "B6",
+    "semester": "full year"
+  },
+  {
+    "name": "AP BIOLOGY - Concurrent Enrollment BIO 1610 & 1615*",
+    "teacher": "BERRETT",
+    "room": "rm 222",
+    "period": "B7",
+    "semester": "full year"
+  },
+  {
+    "name": "ASTRONOMY - Concurrent Enrollment",
+    "teacher": "EREKSON",
+    "room": "rm 131",
+    "period": "A1",
+    "semester": "1, 2"
+  },
+  {
+    "name": "ASTRONOMY - Concurrent Enrollment",
+    "teacher": "EREKSON",
+    "room": "rm 131",
+    "period": "A2",
+    "semester": "1, 2"
+  },
+  {
+    "name": "ASTRONOMY - Concurrent Enrollment",
+    "teacher": "EREKSON",
+    "room": "rm 131",
+    "period": "A3",
+    "semester": "1, 2"
+  },
+  {
+    "name": "ASTRONOMY - Concurrent Enrollment",
+    "teacher": "EREKSON",
+    "room": "rm 131",
+    "period": "A4",
+    "semester": "1, 2"
+  },
+  {
+    "name": "PHYSICS*",
+    "teacher": "EREKSON",
+    "room": "rm 131",
+    "period": "B5",
+    "semester": "full year"
+  },
+  {
+    "name": "AP PHYSICS C*",
+    "teacher": "EREKSON",
+    "room": "rm 131",
+    "period": "B6",
+    "semester": "full year"
+  },
+  {
+    "name": "PHYSICS*",
+    "teacher": "EREKSON",
+    "room": "rm 131",
+    "period": "B7",
+    "semester": "full year"
+  },
+  {
+    "name": "CHEMISTRY*",
+    "teacher": "MITCHELL^",
+    "room": "rm 224",
+    "period": "A2",
+    "semester": "full year"
+  },
+  {
+    "name": "WILDLIFE BIOLOGY",
+    "teacher": "MITCHELL^",
+    "room": "rm 224",
+    "period": "A3",
+    "semester": "1, 2"
+  },
+  {
+    "name": "WILDLIFE BIOLOGY",
+    "teacher": "MITCHELL^",
+    "room": "rm 224",
+    "period": "A4",
+    "semester": "1, 2"
+  },
+  {
+    "name": "MEDICAL FORENSICS* - Concurrent Enrollment",
+    "teacher": "MITCHELL^",
+    "room": "rm 224",
+    "period": "B5",
+    "semester": "full year"
+  },
+  {
+    "name": "MEDICAL FORENSICS* - Concurrent Enrollment",
+    "teacher": "MITCHELL^",
+    "room": "rm 224",
+    "period": "B6",
+    "semester": "full year"
+  },
+  {
+    "name": "MEDICAL FORENSICS* - Concurrent Enrollment",
+    "teacher": "MITCHELL^",
+    "room": "rm 224",
+    "period": "B7",
+    "semester": "full year"
+  },
+  {
+    "name": "AP CHEMISTRY*",
+    "teacher": "MITCHELL^",
+    "room": "rm 224",
+    "period": "B8",
+    "semester": "full year"
+  },
+  {
+    "name": "PHYSICS*",
+    "teacher": "NAIR",
+    "room": "rm 226",
+    "period": "A1",
+    "semester": "full year"
+  },
+  {
+    "name": "PHYSICS*",
+    "teacher": "NAIR",
+    "room": "rm 226",
+    "period": "A2",
+    "semester": "full year"
+  },
+  {
+    "name": "PHYSICS*",
+    "teacher": "NAIR",
+    "room": "rm 226",
+    "period": "A3",
+    "semester": "full year"
+  },
+  {
+    "name": "PHYSICS*",
+    "teacher": "NAIR",
+    "room": "rm 226",
+    "period": "A4",
+    "semester": "full year"
+  },
+  {
+    "name": "PHYSICS*",
+    "teacher": "NAIR",
+    "room": "rm 226",
+    "period": "B5",
+    "semester": "full year"
+  },
+  {
+    "name": "AP PHYSICS C*",
+    "teacher": "NAIR",
+    "room": "rm 226",
+    "period": "B7",
+    "semester": "full year"
+  },
+  {
+    "name": "PHYSICS*",
+    "teacher": "NAIR",
+    "room": "rm 226",
+    "period": "B8",
+    "semester": "full year"
+  },
+  {
+    "name": "EARTH SCIENCE*",
+    "teacher": "PASSEY",
+    "room": "rm 119",
+    "period": "A1",
+    "semester": "full year"
+  },
+  {
+    "name": "SCIENCE ESSENTIALS",
+    "teacher": "PASSEY",
+    "room": "rm 119",
+    "period": "A2",
+    "semester": "1, 2"
+  },
+  {
+    "name": "EARTH SCIENCE*",
+    "teacher": "PASSEY",
+    "room": "rm 119",
+    "period": "A3",
+    "semester": "full year"
+  },
+  {
+    "name": "EARTH SCIENCE*",
+    "teacher": "PASSEY",
+    "room": "rm 119",
+    "period": "A4",
+    "semester": "full year"
+  },
+  {
+    "name": "EARTH SCIENCE*",
+    "teacher": "PASSEY",
+    "room": "rm 119",
+    "period": "B5",
+    "semester": "full year"
+  },
+  {
+    "name": "PHYSICS*",
+    "teacher": "PASSEY",
+    "room": "rm 119",
+    "period": "B6",
+    "semester": "full year"
+  },
+  {
+    "name": "PHYSICS*",
+    "teacher": "PASSEY",
+    "room": "rm 119",
+    "period": "B8",
+    "semester": "full year"
+  },
+  {
+    "name": "ENVIRONMENTAL SCIENCE",
+    "teacher": "PERKES",
+    "room": "rm 218",
+    "period": "A1",
+    "semester": "1, 2"
+  },
+  {
+    "name": "AP ENVIRONMENTAL SCIENCE-Concurrent Enrollment*",
+    "teacher": "PERKES",
+    "room": "rm 218",
+    "period": "A3",
+    "semester": "full year"
+  },
+  {
+    "name": "AP ENVIRONMENTAL SCIENCE-Concurrent Enrollment*",
+    "teacher": "PERKES",
+    "room": "rm 218",
+    "period": "A4",
+    "semester": "full year"
+  },
+  {
+    "name": "WEATHER/CLIMATE - Concurrent Enrollment",
+    "teacher": "PERKES",
+    "room": "rm 218",
+    "period": "B5",
+    "semester": "1, 2"
+  },
+  {
+    "name": "WEATHER/CLIMATE - Concurrent Enrollment",
+    "teacher": "PERKES",
+    "room": "rm 218",
+    "period": "B6",
+    "semester": "1, 2"
+  },
+  {
+    "name": "WEATHER/CLIMATE - Concurrent Enrollment",
+    "teacher": "PERKES",
+    "room": "rm 218",
+    "period": "B7",
+    "semester": "1, 2"
+  },
+  {
+    "name": "WEATHER/CLIMATE - Concurrent Enrollment",
+    "teacher": "PERKES",
+    "room": "rm 218",
+    "period": "B8",
+    "semester": "1, 2"
+  },
+  {
+    "name": "BIOLOGY*",
+    "teacher": "PORTER",
+    "room": "rm 220",
+    "period": "A2",
+    "semester": "full year"
+  },
+  {
+    "name": "BIOLOGY*",
+    "teacher": "PORTER",
+    "room": "rm 220",
+    "period": "A3",
+    "semester": "full year"
+  },
+  {
+    "name": "BIOLOGY*",
+    "teacher": "PORTER",
+    "room": "rm 220",
+    "period": "A4",
+    "semester": "full year"
+  },
+  {
+    "name": "BIOLOGY*",
+    "teacher": "PORTER",
+    "room": "rm 220",
+    "period": "B5",
+    "semester": "full year"
+  },
+  {
+    "name": "BIOLOGY*",
+    "teacher": "PORTER",
+    "room": "rm 220",
+    "period": "B6",
+    "semester": "full year"
+  },
+  {
+    "name": "ZOOLOGY",
+    "teacher": "PORTER",
+    "room": "rm 220",
+    "period": "B7",
+    "semester": "1, 2"
+  },
+  {
+    "name": "ZOOLOGY",
+    "teacher": "PORTER",
+    "room": "rm 220",
+    "period": "B8",
+    "semester": "1, 2"
+  },
+  {
+    "name": "ANIMAL SCIENCE 1*",
+    "teacher": "SPENCER^",
+    "room": "rm 141",
+    "period": "A1",
+    "semester": "full year"
+  },
+  {
+    "name": "ANIMAL SCIENCE 1*",
+    "teacher": "SPENCER^",
+    "room": "rm 141",
+    "period": "A3",
+    "semester": "full year"
+  },
+  {
+    "name": "VETERINARY ASSISTANT 1*",
+    "teacher": "SPENCER^",
+    "room": "rm 141",
+    "period": "A4",
+    "semester": "full year"
+  },
+  {
+    "name": "PHYSICS*",
+    "teacher": "TALBERT",
+    "room": "rm 304",
+    "period": "A1",
+    "semester": "full year"
+  },
+  {
+    "name": "PHYSICS*",
+    "teacher": "TALBERT",
+    "room": "rm 304",
+    "period": "A2",
+    "semester": "full year"
+  },
+  {
+    "name": "PHYSICS*",
+    "teacher": "TALBERT",
+    "room": "rm 304",
+    "period": "A3",
+    "semester": "full year"
+  },
+  {
+    "name": "PHYSICS*",
+    "teacher": "TALBERT",
+    "room": "rm 304",
+    "period": "A4",
+    "semester": "full year"
+  },
+  {
+    "name": "PHYSICS 1010 -Concurrent Enrollment*",
+    "teacher": "TALBERT",
+    "room": "rm 304",
+    "period": "B5",
+    "semester": "full year"
+  },
+  {
+    "name": "PHYSICS 1010 -Concurrent Enrollment*",
+    "teacher": "TALBERT",
+    "room": "rm 304",
+    "period": "B6",
+    "semester": "full year"
+  },
+  {
+    "name": "PHYSICS 1010 -Concurrent Enrollment*",
+    "teacher": "TALBERT",
+    "room": "rm 304",
+    "period": "B7",
+    "semester": "full year"
+  },
+  {
+    "name": "CHEMISTRY 1010 - Concurrent Enrollment*",
+    "teacher": "WENTZ^",
+    "room": "rm 129",
+    "period": "A1",
+    "semester": "full year"
+  },
+  {
+    "name": "CHEMISTRY 1010 - Concurrent Enrollment*",
+    "teacher": "WENTZ^",
+    "room": "rm 129",
+    "period": "A2",
+    "semester": "full year"
+  },
+  {
+    "name": "CHEMISTRY 1010 - Concurrent Enrollment*",
+    "teacher": "WENTZ^",
+    "room": "rm 129",
+    "period": "A3",
+    "semester": "full year"
+  },
+  {
+    "name": "CHEMISTRY 1010 - Concurrent Enrollment*",
+    "teacher": "WENTZ^",
+    "room": "rm 129",
+    "period": "A4",
+    "semester": "full year"
+  },
+  {
+    "name": "CHEMISTRY*",
+    "teacher": "WENTZ^",
+    "room": "rm 129",
+    "period": "B6",
+    "semester": "full year"
+  },
+  {
+    "name": "CHEMISTRY*",
+    "teacher": "WENTZ^",
+    "room": "rm 129",
+    "period": "B7",
+    "semester": "full year"
+  },
+  {
+    "name": "ACADEMIC DECATHALON*",
+    "teacher": "WENTZ^",
+    "room": "rm 129",
+    "period": "B8",
+    "semester": "full year"
+  },
+  {
+    "name": "CHINESE 1*",
+    "teacher": "FITZPATRICK",
+    "room": "rm 903",
+    "period": "B5",
+    "semester": "full year"
+  },
+  {
+    "name": "CHINESE 2*",
+    "teacher": "FITZPATRICK",
+    "room": "rm 903",
+    "period": "B6",
+    "semester": "full year"
+  },
+  {
+    "name": "CHINESE 3* - Concurrent Enrollment",
+    "teacher": "FITZPATRICK",
+    "room": "rm 903",
+    "period": "B7",
+    "semester": "full year"
+  },
+  {
+    "name": "CHINESE BRIDGE 3116*",
+    "teacher": "HEATH",
+    "room": "rm 901",
+    "period": "B6",
+    "semester": "full year"
+  },
+  {
+    "name": "CHINESE BRIDGE 3116*",
+    "teacher": "HEATH",
+    "room": "rm 901",
+    "period": "B7",
+    "semester": "full year"
+  },
+  {
+    "name": "AP CHINESE*",
+    "teacher": "HEATH",
+    "room": "rm 901",
+    "period": "B8",
+    "semester": "full year"
+  },
+  {
+    "name": "SPANISH 4* - Concurrent Enrollment",
+    "teacher": "PEAY",
+    "room": "rm 232",
+    "period": "A1",
+    "semester": "full year"
+  },
+  {
+    "name": "AP SPANISH LANGUAGE*",
+    "teacher": "PEAY",
+    "room": "rm 232",
+    "period": "A2",
+    "semester": "full year"
+  },
+  {
+    "name": "AP SPANISH LANGUAGE*",
+    "teacher": "PEAY",
+    "room": "rm 232",
+    "period": "A3",
+    "semester": "full year"
+  },
+  {
+    "name": "SPANISH 4* - Concurrent Enrollment",
+    "teacher": "PEAY",
+    "room": "rm 232",
+    "period": "A4",
+    "semester": "full year"
+  },
+  {
+    "name": "SPANISH 3* - Concurrent Enrollment",
+    "teacher": "PEAY",
+    "room": "rm 232",
+    "period": "B5",
+    "semester": "full year"
+  },
+  {
+    "name": "SPANISH 3* - Concurrent Enrollment",
+    "teacher": "PEAY",
+    "room": "rm 232",
+    "period": "B6",
+    "semester": "full year"
+  },
+  {
+    "name": "SPANISH 3* - Concurrent Enrollment",
+    "teacher": "PEAY",
+    "room": "rm 232",
+    "period": "B7",
+    "semester": "full year"
+  },
+  {
+    "name": "SPANISH 3 HONORS* - Concurrent Enrollment",
+    "teacher": "SWARTZ",
+    "room": "rm 228",
+    "period": "A2",
+    "semester": "full year"
+  },
+  {
+    "name": "SPANISH 2*",
+    "teacher": "SWARTZ",
+    "room": "rm 228",
+    "period": "A3",
+    "semester": "full year"
+  },
+  {
+    "name": "SPANISH 2*",
+    "teacher": "SWARTZ",
+    "room": "rm 228",
+    "period": "A4",
+    "semester": "full year"
+  },
+  {
+    "name": "SPANISH 2*",
+    "teacher": "SWARTZ",
+    "room": "rm 228",
+    "period": "B5",
+    "semester": "full year"
+  },
+  {
+    "name": "SPANISH 1*",
+    "teacher": "SWARTZ",
+    "room": "rm 228",
+    "period": "B6",
+    "semester": "full year"
+  },
+  {
+    "name": "SPANISH 1*",
+    "teacher": "SWARTZ",
+    "room": "rm 228",
+    "period": "B7",
+    "semester": "full year"
+  },
+  {
+    "name": "SPANISH 1*",
+    "teacher": "SWARTZ",
+    "room": "rm 228",
+    "period": "B8",
+    "semester": "full year"
+  },
+  {
+    "name": "ASL3* & ASL 4* - Concurrent Enrollment",
+    "teacher": "TERRY",
+    "room": "rm 911",
+    "period": "A2",
+    "semester": "full year"
+  },
+  {
+    "name": "ASL 2*",
+    "teacher": "TERRY",
+    "room": "rm 911",
+    "period": "A3",
+    "semester": "full year"
+  },
+  {
+    "name": "ASL 2*",
+    "teacher": "TERRY",
+    "room": "rm 911",
+    "period": "A4",
+    "semester": "full year"
+  },
+  {
+    "name": "ASL 1*",
+    "teacher": "TERRY",
+    "room": "rm 911",
+    "period": "B5",
+    "semester": "full year"
+  },
+  {
+    "name": "ASL 1*",
+    "teacher": "TERRY",
+    "room": "rm 911",
+    "period": "B6",
+    "semester": "full year"
+  },
+  {
+    "name": "ASL 1*",
+    "teacher": "TERRY",
+    "room": "rm 911",
+    "period": "B7",
+    "semester": "full year"
+  },
+  {
+    "name": "ASL 1*",
+    "teacher": "TERRY",
+    "room": "rm 911",
+    "period": "B8",
+    "semester": "full year"
+  },
+  {
+    "name": "ENGLISH LANGUAGE LEARNERS ACADEMIC STUDY HALL",
+    "teacher": "NEW TEACHER (Henderson)^",
+    "room": "rm 132",
+    "period": "B7",
+    "semester": "1, 2"
+  }
+]
