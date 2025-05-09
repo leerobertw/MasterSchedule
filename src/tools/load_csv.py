@@ -33,7 +33,7 @@ class Department:
 def build_courses(department, teacher, room, semester, row):
     courses = []
     for i, course_name in enumerate(row):
-        new_course = Course(course_name, teacher, room, department, ('A' if i < 5 else 'B') + str(i+1),  semester)
+        new_course = Course(course_name, teacher, room, department, ('A' if i+1 < 5 else 'B') + str(i+1),  semester)
         courses.append(new_course)
     return courses
 
