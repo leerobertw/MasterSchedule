@@ -30,7 +30,7 @@ class Test(TestCase):
         self.assertEqual(class5.teacher, teacher)
         self.assertEqual(class5.room, room)
         self.assertEqual(class5.department, department)
-        self.assertEqual(class5.period, 'A5')
+        self.assertEqual(class5.period, 'B5')
 
     def test_build_courses2(self):
         department = Department("World Languages")
