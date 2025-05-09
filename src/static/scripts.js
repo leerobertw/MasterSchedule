@@ -1,4 +1,4 @@
-window.onload = function() {
+window.onload = function () {
     const options = [
         "ACAPELLA CHOIR*",
         "ACCELERATED READING",
@@ -228,15 +228,155 @@ window.onload = function() {
         "YEARBOOK*",
         "YOGA 1",
     ];
+    const teachers = [
+        "ASAY",
+        "BANKS^",
+        "BERRETT",
+        "BERRY",
+        "BEZZANT",
+        "BIRRELL",
+        "BRAUN",
+        "BRINKERHOFF, E.",
+        "BRINKERHOFF, L.",
+        "BROADBENT",
+        "BRYAN^",
+        "BURDETT",
+        "BURNETT^^",
+        "CARPENTER",
+        "COATNEY",
+        "COX, B.^",
+        "COX, C.^",
+        "COX, C.^^",
+        "CRAFT",
+        "DAVENPORT (BRANCH)",
+        "DAY^",
+        "DILELLO^^",
+        "DULONG",
+        "DURRANT",
+        "ELMER",
+        "EREKSON",
+        "FARR^",
+        "FERRAN",
+        "FIELD",
+        "FITZPATRICK",
+        "FLOOD",
+        "GIBBY^",
+        "GUMMOW",
+        "GUNNARSON",
+        "HARLOW",
+        "HAYNIE",
+        "HEATH",
+        "HOPE",
+        "HUBBARD",
+        "HURTT^",
+        "IKA^^",
+        "JARVIE",
+        "JAYNES",
+        "JENSEN^",
+        "JOLLEY^",
+        "KIM, H.",
+        "KIM, J.",
+        "KNIGHT^",
+        "LEE^",
+        "LYONS",
+        "MCPHERSON",
+        "MITCHELL^",
+        "MOEA'I (DICKSON)",
+        "MOLENI",
+        "MOLEN^",
+        "MONTROSE^",
+        "MURPHY^",
+        "MURRAY",
+        "NAIR",
+        "NELSON",
+        "NIELSON",
+        "OMER, R.",
+        "PACK^^",
+        "PASKETT^^",
+        "PASSEY",
+        "PAXTON^^",
+        "PEARSON",
+        "PEAY",
+        "PERKES",
+        "POWELL",
+        "REES",
+        "RIDGWAY",
+        "ROSS",
+        "RUCHTI",
+        "SCHETTLER",
+        "SCHOONOVER",
+        "SEELY",
+        "SEMINARY FACULTY",
+        "SMITH, CALVIN^^",
+        "SMITH, CASSIDY",
+        "SMITH, CRAIG",
+        "SMITH, WESLEY",
+        "SPENCER^",
+        "SPRINGER",
+        "SUMMERS",
+        "SWARTZ",
+        "TALBERT",
+        "TERRY",
+        "TIFFANY",
+        "TOPHAM^",
+        "TRACY",
+        "TURNER",
+        "VAN WOERKOM^",
+        "VERNON",
+        "VOORHEIS^",
+        "WAHLIN",
+        "WALKER, M.",
+        "WALLACE",
+        "WARNER",
+        "WAWRO^",
+        "WENTZ",
+        "WHATCOTT",
+        "WILY",
+        "WINN",
+    ];
     let results = window.scheduleResults || [];
     let currentIndex = 0;
-
+    document.getElementById("autofill-btn").addEventListener("click", () => {
+        const testData = [
+            "SPANISH 3* - Concurrent Enrollment",
+            "MATH 1010-Concurrent Enrollment",
+            "CALCULUS AB LAB",
+            "SPANISH 4* - Concurrent Enrollment",
+            "AP SPANISH LANGUAGE*",
+            "ART HONORS*",
+            "PAINTING 2",
+            "DRAWING 1"
+        ];
+        const testTeachers = [
+            "PEAY",
+            "",
+            "SUMMERS",
+            "PEAY",
+            "PEAY",
+            "",
+            "",
+            ""
+        ];
+        testData.forEach((x, i) => {
+            let e = document.querySelector(`.class-input[name="class${i + 1}"]`);
+            if (e) e.value = x;
+        });
+        testTeachers.forEach((x, i) => {
+            let e = document.querySelector(`.teacher-input[name="teacher${i + 1}"]`);
+            if (e) e.value = x;
+        });
+    });
     function updateScheduleDisplay() {
         if (results.length > 0) {
             const scheduleBox = document.querySelector("#schedule-box");
             const scheduleDisplay = document.querySelector("#schedule-display");
             scheduleDisplay.innerHTML = Object.entries(results[currentIndex])
-                .map(([period, className]) => `<p>Period ${period}: ${className}</p>`)
+                .map(
+                    ([period, { class_name, teachers }]) =>
+                        `<p>Period ${period}: ${class_name} (Teachers: ${teachers.join(
+                            ", "
+                        )})</p>`
+                )
                 .join("");
             scheduleBox.style.display = "block";
         }
@@ -290,6 +430,42 @@ window.onload = function() {
                 }px`;
         });
         input.addEventListener("blur", function () {
+            setTimeout(() => (dropdown.style.display = "none"), 200);
+        });
+    });
+    const tinputs = document.querySelectorAll(".teacher-input");
+    tinputs.forEach((tinput) => {
+        const dropdown = document.createElement("select");
+        dropdown.size = 6;
+        dropdown.style.display = "none";
+        function updateDropdown(filter) {
+            dropdown.innerHTML = "";
+            teachers
+                .filter((teacher) =>
+                    teacher.toLowerCase().includes(filter.toLowerCase())
+                )
+                .forEach((teacher) => {
+                    const teach = document.createElement("option");
+                    teach.value = teacher;
+                    teach.textContent = teacher;
+                    dropdown.appendChild(teach);
+                });
+            dropdown.style.display = dropdown.children.length ? "block" : "none";
+        }
+        tinput.addEventListener("input", () => updateDropdown(tinput.value));
+        dropdown.addEventListener("change", function () {
+            tinput.value = dropdown.value;
+            dropdown.style.display = "none";
+        });
+        tinput.addEventListener("focus", function () {
+            updateDropdown(tinput.value);
+            dropdownContainer.appendChild(dropdown);
+            dropdown.style.position = "absolute";
+            dropdown.style.left = `${tinput.getBoundingClientRect().left}px`;
+            dropdown.style.top = `${tinput.getBoundingClientRect().bottom + window.scrollY
+                }px`;
+        });
+        tinput.addEventListener("blur", function () {
             setTimeout(() => (dropdown.style.display = "none"), 200);
         });
     });
