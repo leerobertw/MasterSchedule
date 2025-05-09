@@ -24,7 +24,6 @@
     "name": "ENGLISH 10*",
     "teacher": "CARPENTER",
     "room": "rm 614",
-    "period": "B5",
     "semester": "full year"
   },
   {
@@ -101,7 +100,6 @@
     "name": "ENGLISH 10*",
     "teacher": "CRAFT",
     "room": "rm 212",
-    "period": "B5",
     "semester": "full year"
   },
   {
@@ -143,7 +141,6 @@
     "name": "ENGLISH 1010 - Concurrent Enrollment",
     "teacher": "DULONG^",
     "room": "rm 223",
-    "period": "B5",
     "semester": "1, 2"
   },
   {
@@ -192,7 +189,6 @@
     "name": "AP ENGLISH LITERATURE*",
     "teacher": "HAYNIE",
     "room": "rm 613",
-    "period": "B5",
     "semester": "full year"
   },
   {
@@ -234,7 +230,6 @@
     "name": "ENGLISH 10 HONORS*",
     "teacher": "JARVIE",
     "room": "rm 609",
-    "period": "B5",
     "semester": "full year"
   },
   {
@@ -269,7 +264,6 @@
     "name": "FILM LITERATURE",
     "teacher": "JAYNES",
     "room": "rm 214",
-    "period": "B5",
     "semester": "1, 2"
   },
   {
@@ -458,7 +452,6 @@
     "name": "ENGLISH 11 HONORS*",
     "teacher": "REES",
     "room": "rm 611",
-    "period": "B5",
     "semester": "full year"
   },
   {
@@ -542,7 +535,6 @@
     "name": "ENGLISH 11*",
     "teacher": "WALKER, M.",
     "room": "rm 608",
-    "period": "B5",
     "semester": "full year"
   },
   {
@@ -605,7 +597,6 @@
     "name": "ENGLISH 10*",
     "teacher": "COX, A.",
     "room": "rm 126",
-    "period": "B5",
     "semester": "full year"
   },
   {
@@ -654,7 +645,6 @@
     "name": "LS READING*",
     "teacher": "HURTT^",
     "room": "rm 118",
-    "period": "B5",
     "semester": "full year"
   },
   {
@@ -738,7 +728,6 @@
     "name": "SECONDARY MATH 2*",
     "teacher": "MOLENI",
     "room": "rm 130",
-    "period": "B5",
     "semester": "full year"
   },
   {
@@ -829,7 +818,6 @@
     "name": "SECONDARY MATH 2*",
     "teacher": "BRINKERHOFF, E.",
     "room": "rm 137",
-    "period": "B5",
     "semester": "full year"
   },
   {
@@ -1018,7 +1006,6 @@
     "name": "MATH 1050-Concurrent Enrollment",
     "teacher": "rm 136",
     "room": "MURRAY",
-    "period": "B5",
     "semester": "1, 2"
   },
   {
@@ -1067,7 +1054,6 @@
     "name": "CALCULUS AB LAB",
     "teacher": "rm 906",
     "room": "TRACY",
-    "period": "B5",
     "semester": "1, 2"
   },
   {
@@ -1095,7 +1081,6 @@
     "name": "INTERIOR DESIGN 1",
     "teacher": "BROADBENT",
     "room": "rm 213",
-    "period": "B5",
     "semester": "1, 2"
   },
   {
@@ -1193,7 +1178,6 @@
     "name": "EMERGENCY MEDICAL RESPONDER - Concurrent Enrollment",
     "teacher": "BURNETT^^",
     "room": "rm 117",
-    "period": "B5",
     "semester": "1, 2"
   },
   {
@@ -1242,7 +1226,6 @@
     "name": "BAKING & PASTRY",
     "teacher": "COX, B.^",
     "room": "rm 507",
-    "period": "B5",
     "semester": "1, 2"
   },
   {
@@ -1319,7 +1302,6 @@
     "name": "DIGITAL MEDIA",
     "teacher": "GIBBY^",
     "room": "rm 308",
-    "period": "B5",
     "semester": "1, 2"
   },
   {
@@ -1382,7 +1364,6 @@
     "name": "FLORAL DESIGN 1",
     "teacher": "JENSEN^",
     "room": "rm 806",
-    "period": "B5",
     "semester": "1, 2"
   },
   {
@@ -1438,7 +1419,6 @@
     "name": "MECHANICAL DESIGN AND ENGINEERING 1",
     "teacher": "rm 238",
     "room": "SPENCER^",
-    "period": "B5",
     "semester": "full year"
   },
   {
@@ -1543,7 +1523,6 @@
     "name": "MEDICAL TERMINOLOGY - Concurrent Enrollment",
     "teacher": "VANWOERKOM^",
     "room": "rm 802",
-    "period": "B5",
     "semester": "1, 2"
   },
   {
@@ -1599,7 +1578,6 @@
     "name": "INTERNSHIP",
     "teacher": "WHATCOTT",
     "room": "rm 506",
-    "period": "B5",
     "semester": "1, 2"
   },
   {
@@ -1655,7 +1633,6 @@
     "name": "BUILDING CONSTRUCTION* - Concurrent Enrollment",
     "teacher": "NEW TEACHER - (Baines)",
     "room": "Off Campus",
-    "period": "B5",
     "semester": "full year"
   },
   {
@@ -1704,7 +1681,6 @@
     "name": "GERMAN 3* - Concurrent Enrollment",
     "teacher": "BANKS^",
     "room": "rm 908",
-    "period": "B5",
     "semester": "full year"
   },
   {
@@ -1746,7 +1722,6 @@
     "name": "ILLUSTRATION",
     "teacher": "BRAUN",
     "room": "rm 306",
-    "period": "B5",
     "semester": "1, 2"
   },
   {
@@ -1872,7 +1847,6 @@
     "name": "SCULPTURE 2 HONORS",
     "teacher": "FIELD",
     "room": "rm 716",
-    "period": "B5",
     "semester": "1, 2"
   },
   {
@@ -1935,7 +1909,6 @@
     "name": "JAZZ BAND 2*",
     "teacher": "KIM, J. rm 104",
     "room": "0 Per. Sem. 1 MARCHING BAND",
-    "period": "B5",
     "semester": "full year"
   },
   {
@@ -1956,7 +1929,6 @@
     "name": "DANCE COMPANY*",
     "teacher": "KNIGHT^",
     "room": "rm 109",
-    "period": "B5",
     "semester": "full year"
   },
   {
@@ -1984,7 +1956,6 @@
     "name": "ART HONORS*",
     "teacher": "OMER, M.",
     "room": "rm 236",
-    "period": "B5",
     "semester": "full year"
   },
   {
@@ -2033,7 +2004,6 @@
     "name": "AP ART HISTORY*",
     "teacher": "PACK^^",
     "room": "rm 715",
-    "period": "B5",
     "semester": "full year"
   },
   {
@@ -2082,7 +2052,6 @@
     "name": "ADVANCED MEN'S ENSEMBLE*",
     "teacher": "POWELL",
     "room": "rm 102",
-    "period": "B5",
     "semester": "full year"
   },
   {
@@ -2131,7 +2100,6 @@
     "name": "CERAMICS 1",
     "teacher": "SEELY",
     "room": "rm 305",
-    "period": "B5",
     "semester": "1, 2"
   },
   {
@@ -2152,7 +2120,6 @@
     "name": "CONCERT ORCHESTRA*",
     "teacher": "VERNON",
     "room": "rm 100",
-    "period": "B5",
     "semester": "full year"
   },
   {
@@ -2201,7 +2168,6 @@
     "name": "HISTORY OF ROCK AND ROLL",
     "teacher": "NEW TEACHER (Keyes)",
     "room": "rm 100 / 104 / 141",
-    "period": "B5",
     "semester": "1, 2"
   },
   {
@@ -2278,7 +2244,6 @@
     "name": "PE FITNESS",
     "teacher": "BEZZANT",
     "room": "Main Gym / Weight/201",
-    "period": "B5",
     "semester": "1, 2"
   },
   {
@@ -2334,7 +2299,6 @@
     "name": "GOV & CIT",
     "teacher": "FARR^",
     "room": "rm 910",
-    "period": "B5",
     "semester": "1, 2"
   },
   {
@@ -2383,7 +2347,6 @@
     "name": "HEALTH",
     "teacher": "FERRAN",
     "room": "rm 801",
-    "period": "B5",
     "semester": "1, 2"
   },
   {
@@ -2432,7 +2395,6 @@
     "name": "US HISTORY*",
     "teacher": "JOLLEY^",
     "room": "rm 132",
-    "period": "B5",
     "semester": "full year"
   },
   {
@@ -2551,7 +2513,6 @@
     "name": "AP ECONOMICS*",
     "teacher": "SMITH, CALVIN^^",
     "room": "rm 705 / Off Campus",
-    "period": "B5",
     "semester": "full year"
   },
   {
@@ -2635,7 +2596,6 @@
     "name": "INTRO TO BASKETBALL",
     "teacher": "NEW TEACHER (Ingle)^",
     "room": "rm 230",
-    "period": "B5",
     "semester": "1, 2"
   },
   {
@@ -2684,7 +2644,6 @@
     "name": "STUDY HALL",
     "teacher": "BERRY",
     "room": "rm 603",
-    "period": "B5",
     "semester": "1, 2"
   },
   {
@@ -2740,7 +2699,6 @@
     "name": "DIGITAL CURRICULUM",
     "teacher": "BRINKERHOFF, L.",
     "room": "rm 217",
-    "period": "B5",
     "semester": "1, 2"
   },
   {
@@ -2789,7 +2747,6 @@
     "name": "FINANCIAL LITERACY - Concurrent Enrollment",
     "teacher": "FLOOD",
     "room": "rm 909",
-    "period": "B5",
     "semester": "1, 2"
   },
   {
@@ -2838,7 +2795,6 @@
     "name": "CALCULUS AB LAB",
     "teacher": "SUMMERS^",
     "room": "rm 906",
-    "period": "B5",
     "semester": "1, 2"
   },
   {
@@ -2950,7 +2906,6 @@
     "name": "SOCIOLOGY",
     "teacher": "rm 602",
     "room": "WINN",
-    "period": "B5",
     "semester": "1, 2"
   },
   {
@@ -3006,7 +2961,6 @@
     "name": "UVU LIVE INTERACTIVE",
     "teacher": "rm 710/712",
     "room": "WENTZ^",
-    "period": "B5",
     "semester": "1, 2"
   },
   {
@@ -3062,7 +3016,6 @@
     "name": "SEMINARY",
     "teacher": "0 Per. A days OR B days SEMINARY",
     "room": "NEW TEACHER (Henderson)^",
-    "period": "B5",
     "semester": "full year"
   },
   {
@@ -3118,7 +3071,6 @@
     "name": "AP US HISTORY - Concurrent Enrollment*",
     "teacher": "BIRRELL rm 133",
     "room": "0 Per. AP US HISTORY - Concurrent Enrollment*",
-    "period": "B5",
     "semester": "full year"
   },
   {
@@ -3160,7 +3112,6 @@
     "name": "POSITIVE PSYCHOLOGY",
     "teacher": "ELMER",
     "room": "rm 700",
-    "period": "B5",
     "semester": "1, 2"
   },
   {
@@ -3251,7 +3202,6 @@
     "name": "US HISTORY*",
     "teacher": "HUBBARD",
     "room": "rm 701",
-    "period": "B5",
     "semester": "full year"
   },
   {
@@ -3300,7 +3250,6 @@
     "name": "PSYCHOLOGY",
     "teacher": "KIM, H.",
     "room": "rm 601",
-    "period": "B5",
     "semester": "1, 2"
   },
   {
@@ -3384,7 +3333,6 @@
     "name": "AP WORLD HISTORY*",
     "teacher": "TURNER",
     "room": "rm 702",
-    "period": "B5",
     "semester": "full year"
   },
   {
@@ -3433,7 +3381,6 @@
     "name": "US HISTORY*",
     "teacher": "VOORHEIS^",
     "room": "rm 703",
-    "period": "B5",
     "semester": "full year"
   },
   {
@@ -3475,7 +3422,6 @@
     "name": "SOCIOLOGY",
     "teacher": "WAWRO^",
     "room": "rm 602",
-    "period": "B5",
     "semester": "1, 2"
   },
   {
@@ -3531,7 +3477,6 @@
     "name": "AP BIOLOGY - Concurrent Enrollment BIO 1610 & 1615*",
     "teacher": "BERRETT",
     "room": "rm 222",
-    "period": "B5",
     "semester": "full year"
   },
   {
@@ -3580,7 +3525,6 @@
     "name": "PHYSICS*",
     "teacher": "EREKSON",
     "room": "rm 131",
-    "period": "B5",
     "semester": "full year"
   },
   {
@@ -3622,7 +3566,6 @@
     "name": "MEDICAL FORENSICS* - Concurrent Enrollment",
     "teacher": "MITCHELL^",
     "room": "rm 224",
-    "period": "B5",
     "semester": "full year"
   },
   {
@@ -3678,7 +3621,6 @@
     "name": "PHYSICS*",
     "teacher": "NAIR",
     "room": "rm 226",
-    "period": "B5",
     "semester": "full year"
   },
   {
@@ -3727,7 +3669,6 @@
     "name": "EARTH SCIENCE*",
     "teacher": "PASSEY",
     "room": "rm 119",
-    "period": "B5",
     "semester": "full year"
   },
   {
@@ -3769,7 +3710,6 @@
     "name": "WEATHER/CLIMATE - Concurrent Enrollment",
     "teacher": "PERKES",
     "room": "rm 218",
-    "period": "B5",
     "semester": "1, 2"
   },
   {
@@ -3818,7 +3758,6 @@
     "name": "BIOLOGY*",
     "teacher": "PORTER",
     "room": "rm 220",
-    "period": "B5",
     "semester": "full year"
   },
   {
@@ -3895,7 +3834,6 @@
     "name": "PHYSICS 1010 -Concurrent Enrollment*",
     "teacher": "TALBERT",
     "room": "rm 304",
-    "period": "B5",
     "semester": "full year"
   },
   {
@@ -3965,7 +3903,6 @@
     "name": "CHINESE 1*",
     "teacher": "FITZPATRICK",
     "room": "rm 903",
-    "period": "B5",
     "semester": "full year"
   },
   {
@@ -4035,7 +3972,6 @@
     "name": "SPANISH 3* - Concurrent Enrollment",
     "teacher": "PEAY",
     "room": "rm 232",
-    "period": "B5",
     "semester": "full year"
   },
   {
@@ -4077,7 +4013,6 @@
     "name": "SPANISH 2*",
     "teacher": "SWARTZ",
     "room": "rm 228",
-    "period": "B5",
     "semester": "full year"
   },
   {
@@ -4126,7 +4061,6 @@
     "name": "ASL 1*",
     "teacher": "TERRY",
     "room": "rm 911",
-    "period": "B5",
     "semester": "full year"
   },
   {

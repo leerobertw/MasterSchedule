@@ -32,3 +32,5 @@ Resource English and AP Spanish Language are both only available during period 3
 1. Say which class combinations work
 2. Say when conflicting classes are
 3. Dropdown for classes
+
+["SPANISH 3* - Concurrent Enrollment","MATH 1010-Concurrent Enrollment","CALCULUS AB LAB","SPANISH 4* - Concurrent Enrollment","AP SPANISH LANGUAGE*","ART HONORS*","PAINTING 2","DRAWING 1"].forEach((x, i) => {let e = document.querySelector(`.class-input[name="class${i+1}"]`);e && (e.value = x);});
