@@ -1,17 +1,20 @@
-from flask import Flask, render_template, flash, redirect, url_for, request
+from flask import Flask, render_template, flash, redirect, url_for, request, session
 from schedule import schedulegrab
 from clist import L
 import json
 
 schedule = schedulegrab()["classes"]
 app = Flask(__name__)
+app.config["SESSION_PERMANENT"] = True
+app.config["SESSION_TYPE"] = "filesystem"
 app.secret_key = "LonePeakMasterSchedulee"
 app.jinja_env.filters["fromjson"] = json.loads
 
 
 @app.route("/")
 def index():
-    return render_template("index.html")
+    previous_data = session.get("data", {})
+    return render_template("index.html", previous_data=previous_data)
 
 
 def get_valid(classes):
@@ -30,6 +33,7 @@ def get_valid(classes):
 def check_schedule():
     try:
         form_data = request.form.to_dict()
+        session["data"] = form_data
         class_mapping = {
             form_data[f"class{i}"].lower(): form_data[f"class{i}"] for i in range(1, 9)
         }
