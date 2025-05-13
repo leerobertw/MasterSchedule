@@ -64,7 +64,7 @@ def check_schedule():
                     conflicting_classes.append(
                         {
                             "class_name": class_mapping[class_name],
-                            "available_periods": ",".join(
+                            "available_periods": ", ".join(
                                 map(str, classes[class_name])
                             ),
                         }

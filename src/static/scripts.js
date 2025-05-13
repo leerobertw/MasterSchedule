@@ -339,23 +339,19 @@ window.onload = function () {
     document.getElementById("autofill-btn").addEventListener("click", () => {
         const testData = [
             "SPANISH 3* - Concurrent Enrollment",
-            "MATH 1010-Concurrent Enrollment",
             "CALCULUS AB LAB",
             "SPANISH 4* - Concurrent Enrollment",
             "AP SPANISH LANGUAGE*",
             "ART HONORS*",
             "PAINTING 2",
-            "DRAWING 1"
+            "DRAWING 1",
+            "MATH 1010-Concurrent Enrollment"
         ];
         const testTeachers = [
             "PEAY",
-            "",
             "SUMMERS",
             "PEAY",
-            "PEAY",
-            "",
-            "",
-            ""
+            "PEAY"
         ];
         testData.forEach((x, i) => {
             let e = document.querySelector(`.class-input[name="class${i + 1}"]`);
