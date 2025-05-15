@@ -29,6 +29,9 @@ def get_valid(classes):
     return valid_combinations, len(valid_combinations) > 0
 
 
+def check_validity(combinations):
+    pass
+
 @app.route("/check_schedule", methods=["POST"])
 def check_schedule():
     try:
@@ -40,6 +43,7 @@ def check_schedule():
         preferred_teachers = {
             form_data[f"class{i}"].lower(): form_data[f"teacher{i}"] for i in range(1, 9)
         }
+        print(form_data)
         classes = {class_name: [] for class_name in class_mapping}
         for classs in classes:
             for classss in schedule:
@@ -120,6 +124,7 @@ def check_schedule():
                                     "available_teachers": ", ".join(teachers),
                                 }
                             )
+            check_validity(good_mapped_with_teachers)
             if good_mapped_with_teachers:
                 msg = {
                     "status": "You can take those classes next year!",

@@ -24,70 +24,7 @@
             <form action="{{ url_for('check_schedule') }}" method="POST">
                 <h3>Enter the classes and teachers you'd like next year below:</h3>
                 <fieldset>
-                    <label>
-                        <input type="text" name="class1" class="class-input" placeholder="Enter class..."
-                            value="{{ previous_data.get('class1', '') }}">
-                    </label>
-                    <label>
-                        <input type="text" name="teacher1" class="teacher-input" placeholder="Enter teacher..."
-                            value="{{ previous_data.get('teacher1', '') }}">
-                    </label><br>
-                    <label>
-                        <input type="text" name="class2" class="class-input" placeholder="Enter class..."
-                            value="{{ previous_data.get('class2', '') }}">
-                    </label>
-                    <label>
-                        <input type="text" name="teacher2" class="teacher-input" placeholder="Enter teacher..."
-                            value="{{ previous_data.get('teacher2', '') }}">
-                    </label><br>
-                    <label>
-                        <input type="text" name="class3" class="class-input" placeholder="Enter class..."
-                            value="{{ previous_data.get('class3', '') }}">
-                    </label>
-                    <label>
-                        <input type="text" name="teacher3" class="teacher-input" placeholder="Enter teacher..."
-                            value="{{ previous_data.get('teacher3', '') }}">
-                    </label><br>
-                    <label>
-                        <input type="text" name="class4" class="class-input" placeholder="Enter class..."
-                            value="{{ previous_data.get('class4', '') }}">
-                    </label>
-                    <label>
-                        <input type="text" name="teacher4" class="teacher-input" placeholder="Enter teacher..."
-                            value="{{ previous_data.get('teacher4', '') }}">
-                    </label><br>
-                    <label>
-                        <input type="text" name="class5" class="class-input" placeholder="Enter class..."
-                            value="{{ previous_data.get('class5', '') }}">
-                    </label>
-                    <label>
-                        <input type="text" name="teacher5" class="teacher-input" placeholder="Enter teacher..."
-                            value="{{ previous_data.get('teacher5', '') }}">
-                    </label><br>
-                    <label>
-                        <input type="text" name="class6" class="class-input" placeholder="Enter class..."
-                            value="{{ previous_data.get('class6', '') }}">
-                    </label>
-                    <label>
-                        <input type="text" name="teacher6" class="teacher-input" placeholder="Enter teacher..."
-                            value="{{ previous_data.get('teacher6', '') }}">
-                    </label><br>
-                    <label>
-                        <input type="text" name="class7" class="class-input" placeholder="Enter class..."
-                            value="{{ previous_data.get('class7', '') }}">
-                    </label>
-                    <label>
-                        <input type="text" name="teacher7" class="teacher-input" placeholder="Enter teacher..."
-                            value="{{ previous_data.get('teacher7', '') }}">
-                    </label><br>
-                    <label>
-                        <input type="text" name="class8" class="class-input" placeholder="Enter class..."
-                            value="{{ previous_data.get('class8', '') }}">
-                    </label>
-                    <label>
-                        <input type="text" name="teacher8" class="teacher-input" placeholder="Enter teacher..."
-                            value="{{ previous_data.get('teacher8', '') }}">
-                    </label><br>
+                    <div id="input-container"></div>
                     <div id="dropdown-container"></div>
                     <button>Submit</button>
                 </fieldset>
@@ -135,6 +72,36 @@
     <footer>
         <h3>To visit the official school website, click <a href='https://lphs.alpineschools.org/'>here</a></h3>
     </footer>
+    <script type="module">
+        const inputContainer = document.getElementById("input-container");
+
+        for (let i = 1; i <= 8; i++) {
+            const classVal = `{{ previous_data.get('class${i}', '') }}`;
+            const teacherVal = `{{ previous_data.get('teacher${i}', '') }}`;
+
+            const block = document.createElement("div");
+            block.classList.add("class-block");
+
+            block.innerHTML = `
+            <label>
+                <input type="text" name="class${i}" class="class-input" placeholder="Enter class..." value="${classVal}">
+            </label>
+            <label>
+                <input type="text" name="teacher${i}" class="teacher-input" placeholder="Enter teacher..." value="${teacherVal}">
+            </label>
+            <label>
+                <span>A</span><br>
+                <input type="checkbox" name="class${i}a" class="class-input" value="true" checked>
+            </label>
+            <label>
+                <span>B</span><br>
+                <input type="checkbox" name="class${i}b" class="class-input" value="true" checked>
+            </label>
+            <br>
+        `;
+            inputContainer.appendChild(block);
+        }
+    </script>
 </body>
 
 </html>
